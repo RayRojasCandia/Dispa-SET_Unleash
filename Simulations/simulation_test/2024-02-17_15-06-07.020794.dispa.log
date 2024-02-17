@@ -1,0 +1,364 @@
+24/02/17 15:06:09 [INFO    ] (load_config_excel): Using config file (v20.02) ../ConfigFiles/ConfigTest.xlsx to build the simulation environment
+24/02/17 15:06:09 [INFO    ] (load_config_excel): Using C:\dispa-set\Simulations/simulation_test as simulation folder
+24/02/17 15:06:09 [INFO    ] (load_config_excel): Description of the simulation: Dummy configuration file for testing purposes. Two fictitious zones (Z1 and Z2) are simulated. The simulated period is only 7 days. There is a CHP unit in zone 1
+24/02/17 15:06:09 [INFO    ] (mid_term_scheduling): Hydro scheduling is performed for the period between 01.01.2015 and 12.31.2015
+24/02/17 15:06:09 [INFO    ] (mid_term_scheduling): 
+
+Launching regional Mid-Term Scheduling 
+
+24/02/17 15:06:09 [INFO    ] (build_single_run): New build started. DispaSET version: 2.5.0.post19+g0820c6d
+24/02/17 15:06:09 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/Load_RealTime/Z1/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:09 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/Load_RealTime/Z2/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:09 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/Load_RealTime/ZZ3/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:09 [INFO    ] (build_single_run): Scaling load curve by a factor 0.17
+24/02/17 15:06:10 [INFO    ] (NodeBasedTable): No data file specified for the table LoadShedding. Using default value 0.05
+24/02/17 15:06:10 [INFO    ] (NodeBasedTable): No data file specified for the table CostLoadShedding. Using default value 1500.0
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/ShareFlex.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:10 [ERROR   ] (NodeBasedTable): Zone ZZ3 could not be found in the file C:\dispa-set\tests/dummy_data/ShareFlex.csv. Using default value 0.03
+24/02/17 15:06:10 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2D. Using default value None
+24/02/17 15:06:10 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2U. Using default value None
+24/02/17 15:06:10 [INFO    ] (NodeBasedTable): No data file specified for the table CostCurtailment. Using default value 20.0
+24/02/17 15:06:10 [WARNING ] (select_units): Removed Unit Bug Zone since its zone (Z99) is not in the list of zones
+24/02/17 15:06:10 [WARNING ] (select_units): Removed Unit Bug Power since it has a null capacity
+24/02/17 15:06:10 [WARNING ] (select_units): Removed Unit Bug Tech since its technology is unknown
+24/02/17 15:06:10 [ERROR   ] (check_units): Non-null value(s) have been found for key NoLoadCost in the power plant list. This cannot be modelled with the LP clustered formulation and will therefore not be considered.
+24/02/17 15:06:10 [ERROR   ] (check_units): Non-null value(s) have been found for key PartLoadMin in the power plant list. This cannot be modelled with the LP clustered formulation and will therefore not be considered.
+24/02/17 15:06:10 [ERROR   ] (check_units): Non-null value(s) have been found for key MinEfficiency in the power plant list. This cannot be modelled with the LP clustered formulation and will therefore not be considered.
+24/02/17 15:06:10 [ERROR   ] (check_units): Non-null value(s) have been found for key StartUpTime in the power plant list. This cannot be modelled with the LP clustered formulation and will therefore not be considered.
+24/02/17 15:06:10 [WARNING ] (check_chp): The calculated value of the total CHP efficiency for unit Diemen is 1.05, which is very high!
+24/02/17 15:06:10 [INFO    ] (load_time_series): A numerical index has been found for file C:\dispa-set\tests/dummy_data/Outages.csv. It has the same length as the target simulation and is therefore considered valid
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit Maasvlakte in table Outages. The generic information for STUR has been used
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Diemen in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Rijnmond II in table Outages. Using default value None
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit Borssele 12 in table Outages. The generic information for STUR has been used
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit PHOT_Z2 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOff_Z2 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOn_Z2 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit COO II T in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit DROGENBOS TGV in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit SISTERON in table Outages. Using default value None
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit RODENHUIZE 4 in table Outages. The generic information for STUR has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit LANGERLO 2 in table Outages. The generic information for STUR has been used
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit INESCO WKK in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit PHOT_Z1 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOn_Z1 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOn_ZZ3 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit HeatPump in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit electrolyzer_Z1 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit BATS in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit CSP_Z1 in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Wave energy in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Absorption HP in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Air source HP in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Geo thermal in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Ground source HP in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Heat only boiler in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Hybrid HP in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Resistive heater in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Solar thermal in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Water source heat pump in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Thermal storage in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit BEVS in table Outages. Using default value None
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Ammonia gas turbine in table Outages. Using default value None
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/AvailabilityFactors/Z1/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/AvailabilityFactors/Z2/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/AvailabilityFactors/ZZ3/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit PHOT_Z2 in table RenewablesAF. The generic information for ('Z2', 'PHOT') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOff_Z2 in table RenewablesAF. The generic information for ('Z2', 'WTOF') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOn_Z2 in table RenewablesAF. The generic information for ('Z2', 'WTON') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit PHOT_Z1 in table RenewablesAF. The generic information for ('Z1', 'PHOT') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOn_Z1 in table RenewablesAF. The generic information for ('Z1', 'WTON') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOn_ZZ3 in table RenewablesAF. The generic information for ('ZZ3', 'WTON') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit Wave energy in table RenewablesAF. The generic information for ('Z1', 'WAVE') has been used
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit Solar thermal in table RenewablesAF. The generic information for ('Z1', 'SOTH') has been used
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No data file specified for the table ReservoirLevels. Using default value 0
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/ScaledInflows.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit COO II T in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit SISTERON in table ReservoirScaledInflows. The generic information for HDAM has been used
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit BATS in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit CSP_Z1 in table ReservoirScaledInflows. The generic information for SCSP has been used
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit BEVS in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:10 [INFO    ] (UnitBasedTable): No specific information was found for unit Thermal storage in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:10 [WARNING ] (UnitBasedTable): No specific information was found for unit electrolyzer_Z1 in table ReservoirScaledInflows. The generic information for P2GS has been used
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/Temperatures.csv: data for year 2016 is used instead of year 2015
+24/02/17 15:06:10 [ERROR   ] (NodeBasedTable): Zone ZZ3 could not be found in the file C:\dispa-set\tests/dummy_data/Temperatures.csv. Using default value None
+24/02/17 15:06:10 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/HeatDemand.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:10 [INFO    ] (GenericTable): No data file specified for the table CostHeatSlack. Using default value 100.0
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/H2Demand.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/H2PtLDemand.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [INFO    ] (GenericTable): No data file specified for the table CostH2Slack. Using default value 100.0
+24/02/17 15:06:11 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone Z1. Using the standard formula
+24/02/17 15:06:11 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone Z1. Using the standard formula
+24/02/17 15:06:11 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone Z2. Using the standard formula
+24/02/17 15:06:11 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone Z2. Using the standard formula
+24/02/17 15:06:11 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone ZZ3. Using the standard formula
+24/02/17 15:06:11 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone ZZ3. Using the standard formula
+24/02/17 15:06:11 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfNuclear. Using default value 4.0
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Coal/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Coal/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Gas/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Gas/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Oil/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Oil/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Biomass/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\Database/FuelPrices/Biomass/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfCO2. Using default value 90.0
+24/02/17 15:06:11 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfLignite. Using default value 15.0
+24/02/17 15:06:11 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/PriceOfPeat.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/02/17 15:06:11 [ERROR   ] (NodeBasedTable): Zone ZZ3 could not be found in the file C:\dispa-set\tests/dummy_data/PriceOfPeat.csv. Using default value 33.0
+24/02/17 15:06:11 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfAmmonia. Using default value 76.0
+24/02/17 15:06:11 [INFO    ] (interconnections): Detected interconnection Z1 -> Z2. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:11 [INFO    ] (interconnections): Detected interconnection Z2 -> Z1. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:11 [INFO    ] (interconnections): Detected interconnection Z1 -> ZZ3. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:11 [INFO    ] (interconnections): Detected interconnection ZZ3 -> Z2. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:11 [INFO    ] (interconnections): Detected interconnection Z1 -> FR, happening between a simulated zone and the rest of the world. The historical flows will be imposed to the model
+24/02/17 15:06:11 [INFO    ] (interconnections): Detected interconnection FR -> Z1, happening between the rest of the world and a simulated zone. The historical flows will be imposed to the model
+24/02/17 15:06:11 [WARNING ] (clustering): The LP clustering method aggregates all the units of the same type. Individual units are not considered
+24/02/17 15:06:11 [INFO    ] (clustering): Clustered 34 original units into 33 new units
+24/02/17 15:06:11 [WARNING ] (build_single_run): TimeUpMinimum in the power plant data has been rounded to the nearest integer value
+24/02/17 15:06:11 [WARNING ] (build_single_run): TimeDownMinimum in the power plant data has been rounded to the nearest integer value
+24/02/17 15:06:11 [INFO    ] (build_single_run): Scaling Solar Capacity by a factor 5.0
+24/02/17 15:06:11 [INFO    ] (build_single_run): Scaling Wind Capacity by a factor 5.0
+24/02/17 15:06:11 [WARNING ] (check_chp): The calculated value of the total CHP efficiency for unit [1] - Diemen is 1.05, which is very high!
+24/02/17 15:06:11 [INFO    ] (build_single_run): Using generic reserve calculation for zone Z1
+24/02/17 15:06:11 [INFO    ] (build_single_run): Using generic reserve calculation for zone Z2
+24/02/17 15:06:11 [INFO    ] (build_single_run): Using generic reserve calculation for zone ZZ3
+24/02/17 15:06:11 [WARNING ] (check_df): There are 8760 missing entries in the column [24] - Geo thermal of the dataframe Efficiencies
+24/02/17 15:06:11 [WARNING ] (check_df): There are 8760 missing entries in the column [26] - Heat only boiler of the dataframe Efficiencies
+24/02/17 15:06:11 [WARNING ] (check_df): There are 8760 missing entries in the column [29] - Solar thermal of the dataframe Efficiencies
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [19] - BATS. Using the provided default initial and final values
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [10] - SISTERON. Using the provided default initial and final values
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [8] - COO II T. Using the provided default initial and final values
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [20] - CSP_Z1. Using the provided default initial and final values
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [31] - Thermal storage. Using the provided default initial and final values
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [18] - electrolyzer_Z1. Using the provided default initial and final values
+24/02/17 15:06:11 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [32] - BEVS. Using the provided default initial and final values
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [19] - BATS. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [10] - SISTERON. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [8] - COO II T. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [14] - PHOT_Z1. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [20] - CSP_Z1. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [21] - Wave energy. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [15] - WindOn_Z1. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [17] - HeatPump. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel AIR in unit [23] - Air source HP. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel GEO in unit [24] - Geo thermal. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel GEO in unit [25] - Ground source HP. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [27] - Hybrid HP. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [28] - Resistive heater. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [29] - Solar thermal. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [31] - Thermal storage. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [30] - Water source heat pump. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [4] - PHOT_Z2. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [5] - WindOff_Z2. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [6] - WindOn_Z2. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel HYD in unit [18] - electrolyzer_Z1. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [32] - BEVS. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [16] - WindOn_ZZ3. A null variable cost has been assigned
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [19] - BATS. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [33] - Ammonia gas turbine. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [10] - SISTERON. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [8] - COO II T. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [14] - PHOT_Z1. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [20] - CSP_Z1. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [21] - Wave energy. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [15] - WindOn_Z1. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [13] - INESCO WKK. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [9] - DROGENBOS TGV. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [17] - HeatPump. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [22] - Absorption HP. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [23] - Air source HP. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [24] - Geo thermal. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [25] - Ground source HP. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [26] - Heat only boiler. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [27] - Hybrid HP. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [28] - Resistive heater. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [29] - Solar thermal. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [31] - Thermal storage. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [30] - Water source heat pump. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [4] - PHOT_Z2. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [5] - WindOff_Z2. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [6] - WindOn_Z2. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [18] - electrolyzer_Z1. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [1] - Diemen. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [2] - Rijnmond II. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [32] - BEVS. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (build_single_run): Outages factors not found for unit [16] - WindOn_ZZ3. Assuming no outages
+24/02/17 15:06:12 [WARNING ] (get_gams_path): The provided path for GAMS () does not exist. Trying to locate...
+24/02/17 15:06:12 [INFO    ] (write_variables): Data Successfully written to Inputs.gdx
+24/02/17 15:06:12 [INFO    ] (build_single_run): Build finished
+24/02/17 15:06:12 [INFO    ] (solve_GAMS): Using the low-level gams api
+24/02/17 15:06:18 [INFO    ] (solve_low_level): Completed simulation in 5.73 seconds
+24/02/17 15:06:18 [WARNING ] (solve_GAMS): A debug file was created. There has probably been an optimization error
+24/02/17 15:06:18 [INFO    ] (gdx_to_list): Loading gdx file C:\dispa-set\Simulations\simulation_test\Results.gdx took 0.10571026802062988s
+24/02/17 15:06:18 [WARNING ] (gdx_to_dataframe): Successfully loaded variable OutputEmissions
+24/02/17 15:06:18 [INFO    ] (gdx_to_dataframe): Time to convert to dataframes: 0.1675715446472168s
+24/02/17 15:06:18 [INFO    ] (build_simulation): 
+
+Building final simulation
+
+24/02/17 15:06:18 [INFO    ] (build_single_run): New build started. DispaSET version: 2.5.0.post19+g0820c6d
+24/02/17 15:06:18 [INFO    ] (build_single_run): Scaling load curve by a factor 0.17
+24/02/17 15:06:19 [INFO    ] (NodeBasedTable): No data file specified for the table LoadShedding. Using default value 0.05
+24/02/17 15:06:19 [INFO    ] (NodeBasedTable): No data file specified for the table CostLoadShedding. Using default value 1500.0
+24/02/17 15:06:19 [ERROR   ] (NodeBasedTable): Zone ZZ3 could not be found in the file C:\dispa-set\tests/dummy_data/ShareFlex.csv. Using default value 0.03
+24/02/17 15:06:19 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2D. Using default value None
+24/02/17 15:06:19 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2U. Using default value None
+24/02/17 15:06:19 [INFO    ] (NodeBasedTable): No data file specified for the table CostCurtailment. Using default value 20.0
+24/02/17 15:06:19 [WARNING ] (select_units): Removed Unit Bug Zone since its zone (Z99) is not in the list of zones
+24/02/17 15:06:19 [WARNING ] (select_units): Removed Unit Bug Power since it has a null capacity
+24/02/17 15:06:19 [WARNING ] (select_units): Removed Unit Bug Tech since its technology is unknown
+24/02/17 15:06:19 [WARNING ] (check_chp): The calculated value of the total CHP efficiency for unit Diemen is 1.05, which is very high!
+24/02/17 15:06:19 [INFO    ] (load_time_series): A numerical index has been found for file C:\dispa-set\tests/dummy_data/Outages.csv. Since it contains 8760 elements, it is assumed that it corresponds to a whole year
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit Maasvlakte in table Outages. The generic information for STUR has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Diemen in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Rijnmond II in table Outages. Using default value None
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit Borssele 12 in table Outages. The generic information for STUR has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit PHOT_Z2 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOff_Z2 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOn_Z2 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit COO II T in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit DROGENBOS TGV in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit SISTERON in table Outages. Using default value None
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit RODENHUIZE 4 in table Outages. The generic information for STUR has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit LANGERLO 2 in table Outages. The generic information for STUR has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit INESCO WKK in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit PHOT_Z1 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOn_Z1 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit WindOn_ZZ3 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit HeatPump in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit electrolyzer_Z1 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit BATS in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit CSP_Z1 in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Wave energy in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Absorption HP in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Air source HP in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Geo thermal in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Ground source HP in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Heat only boiler in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Hybrid HP in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Resistive heater in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Solar thermal in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Water source heat pump in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Thermal storage in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit BEVS in table Outages. Using default value None
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Ammonia gas turbine in table Outages. Using default value None
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit PHOT_Z2 in table RenewablesAF. The generic information for ('Z2', 'PHOT') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOff_Z2 in table RenewablesAF. The generic information for ('Z2', 'WTOF') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOn_Z2 in table RenewablesAF. The generic information for ('Z2', 'WTON') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit PHOT_Z1 in table RenewablesAF. The generic information for ('Z1', 'PHOT') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOn_Z1 in table RenewablesAF. The generic information for ('Z1', 'WTON') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit WindOn_ZZ3 in table RenewablesAF. The generic information for ('ZZ3', 'WTON') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit Wave energy in table RenewablesAF. The generic information for ('Z1', 'WAVE') has been used
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit Solar thermal in table RenewablesAF. The generic information for ('Z1', 'SOTH') has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit COO II T in table ReservoirLevels. Using default value 0
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit SISTERON in table ReservoirLevels. The generic information for HDAM has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit BATS in table ReservoirLevels. Using default value 0
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit CSP_Z1 in table ReservoirLevels. Using default value 0
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit BEVS in table ReservoirLevels. Using default value 0
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Thermal storage in table ReservoirLevels. Using default value 0
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit electrolyzer_Z1 in table ReservoirLevels. Using default value 0
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit COO II T in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit SISTERON in table ReservoirScaledInflows. The generic information for HDAM has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit BATS in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit CSP_Z1 in table ReservoirScaledInflows. The generic information for SCSP has been used
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit BEVS in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:19 [INFO    ] (UnitBasedTable): No specific information was found for unit Thermal storage in table ReservoirScaledInflows. Using default value 0
+24/02/17 15:06:19 [WARNING ] (UnitBasedTable): No specific information was found for unit electrolyzer_Z1 in table ReservoirScaledInflows. The generic information for P2GS has been used
+24/02/17 15:06:19 [WARNING ] (load_time_series): File C:\dispa-set\tests/dummy_data/Temperatures.csv: data for year 2016 is used instead of year 2015
+24/02/17 15:06:19 [ERROR   ] (NodeBasedTable): Zone ZZ3 could not be found in the file C:\dispa-set\tests/dummy_data/Temperatures.csv. Using default value None
+24/02/17 15:06:19 [INFO    ] (GenericTable): No data file specified for the table CostHeatSlack. Using default value 100.0
+24/02/17 15:06:20 [INFO    ] (GenericTable): No data file specified for the table CostH2Slack. Using default value 100.0
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "COO II T" provided by the MTS is used as target reservoir level
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "BEVS" provided by the MTS is used as target reservoir level
+24/02/17 15:06:20 [WARNING ] (build_single_run): The reservoir profile "INESCO WKK" provided by the MTS is not found in the ReservoirLevels table
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "BATS" provided by the MTS is used as target reservoir level
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "CSP_Z1" can not be seleceted for MTS, instead, default value of: 0.5 will be used
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "Thermal storage" provided by the MTS is used as target reservoir level
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "SISTERON" provided by the MTS is used as target reservoir level
+24/02/17 15:06:20 [INFO    ] (build_single_run): The reservoir profile "electrolyzer_Z1" provided by the MTS is used as target reservoir level
+24/02/17 15:06:20 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone Z1. Using the standard formula
+24/02/17 15:06:20 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone Z1. Using the standard formula
+24/02/17 15:06:20 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone Z2. Using the standard formula
+24/02/17 15:06:20 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone Z2. Using the standard formula
+24/02/17 15:06:20 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone ZZ3. Using the standard formula
+24/02/17 15:06:20 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone ZZ3. Using the standard formula
+24/02/17 15:06:20 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfNuclear. Using default value 4.0
+24/02/17 15:06:20 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfCO2. Using default value 90.0
+24/02/17 15:06:20 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfLignite. Using default value 15.0
+24/02/17 15:06:20 [ERROR   ] (NodeBasedTable): Zone ZZ3 could not be found in the file C:\dispa-set\tests/dummy_data/PriceOfPeat.csv. Using default value 33.0
+24/02/17 15:06:20 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfAmmonia. Using default value 76.0
+24/02/17 15:06:20 [INFO    ] (interconnections): Detected interconnection Z1 -> Z2. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:20 [INFO    ] (interconnections): Detected interconnection Z2 -> Z1. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:20 [INFO    ] (interconnections): Detected interconnection Z1 -> ZZ3. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:20 [INFO    ] (interconnections): Detected interconnection ZZ3 -> Z2. The historical NTCs will be imposed as maximum flow value
+24/02/17 15:06:20 [INFO    ] (interconnections): Detected interconnection Z1 -> FR, happening between a simulated zone and the rest of the world. The historical flows will be imposed to the model
+24/02/17 15:06:20 [INFO    ] (interconnections): Detected interconnection FR -> Z1, happening between the rest of the world and a simulated zone. The historical flows will be imposed to the model
+24/02/17 15:06:20 [INFO    ] (clustering): Clustered 34 original units into 33 new units
+24/02/17 15:06:20 [WARNING ] (build_single_run): TimeUpMinimum in the power plant data has been rounded to the nearest integer value
+24/02/17 15:06:20 [WARNING ] (build_single_run): TimeDownMinimum in the power plant data has been rounded to the nearest integer value
+24/02/17 15:06:20 [INFO    ] (build_single_run): Scaling Solar Capacity by a factor 5.0
+24/02/17 15:06:20 [INFO    ] (build_single_run): Scaling Wind Capacity by a factor 5.0
+24/02/17 15:06:20 [WARNING ] (check_chp): The calculated value of the total CHP efficiency for unit [1] - Diemen is 1.05, which is very high!
+24/02/17 15:06:20 [INFO    ] (build_single_run): Using generic reserve calculation for zone Z1
+24/02/17 15:06:20 [INFO    ] (build_single_run): Using generic reserve calculation for zone Z2
+24/02/17 15:06:20 [INFO    ] (build_single_run): Using generic reserve calculation for zone ZZ3
+24/02/17 15:06:20 [WARNING ] (check_df): There are 192 missing entries in the column [24] - Geo thermal of the dataframe Efficiencies
+24/02/17 15:06:20 [WARNING ] (check_df): There are 192 missing entries in the column [26] - Heat only boiler of the dataframe Efficiencies
+24/02/17 15:06:20 [WARNING ] (check_df): There are 192 missing entries in the column [29] - Solar thermal of the dataframe Efficiencies
+24/02/17 15:06:20 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [31] - Thermal storage. Using the provided default initial and final values
+24/02/17 15:06:20 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [18] - electrolyzer_Z1. Using the provided default initial and final values
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [19] - BATS. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [10] - SISTERON. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [8] - COO II T. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [14] - PHOT_Z1. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [20] - CSP_Z1. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [21] - Wave energy. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [15] - WindOn_Z1. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [17] - HeatPump. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel AIR in unit [23] - Air source HP. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel GEO in unit [24] - Geo thermal. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel GEO in unit [25] - Ground source HP. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [27] - Hybrid HP. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [28] - Resistive heater. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [29] - Solar thermal. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [31] - Thermal storage. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [30] - Water source heat pump. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [4] - PHOT_Z2. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [5] - WindOff_Z2. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [6] - WindOn_Z2. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel HYD in unit [18] - electrolyzer_Z1. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel OTH in unit [32] - BEVS. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [16] - WindOn_ZZ3. A null variable cost has been assigned
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [19] - BATS. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [33] - Ammonia gas turbine. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [10] - SISTERON. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [8] - COO II T. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [14] - PHOT_Z1. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [20] - CSP_Z1. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [21] - Wave energy. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [15] - WindOn_Z1. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [13] - INESCO WKK. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [9] - DROGENBOS TGV. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [17] - HeatPump. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [22] - Absorption HP. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [23] - Air source HP. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [24] - Geo thermal. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [25] - Ground source HP. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [26] - Heat only boiler. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [27] - Hybrid HP. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [28] - Resistive heater. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [29] - Solar thermal. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [31] - Thermal storage. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [30] - Water source heat pump. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [4] - PHOT_Z2. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [5] - WindOff_Z2. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [6] - WindOn_Z2. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [18] - electrolyzer_Z1. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [1] - Diemen. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [2] - Rijnmond II. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [32] - BEVS. Assuming no outages
+24/02/17 15:06:20 [WARNING ] (build_single_run): Outages factors not found for unit [16] - WindOn_ZZ3. Assuming no outages
+24/02/17 15:06:21 [WARNING ] (get_gams_path): The provided path for GAMS () does not exist. Trying to locate...
+24/02/17 15:06:21 [INFO    ] (write_variables): Data Successfully written to Inputs.gdx
+24/02/17 15:06:21 [INFO    ] (build_single_run): Build finished
