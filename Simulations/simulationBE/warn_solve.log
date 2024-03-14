@@ -1,0 +1,87 @@
+24/03/13 21:20:44 [WARNING ] (<module>): Could not import gdxcc. Trying to use pre-compiled libraries
+24/03/13 21:20:44 [CRITICAL] (<module>): Importing gdxcc from the new gams api
+24/03/13 21:20:44 [INFO    ] (load_config_excel): Using config file (v20.02) ../ConfigFiles/ConfigBE.xlsx to build the simulation environment
+24/03/13 21:20:44 [INFO    ] (load_config_excel): Using /home/ray/Documents/Dispa-SET_Unleash/Simulations/simulationBE as simulation folder
+24/03/13 21:20:44 [INFO    ] (load_config_excel): Description of the simulation: Belgium configuration file with 2015 data
+24/03/13 21:20:44 [INFO    ] (mid_term_scheduling): Hydro scheduling is performed for the period between 01.01.2015 and 12.31.2015
+24/03/13 21:20:44 [INFO    ] (mid_term_scheduling): 
+
+Launching regional Mid-Term Scheduling 
+
+24/03/13 21:20:44 [INFO    ] (build_single_run): New build started. DispaSET version: 2.5.0.post21+dirty
+24/03/13 21:20:44 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/Load_RealTime/BE/1h/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:44 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/Load_RealTime/BE/1h/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:44 [WARNING ] (build_single_run): No historical flows will be considered (no valid file provided)
+24/03/13 21:20:44 [WARNING ] (build_single_run): No NTC values will be considered (no valid file provided)
+24/03/13 21:20:44 [WARNING ] (build_single_run): No geo spatial data available
+24/03/13 21:20:44 [INFO    ] (NodeBasedTable): No data file specified for the table LoadShedding. Using default value 0.05
+24/03/13 21:20:44 [INFO    ] (NodeBasedTable): No data file specified for the table CostLoadShedding. Using default value 1500.0
+24/03/13 21:20:44 [INFO    ] (NodeBasedTable): No data file specified for the table ShareOfFlexibleDemand. Using default value 0.03
+24/03/13 21:20:44 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2D. Using default value None
+24/03/13 21:20:44 [INFO    ] (NodeBasedTable): No data file specified for the table Reserve2U. Using default value None
+24/03/13 21:20:44 [INFO    ] (NodeBasedTable): No data file specified for the table CostCurtailment. Using default value 20.0
+24/03/13 21:20:44 [INFO    ] (build_single_run): No "Zone_th" header was found in the units table. One individual zone is defined per power plant
+24/03/13 21:20:44 [INFO    ] (build_single_run): No "Zone_h2" header was found in the units table. One individual zone is defined per power plant
+24/03/13 21:20:44 [ERROR   ] (check_units): Non-null value(s) have been found for key PartLoadMin in the power plant list. This cannot be modelled with the LP clustered formulation and will therefore not be considered.
+24/03/13 21:20:44 [ERROR   ] (check_units): Non-null value(s) have been found for key MinEfficiency in the power plant list. This cannot be modelled with the LP clustered formulation and will therefore not be considered.
+24/03/13 21:20:44 [INFO    ] (UnitBasedTable): No data file specified for the table Outages. Using default value None
+24/03/13 21:20:44 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/AvailabilityFactors/BE/1h/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:44 [WARNING ] (UnitBasedTable): No specific information was found for unit Northwind in table RenewablesAF. The generic information for WTOF has been used
+24/03/13 21:20:44 [WARNING ] (UnitBasedTable): No specific information was found for unit Thorntonbank - C-Power - Area SW in table RenewablesAF. The generic information for WTOF has been used
+24/03/13 21:20:44 [WARNING ] (UnitBasedTable): No specific information was found for unit Belwind Phase 1 in table RenewablesAF. The generic information for WTOF has been used
+24/03/13 21:20:44 [WARNING ] (UnitBasedTable): No specific information was found for unit Thorntonbank - C-Power - Area NE in table RenewablesAF. The generic information for WTOF has been used
+24/03/13 21:20:45 [WARNING ] (UnitBasedTable): No specific information was found for unit DispaSET PHOT_BE in table RenewablesAF. The generic information for PHOT has been used
+24/03/13 21:20:45 [WARNING ] (UnitBasedTable): No specific information was found for unit DispaSET WindOn_BE in table RenewablesAF. The generic information for WTON has been used
+24/03/13 21:20:45 [INFO    ] (UnitBasedTable): No data file specified for the table ReservoirLevels. Using default value 0
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/HydroData/ScaledInflows/BE/1h/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [INFO    ] (UnitBasedTable): No specific information was found for unit COO II T in table ReservoirScaledInflows. Using default value 0
+24/03/13 21:20:45 [INFO    ] (UnitBasedTable): No specific information was found for unit COO I T in table ReservoirScaledInflows. Using default value 0
+24/03/13 21:20:45 [INFO    ] (UnitBasedTable): No specific information was found for unit PLATE TAILLE T in table ReservoirScaledInflows. Using default value 0
+24/03/13 21:20:45 [INFO    ] (NodeBasedTable): No data file specified for the table Temperatures. Using default value None
+24/03/13 21:20:45 [INFO    ] (GenericTable): No data file specified for the table HeatDemand. Using default value 0
+24/03/13 21:20:45 [INFO    ] (GenericTable): No data file specified for the table CostHeatSlack. Using default value 100.0
+24/03/13 21:20:45 [INFO    ] (GenericTable): No data file specified for the table H2RigidDemand. Using default value 0
+24/03/13 21:20:45 [INFO    ] (GenericTable): No data file specified for the table H2FlexibleDemand. Using default value 0
+24/03/13 21:20:45 [INFO    ] (GenericTable): No data file specified for the table CostH2Slack. Using default value 100.0
+24/03/13 21:20:45 [WARNING ] (check_reserves): No 2U reserve requirement data has been found for zone BE. Using the standard formula
+24/03/13 21:20:45 [WARNING ] (check_reserves): No 2D reserve requirement data has been found for zone BE. Using the standard formula
+24/03/13 21:20:45 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfNuclear. Using default value 4.0
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Coal/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Coal/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Gas/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Gas/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Oil/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Oil/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Biomass/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [WARNING ] (load_time_series): File /home/ray/Documents/Dispa-SET_Unleash/Database/FuelPrices/Biomass/2015.csv: there is one data point missing in the time series. It will be filled with the nearest data
+24/03/13 21:20:45 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfCO2. Using default value 90.0
+24/03/13 21:20:45 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfLignite. Using default value 15.0
+24/03/13 21:20:45 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfPeat. Using default value 33.0
+24/03/13 21:20:45 [INFO    ] (NodeBasedTable): No data file specified for the table PriceOfAmmonia. Using default value 76.0
+24/03/13 21:20:45 [WARNING ] (clustering): Did not cluster any unit
+24/03/13 21:20:45 [INFO    ] (build_single_run): Using generic reserve calculation for zone BE
+24/03/13 21:20:46 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [7] - COO I T. Using the provided default initial and final values
+24/03/13 21:20:46 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [4] - COO II T. Using the provided default initial and final values
+24/03/13 21:20:46 [WARNING ] (build_single_run): Could not find reservoir level data for storage plant [27] - PLATE TAILLE T. Using the provided default initial and final values
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [25] - Belwind Phase 1. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [7] - COO I T. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [4] - COO II T. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel SUN in unit [30] - DispaSET PHOT_BE. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [31] - DispaSET WindOn_BE. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [23] - Northwind. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WAT in unit [27] - PLATE TAILLE T. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [26] - Thorntonbank - C-Power - Area NE. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (build_single_run): No fuel price value has been found for fuel WIN in unit [24] - Thorntonbank - C-Power - Area SW. A null variable cost has been assigned
+24/03/13 21:20:46 [WARNING ] (get_gams_path): The provided path for GAMS () does not exist. Trying to locate...
+24/03/13 21:20:46 [INFO    ] (get_gams_path): Detected /home/ray/GAMS_45.7/gams45.7_linux_x64_64_sfx as GAMS path on this computer
+24/03/13 21:20:46 [INFO    ] (write_variables): Data Successfully written to Inputs.gdx
+24/03/13 21:20:46 [INFO    ] (build_single_run): Build finished
+24/03/13 21:20:46 [INFO    ] (solve_GAMS): Using the high-level gams api
+24/03/13 21:20:46 [INFO    ] (solve_GAMS): 
+If the script seems stuck at this place 
+(gams is optimizing but not output is displayed), 
+it is preferable to run Dispa-SET in a 
+separate terminal (in Spyder: Preferences - Run - 
+Execute in an external system terminal)
+24/03/13 21:21:33 [INFO    ] (solve_high_level): Completed simulation in 46.62 seconds
+24/03/13 21:21:33 [WARNING ] (solve_GAMS): A debug file was created. There has probably been an optimization error
