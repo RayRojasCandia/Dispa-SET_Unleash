@@ -1,0 +1,9 @@
+24/03/14 10:36:33 [WARNING ] (<module>): Could not import gdxcc. Trying to use pre-compiled libraries
+24/03/14 10:36:33 [CRITICAL] (<module>): Importing gdxcc from the new gams api
+24/03/14 10:36:33 [WARNING ] (get_sim_results): Caching option has been removed. Try to save manually the results, e.g. results.to_netcdf("res.nc")
+24/03/14 10:36:34 [INFO    ] (gdx_to_list): Loading gdx file ../Simulations/simulationBE/Results.gdx took 0.3932077884674072s
+24/03/14 10:36:34 [WARNING ] (gdx_to_dataframe): Successfully loaded variable OutputEmissions
+24/03/14 10:36:34 [INFO    ] (gdx_to_dataframe): Time to convert to dataframes: 0.3520522117614746s
+24/03/14 10:36:34 [CRITICAL] (plot_zone): There is up to 100.0% difference in the instantaneous energy balance of zone BE
+24/03/14 10:36:35 [WARNING ] (plot_dispatch): Plotting range is not properly defined, considering the first simulated week
+24/03/14 10:36:52 [WARNING ] (get_power_flow_tracing): Date range not specified, Power Flow will be traced only for the first day of the simulation
