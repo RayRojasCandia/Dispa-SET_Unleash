@@ -1,7 +1,0 @@
-,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,,,,
-ELIA,Unit,Pmax available,,,,,Production Unit Type,Fuel code,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OPSD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,id,name_bnetza,block_bnetza,name_uba,company,street,postcode,city,state,country,capacity_net_bnetza,capacity_gross_uba,energy_source,technology,chp,chp_capacity_uba,commissioned,commissioned_original,retrofit,shutdown,status,type,lat,lon,eic_code_plant,eic_code_block,efficiency_data,efficiency_source,efficiency_estimate,energy_source_level_1,energy_source_level_2,energy_source_level_3,eeg,network_node,voltage,network_operator,merge_comment,comment
