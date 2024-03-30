@@ -1,0 +1,11 @@
+Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source
+,BNA1811,15.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1812,15.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1813,15.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1814,15.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1815,15.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1816,15.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1827,12.5,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1936,18.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1939,16.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA
+,BNA1942,48.0,1.0,DE,,,Storage technologies,Other fuels,,,,,,,,,,,,,no,,,,,,,,,,,,,,,BNetzA/UBA

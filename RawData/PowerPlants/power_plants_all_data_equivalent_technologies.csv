@@ -1,0 +1,30 @@
+Description,Dispaset_Technology,Equivalent_Technology
+Conventional hydro dam,HDAM,Reservoir
+Hydro run-of-river,HROR,Run-of-river
+Pumped hydro storage,HPHS,Pumped storage
+Solar photovoltaic,PHOT,
+Wave energy,WAVE,
+Waste heat engine,WHEN,
+Offshore wind turbine,WTOF,
+Onshore wind turbine,WTON,
+Combined cycle,COMC,Combined cycle
+Gas turbine,GTUR,Gas turbine
+Internal combustion engine,ICEN,Combustion Engine
+Concentrated Solar Power,SCSP,
+Steam turbine,STUR,Steam turbine
+Stationary batteries,BATS,
+Battery-powered electric vehicles,BEVS,
+Compressed air energy storage,CAES,
+Power-to-gas storage,P2GS,
+Thermal storage,THMS,
+Geothermal district heating,GETH,
+Heat only boiler,HOBO,
+Solar thermal district heating,SOTH,
+Absorption heat pump (solar/geothermal/gas),ABHP,
+Air source heat pump,ASHP,
+Ground source heat pump,GSHP,
+Hybrid heat pump (Ground/air & HP/GAS-OIL,HYHP,
+Power-to-heat,P2HT,
+Resistive heater,REHE,
+Water source heat pump,WSHP,
+Hydro run-of-river,HROR,RES
