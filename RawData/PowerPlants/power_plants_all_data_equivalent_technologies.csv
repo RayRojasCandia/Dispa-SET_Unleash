@@ -2,29 +2,29 @@ Description,Dispaset_Technology,Equivalent_Technology
 Conventional hydro dam,HDAM,Reservoir
 Hydro run-of-river,HROR,Run-of-river
 Pumped hydro storage,HPHS,Pumped storage
-Solar photovoltaic,PHOT,
-Wave energy,WAVE,
-Waste heat engine,WHEN,
-Offshore wind turbine,WTOF,
-Onshore wind turbine,WTON,
+Solar photovoltaic,PHOT,xxx
+Wave energy,WAVE,xxx
+Waste heat engine,WHEN,xxx
+Offshore wind turbine,WTOF,xxx
+Onshore wind turbine,WTON,xxx
 Combined cycle,COMC,Combined cycle
 Gas turbine,GTUR,Gas turbine
 Internal combustion engine,ICEN,Combustion Engine
-Concentrated Solar Power,SCSP,
+Concentrated Solar Power,SCSP,xxx
 Steam turbine,STUR,Steam turbine
-Stationary batteries,BATS,
-Battery-powered electric vehicles,BEVS,
-Compressed air energy storage,CAES,
-Power-to-gas storage,P2GS,
-Thermal storage,THMS,
-Geothermal district heating,GETH,
-Heat only boiler,HOBO,
-Solar thermal district heating,SOTH,
-Absorption heat pump (solar/geothermal/gas),ABHP,
-Air source heat pump,ASHP,
-Ground source heat pump,GSHP,
-Hybrid heat pump (Ground/air & HP/GAS-OIL,HYHP,
-Power-to-heat,P2HT,
-Resistive heater,REHE,
-Water source heat pump,WSHP,
+Stationary batteries,BATS,xxx
+Battery-powered electric vehicles,BEVS,xxx
+Compressed air energy storage,CAES,xxx
+Power-to-gas storage,P2GS,xxx
+Thermal storage,THMS,xxx
+Geothermal district heating,GETH,xxx
+Heat only boiler,HOBO,xxx
+Solar thermal district heating,SOTH,xxx
+Absorption heat pump (solar/geothermal/gas),ABHP,xxx
+Air source heat pump,ASHP,xxx
+Ground source heat pump,GSHP,xxx
+Hybrid heat pump (Ground/air & HP/GAS-OIL,HYHP,xxx
+Power-to-heat,P2HT,xxx
+Resistive heater,REHE,xxx
+Water source heat pump,WSHP,xxx
 Hydro run-of-river,HROR,RES
