@@ -1,0 +1,33 @@
+I have an allready existing file named as power_plants_all_data_equivalent_headers.csv and its directory path is /home/ray/Dispa-SET_Unleash/RawData/PowerPlants
+I want save them into two variables to be used in the future
+first variable: power_plants_all_data_equivalent_headers_file_name
+second variable: power_plants_all_data_equivalent_headers_file_path
+
+in the other hand I have this allready defined variables
+power_plants_raw_data_download_link_sources_file_name
+power_plants_raw_data_download_link_sources_folder_path
+zone_folder_name
+zone_folder_path
+power_plants_raw_data_file_name
+power_plants_raw_data_download_link
+power_plants_raw_data_file_headers
+power_plants_clean_data_file_headers
+
+I want to create a separated script to used it into the next cell which do the next:
+
+open the csv file called power_plants_all_data_equivalent_headers.csv using the variables power_plants_all_data_equivalent_headers_file_name as the name and power_plants_all_data_equivalent_headers_file_path as the path of the file
+in a new empty row and in the columns epesified by the content of power_plants_clean_data_file_headers copy the content of power_plants_raw_data_file_headers
+
+
+modify the last code but replasing the following:
+power_plants_raw_data_download_link_sources_file_name as the name of the .csv file to be written in
+power_plants_raw_data_download_link_sources_folder_path as the directory path of the .csv file to be written in
+
+aditionally I want to write in the next empty row the following
+in the column "zone_folder_name" write the value of the variable zone_folder_name
+in the column "zone_folder_path" write the value of the variable zone_folder_path
+in the column "file_name" write the value of the variable  power_plants_raw_data_file_name
+in the column "download_link" write the value of the variable  power_plants_raw_data_download_link
+
+
+
