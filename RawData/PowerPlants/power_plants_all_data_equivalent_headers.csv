@@ -1,2 +1,3 @@
-Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source
-,name,capacity,,country,,,technology,energy_source,,,,,,,,,,,,,chp,,,,,,,,,,,,,,,source
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0c62c0b9450a0d0a7fd2912e18536790ae029e21e77fcc47408554b6593cce
+size 514
