@@ -1,0 +1,4 @@
+24/04/03 18:29:52 [INFO    ] (_init_num_threads): Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+24/04/03 18:29:52 [INFO    ] (_init_num_threads): NumExpr defaulting to 8 threads.
+24/04/03 18:29:52 [WARNING ] (<module>): Could not import gdxcc. Trying to use pre-compiled libraries
+24/04/03 18:29:52 [CRITICAL] (<module>): Importing gdxcc from the new gams api
