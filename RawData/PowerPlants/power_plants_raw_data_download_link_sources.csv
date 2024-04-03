@@ -1,2 +1,3 @@
-zone_folder_name,zone_folder_path,file_name,download_link
-DE,/home/ray/Dispa-SET_Unleash/RawData/PowerPlants,2020-01.csv,https://data.open-power-system-data.org/conventional_power_plants/2020-10-01/conventional_power_plants_DE.csv
+version https://git-lfs.github.com/spec/v1
+oid sha256:31140a2cb571320c1bf456d7128ddfaa1d85cc46a9d600cbf6d245a48dc2f6bc
+size 231
