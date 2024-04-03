@@ -4,6 +4,6 @@ Docs/
 Externals/
 tests/
 .git/
-.vscod/
+.vscode/
 tests/
-
+*.log
