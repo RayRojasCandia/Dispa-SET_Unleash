@@ -1,3 +1,645 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:640d077450900f63db8d34219567d29af1f55c614537109a40dd26894e71a256
-size 66464
+Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Company,Clustered
+,Werkskraftwerk Sappi Alfeld,13.0,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Alfeld GmbH,no
+,HKW Altenstadt,9.8,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Altenstadt GmbH & Co. KG,no
+,Zellstoff Stendal GmbH,138.9,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,600.0,,,,,,,,,,,Zellstoff Stendal GmbH,no
+,UTB,16.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfleiderer Baruth GmbH,no
+,BHW Beeskow,18.3,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Sonae Arauco Beeskow GmbH,no
+,BMKW Bergkamen,17.7,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Innogy SE,no
+,HHKW Berlin-Neukölln,16.5,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,ENERTRAG Netz GmbH  (UW Bertikow),20.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ENERTRAG Aktiengesellschaft,no
+,Biomassekraftwerk Bischofferode,18.1,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Leipzig GmbH,no
+,Egger Kraftwerk Brilon,18.0,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Egger Holzwerkstoffe Brilon GmbH & Co. KG,no
+,Werkskraftwerk Sappi Ehingen,13.2,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Ehingen GmbH,no
+,Werkskraftwerk Sappi Ehingen,8.0,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Ehingen GmbH,no
+,Emden Biomasse,22.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,Emden Gas,52.0,1.0,DE,,,GTUR,BIO,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,Biomasse-HKW,30.6,2.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,innogy SE,yes
+,BMKW Flörsheim Wicker,12.6,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,MVV Energie AG,no
+,BKF,12.4,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Mainova AG,no
+,KWK Gütersloh,12.1,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfleiderer Gütersloh GmbH,no
+,Biomasse-Verstromungs-Anlage,20.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG,no
+,Müllverwertung Borsigstraße MVB,20.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Müllverwertung Borsigstraße GmbH,no
+,Enertec Hameln,14.5,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Enertec Hameln GmbH,no
+,Stora Enso Maxau,78.0,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Stora Enso Maxau GmbH,no
+,BMKW Königs Wusterhausen,17.1,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,MVV Energie AG,no
+,BMHKW-BinderHolz,15.13,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,BinderHolz Deutschland GmbH,no
+,Landesbergen Biomasse,22.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,BMK Lünen ,20.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,STEAG New Energies GmbH,no
+,Biomasseheizkraftwerk Piesteritz,18.1,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Leipzig GmbH,no
+,Biomasse-Heizkraftwerk Malchin,9.8,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,envia THERM GmbH,no
+,BMKW Mannheim,17.9,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,MVV Energie AG,no
+,SCA Mannheim,40.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Essity Operations Mannheim GmbH,no
+,KWK Neumarkt,15.6,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfleiderer Neumarkt GmbH,no
+,Heizkraftwerk Pforzheim GmbH,12.3,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Pforzheim GmbH,no
+,BMHKW-RE Recklinghausen,15.0,1.0,DE,,,STUR,BIO,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Ökotech Ingenieurgesellschaft mbh,no
+,Heizkraftwerk der Sappi Stockstadt GmbH,13.9934,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Stockstadt GmbH,no
+,Wi-Biebrich,6.7,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraServ GmbH & Co. Wiesbaden KG,no
+,Zolling,18.3,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,Kraftwerk Leipa Georg Leinfelder GmbH Werk Schwedt Nord,13.3,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,LEIPA Georg Leinfelder GmbH,no
+,PKV Kraftwerk,1.92,1.0,DE,,,ICEN,BIO,0.4504,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Papier- u. Kartonfabrik Varel GmbH & Co. KG,no
+,Blockheizkraftwerk 1,1.1,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,DS Smith Paper Deutschland GmbH,no
+,Blockheizkraftwerk 2,0.8,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,DS Smith Paper Deutschland GmbH,no
+,Energieanlage 3,18.6,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,SWISS KRONO GmbH,no
+,BioHKW I,8.7,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Fernwärme Ulm GmbH,no
+,BioHKW II,4.5,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Fernwärme Ulm GmbH,no
+,Bio HKW Herbrechtingen,14.0,1.0,DE,,,STUR,BIO,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Biomasse-Heizkraftwerk-Herbrechtingen GmbH,no
+,BioEnergie Park Klarsee,17.8,1.0,DE,,,STUR,BIO,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Geno Bioenergie Leasingfonds Erste GmbH & Co. KG,no
+,Papierfabrik Albbruck,28.0,1.0,DE,,,STUR,HRD,0.4475,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Papierfabrik Albbruck GmbH,no
+,Heizkraftwerk Altbach/Deizisau,336.0,1.0,DE,,,STUR,HRD,0.44,8.0,,,,,,,,,,,,,,280.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Heizkraftwerk Altbach/Deizisau,433.0,1.0,DE,,,STUR,HRD,0.455,24.0,,,,,,,,,,,,,,280.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Bergkamen,1443.0,2.0,DE,,,STUR,HRD,0.38,24.0,,,,,,,,,,,,,,20.0,,,,,,,,,,,STEAG GmbH,yes
+,Reuter,124.0,1.0,DE,,,STUR,HRD,0.3475,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Moabit,89.0,1.0,DE,,,STUR,HRD,0.4,8.0,,,,,,,,,,,,,,136.0,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Reuter West,564.0,2.0,DE,,,STUR,HRD,0.39375,8.0,,,,,,,,,,,,,,726.0,,,,,,,,,,,Vattenfall Wärme Berlin AG,yes
+,HKW-Mitte,43.3,1.0,DE,,,COMC,HRD,0.468,5.0,,,,,,,,,,,,,,121.63736343772756,,,,,,,,,,,Braunschweiger Versorgungs-AG & Co. KG,no
+,KW Hastedt,119.0,1.0,DE,,,STUR,HRD,0.3975,0.0,,,,,,,,,,,,,,150.0,,,,,,,,,,,swb Erzeugung AG & Co. KG,no
+,KW Hafen,127.0,1.0,DE,,,STUR,HRD,0.345,8.0,,,,,,,,,,,,,,,,,,,,,,,,,swb Erzeugung GmbH & Co. KG,no
+,KW Hafen,303.0,1.0,DE,,,STUR,HRD,0.3725,1.0,,,,,,,,,,,,,,39.0,,,,,,,,,,,swb Erzeugung AG & Co. KG,no
+,Farge,350.0,1.0,DE,,,STUR,HRD,0.4425,4.0,,,,,,,,,,,,,,26.0,,,,,,,,,,,ENGIE Deutschland AG,no
+,Datteln,303.0,3.0,DE,,,STUR,HRD,0.3391666666666666,1.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Uniper Kraftwerke GmbH ,yes
+,Knepper,345.0,1.0,DE,,,STUR,HRD,0.3525,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,HKW I,95.0,1.0,DE,,,STUR,HRD,0.3875,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Duisburg AG,no
+,HKW II/B,133.0,1.0,DE,,,STUR,HRD,0.3375,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Duisburg AG,no
+,KW Walsum,1224.0,3.0,DE,,,STUR,HRD,0.3916666666666666,24.0,,,,,,,,,,,,,,295.0,,,,,,,,,,,Steag GmbH,yes
+,Kraftwerk Ensdorf,389.0,2.0,DE,,,STUR,HRD,0.3925,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Gemeinschaft nach Bruchteilen der Saarstahl AG (SAG) und Saarschmiede GmbH Freiformschmiede (SSF),yes
+,HKW Erlangen,17.4,1.0,DE,,,STUR,HRD,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Erlanger Stadtwerke AG,no
+,Heizkraftwerk FL,31.0,1.0,DE,,,COMC,HRD,0.504,5.0,,,,,,,,,,,,,,44.00487804878049,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,Heizkraftwerk FL,33.0,1.0,DE,,,COMC,HRD,0.4905,5.0,,,,,,,,,,,,,,46.84390243902439,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,Heizkraftwerk FL,33.0,1.0,DE,,,COMC,HRD,0.4725,5.0,,,,,,,,,,,,,,46.84390243902439,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,Heizkraftwerk FL,35.0,1.0,DE,,,STUR,HRD,0.38,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,Heizkraftwerk FL,23.0,1.0,DE,,,STUR,HRD,0.37,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,HKW West,61.5,1.0,DE,,,STUR,HRD,0.395,0.0,,,,,,,,,,,,,,105.0,,,,,,,,,,,Mainova AG,no
+,HKW West,61.5,1.0,DE,,,STUR,HRD,0.3975,0.0,,,,,,,,,,,,,,105.0,,,,,,,,,,,Mainova AG,no
+,Scholven,2056.0,5.0,DE,,,STUR,HRD,0.3535,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Uniper Kraftwerke GmbH ,yes
+,FWK Buer,70.0,1.0,DE,,,STUR,HRD,0.3875,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Staudinger,249.0,1.0,DE,,,STUR,HRD,0.3375,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Staudinger,293.0,1.0,DE,,,STUR,HRD,0.35,6.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Staudinger,510.0,1.0,DE,,,STUR,HRD,0.405,8.0,,,,,,,,,,,,,,300.0,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Tiefstack,194.0,1.0,DE,,,STUR,HRD,0.4075,8.0,,,,,,,,,,,,,,785.0,,,,,,,,,,,Wärme Hamburg GmbH,no
+,Wedel,123.0,1.0,DE,,,STUR,HRD,0.4075,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Wärme Hamburg GmbH,no
+,Wedel,137.0,1.0,DE,,,STUR,HRD,0.4075,4.0,,,,,,,,,,,,,,423.0,,,,,,,,,,,Wärme Hamburg GmbH,no
+,Westfalen,2116.7,5.0,DE,,,STUR,HRD,0.3865,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,RWE Generation SE,yes
+,GKH,272.0,2.0,DE,,,STUR,HRD,0.3975,8.0,,,,,,,,,,,,,,425.0,,,,,,,,,,,enercity AG,yes
+,Heizkraftwerk Heilbronn,1028.0,3.0,DE,,,STUR,HRD,0.4491666666666667,8.0,,,,,,,,,,,,,,606.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,yes
+,KW Herne,862.0,3.0,DE,,,STUR,HRD,0.3766666666666667,8.0,,,,,,,,,,,,,,550.0,,,,,,,,,,,Steag GmbH,yes
+,Shamrock,132.0,1.0,DE,,,STUR,HRD,0.3175,,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,KWM,690.0,1.0,DE,,,STUR,HRD,0.4325,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Kraftwerk Mehrum GmbH,no
+,Ibbenbüren,794.0,1.0,DE,,,STUR,HRD,0.4475,8.0,,,,,,,,,,,,,,20.0,,,,,,,,,,,RWE Generation SE,no
+,Heizkraftwerk,66.0,1.0,DE,,,STUR,HRD,0.3975,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Infraserv GmbH & Co. Höchst KG,no
+,HKW Karcherstr.,13.4,1.0,DE,,,STUR,HRD,0.415,1.0,,,,,,,,,,,,,,,,,,,,,,,,,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",no
+,Rheinhafen-Dampfkraftwerk,517.0,1.0,DE,,,STUR,HRD,0.4375,8.0,,,,,,,,,,,,,,220.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Rheinhafen-Dampfkraftwerk,834.0,1.0,DE,,,STUR,HRD,0.46,24.0,,,,,,,,,,,,,,220.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Gemeinschaftskraftwerk Kiel,323.0,1.0,DE,,,STUR,HRD,0.35,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Gemeinschaftskraftwerk Kiel GmbH,no
+,Kraftwerk L 57,26.0,1.0,DE,,,STUR,HRD,0.3175,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Currenta GmbH & Co. OHG,no
+,Kraftwerk N 230,110.0,1.0,DE,,,STUR,HRD,0.3525,0.0,,,,,,,,,,,,,,460.0,,,,,,,,,,,Currenta GmbH & Co. OHG,no
+,G-Kraftwerk,103.0,1.0,DE,,,STUR,HRD,0.33,4.0,,,,,,,,,,,,,,572.1328125,,,,,,,,,,,Currenta GmbH & Co. OHG,no
+,KW Lünen,473.0,2.0,DE,,,STUR,HRD,0.3399999999999999,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Steag GmbH,yes
+,GKM ,2363.0,6.0,DE,,,STUR,HRD,0.39625,8.0,,,,,,,,,,,,,,1500.0,,,,,,,,,,,Grosskraftwerk Mannheim AG,yes
+,Kraftwerk I  ,55.56,1.0,DE,,,COMC,HRD,0.4095,2.0,,,,,,,,,,,,,,155.91202945990182,,,,,,,,,,,Evonik Degussa GmbH,no
+,Kraftwerk II,60.4,1.0,DE,,,STUR,HRD,0.34,,,,,,,,,,,,,,,,,,,,,,,,,,Evonik Degussa GmbH,no
+,Kraftwerk I ,68.4,1.0,DE,,,COMC,HRD,0.4635,5.0,,,,,,,,,,,,,,191.9435351882161,,,,,,,,,,,Evonik Degussa GmbH,no
+,Kraftwerk I,169.32,1.0,DE,,,COMC,HRD,0.27,5.0,,,,,,,,,,,,,,475.1444353518822,,,,,,,,,,,Evonik Degussa GmbH,no
+,Heizkraftwerk Offenbach,54.0,1.0,DE,,,STUR,HRD,0.4,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Energieversorgung Offenbach AG,no
+,Heyden,875.0,1.0,DE,,,STUR,HRD,0.3925,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Heizkraftwerk Pforzheim GmbH,26.9,1.0,DE,,,STUR,HRD,0.4,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Pforzheim GmbH,no
+,Kraftwerk Veltheim,93.0,1.0,DE,,,STUR,HRD,0.3375,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Gemeinschaftskraftwerk Veltheim GmbH,no
+,Kraftwerk Veltheim,303.0,1.0,DE,,,STUR,HRD,0.35,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Weiher,655.6,1.0,DE,,,STUR,HRD,0.365,8.0,,,,,,,,,,,,,,30.0,,,,,,,,,,,Steag GmbH,no
+,KNG Kraftwerk Rostock,514.0,1.0,DE,,,STUR,HRD,0.41,8.0,,,,,,,,,,,,,,150.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,HKW Römerbrücke,50.0,1.0,DE,,,STUR,HRD,0.4375,4.0,,,,,,,,,,,,,,94.0,,,,,,,,,,,Energie SaarLorLux AG,no
+,Heizkraftwerk der Sappi Stockstadt GmbH,24.79,1.0,DE,,,STUR,HRD,0.35,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Stockstadt GmbH,no
+,Heizkraftwerk Stuttgart-Gaisburg,22.6,1.0,DE,,,STUR,HRD,0.4475,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Restmüll-Heizkraftwerk Stuttgart-Münster,45.0,1.0,DE,,,STUR,HRD,0.38,0.0,,,,,,,,,,,,,,183.6986301369863,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Restmüll-Heizkraftwerk Stuttgart-Münster,45.0,1.0,DE,,,STUR,HRD,0.385,0.0,,,,,,,,,,,,,,183.6986301369863,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Nord 2,332.7,1.0,DE,,,STUR,HRD,0.4025,8.0,,,,,,,,,,,,,,550.0,,,,,,,,,,,SWM Services GmbH,no
+,KW West,640.0,2.0,DE,,,STUR,HRD,0.3525,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Steag GmbH,yes
+,KW Voerde,1390.0,2.0,DE,,,STUR,HRD,0.38375,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,RWE Generation SE,yes
+,Modellkraftwerk,179.0,1.0,DE,,,STUR,HRD,0.38,8.0,,,,,,,,,,,,,,210.0,,,,,,,,,,,Steag GmbH,no
+,Heizkraftwerk,211.0,1.0,DE,,,STUR,HRD,0.3975,8.0,,,,,,,,,,,,,,185.0,,,,,,,,,,,Steag GmbH,no
+,Kraftwerk Walheim,96.0,1.0,DE,,,STUR,HRD,0.4525,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Kraftwerk Walheim,148.0,1.0,DE,,,STUR,HRD,0.4525,4.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Kraftwerk Werdohl-Elverlingsen,186.0,1.0,DE,,,STUR,HRD,0.3525,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG,no
+,Kraftwerk Werdohl-Elverlingsen,310.0,1.0,DE,,,STUR,HRD,0.38,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG,no
+,Gersteinwerk,614.0,1.0,DE,,,STUR,HRD,0.385,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Wilhelmshaven,757.0,1.0,DE,,,STUR,HRD,0.365,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,HKW Nord,123.0,2.0,DE,,,STUR,HRD,0.425,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Volkswagen AG,yes
+,HKW West,138.5,1.0,DE,,,STUR,HRD,0.3875,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Volkswagen AG,no
+,HKW West,138.5,1.0,DE,,,STUR,HRD,0.3875,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Volkswagen AG,no
+,HKW Elberfeld ,85.0,1.0,DE,,,STUR,HRD,0.405,8.0,,,,,,,,,,,,,,,,,,,,,,,,,WSW Energie & Wasser AG,no
+,Zolling,472.0,1.0,DE,,,STUR,HRD,0.4525,8.0,,,,,,,,,,,,,,150.0,,,,,,,,,,,ENGIE Deutschland AG,no
+,Reno De Medici,19.0,1.0,DE,,,STUR,HRD,0.2325,4.0,,,,,,,,,,,,,,,,,,,,,,,,,R.D.M. Arnsberg GmbH,no
+,Heizkraftwerk Magirusstraße,20.7,1.0,DE,,,STUR,HRD,0.405,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Fernwärme Ulm GmbH,no
+,Werk Uelzen,40.0,1.0,DE,,,STUR,HRD,0.3375,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Nordzucker AG,no
+,Trianel Kohlekraftwerk Lünen,735.0,1.0,DE,,,STUR,HRD,0.4575,8.0,,,,,,,,,,,,,,35.0,,,,,,,,,,,Trianel Kohlekraftwerk Lünen GmbH & Co. KG,no
+,Moorburg B,1600.0,2.0,DE,,,STUR,HRD,0.4625,8.0,,,,,,,,,,,,,,240.0,,,,,,,,,,,Vattenfall Heizkraftwerk Moorburg GmbH,yes
+,Kraftwerk Wilhelmshaven,731.0,1.0,DE,,,STUR,HRD,0.4625,8.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,RADAG,103.5,2.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Rheinkraftwerk Albbruck-Dogern AG,yes
+,Werkskraftwerk Sappi Alfeld,0.1,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Alfeld GmbH,no
+,Egglfing,516.9,7.0,DE,,,HROR,WAT,0.7999999999999999,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Innwerk AG,yes
+,Rheinkraftwerk Säckingen,36.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Säckingen,1740.0,5.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Schluchseewerk Aktiengesellschaft,yes
+,Bergheim,23.7,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Donau-Wasserkraft AG,no
+,Alzwerke,45.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Alzwerke GmbH,no
+,Waldeck1/Bringhausen,145.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Waldeck 2,480.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Hemfurth,20.0,1.0,DE,,,HROR,WAT,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Pumpspeicherwerk Rönkhausen,138.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG,no
+,Rudolf-Fettweis-Werk     ,22.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Rudolf-Fettweis-Werk     ,43.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Gars,301.4,9.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,VERBUND-Innkraftwerke GmbH,yes
+,Geesthacht,2793.2,29.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Vattenfall Wasserkraft GmbH,yes
+,PSW Langenprozelten,164.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Donau-Wasserkraft AG,no
+,KW Wyhlen,84.6,2.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Energiedienst AG,yes
+,Happurg,160.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Koepchenwerk,165.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Rheinkraftwerk Iffezheim,148.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Rheinkraftwerk Iffezheim GmbH,no
+,Walchensee,124.0,1.0,DE,,,HDAM,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Erzhausen,220.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,Pumpspeicherkraftwerk Glems,90.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Bittenbrunn,20.2,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Donau-Wasserkraft AG,no
+,Lehmen,20.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Kachlet,100.2,3.0,DE,,,HROR,WAT,0.8000000000000002,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Rhein-Main-Donau GmbH,yes
+,Rheinkraftwerk Reckingen,19.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Roßhaupten,45.5,1.0,DE,,,HROR,WAT,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Rheinkraftwerk Ryburg-Schwörstadt ,30.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Detzem,24.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Kraftwerksgruppe Pfreimd,28.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,Kraftwerksgruppe Pfreimd,3.3,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,Kraftwerksgruppe Pfreimd,1.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,Kraftwerksgruppe Pfreimd,99.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,Leitzach 1,48.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke München GmbH,no
+,Leitzach 2,44.0,1.0,DE,,,HPHS,WAT,0.75,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke München GmbH,no
+,Vohburg,23.3,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Donau-Wasserkraft AG,no
+,Uppenborn 1,25.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke München GmbH,no
+,Wintrich,20.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Weserkraftwerk Bremen,9.9,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Weserkraftwerk Bremen GmbH & Co. KG,no
+,Bigge,15.0,1.0,DE,,,HROR,WAT,1.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Bigge Energie GmbH & Co. KG,no
+,Dessau,10.3,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Dettingen,11.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Kernkraftwerk Obrigheim GmbH,no
+,Dingolfing,15.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Eitting,26.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Fankel,16.4,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Ellgau,53.8,5.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Bayerische Elektrizitätswerke GmbH,yes
+,Enkirch,18.4,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Altheim,17.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Serrig,12.1,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Schwammenauel,14.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Heimbach,16.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Ingolstadt,19.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Donau-Wasserkraft AG,no
+,Kaufering,16.7,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Unteropfingen,14.5,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Koblenz,16.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Faimingen,10.1,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Obere Donau Kraftwerke AG,no
+,Urspring,10.1,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Prem,19.2,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Merching,12.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Pfrombach,22.3,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Müden,16.4,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Neef,16.4,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Niederaichbach,16.2,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Gummering,14.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Aufkirchen,27.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Landau,12.6,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Pielweichs,12.6,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Prittriching,12.1,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Bertoldsheim,18.9,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Donau-Wasserkraft AG,no
+,Schwabstadl,12.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Scheuring,12.2,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Unterbergen,12.3,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,UPM Schongau,10.5,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,UPM GmbH,no
+,Dornau,16.6,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Mühltal,11.2,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Tannheim,12.3,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Uppenborn 2,18.0,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke München GmbH,no
+,Trier,18.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Obernach,12.8,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Ettling,12.6,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Zeltingen,13.6,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,Kraftwerk 3,18.95,1.0,DE,,,HROR,WAT,0.8,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Alzkraftwerke Heider GmbH,no
+,Lippendorf,875.0,1.0,DE,,,STUR,LIG,0.4,8.0,,,,,,,,,,,,,,230.0,,,,,,,,,,,Lausitz Energie Kraftwerke AG,no
+,Braunkohlekraftwerk Lippendorf,875.0,1.0,DE,,,STUR,LIG,0.3976,8.0,,,,,,,,,,,,,,230.0,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Boxberg,2427.0,4.0,DE,,,STUR,LIG,0.3994,8.0,,,,,,,,,,,,,,125.0,,,,,,,,,,,Lausitz Energie Kraftwerke AG,yes
+,HKW Chemnitz  Nord II,56.8,1.0,DE,,,STUR,LIG,0.3712,8.0,,,,,,,,,,,,,,,,,,,,,,,,,eins - energie in sachsen GmbH & Co. KG,no
+,HKW Chemnitz  Nord II,90.8,1.0,DE,,,STUR,LIG,0.376,4.0,,,,,,,,,,,,,,,,,,,,,,,,,eins - energie in sachsen GmbH & Co. KG,no
+,HKW Cottbus,74.0,1.0,DE,,,STUR,LIG,0.3976,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Cottbus mbH,no
+,Deuben,158.0,3.0,DE,,,STUR,LIG,0.3184,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Mitteldeutsche Braunkohlengesellschaft mbH,yes
+,Frechen/Wachtberg,176.0,1.0,DE,,,STUR,LIG,0.3712,4.0,,,,,,,,,,,,,,251.0,,,,,,,,,,,RWE Power AG,no
+,Frimmersdorf,2008.0,13.0,DE,,,STUR,LIG,0.3163692307692308,8.0,,,,,,,,,,,,,,30.0,,,,,,,,,,,RWE Power AG,yes
+,Buschhaus,352.0,1.0,DE,,,STUR,LIG,0.364,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Helmstedter Revier GmbH,no
+,Goldenberg,85.0,3.0,DE,,,STUR,LIG,0.3824,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,RWE Power AG,yes
+,Ville/Berrenrath,98.0,1.0,DE,,,STUR,LIG,0.2008,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,FKK,33.5,1.0,DE,,,STUR,LIG,0.3736,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Städtische Werke Energie + Wärme GmbH,no
+,HKW Merkenich,75.3,1.0,DE,,,STUR,LIG,0.424,4.0,,,,,,,,,,,,,,139.3215859030837,,,,,,,,,,,RheinEnergie AG,no
+,Neurath,2091.0,5.0,DE,,,STUR,LIG,0.33664,8.0,,,,,,,,,,,,,,9.0,,,,,,,,,,,RWE Power AG,yes
+,Niederaußem,3656.0,9.0,DE,,,STUR,LIG,0.3517333333333333,8.0,,,,,,,,,,,,,,245.0,,,,,,,,,,,RWE Power AG,yes
+,Fortuna Nord,15.0,1.0,DE,,,STUR,LIG,0.2536,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,KW Jänschwalde,2790.0,6.0,DE,,,STUR,LIG,0.384,8.0,,,,,,,,,,,,,,305.2,,,,,,,,,,,Lausitz Energie Kraftwerke AG,yes
+,Schkopau,900.0,2.0,DE,,,STUR,LIG,0.3904,8.0,,,,,,,,,,,,,,200.0,,,,,,,,,,,Uniper Kraftwerke GmbH ,yes
+,Schwarze Pumpe,1500.0,2.0,DE,,,STUR,LIG,0.394,24.0,,,,,,,,,,,,,,120.0,,,,,,,,,,,Lausitz Energie Kraftwerke AG,yes
+,Weisweiler,123.0,1.0,DE,,,STUR,LIG,0.292,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Weisweiler,135.0,1.0,DE,,,STUR,LIG,0.3016,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Weisweiler,321.0,1.0,DE,,,STUR,LIG,0.316,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Weisweiler,321.0,1.0,DE,,,STUR,LIG,0.3208,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Weisweiler,663.0,1.0,DE,,,STUR,LIG,0.3376,8.0,,,,,,,,,,,,,,91.5,,,,,,,,,,,RWE Power AG,no
+,Weisweiler,656.0,1.0,DE,,,STUR,LIG,0.34,8.0,,,,,,,,,,,,,,91.5,,,,,,,,,,,RWE Power AG,no
+,Kohlekraftwerk,19.5,1.0,DE,,,STUR,LIG,0.424,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Smurfit Kappa Zülpich Papier GmbH,no
+,P&L Werk Euskirchen,14.5,1.0,DE,,,STUR,LIG,0.3496,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfeifer & Langen GmbH & Co. KG,no
+,P&L Werk Jülich,23.22,1.0,DE,,,STUR,LIG,0.4096,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfeifer & Langen GmbH & Co. KG,no
+,P&L Werk Könnern,20.3,1.0,DE,,,STUR,LIG,0.4336,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfeifer & Langen GmbH & Co. KG,no
+,Kraftwerk,10.0,1.0,DE,,,STUR,LIG,0.388,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Martinswerk GmbH,no
+,Kraftwerk,10.0,1.0,DE,,,STUR,LIG,0.388,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Martinswerk GmbH,no
+,EZ1,23.3,1.0,DE,,,STUR,LIG,0.3832,0.0,,,,,,,,,,,,,,,,,,,,,,,,,"Südzucker AG, Werk Zeitz",no
+,BoA 2,1060.0,1.0,DE,,,STUR,LIG,0.4288,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,BoA 3,1060.0,1.0,DE,,,STUR,LIG,0.4288,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,HKW Sachtleben,27.5,1.0,DE,,,STUR,LIG,0.3136,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Venator Germany GmbH,no
+,Grubenheizkraftwerk,45.0,1.0,DE,,,STUR,LIG,0.3496,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ROMONTA GmbH,no
+,Kessel 4,9.3,1.0,DE,,,STUR,LIG,0.3592,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Papierfabrik Schoellershammer H. A. Schoeller Söhne GmbH & Co KG,no
+,Ahrensfelde,150.0,4.0,DE,,,GTUR,GAS,0.354,5.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Lausitz Energie Kraftwerke AG,yes
+,Werkskraftwerk Sappi Alfeld,11.0,1.0,DE,,,STUR,GAS,0.3267,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Alfeld GmbH,no
+,Heizkraftwerk Altbach/Deizisau,65.0,1.0,DE,,,GTUR,GAS,0.3722,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Heizkraftwerk Altbach/Deizisau,50.0,1.0,DE,,,GTUR,GAS,0.3046,1.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Heizkraftwerk Altbach/Deizisau,57.0,1.0,DE,,,GTUR,GAS,0.3098,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Heizkraftwerk Altbach/Deizisau,81.0,1.0,DE,,,GTUR,GAS,0.315,4.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Kesselhaus Zuckerfabrik,15.1,1.0,DE,,,STUR,GAS,0.3773,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Suiker Unie GmbH & Co. KG,no
+,Gasturbine,82.6,2.0,DE,,,GTUR,GAS,0.38,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Stadtwerke Augsburg Energie GmbH,yes
+,KWK-Anlage Barby,17.8,1.0,DE,,,STUR,GAS,0.3784,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Cargill Deutschland GmbH,no
+,HKW Kassel,12.2,1.0,DE,,,STUR,GAS,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Volkswagen AG,no
+,"GuD Baunatal, VW Werksgelände",78.0,1.0,DE,,,COMC,GAS,0.5895,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Volkswagen AG,no
+,Mitte,444.0,1.0,DE,,,COMC,GAS,0.522,5.0,,,,,,,,,,,,,,1210.0,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Charlottenburg,144.0,1.0,DE,,,STUR,GAS,0.3575,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Lichterfelde,721.0,4.0,DE,,,STUR,GAS,0.3721666666666667,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Vattenfall Wärme Berlin AG,yes
+,Klingenberg,164.0,1.0,DE,,,STUR,GAS,0.4037,8.0,,,,,,,,,,,,,,590.0,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Industriekraftwerk Bernburg (IKB),140.5,1.0,DE,,,COMC,GAS,0.63,5.0,,,,,,,,,,,,,,185.7321937321937,,,,,,,,,,,Solvay Chemicals GmbH,no
+,HKW Schildescher Straße,64.0,2.0,DE,,,STUR,GAS,0.35365,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Stadtwerke Bielefeld GmbH,yes
+,Gasturbinenkraftwerk Bielefeld Ummeln,55.0,1.0,DE,,,GTUR,GAS,0.315,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,GuD Kraftwerk Hillegossen,37.5,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Bielefeld GmbH,no
+,GuD Bitterfeld,106.0,1.0,DE,,,COMC,GAS,0.54,5.0,,,,,,,,,,,,,,110.0,,,,,,,,,,,envia THERM GmbH,no
+,Bochum,20.7,1.0,DE,,,STUR,GAS,0.3894,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,HKW Hiltrop,44.0,1.0,DE,,,STUR,GAS,0.3993,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Bochum Holding GmbH,no
+,Heizkraftwerk Karlstraße,95.0,1.0,DE,,,STUR,GAS,0.3993,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,no
+,Heizkraftwerk Süd,14.4,1.0,DE,,,STUR,GAS,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,no
+,HKW,63.0,2.0,DE,,,STUR,GAS,0.3839,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,StWB Stadtwerke Brandenburg an der Havel GmbH & Co. KG,yes
+,Kirchmöser,160.0,1.0,DE,,,COMC,GAS,0.513,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,HKW-Mitte,20.0,1.0,DE,,,COMC,GAS,0.4095,5.0,,,,,,,,,,,,,,56.1835396941005,,,,,,,,,,,Braunschweiger Versorgungs-AG & Co. KG,no
+,HKW-Mitte,74.0,1.0,DE,,,COMC,GAS,0.585,5.0,,,,,,,,,,,,,,207.87909686817187,,,,,,,,,,,Braunschweiger Versorgungs-AG & Co. KG,no
+,HKW-Nord,25.0,1.0,DE,,,GTUR,GAS,0.289,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Braunschweiger Versorgungs-AG & Co. KG,no
+,KW Hastedt,155.0,1.0,DE,,,STUR,GAS,0.31,4.0,,,,,,,,,,,,,,,,,,,,,,,,,swb Erzeugung GmbH & Co. KG,no
+,Egger Kraftwerk Brilon,13.5,1.0,DE,,,GTUR,GAS,0.3696,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Egger Holzwerkstoffe Brilon GmbH & Co. KG,no
+,Burghausen 01 - GT,120.0,1.0,DE,,,COMC,GAS,0.5445,5.0,,,,,,,,,,,,,,350.0,,,,,,,,,,,Wacker Chemie AG,no
+,Burghausen 01 - DT,50.0,1.0,DE,,,STUR,GAS,0.3619,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Wacker Chemie AG,no
+,Industriepark Werk Gendorf,73.1,1.0,DE,,,STUR,GAS,0.3872,8.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraServ GmbH & Co. Gendorf KG,no
+,HKW Chemnitz  Nord II,57.2,1.0,DE,,,STUR,GAS,0.3696,8.0,,,,,,,,,,,,,,,,,,,,,,,,,eins - energie in sachsen GmbH & Co. KG,no
+,Kraftwerk Dessau,39.0,1.0,DE,,,STUR,GAS,0.3806,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Fernwärmeversorgungs-GmbH Dessau,no
+,Dormagen,586.0,1.0,DE,,,COMC,GAS,0.54,5.0,,,,,,,,,,,,,,480.0,,,,,,,,,,,RWE Generation SE,no
+,Dortmund,26.0,1.0,DE,,,STUR,GAS,0.3894,4.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,HKW Dresden-Nossener Brücke,260.0,1.0,DE,,,COMC,GAS,0.5175,5.0,,,,,,,,,,,,,,455.0,,,,,,,,,,,DREWAG Stadtwerke Dresden GmbH,no
+,HKW III/A,40.0,1.0,DE,,,STUR,GAS,0.3872,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Duisburg AG,no
+,HKW III/B,234.0,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,167.0,,,,,,,,,,,Stadtwerke Duisburg AG,no
+,GuD,695.0,2.0,DE,,,COMC,GAS,0.5760000000000001,5.0,,,,,,,,,,,,,,75.0,,,,,,,,,,,Stadtwerke Düsseldorf AG,yes
+,GT,64.7,1.0,DE,,,GTUR,GAS,0.315,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Düsseldorf AG,no
+,GT,66.7,1.0,DE,,,GTUR,GAS,0.3124,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Düsseldorf AG,no
+,Gasblock,293.0,1.0,DE,,,STUR,GAS,0.3597,6.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Düsseldorf AG,no
+,Werkskraftwerk Sappi Ehingen,4.0,1.0,DE,,,STUR,GAS,0.3597,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Ehingen GmbH,no
+,Kombikraftwerk,46.6,1.0,DE,,,STUR,GAS,0.3773,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stora Enso Sachsen GmbH,no
+,Huntorf,321.0,1.0,DE,,,GTUR,GAS,0.3956,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,HKW Eltmann,116.0,2.0,DE,,,STUR,GAS,0.3927,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Palm Power GmbH & Co. KG,yes
+,Emden Gas,433.0,1.0,DE,,,STUR,GAS,0.3553,24.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,HKW Iderhoffstraße,11.0,1.0,DE,,,STUR,GAS,0.3806,1.0,,,,,,,,,,,,,,,,,,,,,,,,,SWE Energie GmbH,no
+,HKW Erfurt-Ost,109.1,2.0,DE,,,COMC,GAS,0.56925,5.0,,,,,,,,,,,,,,264.0,,,,,,,,,,,SWE Energie GmbH,yes
+,HKW Erlangen,21.6,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Erlanger Stadtwerke AG,no
+,HKW Erlangen,6.7,1.0,DE,,,COMC,GAS,0.603,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Erlanger Stadtwerke AG,no
+,Heizkraftwerk FFO,48.0,1.0,DE,,,COMC,GAS,0.5265,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Frankfurt (Oder) GmbH,no
+,HKW Niederrad,126.0,2.0,DE,,,STUR,GAS,0.3894,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Mainova AG,yes
+,HKW West,99.0,1.0,DE,,,STUR,GAS,0.3784,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Mainova AG,no
+,GuD Anlage WVK,38.6,1.0,DE,,,COMC,GAS,0.531,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Rhodia Acetow GmbH,no
+,Heizkraftwerk Gera-Nord,74.0,1.0,DE,,,STUR,GAS,0.3806,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Energieversorgung Gera GmbH,no
+,HKW Göttingen,18.8,1.0,DE,,,STUR,GAS,0.3828,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Georg-August-Universität Göttingen Stiftung Öffentlichen Rechts,no
+,"HKW ""Helmshäger Berg""",14.7,1.0,DE,,,GTUR,GAS,0.3696,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Greifswald GmbH,no
+,Kraftwerk Grenzach-Wyhlen,30.0,1.0,DE,,,STUR,GAS,0.4037,0.0,,,,,,,,,,,,,,,,,,,,,,,,,KGW - Kraftwerk Grenzach-Wyhlen GmbH,no
+,Staudinger,572.0,1.0,DE,,,STUR,GAS,0.3597,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Energiezentrum Mohn Media,25.0,1.0,DE,,,STUR,GAS,0.3784,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Mohn Media Mohndruck GmbH,no
+,Heizkraftwerk Hagen-Kabel,230.0,1.0,DE,,,STUR,GAS,0.363,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG,no
+,HKW Halle Trotha,97.0,1.0,DE,,,STUR,GAS,0.3905,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EVH GmbH,no
+,HKW Halle Trotha,56.1,1.0,DE,,,COMC,GAS,0.5985,2.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Halle-Trotha GmbH,no
+,GuD Tiefstack,127.0,1.0,DE,,,COMC,GAS,0.5805,5.0,,,,,,,,,,,,,,170.0,,,,,,,,,,,Wärme Hamburg GmbH,no
+,Heizkraftwerk,22.5,1.0,DE,,,STUR,GAS,0.3773,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ADM Hamburg Aktiengesellschaft,no
+,Trianel Gaskraftwerk ,817.0,2.0,DE,,,COMC,GAS,0.576,5.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Trianel Gaskraftwerk Hamm GmbH & Co. KG ,yes
+,GKL,230.0,1.0,DE,,,COMC,GAS,0.5985,5.0,,,,,,,,,,,,,,185.0,,,,,,,,,,,enercity AG,no
+,KWH,102.0,1.0,DE,,,STUR,GAS,0.3575,4.0,,,,,,,,,,,,,,,,,,,,,,,,,enercity AG,no
+,Cuno Heizkraftwerk Herdecke,417.0,1.0,DE,,,COMC,GAS,0.5715,2.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG / Statkraft Markets,no
+,Wintershall,69.0,1.0,DE,,,COMC,GAS,0.5805,5.0,,,,,,,,,,,,,,299.0,,,,,,,,,,,K+S AG,no
+,ADS-Anlage,96.5,1.0,DE,,,STUR,GAS,0.3982,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Infraserv GmbH & Co. Höchst KG,no
+,Heizkraftwerk,86.0,1.0,DE,,,STUR,GAS,0.3883,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Infraserv GmbH & Co. Höchst KG,no
+,HKW Jena,182.0,1.0,DE,,,COMC,GAS,0.522,5.0,,,,,,,,,,,,,,225.0,,,,,,,,,,,TEAG Thüringer Energie AG,no
+,HKW Karcherstr.,11.6,1.0,DE,,,STUR,GAS,0.3729,1.0,,,,,,,,,,,,,,,,,,,,,,,,,"SWK Stadtwerke Kaiserslautern, Versorgungs-AG",no
+,Rheinhafen-Dampfkraftwerk,353.0,1.0,DE,,,COMC,GAS,0.531,5.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Heizkraftwerk West,37.0,1.0,DE,,,STUR,GAS,0.3674,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Karlsruhe GmbH,no
+,Kombi-HKW,48.31,1.0,DE,,,STUR,GAS,0.3718,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Städtische Werke Energie + Wärme GmbH,no
+,HKW Humboldtstr.,209.5,2.0,DE,,,STUR,GAS,0.3982,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Stadtwerke Kiel AG,yes
+,KW Kirchlengern,125.0,1.0,DE,,,COMC,GAS,0.4545,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Energieservice Westfalen Weser GmbH,no
+,HKW Südstadt,35.0,1.0,DE,,,COMC,GAS,0.513,5.0,,,,,,,,,,,,,,,,,,,,,,,,,RheinEnergie AG,no
+,HKW Niehl 2,413.0,1.0,DE,,,COMC,GAS,0.576,5.0,,,,,,,,,,,,,,370.0,,,,,,,,,,,RheinEnergie AG,no
+,HKW Merkenich,108.0,1.0,DE,,,COMC,GAS,0.558,5.0,,,,,,,,,,,,,,80.0,,,,,,,,,,,RheinEnergie AG,no
+,Knapsack Gas I,800.0,1.0,DE,,,COMC,GAS,0.5715,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Knapsack Power GmbH & Co. KG,no
+,Knapsack Gas II,430.0,1.0,DE,,,COMC,GAS,0.5985,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,KWK-Anlage Krefeld DT,25.8,1.0,DE,,,STUR,GAS,0.3839,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Cargill Deutschland GmbH,no
+,KWK-Anlage Krefeld VM,14.0,1.0,DE,,,ICEN,GAS,0.4406,,,,,,,,,,,,,,,,,,,,,,,,,,Cargill Deutschland GmbH,no
+,Landesbergen Gas,56.0,1.0,DE,,,GTUR,GAS,0.3098,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,Landesbergen Gas,431.0,1.0,DE,,,STUR,GAS,0.3553,24.0,,,,,,,,,,,,,,,,,,,,,,,,,Statkraft Markets GmbH,no
+,Heizkraftwerk Leipzig-Nord,167.0,1.0,DE,,,COMC,GAS,0.585,5.0,,,,,,,,,,,,,,200.0,,,,,,,,,,,Stadtwerke Leipzig GmbH,no
+,GuD Leuna,39.0,1.0,DE,,,COMC,GAS,0.531,5.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraLeuna GmbH,no
+,ILK-GuD,35.0,1.0,DE,,,COMC,GAS,0.513,5.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraLeuna GmbH,no
+,ILK-GuD,35.0,1.0,DE,,,COMC,GAS,0.513,5.0,,,,,,,,,,,,,,,,,,,,,,,,,TOTAL Raffinerie Mitteldeutschland GmbH,no
+,ILK-GuD,37.0,1.0,DE,,,COMC,GAS,0.513,5.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraLeuna GmbH,no
+,X-Kraftwerk,25.0,1.0,DE,,,STUR,GAS,0.3641,4.0,,,,,,,,,,,,,,138.8671875,,,,,,,,,,,Currenta GmbH & Co. OHG,no
+,Emsland,1837.0,5.0,DE,,,COMC,GAS,0.4535999999999999,5.0,,,,,,,,,,,,,,124.0,,,,,,,,,,,RWE Generation SE,yes
+,KW Mitte,47.0,1.0,DE,,,GTUR,GAS,0.3592,0.0,,,,,,,,,,,,,,,,,,,,,,,,,BASF SE,no
+,Kraftwerk Mitte,497.5,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,540.0,,,,,,,,,,,BASF SE,no
+,Kraftwerk Süd,410.0,1.0,DE,,,COMC,GAS,0.5265,2.0,,,,,,,,,,,,,,420.0,,,,,,,,,,,BASF SE,no
+,Kraftwerk Mainz,769.2,2.0,DE,,,COMC,GAS,0.486,5.0,,,,,,,,,,,,,,160.0,,,,,,,,,,,Kraftwerke Mainz-Wiesbaden AG,yes
+,Kraftwerk III,138.7,2.0,DE,,,COMC,GAS,0.5535,5.0,,,,,,,,,,,,,,390.0,,,,,,,,,,,Evonik Degussa GmbH,yes
+,Freimann GT 1,80.0,1.0,DE,,,GTUR,GAS,0.56,4.0,,,,,,,,,,,,,,,,,,,,,,,,,SWM Services GmbH,no
+,Freimann GT 2,80.0,1.0,DE,,,GTUR,GAS,0.56,4.0,,,,,,,,,,,,,,,,,,,,,,,,,SWM Services GmbH,no
+,Süd DT1,79.7,1.0,DE,,,COMC,GAS,0.45,5.0,,,,,,,,,,,,,,75.21597096188748,,,,,,,,,,,SWM Services GmbH,no
+,Süd GT3,97.9,1.0,DE,,,COMC,GAS,0.45,5.0,,,,,,,,,,,,,,92.39201451905626,,,,,,,,,,,SWM Services GmbH,no
+,Süd GT2,97.9,1.0,DE,,,COMC,GAS,0.45,5.0,,,,,,,,,,,,,,92.39201451905626,,,,,,,,,,,SWM Services GmbH,no
+,Süd GT 61,124.9,1.0,DE,,,COMC,GAS,0.558,5.0,,,,,,,,,,,,,,153.63629117959618,,,,,,,,,,,SWM Services GmbH,no
+,Süd GT 62,123.9,1.0,DE,,,COMC,GAS,0.558,5.0,,,,,,,,,,,,,,152.40621679064827,,,,,,,,,,,SWM Services GmbH,no
+,Süd DT60,127.6,1.0,DE,,,COMC,GAS,0.558,5.0,,,,,,,,,,,,,,156.95749202975557,,,,,,,,,,,SWM Services GmbH,no
+,Heizkraftwerk Hafen,104.14,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,120.0,,,,,,,,,,,Stadtwerke Münster GmbH,no
+,GuD-HKW Neubrandenburg,75.0,1.0,DE,,,COMC,GAS,0.5265,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Neubrandenburger Stadtwerke GmbH,no
+,Cogeneration,25.4,1.0,DE,,,STUR,GAS,0.3806,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Bayernoil Raffineriegesellschaft mbH,no
+,Thyrow,296.0,8.0,DE,,,GTUR,GAS,0.34724,5.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Lausitz Energie Kraftwerke AG,yes
+,HKW Sandreuth,75.0,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,142.85714285714286,,,,,,,,,,,N-ERGIE AG,no
+,HKW Sandreuth,75.0,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,142.85714285714286,,,,,,,,,,,N-ERGIE AG,no
+,Franken 1,823.0,2.0,DE,,,COMC,GAS,0.42525,5.0,,,,,,,,,,,,,,30.0,,,,,,,,,,,Uniper Kraftwerke GmbH ,yes
+,HKW 1,47.6,2.0,DE,,,STUR,GAS,0.36685,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Energieversorgung Oberhausen AG,yes
+,Obernburg,100.0,2.0,DE,,,COMC,GAS,0.34875,5.0,,,,,,,,,,,,,,112.0,,,,,,,,,,,Kraftwerk Obernburg GmbH,yes
+,Heizkraftwerk Pforzheim GmbH,11.3,1.0,DE,,,STUR,GAS,0.38,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Pforzheim GmbH,no
+,Heizkraftwerk Pforzheim GmbH,41.2,1.0,DE,,,COMC,GAS,0.45,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Pforzheim GmbH,no
+,Hattorf,52.0,1.0,DE,,,STUR,GAS,0.3993,4.0,,,,,,,,,,,,,,,,,,,,,,,,,K+S AG,no
+,Kraftwerk Plattling,118.5,1.0,DE,,,COMC,GAS,0.585,2.0,,,,,,,,,,,,,,150.0,,,,,,,,,,,Kraftwerk Platting GmbH,no
+,Kraftwerk Veltheim,65.0,1.0,DE,,,GTUR,GAS,0.3124,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Kraftwerk Veltheim,335.0,1.0,DE,,,STUR,GAS,0.3575,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,HKW Potsdam-Süd,81.8,1.0,DE,,,STUR,GAS,0.3806,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Energie und Wasser Potsdam GmbH,no
+,BHKW-Hauffstraße,9.84,1.0,DE,,,ICEN,GAS,0.4574,0.0,,,,,,,,,,,,,,,,,,,,,,,,,FairEnergie GmbH,no
+,Solvay Kraftwerk Rheinberg,79.0,1.0,DE,,,STUR,GAS,0.3421,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Solvay Chemicals GmbH,no
+,Gasmotore,9.81,1.0,DE,,,ICEN,GAS,0.4574,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Rosenheim GmbH & Co. KG,no
+,Gasmotor 4,9.2,1.0,DE,,,ICEN,GAS,0.4602,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Rosenheim GmbH & Co. KG,no
+,Gasmotor 5,4.3,1.0,DE,,,ICEN,GAS,0.4588,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Rosenheim GmbH & Co. KG,no
+,GuD Marienehe,108.0,1.0,DE,,,COMC,GAS,0.522,5.0,,,,,,,,,,,,,,120.0,,,,,,,,,,,Stadtwerke Rostock AG,no
+,HKW Schwarza,26.5,1.0,DE,,,STUR,GAS,0.3146,4.0,,,,,,,,,,,,,,,,,,,,,,,,,TWS Thüringer Wärme Service GmbH,no
+,GuD-Anlage Rüsselsheim,112.1,1.0,DE,,,COMC,GAS,0.5355,5.0,,,,,,,,,,,,,,88.0,,,,,,,,,,,Opel Automobile GmbH ,no
+,HKW Römerbrücke,75.0,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,141.0,,,,,,,,,,,Energie SaarLorLux AG,no
+,GuD Schwarzheide,122.0,1.0,DE,,,COMC,GAS,0.513,5.0,,,,,,,,,,,,,,209.0,,,,,,,,,,,BASF Schwarzheide GmbH,no
+,HKW Schwerin Süd,67.9,2.0,DE,,,STUR,GAS,0.3784,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Energieversorgung Schwerin GmbH & Co. Erzeugung KG,yes
+,GuD Anlage Spreetal,50.0,1.0,DE,,,COMC,GAS,0.57,2.0,,,,,,,,,,,,,,,,,,,,,,,,,Alpiq Spreetal GmbH,no
+,Dow Stade,190.0,1.0,DE,,,STUR,GAS,0.31,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Dow Deutschland Anlagengesellschaft mbH,no
+,Dow Stade,157.0,1.0,DE,,,COMC,GAS,0.6075,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Dow Deutschland Anlagengesellschaft mbH,no
+,GuD-Ikw Staßfurt,109.0,2.0,DE,,,COMC,GAS,0.6075,5.0,,,,,,,,,,,,,,160.0,,,,,,,,,,,CIECH Energy Deutschland GmbH,yes
+,Heizkraftwerk Stuttgart-Gaisburg,55.0,1.0,DE,,,GTUR,GAS,0.425,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,BHKW Obere Viehweide,13.4,1.0,DE,,,STUR,GAS,0.385,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Tübingen GmbH,no
+,Gemeinschaftskraftwerk Irsching ,846.0,1.0,DE,,,COMC,GAS,0.585,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Gemeinschaftskraftwerk Irsching GmbH,no
+,Ulrich Hartmann (Irsching),561.0,1.0,DE,,,COMC,GAS,0.5895,2.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Weisweiler,200.0,1.0,DE,,,GTUR,GAS,0.3956,5.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Weisweiler,200.0,1.0,DE,,,GTUR,GAS,0.3956,5.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Gersteinwerk,55.0,1.0,DE,,,COMC,GAS,0.4185,2.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,55.0,1.0,DE,,,COMC,GAS,0.4185,2.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,55.0,1.0,DE,,,STUR,GAS,0.3553,4.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,55.0,1.0,DE,,,STUR,GAS,0.3553,4.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,355.0,1.0,DE,,,STUR,GAS,0.3553,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,355.0,1.0,DE,,,COMC,GAS,0.4185,5.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,355.0,1.0,DE,,,COMC,GAS,0.4185,5.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Gersteinwerk,112.0,1.0,DE,,,GTUR,GAS,0.3384,4.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,Wi-Biebrich,25.015,1.0,DE,,,STUR,GAS,0.3916,4.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraServ GmbH & Co. Wiesbaden KG,no
+,Spitzenlastkraftwerk Wolfen,40.0,1.0,DE,,,STUR,GAS,0.3817,0.0,,,,,,,,,,,,,,,,,,,,,,,,,envia THERM GmbH,no
+,HKW Barmen,88.019,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,80.0,,,,,,,,,,,WSW Energie & Wasser AG,no
+,Heizkraftwerke an der Friedensbrücke,23.0,1.0,DE,,,STUR,GAS,0.3531,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Würzburg GmbH,no
+,Heizkraftwerke an der Friedensbrücke,25.0,1.0,DE,,,STUR,GAS,0.3773,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Würzburg GmbH,no
+,Heizkraftwerke an der Friedensbrücke,29.5,1.0,DE,,,GTUR,GAS,0.4034,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Würzburg GmbH,no
+,Heizkraftwerke an der Friedensbrücke,44.5,1.0,DE,,,GTUR,GAS,0.393,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Heizkraftwerk Würzburg GmbH,no
+,Zielitz,27.0,1.0,DE,,,STUR,GAS,0.3806,4.0,,,,,,,,,,,,,,,,,,,,,,,,,K+S AG,no
+,Gaskraftwerk,28.3,2.0,DE,,,STUR,GAS,0.3772999999999999,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Smurfit Kappa Zülpich Papier GmbH,yes
+,UPM Augsburg,29.0,1.0,DE,,,STUR,GAS,0.3487,0.0,,,,,,,,,,,,,,,,,,,,,,,,,UPM GmbH Werk Augsburg,no
+,Heizkraftwerk,20.4,1.0,DE,,,STUR,GAS,0.3586,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Augsburg Energie GmbH,no
+,HKW Bad Salzungen,9.7,1.0,DE,,,STUR,GAS,0.3784,1.0,,,,,,,,,,,,,,,,,,,,,,,,,TEAG Thüringer Energie AG,no
+,Industriekraftwerk Breuberg,11.4,1.0,DE,,,STUR,GAS,0.3839,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Pirelli Deutschland GmbH,no
+,Energiezentrale,10.2,1.0,DE,,,GTUR,GAS,0.3566,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RÜTGERS Germany GmbH,no
+,Energiezentrale,0.9,1.0,DE,,,STUR,GAS,0.3905,1.0,,,,,,,,,,,,,,,,,,,,,,,,,RÜTGERS Germany GmbH,no
+,Heizkraftwerk,10.0,1.0,DE,,,GTUR,GAS,0.3774,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Merck KGaA,no
+,GHD,13.4,2.0,DE,,,GTUR,GAS,0.3722,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,GHD Bayernwerk Natur GmbH & Co. KG,yes
+,"MT, Düren",14.0,1.0,DE,,,STUR,GAS,0.319,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Metsä Tissue GmbH (Werk Düren),no
+,BHKW an Klinkerweg,10.2,1.0,DE,,,STUR,GAS,0.385,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Erkrath GmbH,no
+,KWKK Heidelberg,13.5,1.0,DE,,,STUR,GAS,0.3861,1.0,,,,,,,,,,,,,,,,,,,,,,,,,innogy SE,no
+,P&L Werk Appeldorn,11.4,1.0,DE,,,STUR,GAS,0.3872,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfeifer & Langen GmbH & Co. KG,no
+,HKW Merkenich,15.5,1.0,DE,,,STUR,GAS,0.396,0.0,,,,,,,,,,,,,,28.6784140969163,,,,,,,,,,,RheinEnergie AG,no
+,HKW Merheim,15.8,1.0,DE,,,COMC,GAS,0.5445,5.0,,,,,,,,,,,,,,,,,,,,,,,,,RheinEnergie AG,no
+,P&L Werk Lage,10.2,1.0,DE,,,STUR,GAS,0.4037,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Pfeifer & Langen GmbH & Co. KG,no
+,HKW-West,22.7,2.0,DE,,,STUR,GAS,0.37455,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Stadtwerke Lemgo GmbH,yes
+,BHKW Ludwigshafen,12.5,1.0,DE,,,STUR,GAS,0.3938,1.0,,,,,,,,,,,,,,,,,,,,,,,,,MVV Energie AG,no
+,Industriekraftwerk Ludwigshafen,11.96,1.0,DE,,,COMC,GAS,0.5535,5.0,,,,,,,,,,,,,,,,,,,,,,,,,MVV Energie AG,no
+,GuD-Kraftwerk,17.2,1.0,DE,,,COMC,GAS,0.5625,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Energie- und Medienversorgung Sandhofer Straße GmbH & Co. KG,no
+,PWG,10.6,2.0,DE,,,STUR,GAS,0.3718,1.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Peißenberger Wärmegesellschaft mbH,yes
+,Kraftwerk Meggle,15.1,1.0,DE,,,STUR,GAS,0.385,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Molkerei MEGGLE Wasserburg GmbH & Co. KG,no
+,UPM Schongau,64.0,1.0,DE,,,STUR,GAS,0.3344,4.0,,,,,,,,,,,,,,,,,,,,,,,,,UPM GmbH,no
+,HKW3 UPM Schongau,76.0,1.0,DE,,,STUR,GAS,0.4004,4.0,,,,,,,,,,,,,,,,,,,,,,,,,UPM GmbH,no
+,Heizkraftwerk Sindelfingen,129.14,3.0,DE,,,STUR,GAS,0.3989333333333333,8.0,,,,,,,,,,,,,,102.0,,,,,,,,,,,Daimler AG,yes
+,HKW Bohrhügel,13.5,1.0,DE,,,STUR,GAS,0.3795,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Suhl/Zella-Mehlis GmbH,no
+,Unterbreizbach,20.0,1.0,DE,,,STUR,GAS,0.3795,0.0,,,,,,,,,,,,,,,,,,,,,,,,,K+S AG,no
+,Co-Generation,11.5,1.0,DE,,,STUR,GAS,0.3751,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Grace GmbH,no
+,Sigmundshall,11.0,1.0,DE,,,STUR,GAS,0.3564,1.0,,,,,,,,,,,,,,,,,,,,,,,,,K+S AG,no
+,IHKW Heidenheim,31.65,2.0,DE,,,STUR,GAS,0.37565,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Sales & Solutions GmbH,yes
+,Kraftwerk,3.0,1.0,DE,,,STUR,GAS,0.3795,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Martinswerk GmbH,no
+,Energiezentrale 1992,26.3,2.0,DE,,,STUR,GAS,0.3883,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Flughafen München GmbH,yes
+,Erweiterung Energiezentrale 2003,7.44,1.0,DE,,,STUR,GAS,0.3883,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Terminal 2 Gesellschaft mbH & Co oHG,no
+,HBB,24.0,1.0,DE,,,STUR,GAS,0.3861,4.0,,,,,,,,,,,,,,,,,,,,,,,,,HBB Heizkraftwerk Bauernfeind Betreibergesellschaft mbh,no
+,K&N PFK AG EV,13.11,1.0,DE,,,COMC,GAS,0.5085,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Kübler & Niethammer Papierfabrik Kriebstein AG,no
+,INEOS Kraftwerk,24.0,1.0,DE,,,STUR,GAS,0.3795,4.0,,,,,,,,,,,,,,,,,,,,,,,,,INEOS Solvents Germany GmbH,no
+,HKW Pfaffenwald,35.1375,3.0,DE,,,STUR,GAS,0.3575,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Universität Stuttgart,yes
+,KWK-Anlage,14.8,1.0,DE,,,COMC,GAS,0.549,5.0,,,,,,,,,,,,,,,,,,,,,,,,,CR3-Kaffeeveredelung M. Hermsen GmbH,no
+,PKV Kraftwerk,58.1,1.0,DE,,,STUR,GAS,0.3729,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Papier- u. Kartonfabrik Varel GmbH & Co. KG,no
+,PKV Kraftwerk,0.48,1.0,DE,,,STUR,GAS,0.3498,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Papier- u. Kartonfabrik Varel GmbH & Co. KG,no
+,Holthausen,84.0,1.0,DE,,,STUR,GAS,0.3278,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Henkel AG & Co. KGaA,no
+,Heizkraftwerk,27.0,1.0,DE,,,STUR,GAS,0.38,4.0,,,,,,,,,,,,,,,,,,,,,,,,,DS Smith Paper Deutschland GmbH,no
+,GuD-Anlage,47.0,1.0,DE,,,COMC,GAS,0.5985,5.0,,,,,,,,,,,,,,,,,,,,,,,,,DS Smith Paper Deutschland GmbH,no
+,EVC / GLOBALFOUNDRIES,34.3,1.0,DE,,,STUR,GAS,0.3828,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Energieversorgungscenter Dresden-Wilschdorf GmbH & Co. KG,no
+,EZ1,23.3,1.0,DE,,,STUR,GAS,0.3773,0.0,,,,,,,,,,,,,,,,,,,,,,,,,"Südzucker AG, Werk Zeitz",no
+,Heizkraftwerk zur Papierfabrik,18.1,1.0,DE,,,STUR,GAS,0.3806,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Delkeskamp Verpackungswerke GmbH,no
+,Steinitz,11.4,1.0,DE,,,STUR,GAS,0.3839,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Neptune Energy Deutschland GmbH,no
+,FS-Karton,18.879,1.0,DE,,,STUR,GAS,0.3762,4.0,,,,,,,,,,,,,,,,,,,,,,,,,FS-Karton GmbH,no
+,STW,18.72,1.0,DE,,,STUR,GAS,0.3817,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Schoeller Technocell GmbH & Co. KG,no
+,Heizkraftwerk Evonik Rheinfelden,15.68,1.0,DE,,,STUR,GAS,0.3619,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Evonik Degussa GmbH,no
+,KWK AOS GmbH,30.72,1.0,DE,,,GTUR,GAS,0.4112,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Aluminium Oxid Stade GmbH,no
+,GT1 ,18.6,4.0,DE,,,GTUR,GAS,0.36375,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Prinovis GmbH & Co. KG,yes
+,GUD-Anlage DREWSEN,13.0,1.0,DE,,,COMC,GAS,0.54,5.0,,,,,,,,,,,,,,,,,,,,,,,,,DREWSEN SPEZIALPAPIERE GmbH & Co. KG,no
+,Gas- u. Dampfturbinenanlage Südraum,38.61,1.0,DE,,,STUR,GAS,0.3982,0.0,,,,,,,,,,,,,,,,,,,,,,,,,ZF Friedrichshafen AG,no
+,GTKW Darmstadt,94.6,1.0,DE,,,GTUR,GAS,0.4138,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Entega AG,no
+,Heizkraftwerk Stendal,13.2,1.0,DE,,,STUR,GAS,0.3784,1.0,,,,,,,,,,,,,,,,,,,,,,,,,"Stadtwerke - Altmärkische Gas-, Wasser- u. E-Werke Stendal GmbH",no
+,Kraftwerk 3,33.7,2.0,DE,,,STUR,GAS,0.3817,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Papierfabrik Adolf Jass GmbH & Co. KG,yes
+,Werk Nordstemmen,30.6,1.0,DE,,,STUR,GAS,0.3333,0.0,,,,,,,,,,,,,,,,,,,,,,,,,"Nordzucker AG, Werk Nordstemmen",no
+,Werk Clauen,17.11,1.0,DE,,,STUR,GAS,0.3883,0.0,,,,,,,,,,,,,,,,,,,,,,,,,"Nordzucker AG, Werk Clauen",no
+,Heizkraftwerk Krefeld,12.6,1.0,DE,,,STUR,GAS,0.3971,1.0,,,,,,,,,,,,,,,,,,,,,,,,,SWK ENERGIE GmbH,no
+,HKW Wiesengrund,22.1,1.0,DE,,,STUR,GAS,0.3773,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Opel Automobile GmbH,no
+,Werk Klein Wanzleben,23.4,1.0,DE,,,STUR,GAS,0.3784,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Nordzucker AG,no
+,BP Werk Lingen,66.0,1.0,DE,,,STUR,GAS,0.3806,8.0,,,,,,,,,,,,,,,,,,,,,,,,,BP Europa SE,no
+,HKW 1 Werk Offstein,30.0,1.0,DE,,,STUR,GAS,0.3421,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Südzucker AG Mannheim,no
+,Gemeinschaftskraftwerk Weig,11.4,1.0,DE,,,COMC,GAS,0.504,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Moritz J. Weig GmbH & Co KG,no
+,Gemeinschaftskraftwerk Weig,27.4,1.0,DE,,,COMC,GAS,0.5985,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Moritz J. Weig GmbH & Co KG,no
+,Gemeinschaftskraftwerk Weig,8.4,1.0,DE,,,STUR,GAS,0.3531,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Moritz J. Weig GmbH & Co KG,no
+,Industriekraftwerk Greifswald,38.0,1.0,DE,,,STUR,GAS,0.3993,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Industriekraftwerk Greifswald GmbH,no
+,HKW Freiberg,13.4,1.0,DE,,,STUR,GAS,0.3993,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Freiberger Erdgas GmbH,no
+,Kraftwerk IV,60.76,1.0,DE,,,STUR,GAS,0.4026,,,,,,,,,,,,,,,,,,,,,,,,,,Evonik Degussa GmbH,no
+,BHKW Braunschweig,10.4,1.0,DE,,,STUR,GAS,0.4004,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Volkswagen AG,no
+,Niehl 3,459.9,1.0,DE,,,STUR,GAS,0.4026,8.0,,,,,,,,,,,,,,,,,,,,,,,,,RheinEnergie AG,no
+,Heizkraftwerk FL,78.0,1.0,DE,,,COMC,GAS,0.612,5.0,,,,,,,,,,,,,,110.7219512195122,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,KW Mittelsbüren,444.5,1.0,DE,,,COMC,GAS,0.612,5.0,,,,,,,,,,,,,,,,,,,,,,,,,Gemeinschaftskraftwerk Bremen GmbH und Co. KG,no
+,Energieversogung Wedding,15.0,1.0,DE,,,STUR,GAS,0.3542,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Bayer AG,no
+,Ford Saarlouis,22.0,1.0,DE,,,STUR,GAS,0.4026,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Ford-Werke GmbH,no
+,Regensburg,13.25,2.0,DE,,,STUR,GAS,0.4004,1.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,BMW AG,yes
+,Gasturbinen-HKW St. Wendel,19.5,1.0,DE,,,GTUR,GAS,0.4164,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Fresenius Medical Care Deutschland GmbH,no
+,HKW West M5,38.7,1.0,DE,,,STUR,GAS,0.4048,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Mainova AG,no
+,KWK Dingolfing BA 1,16.0,1.0,DE,,,STUR,GAS,0.4037,0.0,,,,,,,,,,,,,,,,,,,,,,,,,BMW AG,no
+,K5/T7,29.0,1.0,DE,,,STUR,GAS,0.4026,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,HKW 3 Stuttgart-Gaisburg,29.151,1.0,DE,,,STUR,GAS,0.4048,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,HKW Dresden-Nord,11.5,1.0,DE,,,STUR,GAS,0.4048,1.0,,,,,,,,,,,,,,,,,,,,,,,,,DREWAG Stadtwerke Dresden GmbH,no
+,HKW Lusan,39.400000000000006,2.0,DE,,,STUR,GAS,0.4048,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,ENGIE Deutschland GmbH,yes
+,GM,10.0,1.0,DE,,,STUR,GAS,0.4048,1.0,,,,,,,,,,,,,,,,,,,,,,,,,TEAG Thüringer Energie AG,no
+,KWK Landshut,17.6,1.0,DE,,,STUR,GAS,0.4059,4.0,,,,,,,,,,,,,,,,,,,,,,,,,BMW AG,no
+,Dampfturbine 5,38.7,1.0,DE,,,STUR,GAS,0.4048,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Mainova AG,no
+,KWK-Anlage Neukochen,15.0,1.0,DE,,,STUR,GAS,0.341,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Papierfabrik Palm GmbH & Co. KG,no
+,Dingolfing BA2,13.5,1.0,DE,,,STUR,GAS,0.4059,1.0,,,,,,,,,,,,,,,,,,,,,,,,,BMW AG,no
+,Werk 1.1,13.5,1.0,DE,,,STUR,GAS,0.4059,1.0,,,,,,,,,,,,,,,,,,,,,,,,,BMW AG,no
+,Werk 1.5,13.6,1.0,DE,,,STUR,GAS,0.4059,1.0,,,,,,,,,,,,,,,,,,,,,,,,,BMW AG,no
+,Brokdorf,4180.0,3.0,DE,,,STUR,NUC,0.33,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Preussen Elektra GmbH,yes
+,Grafenrheinfeld,1275.0,1.0,DE,,,STUR,NUC,0.405,24.0,,,,,,,,,,,,,,,,,,,,,,,,,E.ON Kernkraft GmbH,no
+,Kernkraft Gundremmingen ,2572.0,2.0,DE,,,STUR,NUC,0.33,24.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,RWE Power AG,yes
+,Kernkraftwerk Emsland,1336.0,1.0,DE,,,STUR,NUC,0.33,24.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,Gemeinschaftskernkraftwerk Neckarwestheim II,1310.0,1.0,DE,,,STUR,NUC,0.33,24.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Kernkraftwerk Philippsburg 2,1402.0,1.0,DE,,,STUR,NUC,0.33,24.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Werkskraftwerk Sappi Alfeld,2.8,1.0,DE,,,STUR,OIL,0.3784,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Sappi Alfeld GmbH,no
+,Wilmersdorf,276.0,2.0,DE,,,GTUR,OIL,0.3202,5.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Vattenfall Wärme Berlin AG,yes
+,Moabit,34.0,1.0,DE,,,GTUR,OIL,0.3046,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Moabit,17.0,1.0,DE,,,GTUR,OIL,0.3046,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,KW Mittelsbüren,86.0,1.0,DE,,,GTUR,OIL,0.315,4.0,,,,,,,,,,,,,,,,,,,,,,,,,swb Erzeugung AG & Co. KG,no
+,Brunsbüttel,254.0,4.0,DE,,,GTUR,OIL,0.27,5.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Vattenfall Europe Nuclear Energy GmbH,yes
+,GT,86.2,1.0,DE,,,GTUR,OIL,0.3072,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Düsseldorf AG,no
+,HKW Flensburg,30.0,1.0,DE,,,COMC,OIL,0.4868,5.0,,,,,,,,,,,,,,42.58536585365854,,,,,,,,,,,Stadtwerke Flensburg GmbH,no
+,Kraftwerk Fulda,24.8,1.0,DE,,,STUR,OIL,0.3971,4.0,,,,,,,,,,,,,,,,,,,,,,,,,RhönEnergie Fulda GmbH,no
+,Spitzenlastkraftwerk Sermuth,17.0,1.0,DE,,,STUR,OIL,0.3795,0.0,,,,,,,,,,,,,,,,,,,,,,,,,envia THERM GmbH,no
+,Spitzenlastkraftwerk Großkayna,120.0,1.0,DE,,,GTUR,OIL,0.3644,4.0,,,,,,,,,,,,,,,,,,,,,,,,,envia THERM GmbH,no
+,Ingolstadt,386.0,1.0,DE,,,STUR,OIL,0.3553,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Ingolstadt,386.0,1.0,DE,,,STUR,OIL,0.3564,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Kraftwerk Hausham,93.6,4.0,DE,,,GTUR,OIL,0.3332,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Peissenberger Kraftwerksgesellschaft mbH,yes
+,MiRO,70.0,2.0,DE,,,STUR,OIL,0.3795,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,MiRO Mineraloelraffinerie Oberrhein GmbH & Co. KG,yes
+,Shell Deutschland Oil GmbH,97.1,1.0,DE,,,COMC,OIL,0.38,5.0,,,,,,,,,,,,,,235.0,,,,,,,,,,,Shell Deutschland Oil GmbH,no
+,Raffineriekraftwerk,92.5,1.0,DE,,,COMC,OIL,0.38,5.0,,,,,,,,,,,,,,208.0,,,,,,,,,,,TOTAL Raffinerie Mitteldeutschland GmbH,no
+,Dampfkraftwerk Marbach am Neckar,77.4,1.0,DE,,,GTUR,OIL,0.3046,1.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Dampfkraftwerk Marbach am Neckar,85.0,1.0,DE,,,COMC,OIL,0.38,5.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Dampfkraftwerk Marbach am Neckar,263.5,1.0,DE,,,COMC,OIL,0.38,5.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Itzehoe,88.0,1.0,DE,,,STUR,OIL,0.3542,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Audorf,87.0,1.0,DE,,,STUR,OIL,0.3553,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,IKS PCK Schwedt,333.5,5.0,DE,,,STUR,OIL,0.37906,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,PCK Raffinerie GmbH,yes
+,Restmüll-Heizkraftwerk Stuttgart-Münster,23.3,1.0,DE,,,STUR,OIL,0.3564,0.0,,,,,,,,,,,,,,95.11506849315067,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Restmüll-Heizkraftwerk Stuttgart-Münster,23.3,1.0,DE,,,STUR,OIL,0.3564,0.0,,,,,,,,,,,,,,95.11506849315067,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Restmüll-Heizkraftwerk Stuttgart-Münster,23.3,1.0,DE,,,STUR,OIL,0.3564,0.0,,,,,,,,,,,,,,95.11506849315067,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Irsching,415.0,1.0,DE,,,STUR,OIL,0.3564,8.0,,,,,,,,,,,,,,25.0,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Kraftwerk Walheim,136.0,1.0,DE,,,GTUR,OIL,0.3306,5.0,,,,,,,,,,,,,,,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,SKW Gasturbine,24.0,1.0,DE,,,GTUR,OIL,0.3488,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Allgäuer Überlandwerk GmbH,no
+,SKW Diesel,10.5,1.0,DE,,,STUR,OIL,0.3608,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Allgäuer Überlandwerk GmbH,no
+,Wedel,101.0,2.0,DE,,,GTUR,OIL,0.3072,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Vattenfall Hamburg Wärme GmbH,yes
+,Kraftwerk Werdohl-Elverlingsen,206.0,1.0,DE,,,STUR,OIL,0.3575,8.0,,,,,,,,,,,,,,,,,,,,,,,,,Mark-E AG,no
+,Wilhelmshaven,56.0,1.0,DE,,,GTUR,OIL,0.3098,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Uniper Kraftwerke GmbH ,no
+,Spitzenlastanlage Barmen,60.0,1.0,DE,,,COMC,OIL,0.38,5.0,,,,,,,,,,,,,,54.53368022813257,,,,,,,,,,,WSW Energie & Wasser AG,no
+,Zolling,50.0,1.0,DE,,,GTUR,OIL,0.3176,1.0,,,,,,,,,,,,,,,,,,,,,,,,,ENGIE Deutschland AG,no
+,Abfallentsorgungszentrum Asdonkshof,4.8,1.0,DE,,,STUR,OIL,0.3817,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),no
+,DKW Nord,22.8,2.0,DE,,,STUR,OIL,0.3663,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Vereinigte Wertach-Elektrizitätswerke GmbH,yes
+,Kraftwerk,90.0,1.0,DE,,,STUR,OIL,0.3432,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Basell Polyolefine GmbH,no
+,Kraftwerk,0.8,1.0,DE,,,STUR,OIL,0.3795,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Martinswerk GmbH,no
+,EEV,38.0,1.0,DE,,,STUR,OIL,0.3784,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Nynas GmbH & Co KG ,no
+,Notstromdiesel,0.5,1.0,DE,,,STUR,OIL,0.3751,1.0,,,,,,,,,,,,,,,,,,,,,,,,,DS Smith Paper Deutschland GmbH,no
+,Spitzenkraftwerk,19.0,1.0,DE,,,STUR,OIL,0.24,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Eurowatt Spitzenkraft GmbH,no
+,KW Mittelsbüren,160.0,1.0,DE,,,STUR,OTH,0.3,8.0,,,,,,,,,,,,,,,,,,,,,,,,,ArcelorMittal Bremen GmbH,no
+,KW Mittelsbüren,110.0,1.0,DE,,,STUR,OTH,0.3,0.0,,,,,,,,,,,,,,,,,,,,,,,,,swb Erzeugung GmbH & Co. KG,no
+,Duisburg Ruhrort 2,710.0,6.0,DE,,,STUR,OTH,0.3,8.0,,,,,,,,,,,,,,150.0,,,,,,,,,,,ThyssenKrupp Steel Europe AG,yes
+,EBS-Heizkraftwerk,23.5,1.0,DE,,,STUR,OTH,0.3,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Progroup Power 1 GmbH,no
+,IKW,101.0,2.0,DE,,,STUR,OTH,0.3,4.0,,,,,,,,,,,,,,80.0,,,,,,,,,,,ArcelorMittal Eisenhüttenstadt GmbH,yes
+,HKW West,19.7,1.0,DE,,,STUR,OTH,0.3,0.0,,,,,,,,,,,,,,33.63414634146341,,,,,,,,,,,Mainova AG,no
+,Huckingen,606.0,2.0,DE,,,COMC,OTH,1.0,5.0,,,,,,,,,,,,,,68.0,,,,,,,,,,,Hüttenwerke Krupp Mannesmann GmbH,yes
+,ILK-GuD,8.7,1.0,DE,,,COMC,OTH,1.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraLeuna GmbH,no
+,ILK-EKT,14.0,1.0,DE,,,STUR,OTH,0.3,1.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraLeuna GmbH,no
+,ILK-GuD,20.0,1.0,DE,,,COMC,OTH,1.0,5.0,,,,,,,,,,,,,,,,,,,,,,,,,InfraLeuna GmbH,no
+,Kraftwerk Nord,87.5,1.0,DE,,,COMC,OTH,1.0,5.0,,,,,,,,,,,,,,280.0,,,,,,,,,,,BASF SE,no
+,Heizkraftwerk NMS,53.6,1.0,DE,,,STUR,OTH,0.3,4.0,,,,,,,,,,,,,,,,,,,,,,,,,SWN Stadtwerke Neumünster GmbH,no
+,Kraftwerk Salzgitter,288.5,3.0,DE,,,STUR,OTH,0.3,6.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Salzgitter Flachstahl GmbH,yes
+,Gichtgaskraftwerk Dillingen,85.0,1.0,DE,,,STUR,OTH,0.3,8.0,,,,,,,,,,,,,,,,,,,,,,,,,"Aktien-Gesellschaft der Dillinger Hüttenwerke, ROGESA Roheisengesellschaft Saar mbH und Zentralkokerei Saar GmbH, als Bruchteilsgemeinschaft",no
+,UPM Schongau,6.0,1.0,DE,,,STUR,OTH,0.3,1.0,,,,,,,,,,,,,,,,,,,,,,,,,UPM GmbH,no
+,O10,94.2,5.0,DE,,,GTUR,OTH,1.0,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Ineos Manufacturing Deutschland GmbH,yes
+,Oxea GmbH,38.0,1.0,DE,,,STUR,OTH,0.3,0.0,,,,,,,,,,,,,,,,,,,,,,,,,OXEA Produktion GmbH & Co.KG,no
+,DK Kraftwerk,21.0,1.0,DE,,,STUR,OTH,0.3,0.0,,,,,,,,,,,,,,,,,,,,,,,,,DK Recycling und Roheisen GmbH,no
+,EBS-Kraftwerk Witzenhausen,28.0,1.0,DE,,,STUR,OTH,0.3,4.0,,,,,,,,,,,,,,,,,,,,,,,,,B+T Energie GmbH,no
+,Gemeinschaftskraftwerk Weig,10.3,1.0,DE,,,STUR,OTH,0.3,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Moritz J. Weig GmbH & Co KG,no
+,Kraftwerk Raffinerie Heide,44.5,1.0,DE,,,STUR,OTH,0.3,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Raffinerie Heide GmbH,no
+,Werk Kalscheuren,26.5,1.0,DE,,,STUR,OTH,0.3,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Orion Engineered Carbons GmbH,no
+,Speicherfarm Leipzig,12.5,1.0,DE,,,STUR,OTH,0.3,1.0,,,,,,,,,,,,,,,,,,,,,,,,,BMW AG,no
+,Reuter,36.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Vattenfall Wärme Berlin AG,no
+,Dampfturbinenanlage der EBS-Kessel,35.0,1.0,DE,,,COMC,WHT,0.33,5.0,,,,,,,,,,,,,,46.26780626780626,,,,,,,,,,,Solvay Chemicals GmbH,no
+,MVA Bielefeld,34.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,MVA Bielefeld-Herford GmbH,no
+,Heizkraftwerk Karlstraße,12.0,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,no
+,KW Hafen,77.0,2.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,swb Entsorgung GmbH & Co. KG,yes
+,DT,102.6,2.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Stadtwerke Düsseldorf AG,yes
+,MHKW Frankfurt,72.5,2.0,DE,,,STUR,WHT,0.33,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Mainova AG,yes
+,EEW Großräschen,23.3,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EEW Energy from Waste Großräschen GmbH,no
+,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,24.0,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,MVR Müllverwertung Rugenberger Damm GmbH & Co. KG,no
+,Enertec Hameln,13.2,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Enertec Hameln GmbH,no
+,EEW Energy from Waste Hannover GmbH,22.5,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EEW Energy from Waste Hannover GmbH,no
+,TRV Buschhaus,37.5,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EEW Energy from Waste Helmstedt GmbH,no
+,Karnap,38.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Generation SE,no
+,TREA Leuna,32.5,2.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,MVV Energie AG,yes
+,Kläranlage,12.0,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,BASF SE,no
+,MHKW Rothensee,58.4,2.0,DE,,,STUR,WHT,0.33,8.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Müllheizkraftwerk Rothensee GmbH,yes
+,HKW Mannheim,48.34,6.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,MVV Energie AG,yes
+,HKW Sandreuth,18.0,1.0,DE,,,COMC,WHT,0.33,5.0,,,,,,,,,,,,,,34.285714285714285,,,,,,,,,,,N-ERGIE AG,no
+,GMVA Niederrhein,61.5,2.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,GMVA Gemeinschafts-Müll-Verbrennungsanlage Niederrhein GmbH,yes
+,"MHKW, WKW",9.0,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Stadtwerke Rosenheim GmbH & Co. KG,no
+,IKW Rüdersdorf,30.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Steag GmbH,no
+,GKS,24.4,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,GKS Gemeinschaftskraftwerk Schweinfurt GmbH,no
+,Restmüll-Heizkraftwerk Stuttgart-Münster,19.5,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,79.6027397260274,,,,,,,,,,,EnBW Energie Baden-Württemberg AG,no
+,Nord 1,18.0,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,SWM Services GmbH,no
+,Nord 3,22.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,SWM Services GmbH,no
+,MVA Weisweiler,27.0,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,RWE Power AG,no
+,PD energy GmbH,9.9,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,PD energy GmbH,no
+,Restmüllheizkraftwerk Böblingen,9.5,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Zweckverband Restmüllheizkraftwerk Böblingen,no
+,BEG,14.0,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Bremerhavener Entsorgungsgesellschaft mbH,no
+,MHKW Burgkirchen,12.5,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Zweckverband Abfallverwertung Südostbayern,no
+,TREA Breisgau,40.2,3.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,EEW Energy from Waste Saarbrücken GmbH,yes
+,EEW Göppingen,11.0,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,EEW Energy from Waste Göppingen GmbH,no
+,MVA Hamm,14.6,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,MHB Hamm Betriebsführungsgesellschaft mbH,no
+,RZR Herten I,27.2,2.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,AGR Abfallentsorgungsgesellschaft Ruhrgebiet mbH,yes
+,MVA Ingolstadt,25.5,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Zweckverband Müllverwertungsanlage Ingolstadt (MVA Ingolstadt),no
+,Abfallentsorgungszentrum Asdonkshof,16.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Kreis Weseler Abfallgesellschaft mbH & Co. KG (KWA),no
+,Müllheizkraftwerk,44.7,2.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Müllheizkraftwerk Kassel GmbH,yes
+,RMVA Köln,63.1,2.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,AVG Köln mbH,yes
+,MKVA Krefeld,33.1,5.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,EGK Entsorgungsgesellschaft Krefeld GmbH & Co.KG,yes
+,Thermische Abfallbehandlung Lauta GmbH & Co. oHG,15.7,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Steag GmbH,no
+,FHKW Ludwigshafen,28.0,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Technische Werke Ludwigshafen AG,no
+,SITA Abfallverwertung GmbH ,23.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,SUEZ Energie und Verwertung GmbH,no
+,MHKW Mainz,15.6,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Entsorgungsgesellschaft Mainz mbH,no
+,Müllheizkraftwerk Offenbach,14.5,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Energieversorgung Offenbach AG,no
+,ZWSF,17.0,2.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,EEW Energy from Waste Premnitz GmbH,yes
+,EBS-HKW Rostock,17.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Vattenfall Europe New Energy Ecopower GmbH,no
+,AVA Velsen,16.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,AVA Velsen GmbH,no
+,Müllkraftwerk Schwandorf,54.0,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Zweckverband Müllverwertung Schwandorf,no
+,Kraftwerk Schwedt GmbH & Co.KG,28.9,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Kraftwerk Schwedt GmbH & Co. KG,no
+,REMONDIS Thermische Abfallverwertung GmbH,24.0,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,REMONDIS Thermische Abfallverwertung GmbH,no
+,Restabfallbehandlungsanlage,12.1,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,Zweckverband für Abfallwirtschaft Südwestthüringen (ZASt),no
+,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,12.61,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,AMK - Abfallentsorgungsgesellschaft des Märkischen Kreises mbH,no
+,IHKW Andernach,12.5,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,IHKW Industrieheizkraftwerk Andernach GmbH,no
+,AVA GmbH,10.0,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,AVA Abfallverwertung Augsburg GmbH,no
+,Steinbeis Energie,17.0,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,Steinbeis Energie GmbH,no
+,Turbosatz 1,20.7,2.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,Zweckverband Abfallwirtschaft Raum Würzburg,yes
+,EBKW Knapsack,33.4,1.0,DE,,,STUR,WHT,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,EBS - Kraftwerk GmbH,no
+,Hamburger Rieger,18.7,1.0,DE,,,STUR,WHT,0.33,4.0,,,,,,,,,,,,,,,,,,,,,,,,,Spreestromerzeugungs GmbH,no
+,Biomasseheizkraftwerk Wiesbaden,10.5,1.0,DE,,,STUR,WHT,0.33,1.0,,,,,,,,,,,,,,,,,,,,,,,,,ESWE BioEnergie GmbH,no
+,RAG Anthrazit Ibbenbüren GmbH,33.4,1.0,DE,,,STUR,OIL,0.33,0.0,,,,,,,,,,,,,,,,,,,,,,,,,RAG Anthrazit Ibbenbüren GmbH,no
+,"HKW Fenne, Grubengaskraftwerk",42.0,1.0,DE,,,ICEN,OIL,0.4462,,,,,,,,,,,,,,,,,,,,,,,,,,STEAG New Energies GmbH,no
+,Turbine 4,19.3,2.0,DE,,,STUR,OIL,0.24,0.0,,,,,,,,,,,,,,0.0,,,,,,,,,,,KÄMMERER Energie GmbH,yes
