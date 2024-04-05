@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e25545e8ceb7b0c4c50c6f7364976ebda5c6dc15e7ac8ddef6dca00dd225e1a
-size 1418
+Dispaset_Headers,Equivalent_Headers_1,Equivalent_Headers_2,Equivalent_Headers_3,Equivalent_Headers_4,Equivalent_Headers_5,Equivalent_Headers_6,Equivalent_Headers_7,Equivalent_Headers_8,
+ ,-,-,-,-,-,-,-,-,-
+Unit,name_bnetza,name,Unit,-,-,-,-,-,-
+PowerCapacity,capacity_net_bnetza,capacity,Pmax available,electrical_capacity,-,-,-,-,-
+Nunits,-,-,-,-,-,-,-,-,-
+Zone,country,Country,-,-,-,-,-,-,-
+Zone_th,-,-,-,-,-,-,-,-,-
+Zone_h2,-,-,-,-,-,-,-,-,-
+Technology,technology,Production Unit Type,-,-,-,-,-,-,-
+Fuel,energy_source_level_2,Fuel code,energy_source,-,-,-,-,-,-
+Efficiency,efficiency_estimate,efficiency,-,-,-,-,-,-,-
+MinUpTime,-,-,-,-,-,-,-,-,-
+MinDownTime,-,-,-,-,-,-,-,-,-
+RampUpRate,-,-,-,-,-,-,-,-,-
+RampDownRate,-,-,-,-,-,-,-,-,-
+StartUpCost,-,-,-,-,-,-,-,-,-
+NoLoadCost_pu,-,-,-,-,-,-,-,-,-
+RampingCost,-,-,-,-,-,-,-,-,-
+PartLoadMin,-,-,-,-,-,-,-,-,-
+MinEfficiency,-,-,-,-,-,-,-,-,-
+StartUpTime,-,-,-,-,-,-,-,-,-
+CO2Intensity,,-,-,-,-,-,-,-,-
+CHPType,chp,-,-,-,-,-,-,-,-
+CHPPowerToHeat,-,-,-,-,-,-,-,-,-
+CHPPowerLossFactor,-,-,-,-,-,-,-,-,-
+CHPMaxHeat,chp_capacity_uba,-,-,-,-,-,-,-,-
+COP,-,-,-,-,-,-,-,-,-
+Tnominal,-,-,-,-,-,-,-,-,-
+coef_COP_a,-,-,-,-,-,-,-,-,-
+coef_COP_b,-,-,-,-,-,-,-,-,-
+STOCapacity,-,-,-,-,-,-,-,-,-
+STOSelfDischarge,-,-,-,-,-,-,-,-,-
+STOMaxChargingPower,-,-,-,-,-,-,-,-,-
+STOChargingEfficiency,-,-,-,-,-,-,-,-,-
+WaterWithdrawal,-,-,-,-,-,-,-,-,-
+WaterConsumption,-,-,-,-,-,-,-,-,-
+Status,-,-,-,-,-,-,-,-,-
+Source,source,-,-,-,-,-,-,-,-
+Company,company,owner,-,-,-,-,-,-,-
