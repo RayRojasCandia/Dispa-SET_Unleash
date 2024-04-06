@@ -102,3 +102,25 @@ def fill_nunits_column(clean_data_file_path):
 
     print("Nunits column processed successfully.")
 
+
+
+
+
+def move_rows_with_empty_zone(clean_data_file_paths, all_data_file_paths):
+    for clean_data_file, all_data_file in zip(clean_data_file_paths, all_data_file_paths):
+        # Read the clean data file
+        clean_data_df = pd.read_csv(clean_data_file)
+
+        # Check and move rows with empty 'Zone'
+        empty_zone_rows = clean_data_df[clean_data_df['Zone'].isnull()]
+        if not empty_zone_rows.empty:
+            # Append rows to the 'all_data' file
+            empty_zone_rows.to_csv(all_data_file, mode='a', header=False, index=False)
+            # Drop rows with empty 'Zone' from the clean data file
+            clean_data_df = clean_data_df.dropna(subset=['Zone'])
+
+        # Save the updated clean data file
+        clean_data_df.to_csv(clean_data_file, index=False)
+
+        print(f"Processed {clean_data_file}")
+
