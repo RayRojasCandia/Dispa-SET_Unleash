@@ -70,3 +70,35 @@ def fill_unit_field(clean_data_file_path):
     print("Unit field filled successfully.")
 
 
+
+
+
+def fill_nunits_column(clean_data_file_path):
+    """
+    Fill the 'Nunits' column in the specified CSV file with either 1 or a valid integer value.
+
+    Args:
+    clean_data_file_path (str): The file path of the CSV file.
+
+    Returns:
+    None
+    """
+    # Read the CSV file
+    df = pd.read_csv(clean_data_file_path)
+
+    # Iterate over each row in the DataFrame
+    for index, row in df.iterrows():
+        # Check if Nunits field is empty or not a valid integer
+        nunits_value = row['Nunits']
+        if pd.isna(nunits_value) or not str(nunits_value).isdigit():
+            # If empty or not a valid integer, fill with 1
+            df.at[index, 'Nunits'] = 1
+        else:
+            # If a valid integer, convert it to int
+            df.at[index, 'Nunits'] = int(nunits_value)
+
+    # Save the DataFrame back to the CSV file
+    df.to_csv(clean_data_file_path, index=False)
+
+    print("Nunits column processed successfully.")
+
