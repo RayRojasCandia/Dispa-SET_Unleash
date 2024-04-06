@@ -1,14 +1,14 @@
 Dispaset_Headers,Equivalent_Headers_1,Equivalent_Headers_2,Equivalent_Headers_3,Equivalent_Headers_4,Equivalent_Headers_5,Equivalent_Headers_6,Equivalent_Headers_7,Equivalent_Headers_8
  ,-,-,-,-,-,-,-,-
-Unit,name_bnetza,name,Unit,-,-,-,-,-
-PowerCapacity,capacity_net_bnetza,capacity,Pmax available,electrical_capacity,-,-,-,-
+Unit,name_bnetza,Unit,name,,-,-,-,-
+PowerCapacity,capacity_net_bnetza,Pmax available,Pmax available,electrical_capacity,-,-,-,-
 Nunits,-,-,-,-,-,-,-,-
 Zone,country,Country,-,-,-,-,-,-
 Zone_th,-,-,-,-,-,-,-,-
 Zone_h2,-,-,-,-,-,-,-,-
 Technology,technology,Production Unit Type,-,-,-,-,-,-
 Fuel,energy_source_level_2,Fuel code,energy_source,-,-,-,-,-
-Efficiency,efficiency_estimate,efficiency,-,-,-,-,-,-
+Efficiency,efficiency_estimate,,-,-,-,-,-,-
 MinUpTime,-,-,-,-,-,-,-,-
 MinDownTime,-,-,-,-,-,-,-,-
 RampUpRate,-,-,-,-,-,-,-,-
@@ -36,4 +36,6 @@ WaterWithdrawal,-,-,-,-,-,-,-,-
 WaterConsumption,-,-,-,-,-,-,-,-
 Status,-,-,-,-,-,-,-,-
 Source,source,-,-,-,-,-,-,-
-Company,company,owner,-,-,-,-,-,-
+Company,company,-,-,-,-,-,-,-
+Lat,lat,-,-,-,-,-,-,-
+Lon,lon,-,-,-,-,-,-,-

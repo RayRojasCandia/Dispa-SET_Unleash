@@ -8,6 +8,12 @@ Created on Fri Apr  5 11:11:25 2024
 
 import pandas as pd
 
+raw_data_file_path =  '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/5'
+clean_data_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/2020.csv'
+equivalent_headers_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/power_plants_clean_data_equivalent_headers.csv'
+
+
+
 def copy_columns_to_clean_data(raw_data_file_path, clean_data_file_path, equivalent_headers_file_path):
     # Read the equivalent headers file
     equivalent_headers_df = pd.read_csv(equivalent_headers_file_path)
