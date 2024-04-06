@@ -1,0 +1,988 @@
+Date,BRP,Unit,Production Unit Type,Pmax available,Fuel code,Country
+2023-01-01,Yuso,Ruien Energy Storage,,25.1,Other,BE
+2023-01-01,Electrabel,HERDERSBRUG ST,,167.0,NG,BE
+2023-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2023-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,11.0,Other,BE
+2023-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2023-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2023-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2023-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,386.0,NG,BE
+2023-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2023-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2023-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2023-01-01,Electrabel,ICO Windpark Zeebrugge,,44.0,WI,BE
+2023-01-01,Electrabel,Wilrijk Isvag,IS,12.0,Other,BE
+2023-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,413.0,NG,BE
+2023-01-01,Electrabel,Amercoeur 1 R GT,,289.0,NG,BE
+2023-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2023-01-01,Electrabel,BEVERCE 3,HU,2.9,WA,BE
+2023-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,23.8,NG,BE
+2023-01-01,Electrabel,COO I T,,474.0,WA,BE
+2023-01-01,Electrabel,DOEL 1,NU,445.0,NU,BE
+2023-01-01,Electrabel,DOEL 2,NU,445.0,NU,BE
+2023-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2023-01-01,Electrabel,DROGENBOS GT2,,150.0,NG,BE
+2023-01-01,Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2023-01-01,Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2023-01-01,Luminus,Intradel Herstal,IS,30.0,Other,BE
+2023-01-01,Luminus,Luminus Villers-le-Bouillet WIND,,44.9,WI,BE
+2023-01-01,Next Kraftwerke,Taminco (Gent) WKK,WKK,6.3,NG,BE
+2023-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2023-01-01,RWE Supply & Trading,T-power Beringen,CCGT,422.0,NG,BE
+2023-01-01,Luminus,EDF Luminus Seraing GT1,,150.0,NG,BE
+2023-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2023-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2023-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.3,Other,BE
+2023-01-01,Eneco Energy Trade,Aspiravi Wuustwezel,,27.6,WI,BE
+2023-01-01,Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2023-01-01,Electrabel,IXELLES TJ,TJ,18.0,LF,BE
+2023-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2023-01-01,Electrabel,Noordschote TJ,TJ,18.0,LF,BE
+2023-01-01,Electrabel,Norther Offshore WP,,369.6,WI,BE
+2023-01-01,Electrabel,Northwind,,216.0,WI,BE
+2023-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2023-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2023-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2023-01-01,Electrabel,HERDERSBRUG GT1,,157.0,NG,BE
+2023-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2023-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2023-01-01,Electrabel,AALTER TJ,TJ,18.0,LF,BE
+2023-01-01,Electrabel,BEERSE TJ,TJ,32.0,LF,BE
+2023-01-01,Electrabel,BEVERCE 1,HU,2.9,WA,BE
+2023-01-01,Electrabel,BEVERCE 2,HU,2.9,WA,BE
+2023-01-01,Electrabel,CIERREUX TJ,TJ,18.0,LF,BE
+2023-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2023-01-01,Electrabel,Kristal _ Solar _ Park,,99.0,Other,BE
+2023-01-01,Luminus,RINGVAART STEG,CCGT,385.0,NG,BE
+2023-01-01,Luminus,HAM32,GT,58.0,NG,BE
+2023-01-01,Luminus,HU ANDENNE,,9.0,WA,BE
+2023-01-01,Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2023-01-01,Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2023-01-01,Luminus,HU LIXHE,HU,20.0,WA,BE
+2023-01-01,Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2023-01-01,Next Kraftwerke,INESCO GT1,,44.8,NG,BE
+2023-01-01,Next Kraftwerke,ZEEBRUGGE WIND,,12.0,WI,BE
+2023-01-01,TotalEnergies Gas & Power,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2023-01-01,Yuso,Deux-Acren Energy Storage,,50.0,Other,BE
+2023-01-01,Luminus,ANGLEUR TGV3,CCGT,50.0,NG,BE
+2023-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,18.0,Other,BE
+2023-01-01,Eneco Energy Trade,Seastar Offshore WP,,252.0,WI,BE
+2023-01-01,Electrabel,Zeebrugge TJ,TJ,18.0,LF,BE
+2023-01-01,Lampiris,Rentel Offshore WP,,307.0,WI,BE
+2023-01-01,Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2023-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2023-01-01,Electrabel,Infrabel Avernas Greensky Wind,,32.0,WI,BE
+2023-01-01,Electrabel,IVBO,IS,16.0,Other,BE
+2023-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,44.7,Other,BE
+2023-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2023-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2023-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2023-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2023-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2023-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2023-01-01,Electrabel,VILVOORDE GT,,264.0,NG,BE
+2023-01-01,Electrabel,HERDERSBRUG GT2,,156.3,NG,BE
+2023-01-01,Axpo Solutions,Froidchapelle Wind,,25.0,WI,BE
+2023-01-01,Axpo Solutions,Windvision Estinnes WIND,,81.2,WI,BE
+2023-01-01,Electrabel,Amercoeur 1 R ST,,162.0,NG,BE
+2023-01-01,Electrabel,ArcelorMittal Belgium Gent Wind EBL,,17.3,WI,BE
+2023-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2023-01-01,Electrabel,COO II T,,690.0,WA,BE
+2023-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2023-01-01,Electrabel,DROGENBOS GT1,,150.0,NG,BE
+2023-01-01,Electrabel,DROGENBOS ST,,160.0,NG,BE
+2023-01-01,Electrabel,VILVOORDE ST,,121.0,NG,BE
+2023-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2023-01-01,Luminus,EDF Luminus Seraing GT2,,150.0,NG,BE
+2023-01-01,Luminus,HAM31,GT,58.0,NG,BE
+2023-01-01,Luminus,HU MONSIN,,19.7,WA,BE
+2023-01-01,Luminus,SERAING TV,,170.0,NG,BE
+2023-01-01,Luminus,EDF Luminus Izegem WKK,WKK,20.0,NG,BE
+2023-01-01,Next Kraftwerke,INESCO GT2,,44.8,NG,BE
+2023-01-01,Next Kraftwerke,INESCO ST,,48.5,NG,BE
+2023-01-01,RWE Supply & Trading,Northwester 2,,219.1,WI,BE
+2023-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2023-01-01,Electrabel,Zedelgem TJ,TJ,18.0,LF,BE
+2023-01-01,TotalEnergies Gas & Power,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2023-01-01,TotalEnergies Gas & Power,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2023-01-01,Luminus,EDF Luminus Ham GT,,43.0,NG,BE
+2023-01-01,Flexcity Belgium,Beveren 2 Indaver,IS,21.0,Other,BE
+2023-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2023-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2023-01-01,Electrabel,Zelzate TJ,TJ,18.0,LF,BE
+2023-01-01,Eneco Energy Trade,Mermaid Offshore WP,,235.2,WI,BE
+2023-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2023-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2023-01-01,Flexcity Belgium,Beveren 3 Indaver,IS,24.0,Other,BE
+2023-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,34.0,Other,BE
+2023-01-01,Flexcity Belgium,Beveren Sleco,IS,41.0,Other,BE
+2023-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2023-01-01,Flexcity Belgium,Jemeppe-sur-Sambre ST,,10.0,NG,BE
+2023-01-01,Flexcity Belgium,Jemeppe-sur-Sambre GT2,,48.0,NG,BE
+2023-01-01,Flexcity Belgium,Jemeppe-sur-Sambre GT1,,48.0,NG,BE
+2023-01-01,Lampiris,Aspiravi N49 Assenede,,12.0,WI,BE
+2022-01-01,Electrabel,Northwind,,216.0,WI,BE
+2022-01-01,Electrabel,Noordschote TJ,TJ,18.0,LF,BE
+2022-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2022-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2022-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2022-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2022-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2022-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2022-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2022-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2022-01-01,Axpo Solutions,Windvision Estinnes WIND,,81.2,WI,BE
+2022-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2022-01-01,Electrabel,AALTER TJ,TJ,18.0,LF,BE
+2022-01-01,Electrabel,BEERSE TJ,TJ,32.0,LF,BE
+2022-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2022-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2022-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2022-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2022-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2022-01-01,Luminus,EDF Luminus Ham GT,,43.0,NG,BE
+2022-01-01,Luminus,EDF Luminus Seraing GT1,,150.0,NG,BE
+2022-01-01,Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2022-01-01,Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2022-01-01,Luminus,RINGVAART STEG,CCGT,385.0,NG,BE
+2022-01-01,Luminus,SERAING TV,,170.0,NG,BE
+2022-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2022-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2022-01-01,Luminus,Beveren 2 Indaver,IS,21.0,Other,BE
+2022-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2022-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2022-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2022-01-01,Electrabel,Zedelgem TJ,TJ,18.0,LF,BE
+2022-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2022-01-01,Lampiris,Aspiravi N49 Assenede,,12.0,WI,BE
+2022-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2022-01-01,Lampiris,Aspiravi Wuustwezel,,27.6,WI,BE
+2022-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,34.0,Other,BE
+2022-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,44.7,Other,BE
+2022-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,11.0,Other,BE
+2022-01-01,Electrabel,IXELLES TJ,TJ,18.0,LF,BE
+2022-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2022-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2022-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2022-01-01,Electrabel,IVBO,IS,16.0,Other,BE
+2022-01-01,Electrabel,CIERREUX TJ,TJ,18.0,LF,BE
+2022-01-01,Electrabel,ICO Windpark Zeebrugge,,44.0,WI,BE
+2022-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,23.8,NG,BE
+2022-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2022-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2022-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2022-01-01,Electrabel,COO II T,,690.0,WA,BE
+2022-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2022-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2022-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2022-01-01,Luminus,EDF Luminus Izegem WKK,WKK,20.0,NG,BE
+2022-01-01,Luminus,HAM32,GT,58.0,NG,BE
+2022-01-01,Luminus,Jemeppe-sur-Sambre GT2,,48.0,NG,BE
+2022-01-01,Luminus,Beveren 3 Indaver,IS,24.0,Other,BE
+2022-01-01,Luminus,Jemeppe-sur-Sambre ST,,10.0,NG,BE
+2022-01-01,Luminus,ZEEBRUGGE WIND,,12.0,WI,BE
+2022-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2022-01-01,Luminus,Beveren Sleco,IS,41.0,Other,BE
+2022-01-01,Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2022-01-01,Electrabel,Zeebrugge TJ,TJ,18.0,LF,BE
+2022-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.3,Other,BE
+2022-01-01,Eneco Energy Trade,Seastar Offshore WP,,252.0,WI,BE
+2022-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2022-01-01,Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2022-01-01,Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2022-01-01,Lampiris,Rentel Offshore WP,,307.0,WI,BE
+2022-01-01,Lampiris,Intradel Herstal,IS,30.0,Other,BE
+2022-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2022-01-01,Electrabel,Norther Offshore WP,,369.6,WI,BE
+2022-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2022-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2022-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2022-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2022-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2022-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2022-01-01,Electrabel,Infrabel Avernas Greensky Wind,,32.0,WI,BE
+2022-01-01,Electrabel,VILVOORDE GT,,264.0,NG,BE
+2022-01-01,Axpo Solutions,Froidchapelle Wind,,25.0,WI,BE
+2022-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,413.0,NG,BE
+2022-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2022-01-01,Electrabel,ArcelorMittal Belgium Gent Wind,,33.5,WI,BE
+2022-01-01,Electrabel,COO I T,,474.0,WA,BE
+2022-01-01,Electrabel,DOEL 1,NU,445.0,NU,BE
+2022-01-01,Electrabel,DOEL 2,NU,445.0,NU,BE
+2022-01-01,Electrabel,DROGENBOS GT1,,150.0,NG,BE
+2022-01-01,Electrabel,DROGENBOS GT2,,150.0,NG,BE
+2022-01-01,Electrabel,DROGENBOS ST,,160.0,NG,BE
+2022-01-01,Luminus,EDF Luminus Seraing GT2,,150.0,NG,BE
+2022-01-01,Luminus,Jemeppe-sur-Sambre GT1,,48.0,NG,BE
+2022-01-01,Luminus,HAM31,GT,58.0,NG,BE
+2022-01-01,Luminus,HU ANDENNE,,9.0,WA,BE
+2022-01-01,Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2022-01-01,Luminus,HU LIXHE,HU,20.0,WA,BE
+2022-01-01,Luminus,HU MONSIN,,19.7,WA,BE
+2022-01-01,Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2022-01-01,RWE Supply & Trading,Northwester 2,,219.1,WI,BE
+2022-01-01,RWE Supply & Trading,T-power Beringen,CCGT,422.0,NG,BE
+2022-01-01,Electrabel,Wilrijk Isvag,IS,12.0,Other,BE
+2022-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2022-01-01,Luminus,ANGLEUR TG32,,25.0,NG,BE
+2022-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2022-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2022-01-01,Electrabel,Zelzate TJ,TJ,18.0,LF,BE
+2022-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,18.0,Other,BE
+2022-01-01,Eneco Energy Trade,Mermaid Offshore WP,,237.0,WI,BE
+2022-01-01,Luminus,ANGLEUR TG31,,25.0,NG,BE
+2021-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2021-01-01,Electrabel,Noordschote TJ,TJ,18.0,LF,BE
+2021-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,44.7,Other,BE
+2021-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,11.0,Other,BE
+2021-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2021-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2021-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2021-01-01,Electrabel,Infrabel Avernas Greensky Wind,,32.0,WI,BE
+2021-01-01,Electrabel,ICO Windpark Zeebrugge,,44.0,WI,BE
+2021-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2021-01-01,Electrabel,AALTER TJ,TJ,18.0,LF,BE
+2021-01-01,Electrabel,BEERSE TJ,TJ,32.0,LF,BE
+2021-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2021-01-01,Electrabel,COO II T,,690.0,WA,BE
+2021-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2021-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2021-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2021-01-01,Luminus,EDF Luminus Izegem WKK,WKK,20.0,NG,BE
+2021-01-01,Luminus,EDF Luminus Seraing GT1,,150.0,NG,BE
+2021-01-01,Luminus,HAM31,GT,58.0,NG,BE
+2021-01-01,Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2021-01-01,Luminus,HU ANDENNE,,9.0,WA,BE
+2021-01-01,Luminus,Beveren 3 Indaver,IS,24.0,Other,BE
+2021-01-01,Luminus,Jemeppe-sur-Sambre GT2,,48.0,NG,BE
+2021-01-01,Luminus,RINGVAART STEG,CCGT,385.0,NG,BE
+2021-01-01,Luminus,SERAING TV,,170.0,NG,BE
+2021-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2021-01-01,RWE Supply & Trading,T-power Beringen,CCGT,422.0,NG,BE
+2021-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2021-01-01,Eneco Energy Trade,Mermaid Offshore WP,,237.0,WI,BE
+2021-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2021-01-01,Lampiris,Aspiravi N49 Assenede,,12.0,WI,BE
+2021-01-01,Lampiris,Aspiravi Wuustwezel,,23.0,WI,BE
+2021-01-01,Luminus,ANGLEUR TG31,,25.0,NG,BE
+2021-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2021-01-01,Lampiris,Intradel Herstal,IS,34.0,Other,BE
+2021-01-01,Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2021-01-01,Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2021-01-01,Electrabel,Northwind,,216.0,WI,BE
+2021-01-01,Electrabel,Norther Offshore WP,,369.6,WI,BE
+2021-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2021-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2021-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2021-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2021-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2021-01-01,Electrabel,RODENHUIZE WIND,,4.5,WI,BE
+2021-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2021-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2021-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2021-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2021-01-01,Electrabel,VILVOORDE GT,,255.0,NG,BE
+2021-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,413.0,NG,BE
+2021-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2021-01-01,Electrabel,ArcelorMittal Belgium Gent Wind,,33.5,WI,BE
+2021-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,23.8,NG,BE
+2021-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2021-01-01,Electrabel,DOEL 1,NU,445.0,NU,BE
+2021-01-01,Electrabel,DOEL 2,NU,445.0,NU,BE
+2021-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2021-01-01,Electrabel,DROGENBOS GT1,,150.0,NG,BE
+2021-01-01,Electrabel,DROGENBOS GT2,,150.0,NG,BE
+2021-01-01,Electrabel,DROGENBOS ST,,160.0,NG,BE
+2021-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2021-01-01,Luminus,HU LIXHE,HU,20.0,WA,BE
+2021-01-01,Luminus,HU MONSIN,,19.7,WA,BE
+2021-01-01,Luminus,EDF Luminus Ham GT,,43.0,NG,BE
+2021-01-01,Luminus,EDF Luminus Seraing GT2,,150.0,NG,BE
+2021-01-01,Luminus,HAM32,GT,58.0,NG,BE
+2021-01-01,Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2021-01-01,Luminus,Jemeppe-sur-Sambre GT1,,48.0,NG,BE
+2021-01-01,Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2021-01-01,Luminus,ZEEBRUGGE WIND,,12.0,WI,BE
+2021-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2021-01-01,RWE Supply & Trading,Northwester 2,,219.1,WI,BE
+2021-01-01,Electrabel,Wilrijk Isvag,IS,12.0,Other,BE
+2021-01-01,Luminus,Beveren Sleco,IS,41.0,Other,BE
+2021-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2021-01-01,Luminus,Beveren 2 Indaver,IS,21.0,Other,BE
+2021-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2021-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2021-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2021-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2021-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.3,Other,BE
+2021-01-01,Lampiris,Rentel Offshore WP,,307.0,WI,BE
+2021-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2021-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2021-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2021-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2021-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2021-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2021-01-01,Electrabel,IVBO,IS,16.0,Other,BE
+2021-01-01,Electrabel,IXELLES TJ,TJ,18.0,LF,BE
+2021-01-01,Axpo Solutions,Froidchapelle Wind,,25.0,WI,BE
+2021-01-01,Axpo Solutions,Windvision Estinnes WIND,,81.2,WI,BE
+2021-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2021-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2021-01-01,Electrabel,CIERREUX TJ,TJ,18.0,LF,BE
+2021-01-01,Electrabel,COO I T,,474.0,WA,BE
+2021-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2021-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2021-01-01,Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2021-01-01,Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2021-01-01,Luminus,Jemeppe-sur-Sambre ST,,10.0,NG,BE
+2021-01-01,Luminus,ANGLEUR TG32,,25.0,NG,BE
+2021-01-01,Electrabel,Zedelgem TJ,TJ,18.0,LF,BE
+2021-01-01,Electrabel,Zeebrugge TJ,TJ,18.0,LF,BE
+2021-01-01,Electrabel,Zelzate TJ,TJ,18.0,LF,BE
+2021-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,18.0,Other,BE
+2021-01-01,Eneco Energy Trade,Seastar Offshore WP,,252.0,WI,BE
+2021-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,34.0,Other,BE
+2021-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2020-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2020-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2020-01-01,Electrabel,Northwind,,216.0,WI,BE
+2020-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,11.0,Other,BE
+2020-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2020-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2020-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2020-01-01,Electrabel,SCHELLE WIND,,4.5,WI,BE
+2020-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2020-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2020-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2020-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2020-01-01,Electrabel,COO II T,,690.0,WA,BE
+2020-01-01,Electrabel,IVBO,IS,16.0,Other,BE
+2020-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,413.0,NG,BE
+2020-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2020-01-01,Electrabel,ArcelorMittal Belgium Gent Wind,,33.5,WI,BE
+2020-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2020-01-01,Electrabel,DOEL 2,NU,433.0,NU,BE
+2020-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2020-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2020-01-01,Electrabel,VILVOORDE GT,,255.0,NG,BE
+2020-01-01,Luminus,Jemeppe-sur-Sambre GT1,,48.0,NG,BE
+2020-01-01,Luminus,EDF Luminus Seraing GT2,,150.0,NG,BE
+2020-01-01,Luminus,HAM31,GT,58.0,NG,BE
+2020-01-01,Luminus,HAM32,GT,58.0,NG,BE
+2020-01-01,Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2020-01-01,Luminus,HU LIXHE,HU,20.0,WA,BE
+2020-01-01,Luminus,Jemeppe-sur-Sambre GT2,,48.0,NG,BE
+2020-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2020-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2020-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2020-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2020-01-01,Luminus,ZEEBRUGGE WIND,,12.0,WI,BE
+2020-01-01,Luminus,Beveren Sleco,IS,41.0,Other,BE
+2020-01-01,Eneco Energy Trade,Windvision Estinnes WIND,,80.0,WI,BE
+2020-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2020-01-01,Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2020-01-01,Lampiris,Aspiravi N49 Assenede,,12.0,WI,BE
+2020-01-01,Luminus,ANGLEUR TG31,,25.0,NG,BE
+2020-01-01,Lampiris,Aspiravi Wuustwezel,,23.0,WI,BE
+2020-01-01,Electrabel,Norther Offshore WP,,369.6,WI,BE
+2020-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,44.7,Other,BE
+2020-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2020-01-01,Electrabel,RODENHUIZE WIND,,4.5,WI,BE
+2020-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2020-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2020-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2020-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2020-01-01,Electrabel,IXELLES TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,Infrabel Avernas Greensky Wind,,32.0,WI,BE
+2020-01-01,Axpo Solutions,Froidchapelle Wind,,25.0,WI,BE
+2020-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2020-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2020-01-01,Electrabel,AALTER TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,DROGENBOS ST,,160.0,NG,BE
+2020-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2020-01-01,Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2020-01-01,Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2020-01-01,Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2020-01-01,Luminus,RINGVAART STEG,CCGT,385.0,NG,BE
+2020-01-01,Luminus,SERAING TV,,170.0,NG,BE
+2020-01-01,RWE Supply & Trading,Northwester 2,,219.1,WI,BE
+2020-01-01,Luminus,EDF Luminus Izegem WKK,WKK,20.0,NG,BE
+2020-01-01,Luminus,Beveren 3 Indaver,IS,24.0,Other,BE
+2020-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2020-01-01,Electrabel,Zedelgem TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2020-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.0,Other,BE
+2020-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2020-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2020-01-01,Luminus,Beveren 2 Indaver,IS,21.0,Other,BE
+2020-01-01,Luminus,ANGLEUR TG32,,25.0,NG,BE
+2020-01-01,Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2020-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2020-01-01,Lampiris,Intradel Herstal,IS,34.0,Other,BE
+2020-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,34.0,Other,BE
+2020-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2020-01-01,Electrabel,Noordschote TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2020-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2020-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2020-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2020-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2020-01-01,Electrabel,AWIRS 4,CL,95.0,Other,BE
+2020-01-01,Electrabel,BEERSE TJ,TJ,32.0,LF,BE
+2020-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,23.8,NG,BE
+2020-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2020-01-01,Electrabel,CIERREUX TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,COO I T,,474.0,WA,BE
+2020-01-01,Electrabel,DOEL 1,NU,445.0,NU,BE
+2020-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2020-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2020-01-01,Electrabel,DROGENBOS GT1,,150.0,NG,BE
+2020-01-01,Electrabel,DROGENBOS GT2,,150.0,NG,BE
+2020-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2020-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2020-01-01,Luminus,EDF Luminus Seraing GT1,,150.0,NG,BE
+2020-01-01,Luminus,HU ANDENNE,,9.0,WA,BE
+2020-01-01,Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2020-01-01,Luminus,HU MONSIN,,19.7,WA,BE
+2020-01-01,Luminus,EDF Luminus Ham GT,,43.0,NG,BE
+2020-01-01,Luminus,Jemeppe-sur-Sambre ST,,10.0,NG,BE
+2020-01-01,Statkraft Markets,Rentel Offshore WP,,307.0,WI,BE
+2020-01-01,T-Power,T-power Beringen,CCGT,422.0,NG,BE
+2020-01-01,Electrabel,Wilrijk Isvag,IS,12.0,Other,BE
+2020-01-01,Electrabel,Zeebrugge TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,Zelzate TJ,TJ,18.0,LF,BE
+2020-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2020-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,18.0,Other,BE
+2019-01-01,Electrabel,VILVOORDE GT,,255.0,NG,BE
+2019-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2019-01-01,Electrabel,Zedelgem TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2019-01-01,Electrabel,Wilrijk Isvag,IS,12.0,Other,BE
+2019-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2019-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2019-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2019-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2019-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2019-01-01,Lampiris,IVBO,IS,16.0,Other,BE
+2019-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2019-01-01,Statkraft Markets,Rentel Offshore WP,,301.0,WI,BE
+2019-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2019-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2019-01-01,Lampiris,Aspiravi N49 Assenede,,12.0,WI,BE
+2019-01-01,EDF Luminus,EDF Luminus Seraing GT1,,150.0,NG,BE
+2019-01-01,EDF Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2019-01-01,EDF Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2019-01-01,EDF Luminus,Jemeppe-sur-Sambre GT1,,48.0,NG,BE
+2019-01-01,EDF Luminus,Jemeppe-sur-Sambre GT2,,48.0,NG,BE
+2019-01-01,EDF Luminus,Jemeppe-sur-Sambre ST,,10.0,NG,BE
+2019-01-01,Electrabel,BEERSE TJ,TJ,32.0,LF,BE
+2019-01-01,EDF Luminus,Taminco (Gent) WKK,WKK,6.3,NG,BE
+2019-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2019-01-01,Electrabel,ArcelorMittal Belgium Gent Wind,,26.3,WI,BE
+2019-01-01,Electrabel,RODENHUIZE WIND,WT,4.5,WI,BE
+2019-01-01,Axpo Solutions,Froidchapelle Wind,,25.0,WI,BE
+2019-01-01,EDF Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2019-01-01,Electrabel,AWIRS 4,CL,95.0,Other,BE
+2019-01-01,EDF Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2019-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2019-01-01,Electrabel,Infrabel Avernas Greensky Wind,,32.0,WI,BE
+2019-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2019-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2019-01-01,Electrabel,LANGERBRUGGE STORA GT 2,WKK,44.7,Other,BE
+2019-01-01,Electrabel,Langerlo GT3,GT,44.0,NG,BE
+2019-01-01,Electrabel,Noordschote TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,Northwind,,216.0,WI,BE
+2019-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2019-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2019-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2019-01-01,Electrabel,HEID-DE-GOREUX 1,HU,4.0,WA,BE
+2019-01-01,Electrabel,Drogenbos Diesels 10kV,D,32.0,LF,BE
+2019-01-01,Electrabel,CIERREUX TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,COO I T,,474.0,WA,BE
+2019-01-01,Electrabel,COO II T,,690.0,WA,BE
+2019-01-01,Electrabel,DROGENBOS ST,,160.0,NG,BE
+2019-01-01,Electrabel,Electrabel Diesels Awirs TG1,D,15.1,LF,BE
+2019-01-01,Electrabel,Zeebrugge TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2019-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2019-01-01,Electrabel,SCHELLE WIND,,4.5,WI,BE
+2019-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2019-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2019-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2019-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2019-01-01,Eneco Energy Trade,Windvision Estinnes WIND,,80.0,WI,BE
+2019-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2019-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.0,Other,BE
+2019-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,18.0,Other,BE
+2019-01-01,EDF Luminus,RINGVAART STEG,CCGT,365.0,NG,BE
+2019-01-01,EDF Luminus,ZEEBRUGGE WIND,WT,12.0,WI,BE
+2019-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2019-01-01,Electrabel,AALTER TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2019-01-01,EDF Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2019-01-01,EDF Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2019-01-01,EDF Luminus,HAM32,GT,58.0,NG,BE
+2019-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,413.0,NG,BE
+2019-01-01,EDF Luminus,ANGLEUR TG31,,25.0,NG,BE
+2019-01-01,EDF Luminus,Beveren 2 Indaver,IS,21.0,Other,BE
+2019-01-01,EDF Luminus,Beveren 3 Indaver,IS,24.0,Other,BE
+2019-01-01,EDF Luminus,Beveren Sleco,IS,41.0,Other,BE
+2019-01-01,EDF Luminus,EDF Luminus Ham ST,,12.0,NG,BE
+2019-01-01,EDF Luminus,EDF Luminus Seraing GT2,,150.0,NG,BE
+2019-01-01,EDF Luminus,HAM31,GT,58.0,NG,BE
+2019-01-01,Electrabel,Langerlo GT4,GT,44.0,NG,BE
+2019-01-01,Electrabel,LANGERBRUGGE STORA GT 1,WKK,11.0,Other,BE
+2019-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,23.8,NG,BE
+2019-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2019-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2019-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2019-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2019-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2019-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2019-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2019-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2019-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2019-01-01,Electrabel,Zelzate TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2019-01-01,T-Power,T-power Beringen,CCGT,422.0,NG,BE
+2019-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2019-01-01,Lampiris,Intradel Herstal,IS,34.0,Other,BE
+2019-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,34.0,Other,BE
+2019-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2019-01-01,Lampiris,Aspiravi Wuustwezel,,23.0,WI,BE
+2019-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2019-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2019-01-01,EDF Luminus,HU LIXHE,HU,20.0,WA,BE
+2019-01-01,EDF Luminus,HU MONSIN,,19.7,WA,BE
+2019-01-01,EDF Luminus,SERAING TV,,170.0,NG,BE
+2019-01-01,EDF Luminus,HU ANDENNE,,9.0,WA,BE
+2019-01-01,EDF Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2019-01-01,EDF Luminus,ANGLEUR TG32,,25.0,NG,BE
+2019-01-01,EDF Luminus,EDF Luminus Ham GT,,40.0,NG,BE
+2019-01-01,EDF Luminus,EDF Luminus Izegem WKK,WKK,22.0,NG,BE
+2019-01-01,Electrabel,IXELLES TJ,TJ,18.0,LF,BE
+2019-01-01,Electrabel,HEID-DE-GOREUX 2,HU,4.0,WA,BE
+2019-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2019-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2019-01-01,Electrabel,Electrabel Diesels Awirs TG3,D,9.0,LF,BE
+2019-01-01,Electrabel,DOEL 2,NU,433.0,NU,BE
+2019-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2019-01-01,Electrabel,DOEL 1,NU,433.0,NU,BE
+2019-01-01,Electrabel,DROGENBOS GT1,,150.0,NG,BE
+2019-01-01,Electrabel,DROGENBOS GT2,,150.0,NG,BE
+2018-01-01,Electrabel,AWIRS 4,CL,95.0,Other,BE
+2018-01-01,Electrabel,BEERSE TJ,TJ,32.0,LF,BE
+2018-01-01,Electrabel,COO I T,,474.0,WA,BE
+2018-01-01,Electrabel,COO II T,,690.0,WA,BE
+2018-01-01,Electrabel,DOEL 1,NU,433.0,NU,BE
+2018-01-01,Electrabel,DOEL 2,NU,433.0,NU,BE
+2018-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2018-01-01,EDF Luminus,RINGVAART STEG,CCGT,365.0,NG,BE
+2018-01-01,Electrabel,HEID-DE-GOREUX 2,HU,4.0,WA,BE
+2018-01-01,EDF Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2018-01-01,EDF Luminus,Beveren 2 Indaver,IS,21.0,Other,BE
+2018-01-01,EDF Luminus,Beveren Sleco,IS,41.0,Other,BE
+2018-01-01,EDF Luminus,HAM31,GT,58.0,NG,BE
+2018-01-01,EDF Luminus,HAM32,GT,58.0,NG,BE
+2018-01-01,EDF Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2018-01-01,EDF Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2018-01-01,EDF Luminus,HU MONSIN,,19.7,WA,BE
+2018-01-01,EDF Luminus,Jemeppe-sur-Sambre GT1,,48.0,NG,BE
+2018-01-01,EDF Luminus,Jemeppe-sur-Sambre ST,,10.0,NG,BE
+2018-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2018-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2018-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2018-01-01,Electrabel,Zeebrugge TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2018-01-01,Electrabel,IXELLES TJ,TJ,18.0,LF,BE
+2018-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2018-01-01,T-Power,T-power Beringen,CCGT,422.0,NG,BE
+2018-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2018-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,10.0,Other,BE
+2018-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2018-01-01,Electrabel,Northwind,,216.0,WI,BE
+2018-01-01,Electrabel,Noordschote TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2018-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2018-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2018-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2018-01-01,Electrabel,ArcelorMittal Belgium Gent Wind,,26.3,WI,BE
+2018-01-01,Electrabel,AALTER TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,DROGENBOS GT1,,150.0,NG,BE
+2018-01-01,Electrabel,DROGENBOS ST,,160.0,NG,BE
+2018-01-01,EDF Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2018-01-01,Axpo Trading,Froidchapelle Wind,,25.0,WI,BE
+2018-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,413.0,NG,BE
+2018-01-01,EDF Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2018-01-01,EDF Luminus,ANGLEUR TG32,,25.0,NG,BE
+2018-01-01,EDF Luminus,EDF Luminus Izegem WKK,WKK,22.0,NG,BE
+2018-01-01,EDF Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2018-01-01,EDF Luminus,HU ANDENNE,,9.0,WA,BE
+2018-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2018-01-01,Electrabel,Zedelgem TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,Zelzate TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2018-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2018-01-01,Eneco Energy Trade,Windvision Estinnes WIND,,80.0,WI,BE
+2018-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2018-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2018-01-01,Lampiris,IVBO,IS,16.0,Other,BE
+2018-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2018-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2018-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2018-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2018-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2018-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2018-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2018-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2018-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,23.8,NG,BE
+2018-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2018-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2018-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2018-01-01,Electrabel,CIERREUX TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2018-01-01,Electrabel,Deux-Acren TJ,TJ,18.0,LF,BE
+2018-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2018-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2018-01-01,Electrabel,DROGENBOS GT2,,150.0,NG,BE
+2018-01-01,EDF Luminus,Taminco (Gent) WKK,WKK,6.3,NG,BE
+2018-01-01,EDF Luminus,ZEEBRUGGE WIND,WT,12.0,WI,BE
+2018-01-01,Electrabel,RODENHUIZE WIND,WT,4.5,WI,BE
+2018-01-01,EDF Luminus,ANGLEUR TG31,,25.0,NG,BE
+2018-01-01,EDF Luminus,Beveren 3 Indaver,IS,24.0,Other,BE
+2018-01-01,EDF Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2018-01-01,EDF Luminus,HU LIXHE,HU,20.0,WA,BE
+2018-01-01,EDF Luminus,Jemeppe-sur-Sambre GT2,,48.0,NG,BE
+2018-01-01,Electrabel,HEID-DE-GOREUX 1,HU,4.0,WA,BE
+2018-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2018-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2018-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.0,Other,BE
+2018-01-01,Lampiris,Aspiravi Wuustwezel,,23.0,WI,BE
+2018-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,34.0,Other,BE
+2018-01-01,Lampiris,Intradel Herstal,IS,34.0,Other,BE
+2018-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2018-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2018-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2018-01-01,Electrabel,Wilrijk Isvag,IS,12.0,Other,BE
+2018-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,18.0,Other,BE
+2018-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,40.0,Other,BE
+2018-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2018-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2018-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2018-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2018-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2018-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2018-01-01,Electrabel,SCHELLE WIND,,4.5,WI,BE
+2017-01-01,Electrabel,AWIRS 4,CL,95.0,Other,BE
+2017-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2017-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2017-01-01,Electrabel,AALTER TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,COO I T,,474.0,WA,BE
+2017-01-01,Electrabel,DOEL 1,NU,433.0,NU,BE
+2017-01-01,Electrabel,DOEL 2,NU,433.0,NU,BE
+2017-01-01,Electrabel,DROGENBOS TGV,CCGT,465.0,NG,BE
+2017-01-01,EDF Luminus,RINGVAART STEG,CCGT,357.0,NG,BE
+2017-01-01,Electrabel,IXELLES TJ,TJ,18.6,LF,BE
+2017-01-01,EDF Luminus,ANGLEUR TG32,,29.0,NG,BE
+2017-01-01,EDF Luminus,Beveren 2 Indaver,IS,20.0,Other,BE
+2017-01-01,EDF Luminus,Beveren Sleco,IS,54.0,Other,BE
+2017-01-01,EDF Luminus,HAM31,GT,58.0,NG,BE
+2017-01-01,EDF Luminus,HAM32,GT,58.0,NG,BE
+2017-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2017-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2017-01-01,Electrabel,Zeebrugge TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,Zelzate TJ,TJ,18.6,LF,BE
+2017-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.0,Other,BE
+2017-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2017-01-01,Lampiris,PLATE-TAILLE T,,144.0,WA,BE
+2017-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2017-01-01,T-Power,T-power Beringen,CCGT,422.0,NG,BE
+2017-01-01,Electrabel,Wilrijk Isvag,IS,10.5,Other,BE
+2017-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2017-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,40.0,Other,BE
+2017-01-01,Electrabel,Noordschote TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2017-01-01,Electrabel,SCHELLE WIND,,4.5,WI,BE
+2017-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2017-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2017-01-01,Electrabel,BEERSE TJ,TJ,33.2,LF,BE
+2017-01-01,Electrabel,ArcelorMittal Belgium Gent Wind,,26.3,WI,BE
+2017-01-01,EDF Luminus,Taminco (Gent) WKK,WKK,6.3,NG,BE
+2017-01-01,Electrabel,COO II T,,690.0,WA,BE
+2017-01-01,Electrabel,Deux-Acren TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2017-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2017-01-01,EDF Luminus,ZEEBRUGGE WIND,WT,12.0,WI,BE
+2017-01-01,EDF Luminus,Nobelwind Offshore Windpark,,165.0,WI,BE
+2017-01-01,EDF Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2017-01-01,EDF Luminus,ANGLEUR TG31,,29.0,NG,BE
+2017-01-01,EDF Luminus,HU ANDENNE,,9.0,WA,BE
+2017-01-01,EDF Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2017-01-01,EDF Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2017-01-01,EDF Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2017-01-01,EDF Luminus,HU LIXHE,HU,20.0,WA,BE
+2017-01-01,EDF Luminus,Jemeppe-sur-Sambre ST,WKK,8.0,NG,BE
+2017-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2017-01-01,Electrabel,Zandvliet Power,CCGT,386.2,NG,BE
+2017-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2017-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2017-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2017-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,17.9,Other,BE
+2017-01-01,Eneco Energy Trade,Windvision Estinnes WIND,,80.0,WI,BE
+2017-01-01,Lampiris,Aspiravi Wuustwezel,,22.1,WI,BE
+2017-01-01,Lampiris,IVBO,IS,16.0,Other,BE
+2017-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2017-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2017-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2017-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2017-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2017-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2017-01-01,Electrabel,RODENHUIZE WIND,WT,4.5,WI,BE
+2017-01-01,Electrabel,Northwind,,216.0,WI,BE
+2017-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2017-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2017-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2017-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2017-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2017-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,22.8,NG,BE
+2017-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2017-01-01,Electrabel,CIERREUX TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2017-01-01,Electrabel,DOEL 4,NU,1039.0,NU,BE
+2017-01-01,Electrabel,HEID-DE-GOREUX 1,HU,4.0,WA,BE
+2017-01-01,Electrabel,HEID-DE-GOREUX 2,HU,4.0,WA,BE
+2017-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2017-01-01,Axpo Trading,Froidchapelle Wind,,25.0,WI,BE
+2017-01-01,DIRECT ENERGIE,Marcinelle Energie (Carsid),CCGT,405.0,NG,BE
+2017-01-01,EDF Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2017-01-01,EDF Luminus,EDF Luminus Izegem WKK,WKK,22.0,NG,BE
+2017-01-01,EDF Luminus,HAM-GENT WKK,CCGT,52.0,NG,BE
+2017-01-01,EDF Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2017-01-01,EDF Luminus,HU MONSIN,,19.7,WA,BE
+2017-01-01,EDF Luminus,Jemeppe-sur-Sambre GT1,WKK,43.0,NG,BE
+2017-01-01,EDF Luminus,Jemeppe-sur-Sambre GT2,WKK,43.0,NG,BE
+2017-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2017-01-01,Electrabel,Zedelgem TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2017-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2017-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2017-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,32.0,Other,BE
+2017-01-01,Lampiris,Intradel Herstal,IS,32.0,Other,BE
+2017-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2017-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2017-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,10.0,Other,BE
+2017-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2017-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2017-01-01,Electrabel,TIHANGE 3,NU,1038.0,NU,BE
+2017-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2016-01-01,Electrabel,BUDA TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,COO II T,,690.0,WA,BE
+2016-01-01,Electrabel,Deux-Acren TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,DOEL 1,NU,433.0,NU,BE
+2016-01-01,Electrabel,DOEL 2,NU,433.0,NU,BE
+2016-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2016-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2016-01-01,Electrabel,DROGENBOS TGV,CCGT,465.0,NG,BE
+2016-01-01,Electrabel,HEID-DE-GOREUX 1,HU,4.0,WA,BE
+2016-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2016-01-01,EDF Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2016-01-01,Electrabel,AWIRS 4,CL,95.0,Other,BE
+2016-01-01,EDF Luminus,Beveren Sleco,IS,54.0,Other,BE
+2016-01-01,EDF Luminus,HAM31,GT,58.0,NG,BE
+2016-01-01,EDF Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2016-01-01,EDF Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2016-01-01,EDF Luminus,HU LIXHE,HU,20.0,WA,BE
+2016-01-01,EDF Luminus,Taminco (Gent) WKK,WKK,6.3,NG,BE
+2016-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2016-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2016-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2016-01-01,Eneco Energy Trade,Windvision Estinnes WIND,,80.0,WI,BE
+2016-01-01,Lampiris,Intradel Herstal,IS,32.0,Other,BE
+2016-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2016-01-01,RWE Supply & Trading,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2016-01-01,T-Power,T-power Beringen,CCGT,422.0,NG,BE
+2016-01-01,Uniper Global Commodities,LANGERLO 1,CL,235.0,CP,BE
+2016-01-01,Uniper Global Commodities,LANGERLO 4 REPOWERING,,43.0,NG,BE
+2016-01-01,Electrabel,Zandvliet Power,CCGT,384.0,NG,BE
+2016-01-01,Electrabel,Northwind,,216.0,WI,BE
+2016-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2016-01-01,Electrabel,SCHELLE WIND,,4.5,WI,BE
+2016-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
+2016-01-01,Electrabel,DOEL 4,NU,1038.0,NU,BE
+2016-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,22.8,NG,BE
+2016-01-01,Electrabel,CIERREUX TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,DROGENBOS GT0,GT,48.0,NG,BE
+2016-01-01,Electrabel,HERDERSBRUG WIND,WT,3.0,WI,BE
+2016-01-01,Electrabel,IXELLES TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2016-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2016-01-01,Axpo Trading,Froidchapelle Wind,,25.0,WI,BE
+2016-01-01,Axpo Trading,Jemeppe-sur-Sambre ST,WKK,8.0,NG,BE
+2016-01-01,EDF Luminus,Beveren 2 Indaver,IS,20.0,Other,BE
+2016-01-01,EDF Luminus,HAM32,GT,58.0,NG,BE
+2016-01-01,EDF Luminus,HU MONSIN,,19.7,WA,BE
+2016-01-01,EDF Luminus,RINGVAART STEG,CCGT,357.0,NG,BE
+2016-01-01,Axpo Trading,Jemeppe-sur-Sambre GT1,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Zelzate TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2016-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,17.9,Other,BE
+2016-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2016-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2016-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2016-01-01,Uniper Global Commodities,LANGERLO 2,CL,235.0,CP,BE
+2016-01-01,Electrabel,Noordschote TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2016-01-01,Electrabel,RODENHUIZE WIND,WT,4.5,WI,BE
+2016-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2016-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2016-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Wilrijk Isvag,IS,10.5,Other,BE
+2016-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2016-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2016-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2016-01-01,Electrabel,COO I T,,474.0,WA,BE
+2016-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2016-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2016-01-01,Electrabel,HEID-DE-GOREUX 2,HU,4.0,WA,BE
+2016-01-01,Electrabel,IVBO,IS,16.0,Other,BE
+2016-01-01,Electrabel,BEERSE TJ,TJ,33.2,LF,BE
+2016-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,40.0,Other,BE
+2016-01-01,Axpo Trading,Jemeppe-sur-Sambre GT2,WKK,43.0,NG,BE
+2016-01-01,EDF Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2016-01-01,EDF Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2016-01-01,EDF Luminus,HAM-GENT WKK,CCGT,52.0,NG,BE
+2016-01-01,EDF Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2016-01-01,EDF Luminus,HU ANDENNE,,9.0,WA,BE
+2016-01-01,EDF Luminus,ZEEBRUGGE WIND,WT,12.0,WI,BE
+2016-01-01,Electrabel,AALTER TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,10.0,Other,BE
+2016-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2016-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.0,Other,BE
+2016-01-01,Eneco Energy Trade,WM Park Powerport Zeebrugge,,12.0,WI,BE
+2016-01-01,Enel Trade,Marcinelle Energie (Carsid),CCGT,405.0,NG,BE
+2016-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,32.0,Other,BE
+2016-01-01,Lampiris,PLATE TAILLE T,,144.0,WA,BE
+2016-01-01,Uniper Global Commodities,LANGERLO 3 REPOWERING,,43.0,NG,BE
+2016-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2016-01-01,Electrabel,Zeebrugge TJ,TJ,18.6,LF,BE
+2016-01-01,Lampiris,Aspiravi Wuustwezel,,22.1,WI,BE
+2016-01-01,Electrabel,Zedelgem TJ,TJ,18.6,LF,BE
+2016-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2016-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2016-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2016-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2016-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2016-01-01,Electrabel,TIHANGE 3,NU,1045.8,NU,BE
+2016-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2015-01-01,Electrabel,DROGENBOS TGV,CCGT,465.0,NG,BE
+2015-01-01,Electrabel,COO I T,,474.0,WA,BE
+2015-01-01,Electrabel,Deux-Acren TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,DOEL 4,NU,1038.0,NU,BE
+2015-01-01,Electrabel,DROGENBOS DM 51,D,2.5,LF,BE
+2015-01-01,Electrabel,Froidchapelle Wind,,25.0,WI,BE
+2015-01-01,Electrabel,HEID-DE-GOREUX 1,HU,4.0,WA,BE
+2015-01-01,Electrabel,IVBO,IS,16.0,Other,BE
+2015-01-01,Electrabel,IXELLES TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,Jemeppe-sur-Sambre ST,WKK,8.0,NG,BE
+2015-01-01,Electrabel,La Vierre,,1.9,WA,BE
+2015-01-01,Electrabel,Beveren 2 Indaver,IS,20.0,Other,BE
+2015-01-01,EDF Luminus,Beveren Sleco,IS,54.0,Other,BE
+2015-01-01,EDF Luminus,HAM-GENT WKK,CCGT,52.0,NG,BE
+2015-01-01,EDF Luminus,IZEGEM,WKK,22.0,NG,BE
+2015-01-01,EDF Luminus,MONSIN TG2,GT,70.0,LF,BE
+2015-01-01,Electrabel,AALTER TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,BEERSE TJ,TJ,33.2,LF,BE
+2015-01-01,Electrabel,Zwijndrecht Lanxess ST,WKK,15.0,NG,BE
+2015-01-01,Electrawinds Distributie,Greenpower Oostende,IS,20.0,Other,BE
+2015-01-01,Eneco Energy Trade,Thorntonbank - C-Power - Area SW,,177.6,WI,BE
+2015-01-01,Eneco Energy Trade,ZEEBRUGGE WIND,WT,12.0,WI,BE
+2015-01-01,Enel Trade,Marcinelle Energie (Carsid),CCGT,405.0,NG,BE
+2015-01-01,EON Global Commodities,LANGERLO 1,CL,235.0,CP,BE
+2015-01-01,EON Global Commodities,LANGERLO 3 REPOWERING,,43.0,NG,BE
+2015-01-01,Electrabel,Lillo Degussa GT1,WKK,43.0,NG,BE
+2015-01-01,Lampiris,Intradel Herstal,IS,32.0,Other,BE
+2015-01-01,Lampiris,PLATE TAILLE T,,144.0,WA,BE
+2015-01-01,RWE Supply & Trading,Biostoom Oostende,CCGT,19.4,Other,BE
+2015-01-01,RWE Supply & Trading,INESCO WKK,CCGT,138.0,NG,BE
+2015-01-01,RWE Supply & Trading Netherlands,Thorntonbank - C-Power - Area NE,,147.6,WI,BE
+2015-01-01,T-Power,T-power Beringen,CCGT,422.0,NG,BE
+2015-01-01,Electrabel,Zedelgem TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,Lillo Degussa GT2,WKK,32.0,NG,BE
+2015-01-01,Electrabel,Lillo Degussa ST,WKK,10.0,NG,BE
+2015-01-01,Electrabel,Noordschote TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,Oorderen Bayer,WKK,43.0,NG,BE
+2015-01-01,Electrabel,SAINT-GHISLAIN STEG,CCGT,350.0,NG,BE
+2015-01-01,Electrabel,Schaerbeek Siomab ST3,IS,15.0,Other,BE
+2015-01-01,Electrabel,Scheldelaan Exxonmobil,WKK,140.0,NG,BE
+2015-01-01,Electrabel,Wilmarsdonk Total GT3,WKK,43.0,NG,BE
+2015-01-01,Electrabel,Wilrijk Isvag,IS,10.5,Other,BE
+2015-01-01,Electrabel,CIERREUX TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,DROGENBOS DM 52,D,2.5,LF,BE
+2015-01-01,Electrabel,DROGENBOS GT0,GT,48.0,NG,BE
+2015-01-01,Electrabel,BUTGENBACH,HU,1.8,WA,BE
+2015-01-01,Electrabel,LANGERBRUGGE STORA ST 1,WKK,10.0,Other,BE
+2015-01-01,EDF Luminus,HU AMPSIN-NEUVILLE,,9.9,WA,BE
+2015-01-01,EDF Luminus,HU ANDENNE,,9.0,WA,BE
+2015-01-01,EDF Luminus,HU FLORIFFOUX,,0.8,WA,BE
+2015-01-01,EDF Luminus,HU GRAND-MALADES,,5.0,WA,BE
+2015-01-01,EDF Luminus,HU LIXHE,HU,20.0,WA,BE
+2015-01-01,EDF Luminus,HU MONSIN,,19.7,WA,BE
+2015-01-01,EDF Luminus,RINGVAART STEG,CCGT,357.0,NG,BE
+2015-01-01,Electrabel,Aalst Syral GT,WKK,43.0,NG,BE
+2015-01-01,Electrabel,Aalst Syral ST,WKK,5.0,NG,BE
+2015-01-01,Electrabel,Amercoeur 1 R TGV,CCGT,451.0,NG,BE
+2015-01-01,Electrabel,AWIRS 4,CL,95.0,Other,BE
+2015-01-01,Electrabel,Belwind Phase 1,,171.0,WI,BE
+2015-01-01,Electrabel,LANGERBRUGGE STORA ST 2,WKK,40.0,Other,BE
+2015-01-01,EON Global Commodities,LANGERLO 2,CL,235.0,CP,BE
+2015-01-01,Electrawinds Distributie,Electrawinds biomassa Oostende,WKK,17.9,Other,BE
+2015-01-01,EON Global Commodities,LANGERLO 4 REPOWERING,,43.0,NG,BE
+2015-01-01,EON Global Commodities,VILVOORDE TGV,GT,265.0,NG,BE
+2015-01-01,Electrabel,Zeebrugge TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,Zandvliet Power,CCGT,384.0,NG,BE
+2015-01-01,Electrabel,Schaerbeek Siomab ST2,IS,15.0,Other,BE
+2015-01-01,Electrabel,SCHELLE WIND,,4.5,WI,BE
+2015-01-01,Electrabel,TIHANGE 1S,NU,481.0,NU,BE
+2015-01-01,Electrabel,TIHANGE 2,NU,1008.0,NU,BE
+2015-01-01,Electrabel,TIHANGE 3,NU,1045.8,NU,BE
+2015-01-01,Electrabel,Wilmarsdonk Total GT1,WKK,43.0,NG,BE
+2015-01-01,EDF Luminus,ANGLEUR TG 41,GT,64.0,NG,BE
+2015-01-01,Electrabel,COO II T,,690.0,WA,BE
+2015-01-01,Electrabel,DOEL 1,NU,433.0,NU,BE
+2015-01-01,Electrabel,DOEL 2,NU,433.0,NU,BE
+2015-01-01,Electrabel,DOEL 3,NU,1006.0,NU,BE
+2015-01-01,Electrabel,HERDERSBRUG STEG,CCGT,465.0,NG,BE
+2015-01-01,Electrabel,ESCH-SUR-ALZETTE STEG,CCGT,376.4,NG,BE
+2015-01-01,Electrabel,HEID-DE-GOREUX 2,HU,4.0,WA,BE
+2015-01-01,Electrabel,BUDA TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,HERDERSBRUG WIND,WT,3.0,WI,BE
+2015-01-01,Electrabel,Jemeppe-sur-Sambre GT1,WKK,43.0,NG,BE
+2015-01-01,Electrabel,Jemeppe-sur-Sambre GT2,WKK,43.0,NG,BE
+2015-01-01,EDF Luminus,ANGLEUR TGV3,CCGT,60.0,NG,BE
+2015-01-01,Electrabel,Beveren Ineos Phenolchemie,WKK,22.8,NG,BE
+2015-01-01,EDF Luminus,HAM31,GT,58.0,NG,BE
+2015-01-01,EDF Luminus,HAM32,GT,58.0,NG,BE
+2015-01-01,EDF Luminus,HU IVOZ-RAMET,,10.0,WA,BE
+2015-01-01,EDF Luminus,Taminco (Gent) WKK,WKK,6.3,NG,BE
+2015-01-01,Electrabel,Lanaken Sappi,WKK,43.0,NG,BE
+2015-01-01,EDF Luminus,ANGLEUR TG 42,GT,64.0,NG,BE
+2015-01-01,Electrabel,Zelzate 2 Knippegroen,CL,315.0,Other,BE
+2015-01-01,Electrabel,Zelzate TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,Zwijndrecht Lanxess GT,WKK,43.0,NG,BE
+2015-01-01,Eneco Energy Trade,Windvision Estinnes WIND,,80.0,WI,BE
+2015-01-01,Lampiris,Aspiravi Wuustwezel,,22.1,WI,BE
+2015-01-01,Lampiris,Eurosilo,WKK,12.9,NG,BE
+2015-01-01,Lampiris,Incinerateur THUMAIDE (IPALLE),IS,32.0,Other,BE
+2015-01-01,Electrabel,Zeebrugge 2 Fluxys,WKK,40.0,NG,BE
+2015-01-01,Electrabel,Northwind,,216.0,WI,BE
+2015-01-01,Electrabel,Oud-Lillo Monsanto,WKK,43.0,NG,BE
+2015-01-01,Electrabel,RODENHUIZE 4,CL,268.0,Other,BE
+2015-01-01,Electrabel,RODENHUIZE WIND,WT,4.5,WI,BE
+2015-01-01,Electrabel,Schaerbeek Siomab ST1,IS,15.0,Other,BE
+2015-01-01,Electrabel,TIHANGE 1N,NU,481.0,NU,BE
+2015-01-01,Electrabel,Turon TJ,TJ,18.6,LF,BE
+2015-01-01,Electrabel,Wilmarsdonk Total GT2,WKK,43.0,NG,BE
