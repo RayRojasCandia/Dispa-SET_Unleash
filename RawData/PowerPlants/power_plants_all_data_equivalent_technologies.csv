@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c9d60d10090f1f382113b2a672daaa15ca152725110434debaf25fc08209acc
-size 1585
+Description,Dispaset_Technology,Equivalent_Technology_1,Equivalent_Technology_2,Equivalent_Technology_3,Equivalent_Technology_4,Equivalent_Technology_5,Equivalent_Technology_6,Equivalent_Technology_7,Equivalent_Technology_8
+Conventional hydro dam,HDAM,Reservoir,-,-,-,-,-,-,-
+Hydro run-of-river,HROR,Run-of-river,RES,-,-,-,-,-,-
+Pumped hydro storage,HPHS,Pumped storage,Pumped storage with natural inflow,-,-,-,-,-,-
+Solar photovoltaic,PHOT,Photovoltaics,Photovoltaics ground,-,-,-,-,-,-
+Wave energy,WAVE,-,-,-,-,-,-,-,-
+Waste heat engine,WHEN,-,-,-,-,-,-,-,-
+Offshore wind turbine,WTOF,Offshore,-,-,-,-,-,-,-
+Onshore wind turbine,WTON,Onshore,-,-,-,-,-,-,-
+Combined cycle,COMC,Combined cycle,CCGT,-,-,-,-,-,-
+Gas turbine,GTUR,Gas turbine,-,-,-,-,-,-,-
+Internal combustion engine,ICEN,Combustion Engine,Sewage and landfill gas,-,-,-,-,-,-
+Concentrated Solar Power,SCSP,-,-,-,-,-,-,-,-
+Steam turbine,STUR,Steam turbine,chp,Biomass and biogas,Geothermal,-,-,-,-
+Stationary batteries,BATS,-,-,-,-,-,-,-,-
+Battery-powered electric vehicles,BEVS,-,-,-,-,-,-,-,-
+Compressed air energy storage,CAES,-,-,-,-,-,-,-,-
+Power-to-gas storage,P2GS,-,-,-,-,-,-,-,-
+Thermal storage,THMS,Storage technologies,-,-,-,-,-,-,-
+Geothermal district heating,GETH,-,-,-,-,-,-,-,-
+Heat only boiler,HOBO,-,-,-,-,-,-,-,-
+Solar thermal district heating,SOTH,-,-,-,-,-,-,-,-
+Absorption heat pump (solar/geothermal/gas),ABHP,-,-,-,-,-,-,-,-
+Air source heat pump,ASHP,-,-,-,-,-,-,-,-
+Ground source heat pump,GSHP,-,-,-,-,-,-,-,-
+Hybrid heat pump (Ground/air & HP/GAS-OIL,HYHP,-,-,-,-,-,-,-,-
+Power-to-heat,P2HT,-,-,-,-,-,-,-,-
+Resistive heater,REHE,-,-,-,-,-,-,-,-
+Water source heat pump,WSHP,-,-,-,-,-,-,-,-

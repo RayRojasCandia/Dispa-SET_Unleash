@@ -8,9 +8,9 @@ Created on Fri Apr  5 11:11:25 2024
 
 import pandas as pd
 
-raw_data_file_path =  '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/5'
-clean_data_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/2020.csv'
-equivalent_headers_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/power_plants_clean_data_equivalent_headers.csv'
+#raw_data_file_path =  '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/5'
+#clean_data_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/2020.csv'
+#equivalent_headers_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/power_plants_clean_data_equivalent_headers.csv'
 
 
 
