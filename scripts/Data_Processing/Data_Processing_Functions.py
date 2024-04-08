@@ -477,63 +477,121 @@ def copy_field_values(first_file_path, second_file_path, common_columns, column_
     
     
     
+
+"""
+def copy_technical_values(first_file_path, target_files, common_columns, column_to_copy):
+
+    Copies efficiency values (or any specified column) from the first file to a list of target files based on matching
+    technology and fuel information. Fills missing values in target files.
+
+    Args:
+        first_file_path (str): Path to the first CSV file (source of efficiency values).
+        target_files (list): List of paths to target CSV files.
+        common_columns (list): List of column names common to all CSV files (excluding column_to_copy).
+        column_to_copy (str): Column name to copy from the first file to target files.
+
+
+    # Read the first file (source of efficiency values)
+    first_df = pd.read_csv(first_file_path)
+
+    for target_file in target_files:
+        print(f"Processing target file: {target_file}")
+
+        # Read the target file
+        second_df = pd.read_csv(target_file)
+
+        # Iterate over unique values of "Technology" in the target file
+        for technology in second_df['Technology'].unique():
+            # Filter rows in both files where "Technology" matches
+            first_filtered = first_df[first_df['Technology'] == technology]
+            second_filtered = second_df[second_df['Technology'] == technology]
+
+            # Iterate over unique values of "Fuel" in the target file
+            for fuel in second_filtered['Fuel'].unique():
+                # Filter rows with matching "Fuel" in both files
+                first_fuel_filtered = first_filtered[first_filtered['Fuel'] == fuel]
+                second_fuel_filtered = second_filtered[second_filtered['Fuel'] == fuel]
+
+                # Convert 'PowerCapacity' column to numeric
+                first_fuel_filtered['PowerCapacity'] = pd.to_numeric(first_fuel_filtered['PowerCapacity'], errors='coerce')
+
+                # Iterate over rows in the target file
+                for index, second_row in second_fuel_filtered.iterrows():
+                    # Check if the column_to_copy value is missing in the target file
+                    if pd.isnull(second_row[column_to_copy]):
+                        # Convert 'PowerCapacity' value to numeric
+                        second_row['PowerCapacity'] = pd.to_numeric(second_row['PowerCapacity'], errors='coerce')
+
+                        # Find the row in the first file with the closest "PowerCapacity" value
+                        closest_row = first_fuel_filtered.iloc[(first_fuel_filtered['PowerCapacity'] - second_row['PowerCapacity']).abs().argsort()[:1]]
+
+                        # Copy the column_to_copy value from the first file to the target file
+                        if not closest_row.empty:
+                            second_df.at[index, column_to_copy] = closest_row[column_to_copy].values[0]
+
+        # Write updated DataFrame to the target file
+        second_df.to_csv(target_file, index=False)
+
+    print(f"{column_to_copy} Field values copied successfully.")
+"""    
+
+    
+    
+    
     
 
 
 def copy_technical_values(first_file_path, target_files, common_columns, column_to_copy):
-  """
-  Copies efficiency values (or any specified column) from the first file to a list of target files based on matching
-  technology and fuel information. Fills missing values in target files.
+    """
+    Copies efficiency values (or any specified column) from the first file to a list of target files based on matching
+    technology and fuel information. Fills missing values in target files.
 
-  Args:
-      first_file_path (str): Path to the first CSV file (source of efficiency values).
-      target_files (list): List of paths to target CSV files.
-      common_columns (list): List of column names common to all CSV files (excluding column_to_copy).
-      column_to_copy (str): Column name to copy from the first file to target files.
-  """
+    Args:
+        first_file_path (str): Path to the first CSV file (source of efficiency values).
+        target_files (list): List of paths to target CSV files.
+        common_columns (list): List of column names common to all CSV files (excluding column_to_copy).
+        column_to_copy (str): Column name to copy from the first file to target files.
+    """
 
-  # Read the first file (source of efficiency values)
-  first_df = pd.read_csv(first_file_path)
+    # Read the first file (source of efficiency values)
+    first_df = pd.read_csv(first_file_path)
 
-  for target_file in target_files:
-    print(f"Processing target file: {target_file}")
+    for target_file in target_files:
+        print(f"Processing target file: {target_file}")
 
-    # Read the target file
-    second_df = pd.read_csv(target_file)
+        # Read the target file
+        second_df = pd.read_csv(target_file)
 
-    # Iterate over unique values of "Technology" in the target file
-    for technology in second_df['Technology'].unique():
-      # Filter rows in both files where "Technology" matches
-      first_filtered = first_df[first_df['Technology'] == technology]
-      second_filtered = second_df[second_df['Technology'] == technology]
+        # Iterate over unique values of "Technology" in the target file
+        for technology in second_df['Technology'].unique():
+            # Filter rows in both files where "Technology" matches
+            first_filtered = first_df[first_df['Technology'] == technology]
+            second_filtered = second_df[second_df['Technology'] == technology]
 
-      # Iterate over unique values of "Fuel" in the target file
-      for fuel in second_filtered['Fuel'].unique():
-        # Filter rows with matching "Fuel" in both files
-        first_fuel_filtered = first_filtered[first_filtered['Fuel'] == fuel]
-        second_fuel_filtered = second_filtered[second_filtered['Fuel'] == fuel]
+            # Iterate over unique values of "Fuel" in the target file
+            for fuel in second_filtered['Fuel'].unique():
+                # Filter rows with matching "Fuel" in both files
+                first_fuel_filtered = first_filtered[first_filtered['Fuel'] == fuel]
+                second_fuel_filtered = second_filtered[second_filtered['Fuel'] == fuel]
 
-        # Iterate over rows in the target file
-        for index, second_row in second_fuel_filtered.iterrows():
-          # Check if the column_to_copy value is missing in the target file
-          if pd.isnull(second_row[column_to_copy]):
-            # Find the row in the first file with the closest "PowerCapacity" value
-            closest_row = first_fuel_filtered.iloc[(first_fuel_filtered['PowerCapacity'] - second_row['PowerCapacity']).abs().argsort()[:1]]
+                # Convert 'PowerCapacity' column to numeric
+                first_fuel_filtered['PowerCapacity'] = pd.to_numeric(first_fuel_filtered['PowerCapacity'], errors='coerce')
 
-            # Copy the column_to_copy value from the first file to the target file
-            if not closest_row.empty:
-              second_df.at[index, column_to_copy] = closest_row[column_to_copy].values[0]
+                # Iterate over rows in the target file
+                for index, second_row in second_fuel_filtered.iterrows():
+                    # Check if the column_to_copy value is missing in the target file
+                    if pd.isnull(second_row[column_to_copy]):
+                        # Convert 'PowerCapacity' value to numeric
+                        second_row_power_capacity = pd.to_numeric(second_row['PowerCapacity'], errors='coerce')
 
-    # Write updated DataFrame to the target file
-    second_df.to_csv(target_file, index=False)
+                        # Find the row in the first file with the closest "PowerCapacity" value
+                        closest_row = first_fuel_filtered.iloc[(first_fuel_filtered['PowerCapacity'] - second_row_power_capacity).abs().argsort()[:1]]
 
-  print(f"{column_to_copy} Field values copied successfully.")
+                        # Copy the column_to_copy value from the first file to the target file
+                        if not closest_row.empty:
+                            second_df.at[index, column_to_copy] = float(closest_row[column_to_copy].values[0])
 
+        # Write updated DataFrame to the target file
+        second_df.to_csv(target_file, index=False)
 
-# Example usage (uncomment if running the script directly)
-# first_file_path = "path/to/first_file.csv"
-# target_files = ["path/to/target_file1.csv", "path/to/target_file2.csv"]
-# common_columns = ['PowerCapacity', 'Technology', 'Fuel']
-# column_to_copy = "Efficiency"
-# copy_efficiency_values(first_file_path, target_files, common_columns, column_to_copy)
-
+    print(f"{column_to_copy} Field values copied successfully.")
