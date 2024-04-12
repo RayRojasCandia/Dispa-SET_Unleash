@@ -5,15 +5,10 @@ Created on Fri Apr  5 11:07:23 2024
 
 @author: ray
 """
-import csv
-import datetime
-from os import path
-
-#import os
+import os
 import numpy as np
 import pandas as pd
-
-from os import makedirs
+import requests
 
 #raw_data_file_path =  '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/5'
 #clean_data_file_path = '/home/ray/Dispa-SET_Unleash/RawData/PowerPlants/BE/2020.csv'
@@ -601,6 +596,26 @@ def copy_technical_values(first_file_path, target_files, common_columns, column_
         second_df.to_csv(target_file, index=False)
 
     print(f"{column_to_copy} Field values copied successfully.")
+
+
+def generate_links_and_write_to_files(links, file_paths):
+    for link, file_path in zip(links, file_paths):
+        response = requests.get(link)
+        if response.status_code == 200:
+            data = response.json()
+            links = data["data"]["links"]
+            with open(file_path, "w") as f:
+                for generated_link in links:
+                    f.write(generated_link + "\n")
+            print(f"Generated links written to {file_path}")
+        else:
+            print(f"Failed to fetch data from {link}")
+
+# Example usage:
+#links = ["https://example.com/link1", "https://example.com/link2", "https://example.com/link3"]
+#file_paths = ["file1.txt", "file2.txt", "file3.txt"]
+
+generate_links_and_write_to_files(links, file_paths)
 
 
 
