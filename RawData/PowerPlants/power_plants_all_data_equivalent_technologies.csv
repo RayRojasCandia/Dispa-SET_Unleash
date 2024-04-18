@@ -1,17 +1,17 @@
 Description,Dispaset_Technology,Equivalent_Technology_1,Equivalent_Technology_2,Equivalent_Technology_3,Equivalent_Technology_4,Equivalent_Technology_5,Equivalent_Technology_6,Equivalent_Technology_7,Equivalent_Technology_8
-Conventional hydro dam,HDAM,Reservoir,-,-,-,-,-,-,-
-Hydro run-of-river,HROR,Run-of-river,RES,-,-,-,-,-,-
-Pumped hydro storage,HPHS,Pumped storage,Pumped storage with natural inflow,-,-,-,-,-,-
+Conventional hydro dam,HDAM,Reservoir,Hydro Water Reservoir,-,-,-,-,-,-
+Hydro run-of-river,HROR,Run-of-river,RES,Hydro Run-of-river and poundage,-,-,-,-,-
+Pumped hydro storage,HPHS,Pumped storage,Pumped storage with natural inflow,Hydro Pumped Storage,-,-,-,-,-
 Solar photovoltaic,PHOT,Photovoltaics,Photovoltaics ground,-,-,-,-,-,-
 Wave energy,WAVE,-,-,-,-,-,-,-,-
 Waste heat engine,WHEN,-,-,-,-,-,-,-,-
 Offshore wind turbine,WTOF,Offshore,-,-,-,-,-,-,-
 Onshore wind turbine,WTON,Onshore,-,-,-,-,-,-,-
 Combined cycle,COMC,Combined cycle,CCGT,-,-,-,-,-,-
-Gas turbine,GTUR,Gas turbine,-,-,-,-,-,-,-
+Gas turbine,GTUR,Gas turbine,Fossil Gas,-,-,-,-,-,-
 Internal combustion engine,ICEN,Combustion Engine,Sewage and landfill gas,-,-,-,-,-,-
 Concentrated Solar Power,SCSP,-,-,-,-,-,-,-,-
-Steam turbine,STUR,Steam turbine,chp,Biomass and biogas,Geothermal,-,-,-,-
+Steam turbine,STUR,Steam turbine,chp,Biomass and biogas,Geothermal,Fossil Hard coal,-,-,-
 Stationary batteries,BATS,-,-,-,-,-,-,-,-
 Battery-powered electric vehicles,BEVS,-,-,-,-,-,-,-,-
 Compressed air energy storage,CAES,-,-,-,-,-,-,-,-
