@@ -6,8 +6,8 @@ Nunits,-,-,-,-,-,-,-,-
 Zone,country,Country,-,-,-,-,-,-
 Zone_th,-,-,-,-,-,-,-,-
 Zone_h2,-,-,-,-,-,-,-,-
-Technology,technology,Production Unit Type,Production Type,-,-,-,-,-
-Fuel,energy_source_level_2,Fuel code,energy_source,-,-,-,-,-
+Technology,technology,Production Unit Type,Technology,-,-,-,-,-
+Fuel,energy_source_level_2,Fuel code,energy_source,fuel,Fuel,-,-,-
 Efficiency,efficiency_estimate,,-,-,-,-,-,-
 MinUpTime,-,-,-,-,-,-,-,-
 MinDownTime,-,-,-,-,-,-,-,-

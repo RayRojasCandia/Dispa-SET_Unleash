@@ -1,0 +1,10 @@
+,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon
+,DRAXX,3885,1.0,UK,,,STUR,Biomass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,LOAN,2400,1.0,UK,,,STUR,Fossil Hard coal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,PEMB,2305,1.0,UK,,,COMC,Fossil Gas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EGGPS,2100,1.0,UK,,,STUR,Fossil Hard coal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,RATS,2020,1.0,UK,,,STUR,Fossil Hard coal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DINO,2016,1.0,UK,,,HROR,Hydro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,WBUPS,2012,1.0,UK,,,STUR,Fossil Hard coal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,COTPS,2008,1.0,UK,,,STUR,Fossil Hard coal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,STVE,1998,1.0,UK,,,HROR,Hydro,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

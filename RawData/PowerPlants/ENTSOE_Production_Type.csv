@@ -1,0 +1,21 @@
+Class,Sub-Class,Complete Term,technology,fuel
+Biomass,,Biomass,Stur,Biomass
+Fossil,Lignite,Fossil Brown coal/Lignite,Stur,Lignite
+Fossil,Coal-derived gas,Fossil Coal-derived gas,Stur,Fossil Coal-derived gas
+Fossil,Gas,Fossil Gas,Comc,Fossil Gas
+Fossil,Hard coal,Fossil Hard coal,Stur,Fossil Hard coal
+Fossil,Oil,Fossil Oil,Stur,Fossil Oil
+Fossil,Oil shale,Fossil Oil shale,Stur,Fossil Oil shale
+Fossil,Peat,Fossil Peat,Stur,Fossil Peat
+Geothermal,,Geothermal ,Stur,Geothermal 
+Hydro,Pumped Storage,Hydro Pumped Storage,Hydro Pumped Storage,Hydro
+Hydro,Run-of-river,Hydro Run-of-river and poundage,Hydro Run-of-river,Hydro
+Hydro,Water Reservoir,Hydro Water Reservoir,Hydro Water Reservoir,Hydro
+Marine,,Marine ,,
+Nuclear,,Nuclear ,Stur,Nuclear 
+Other renewable,,Other renewable ,,
+Solar,,Solar ,Phot,Solar 
+Waste,,Waste ,Stur,Waste
+Wind,Offshore,Wind Offshore,Wind Offshore,Wind
+Wind,Onshore,Wind Onshore,Wind Onshore,Wind
+Other non-renewable,,Other non-renewable ,,

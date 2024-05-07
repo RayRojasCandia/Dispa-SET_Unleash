@@ -1,0 +1,8 @@
+"Area / Date","Production Type","Code","Name","Intalled Capacity at the beginning of year [MW]","Current Installed Capacity [MW]","Location","Voltage Connection Level [kV]","Commissioning Date","Decommissioning Date"
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Fossil Brown coal/Lignite","28W-G-000000080M","TE Šoštanj","844","844","Šoštanj","400","01.01.2014",""
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Nuclear","28W-G-000000119L","NE Krško","696","696","Krško","400","01.01.2014",""
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Fossil Gas","28W-G-000000122W","PE Brestanica","350","350","Brestanica","110","01.01.2014",""
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Hydro Pumped Storage","28W-G-0000000009","ČHE Avče elektrarna","180","180","Avče","110","01.01.2014",""
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Hydro Run-of-river and poundage","28W-G-000000090J","HE Zlatoličje","126","126","Zlatoličje","110","01.01.2014",""
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Hydro Run-of-river and poundage","28W-G-000000091H","HE Formin","116","116","Formin","100","01.01.2014",""
+"CTA|SI / 01.01.2021 00:00 - 01.01.2022 00:00","Fossil Brown coal/Lignite","28W-G-000000082I","TE TE-TOL","112","112","Ljubljana","110","01.01.2014",""

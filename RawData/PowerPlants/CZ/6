@@ -1,0 +1,29 @@
+Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,27W-PU-ETEM----A,ETEM_______,2056,2056,Temelín,400,31.12.2014,,CZ
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,27W-PU-EDUK----1,EDUK_______,1880,1880,Dukovany,400,31.12.2014,,CZ
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,EPR2_______,1059,1059,Prunéřov 2,400,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,EPC1_______,916,916,Počerady,400,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,27W-PU-EPC2----S,EPC2_______,847,847,Počerady 2,400,31.12.2014,,CZ,Comc,Fossil Gas
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,ECHV_______,767,767,Chvaletice,400,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,27W-PU-EDET----M,EDET_______,748,748,Dětmarovice,220,31.12.2014,,CZ,Stur,Fossil Hard coal
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-ETU2----I,ETU2_______,728,728,Tušimice 2,400,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,27W-PU-EDST----Z,EDST_______,638,638,Dlouhé Stráně,400,31.12.2014,,CZ,Hydro Pumped Storage,Hydro
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-ELED----H,ELED_______,597,597,Ledvice,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EECK----8,EECK_______,480,480,Kladno,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,27W-PU-EDAL----O,EDAL_______,472,472,Dalešice,400,31.12.2014,,CZ,Hydro Pumped Storage,Hydro
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,27W-PU-EPVR----4,EPVR_______,400,400,357 43 Vřesová,220,01.08.2018,,CZ,Comc,Fossil Gas
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EPR1----3,EPR1_______,393,393,Prunéřov 1,400,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,27W-PU-EORK----8,EORK_______,360,360,Orlík,220,31.12.2014,,CZ,Hydro Water Reservoir,Hydro
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EOPA----8,EOPA_______,348,348,Opatovice,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EME1----7,EME1_______,275,275,Mělník 1,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EVRE----P,EVRE_______,239,239,357 43 Vřesová,110,01.08.2018,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EME2----1,EME2_______,196,196,Mělník 2,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-ELEX2---U,ELED2______,194,194,Ledvice X2,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EKOM----C,EKOM_______,192,192,Komořany,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,27W-PU-ETBE----5,ETBE_______,174,174,Třebovice,110,31.12.2014,,CZ,Stur,Fossil Hard coal
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Other,27W-PU-EPOR----G,EPOR_______,149,149,Poříčí,110,31.12.2014,,CZ
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-ETI1----Y,ETI1_______,141,141,Tisová 1,110,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,27W-PU-ESLA----4,ESLA_______,132,132,Slapy,110,31.12.2014,,CZ,Hydro Water Reservoir,Hydro
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,27W-PU-ELI1----O,ELI1_______,120,120,Lipno 1,110,31.12.2014,,CZ,Hydro Water Reservoir,Hydro
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-EPLE----4,EPLE_______,111,111,Plzeňská energetika,22,31.12.2014,,CZ,Stur,Lignite
+CTA|CZ / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,27W-PU-ETI2----S,ETI2_______,105,105,"Tisová 2, 356 01 Březová",220,01.08.2018,,CZ,Stur,Lignite

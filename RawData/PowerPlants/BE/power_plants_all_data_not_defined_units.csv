@@ -1,0 +1,8 @@
+,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon
+,DOEL 4,1039.0,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TIHANGE 3,1038.0,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TIHANGE 1N,481.0,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TIHANGE 1S,481.0,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DOEL 1,445.0,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,DOEL 2,445.0,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TIHANGE 2,,1.0,BE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

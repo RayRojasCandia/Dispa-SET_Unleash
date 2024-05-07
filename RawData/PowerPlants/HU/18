@@ -1,0 +1,54 @@
+Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,15WPAKS------PPL,Paksi Atomerőmű,1916.0,1916.0,Paks,400,31.12.2013,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,15WMATRA-----PPK,Mátrai Erőmű,852.0,852.0,Visonta,220,31.12.2013,,HU,Stur,Lignite
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WDUME------PPI,DUMEuz -Dunamenti Erőmű,785.0,760.0,Százhalombatta,220,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Other renewable,15WSINERGYR--PP6,SINERGYR,323.0,680.0,Budapest,132,01.07.2021,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WGONYU-----PP5,Gönyűi Erőmű,437.0,437.0,Gönyű,400,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WCSEPEL----PPI,Alpiq Csepel Erőmű,401.0,401.0,Budapest,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WEWISER----PP7,Ewiser szabályozó központ,203.0,374.0,Cirák,132,30.11.2020,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Other renewable,15WPLOOP-----PPL,BÖRZE szabályozási központ,216.0,342.0,Budapest,132,31.12.2013,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WMVMZG-----UZ9,MVMZGuz,144.0,259.0,Budapest,132,31.05.2022,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15W-MECSPV--UZ-G,MECSPVuz,,234.0,Mezőcsát,220,31.03.2023,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WKELENF----PP8,Kelenföldi Erőmű,173.0,173.0,Budapest,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,15WLORINC----PPF,LORIGTuz - Lőrinci Gázturbinás Erőmű,172.0,172.0,Budapest,120,31.12.2013,,HU,Stur,Fossil Oil
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WMVMSZK----PPY,MVM szabályozási központ,156.0,159.0,Budapest,20,31.12.2014,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WSINERGY---PPQ,Sinergy szabályozási központ,107.0,124.0,Budapest,20,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,15WSAJSZOGED-PP4,Sajószögedi Gázturbinás Erőmű,120.0,120.0,Sajószöged,120,31.12.2013,,HU,Stur,Fossil Oil
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,15WLITER-----PPP,Litéri Gázturbinás Erőmű,120.0,120.0,Budapest,120,31.12.2013,,HU,Stur,Fossil Oil
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WBAKONY----PP6,Bakonyi Gázturbinás Erőmű,114.0,114.0,Ajka,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WKISP------PP6,Kispesti Erőmű,109.0,109.0,Budapest,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WUJPEST----PPO,Újpesti Erőmű,102.0,102.0,Budapest,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WDKCE------PPQ,Debreceni Kombináltciklusú Erőmű,95.0,95.0,Debrecen,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,15WAJKA------PPT,Ajkai Hőerőmű,93.0,93.0,Ajka,120,31.12.2013,,HU,Stur,Lignite
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WEONSUM----PPI,EONSUM szabályozási központ,63.0,87.0,Budapest,20,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WGREEN-----PPZ,GREENuz-GREENERGY szabályozási központ,66.0,84.0,Budapest,20,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WVPP-------PPZ,VPP szabályozási csoport,68.0,68.0,Budapest,20,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WVEOLIASZK-PPQ,VEOLIA szabályozási központ,68.0,68.0,Budapest,20,01.04.2015,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,15WPECS------PPO,Pécsi Erőmű,62.0,62.0,Pécs,120,31.12.2013,,HU,Stur,Biomass
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WBUZSPV----PPB,BUZSPVuz,61.0,61.0,Buzsák,22,31.07.2022,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Other renewable,15W-VLTRCK1-UZ-O,VLTRCK1uz,,51.0,Budapest,22,31.01.2023,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WKAPKPV----PPS,Kaposvár Keleti naperőmű,49.0,49.0,Kaposvár Kelet,132,11.11.2020,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WKAPNPV----PPZ,Kaposvár Nyugati naperőmű,49.0,49.0,Kaposvár Nyugat,132,25.11.2020,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WNYKCE-----PP6,Nyíregyházi Kombináltciklusú Erőmű,47.0,47.0,Oroszlány,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WTPUSPV----PP3,TPUSPV,47.0,47.0,Tiszapüspöki naperőmű,132,31.03.2022,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,15WPANNON----PPS,Pannongreen,44.0,44.0,Pécs,120,31.12.2013,,HU,Stur,Biomass
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,15WHAMBURGERHPPF,Hamburger Hungária,42.0,42.0,Dunaújváros,132,01.08.2021,,HU,Stur,Fossil Hard coal
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WVPPPV-----PP5,VPPPV szabályozó központ,6.0,36.0,Budapest,22,30.04.2022,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,15WBAKONYI---PPL,Bakonyi Bioerőmű,28.0,28.0,Ajka,120,31.12.2013,,HU,Stur,Biomass
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WTATAB-----PPG,Tatabánya Erőmű,43.0,25.0,Tatabánya,120,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,15WSOPKOV----PPO,Sopronkövesd szélerőműpark,23.0,23.0,Sopronkövesd,120,31.12.2013,,HU,Wind Onshore,Wind
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WBABRPV----PP7,Bükkábrányi naperőmű,20.0,20.0,Bükkábrány,35,01.03.2019,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15W-MVMZG2--UZ-F,MVMZG2uz,,20.0,Budapest,132,29.02.2024,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WNYPAZPV---UZI,NYPAZPVuz,20.0,20.0,Nyírpazony,11,31.05.2022,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15W-HUGRPV--UZ-H,HUGRPVuz,,20.0,Halmajugra,132,31.07.2023,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WDUNAPVSZK-PPW,DUNAPVSZK,17.0,17.0,Százhalombatta,132,30.04.2021,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WALPIQ-----PPY,ALPIQ szabályzási csoport,17.0,17.0,Budapest,132,31.12.2013,,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WTUSKESPV--PPG,Tüskésréti Naperőmű (Pécs),10.0,10.0,Pécs,35,20.08.2018,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WAUDIPV----PPX,Győri AUDI naperőmű,10.0,10.0,Győr,22,01.12.2019,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WMOLFPV----PP2,MOL DUFI naperőmű,6.0,6.0,Százhalombatta,132,01.09.2019,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WTMPKPV----PPQ,MOL Tiszaújváros MPK naperőmű,6.0,6.0,MOL Petrolkémia Zrt. Telephely,132,01.07.2019,,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,15WTISZA-----PPN,Tiszai Erőmű,864.0,,Tiszaújváros,400,31.12.2013,30.06.2023,HU,Comc,Fossil Gas
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,15WVERTES----PPX,Oroszlányi Erőmű,220.0,,Oroszlány,120,31.12.2013,30.06.2023,HU,Stur,Lignite
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15W-SARFPV1-UZ-H,SARFPV1uz,48.0,,Körmend - Zalaegerszeg,22,30.11.2022,30.09.2023,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15W-SARFPV2-UZ-B,SARFPV2uz,48.0,,Körmend - Zalaegerszeg,22,30.11.2022,30.09.2023,HU
+CTA|HU / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,15WAJKAPV----PPK,AJKAPV,20.0,,Ajka,132,31.03.2022,31.08.2023,HU
