@@ -1,4 +1,4 @@
-﻿/DraftScripts
+/DraftScripts
 Notes.odt
 Main1.ipynb
 Main2.ipynb
@@ -15,3 +15,6 @@ Availability_Factor8.ipynb
 Availability_Factor7.ipynb
 
 Main_ENTSOE.ipynb
+
+OutageFactorsRawDataDownlading.ipynb
+PowerPlantsRawDataDownloading.ipynb

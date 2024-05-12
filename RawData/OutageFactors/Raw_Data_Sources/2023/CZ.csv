@@ -35,8 +35,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-01-03 00:00:00+01:00,TFoKxlfZofiehBz57Ea_1Q,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-01-02 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-25 00:00:00+01:00,fo8_9CXP7keE9D0_-iaVgw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-24 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-07 00:00:00+01:00,qT5rFJpHlK5hZYpwm74Abw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-01-06 00:00:00+01:00
-12,CZ,Planned maintenance,A03,,2023-01-13 00:00:00+01:00,q6gCnxKaNzqqYVfLc1KBdw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-12 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-05 00:00:00+01:00,Z5EqjUYxg_nxOgvotf2d9w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-01-04 00:00:00+01:00
+12,CZ,Planned maintenance,A03,,2023-01-13 00:00:00+01:00,q6gCnxKaNzqqYVfLc1KBdw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-12 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-12 00:00:00+01:00,5TvbdHjZ3qjbyzyE41l0dw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-01-11 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-21 00:00:00+01:00,QT8mjvUB6ZGPV5NBON9LHA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-20 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-07 00:00:00+01:00,iTnsW0ZD4GAsJvtSauN_zQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-06 00:00:00+01:00
@@ -72,8 +72,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-01-16 00:00:00+01:00,ZchDa05Xzc69LL8NvZATuA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-15 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-04 00:00:00+01:00,z1rIPisx4zXvDUVDlspxMw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-03 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-01-26 00:00:00+01:00,vDMTptxX4V95J7I-8l_pjA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-01-25 00:00:00+01:00
-0,CZ,Planned maintenance,A03,Cancelled,2023-01-04 08:00:00+01:00,c1YGC6wX9Jiz6kXGg3JYrw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2023-01-04 06:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-01-16 13:00:00+01:00,rOlTiwBizWf2qpRrMS-q3A,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,2,2023-01-16 06:00:00+01:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-01-04 08:00:00+01:00,c1YGC6wX9Jiz6kXGg3JYrw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2023-01-04 06:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-01-03 13:00:00+01:00,UbFIIzslOawRZvZ1qTYcFA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,2,2023-01-03 06:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-01-04 10:00:00+01:00,T0zMyHvl4FF91AGzVTXXIg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2023-01-04 08:00:00+01:00
 0,CZ,Planned maintenance,A03,,2023-01-16 13:00:00+01:00,ya47fx0vZSretkWg7O9ySA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,1,2023-01-16 06:00:00+01:00
@@ -81,8 +81,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2023-01-17 13:00:00+01:00,21igjqmeRD09AYbrSKdqLw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,1,2023-01-17 06:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-01-10 14:00:00+01:00,ZY_Lfys4cyOpVTiOzXS_Fw,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,2,2023-01-10 11:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-01-16 08:00:00+01:00,m4z7j2UKqPZfhNtLT6cNow,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2023-01-16 06:00:00+01:00
-0,CZ,Planned maintenance,A03,Cancelled,2023-01-16 10:00:00+01:00,KFT7brYaRqLsvrxXSJwJ_Q,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2023-01-16 08:00:00+01:00
 0,CZ,Planned maintenance,A03,,2023-01-09 08:00:00+01:00,Id_ChLW0g0BFt2uEMli8Qw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,1,2023-01-09 06:00:00+01:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-01-16 10:00:00+01:00,KFT7brYaRqLsvrxXSJwJ_Q,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2023-01-16 08:00:00+01:00
 0,CZ,Planned maintenance,A03,,2023-01-27 14:00:00+01:00,5bVGrNhK21UGHpCFNaNRJQ,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2023-01-16 08:00:00+01:00
 0,CZ,Planned maintenance,A03,,2023-01-09 10:00:00+01:00,s-G2co1dzcezAtsccu2FFw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,1,2023-01-09 08:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-01-09 13:00:00+01:00,jaaxU0JxZVB22fQ41rGSvQ,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,2,2023-01-09 11:00:00+01:00
@@ -230,8 +230,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2023-01-21 02:00:00+01:00,IprrhSyXbC1PPLCczc7rPw,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G24___,1,MAW,PT15M,4,2023-01-16 14:00:00+01:00
 164.9,CZ,Unplanned outage,A03,,2023-01-20 22:30:00+01:00,13a4oyvl9e1G6rV6YxchZw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,2,2023-01-20 21:30:00+01:00
 116.3,CZ,Planned maintenance,A03,Cancelled,2023-01-21 05:00:00+01:00,gpfQjESjzXnxxy4BCx53qA,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G4____,1,MAW,PT15M,2,2023-01-21 03:00:00+01:00
-84.9,CZ,Unplanned outage,A03,,2023-01-21 06:00:00+01:00,l1YuE9CwLkU6Cl2EcpR-mg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,4,2023-01-20 19:45:00+01:00
 84.9,CZ,Unplanned outage,A03,,2023-01-21 06:00:00+01:00,rQCJS3VcrhEc-UhVcmP23Q,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G1____,1,MAW,PT15M,4,2023-01-20 20:15:00+01:00
+84.9,CZ,Unplanned outage,A03,,2023-01-21 06:00:00+01:00,l1YuE9CwLkU6Cl2EcpR-mg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,4,2023-01-20 19:45:00+01:00
 0,CZ,Planned maintenance,A03,,2023-01-21 22:00:00+01:00,vinyzJE3coC1_idcPRvdCA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,5,2023-01-21 00:15:00+01:00
 96.3,CZ,Unplanned outage,A03,,2023-01-22 05:15:00+01:00,ygpsJr_iQiy_-7A4nnunVg,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,2,2023-01-22 04:15:00+01:00
 0,CZ,Unplanned outage,A03,,2023-01-22 21:00:00+01:00,x-oHhWtBkfdmODnLeFdXhw,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G4____,1,MAW,PT15M,4,2023-01-21 00:00:00+01:00
@@ -982,7 +982,6 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-04-18 00:00:00+02:00,H32z7bYVq1tuxvLnKCiFIg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-17 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-16 00:00:00+02:00,EUOGag1oiK5ac37b_IE4AA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-15 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-11 00:00:00+02:00,namlo9s_E1vyowryDGhVig,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-10 00:00:00+02:00
-12,CZ,Planned maintenance,A03,,2023-04-05 00:00:00+02:00,nZMNfThXdjDssPA__aDWgw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-04 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-25 00:00:00+02:00,CVnqJmWvQdNNRMEZKJHG0g,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-24 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-12 00:00:00+02:00,tqgNq5oHmr2X_oQ48K9atw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-11 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-27 00:00:00+02:00,hF6ZrK2ot62PVmg9p8Fogw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-04-26 00:00:00+02:00
@@ -998,7 +997,6 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-04-12 00:00:00+02:00,RQ-6ulKM3u3xCeD9oaPgfg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-11 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-11 00:00:00+02:00,y96kddYnHz1_OHAMu98ERg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-10 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-09 00:00:00+02:00,pWz9V4OThcHKQypIzdJAxg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-08 00:00:00+02:00
-12,CZ,Planned maintenance,A03,,2023-04-05 00:00:00+02:00,stVG-4MqPLB0C24MJLUC_g,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-04 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-24 00:00:00+02:00,9K6YBz4A-gMPgL5R47FHpQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-23 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-25 00:00:00+02:00,eA-UNjBpBMYomFO-_h7lCA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-24 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-04-28 00:00:00+02:00,uwG2vj0Og4_y9R0GLGckOA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-04-27 00:00:00+02:00
@@ -1055,10 +1053,12 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 50,CZ,Planned maintenance,A03,Cancelled,2023-04-04 06:00:00+02:00,E6JTDf4xeKkeiJ4pkGRjfg,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 05:00:00+02:00
 10,CZ,Planned maintenance,A03,Cancelled,2023-04-04 15:00:00+02:00,mp06jNHRaJ6xmbOJRRzJXQ,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 14:00:00+02:00
 50,CZ,Planned maintenance,A03,Cancelled,2023-04-04 17:00:00+02:00,qGwYxawtT1MszCjSGZFObA,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 16:00:00+02:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-04-04 14:00:00+02:00,DmryCrvg8enBQWP54-3prw,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 00:00:00+02:00
 75,CZ,Planned maintenance,A03,Cancelled,2023-04-04 18:00:00+02:00,mDLvHcwrSPBSmehdZO9QNw,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 17:00:00+02:00
 30,CZ,Planned maintenance,A03,Cancelled,2023-04-04 16:00:00+02:00,onkDafd3KSMpaxh_A82Flg,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 15:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-04-05 13:00:00+02:00,GGF6pKooeOJvU1QnWYclIA,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,3,2023-04-05 11:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-04-05 12:00:00+02:00,CYnXxwHaw1Wj-ILl1UF_zg,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2023-04-05 10:00:00+02:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-04-04 16:00:00+02:00,6frT4n-Zvj7ycWSzZR3IZw,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 00:00:00+02:00
 10,CZ,Planned maintenance,A03,Cancelled,2023-04-04 17:00:00+02:00,ZakQWL7vmItGnKHu-LAn1g,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 16:00:00+02:00
 30,CZ,Planned maintenance,A03,Cancelled,2023-04-04 18:00:00+02:00,k5I95Tbqm3WtzE7f51lA4A,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 17:00:00+02:00
 75,CZ,Planned maintenance,A03,Cancelled,2023-04-04 20:00:00+02:00,j7E0MMRQpA7kQscdIH5-ig,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-04-04 19:00:00+02:00
@@ -1117,8 +1117,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 473.6,CZ,Planned maintenance,A03,Cancelled,2023-04-20 20:00:00+02:00,d2SwewFKQbJ_eVUmGWFoTQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-04-20 16:00:00+02:00
 464.6,CZ,Planned maintenance,A03,Cancelled,2023-04-20 12:00:00+02:00,h_58ev_kRfPQXUG94g6IyQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-04-20 00:00:00+02:00
 446.4,CZ,Planned maintenance,A03,Cancelled,2023-04-20 16:00:00+02:00,lXF2nBNyaWBMGZpMPXJhNQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-04-20 12:00:00+02:00
-0,CZ,Planned maintenance,A03,,2023-04-25 12:00:00+02:00,sHbQJibXkjpOiZdZekgbWw,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2023-04-25 11:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-04-26 12:00:00+02:00,OZvSW4WWnJQLQYlnlYz6wA,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G2____,1,MAW,PT15M,1,2023-04-26 11:00:00+02:00
+0,CZ,Planned maintenance,A03,,2023-04-25 12:00:00+02:00,sHbQJibXkjpOiZdZekgbWw,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2023-04-25 11:00:00+02:00
 60,CZ,Planned maintenance,A03,,2023-04-18 16:00:00+02:00,CK_04ct3QJijaTnsJ0ylFw,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2023-04-18 14:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-04-21 18:00:00+02:00,Mv3WI-dBqCG_ulPLlRKvaw,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G22___,1,MAW,PT15M,2,2023-04-19 13:30:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-04-24 00:00:00+02:00,mt1mCdSxT0_IaoAs6NBmDg,187.0,Fossil Hard coal,27W-PU-EDET----M,Dětmarovice,EDET_______,EDET_G4____,1,MAW,PT15M,2,2023-04-22 00:00:00+02:00
@@ -1258,8 +1258,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,Cancelled,2023-05-22 13:00:00+02:00,1xID0gjqIyyhQy55kiwT9Q,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,2,2023-05-22 06:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-05-22 00:00:00+02:00,vC8_rmTpsbVURcP5EaOZpw,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G24___,1,MAW,PT15M,2,2023-05-18 00:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-05-22 00:00:00+02:00,9vZOFx9agKazxQYByIErSA,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G23___,1,MAW,PT15M,2,2023-05-18 00:00:00+02:00
-0,CZ,Planned maintenance,A03,Cancelled,2023-05-18 14:00:00+02:00,LVyWDvBTQTT_1lR88PPeog,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G2____,1,MAW,PT15M,2,2023-05-18 11:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-05-11 10:00:00+02:00,V0GXWbKmAA_QDbWGhpZJsA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2023-05-11 08:00:00+02:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-05-18 14:00:00+02:00,LVyWDvBTQTT_1lR88PPeog,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G2____,1,MAW,PT15M,2,2023-05-18 11:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-05-17 14:00:00+02:00,u4pJ9ytvfTgeoy5yu2UODA,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,2,2023-05-17 11:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-05-13 00:00:00+02:00,kTuFLmFMyLly2CHNUILJuA,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G4____,1,MAW,PT15M,1,2023-05-11 00:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-05-09 00:00:00+02:00,HxkF5NJIHkbzu1lgAzbFoQ,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G5____,1,MAW,PT15M,2,2023-05-06 00:00:00+02:00
@@ -1477,9 +1477,9 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 769,CZ,Planned maintenance,A03,,2023-06-01 13:00:00+02:00,qMDnKWOwiRLAHgtbL2MoSg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-01 12:00:00+02:00
 763.1,CZ,Planned maintenance,A03,,2023-06-01 18:00:00+02:00,H_93ggHOEAp1DTaHocW_vQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-01 17:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-06-01 11:00:00+02:00,dvm7bl6yvjnKTz32RHLTDg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,1,2023-06-01 10:00:00+02:00
-0,CZ,Planned maintenance,A03,,2023-06-01 11:00:00+02:00,_36Vltt1rgtEPMIaMZHmnQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,1,2023-06-01 10:00:00+02:00
-0,CZ,Planned maintenance,A03,,2023-06-01 11:00:00+02:00,IRPXESjEALZI8BSNKVphWg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,1,2023-06-01 10:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-06-01 11:00:00+02:00,KPlkbV4iQMJh8uKk_XfwXQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,1,2023-06-01 10:00:00+02:00
+0,CZ,Planned maintenance,A03,,2023-06-01 11:00:00+02:00,IRPXESjEALZI8BSNKVphWg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,1,2023-06-01 10:00:00+02:00
+0,CZ,Planned maintenance,A03,,2023-06-01 11:00:00+02:00,_36Vltt1rgtEPMIaMZHmnQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,1,2023-06-01 10:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-06-05 09:00:00+02:00,-HxzjknR1shQaSuRj5i68w,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-06-05 08:00:00+02:00
 75,CZ,Planned maintenance,A03,Cancelled,2023-06-05 12:00:00+02:00,5J3CkA7Z_ibckcHWCLB76g,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,2,2023-06-05 11:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-06-04 00:00:00+02:00,K5VW6JuQgSOGtChfdS5zaQ,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,1,2023-06-03 00:00:00+02:00
@@ -1987,7 +1987,7 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 437.4,CZ,Planned maintenance,A03,Cancelled,2023-06-26 20:00:00+02:00,85lk7Rieo3avXYAugESFEQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-06-26 16:00:00+02:00
 482.7,CZ,Planned maintenance,A03,Cancelled,2023-06-27 00:00:00+02:00,wU_hzNpd29lXOU_CORMcqw,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-06-26 20:00:00+02:00
 761.1,CZ,Planned maintenance,A03,,2023-06-26 18:00:00+02:00,TEPI01-dhsG9jgjdX1KwGA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-26 17:00:00+02:00
-767.1,CZ,Planned maintenance,A03,,2023-06-26 17:00:00+02:00,ulVvK3kFJXHIypomKfC8yQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-26 13:00:00+02:00
+5,CZ,Planned maintenance,A03,Cancelled,2023-06-26 15:00:00+02:00,IojllgdDNAw92qoczg1dtQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,2,2023-06-26 13:00:00+02:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-06-27 00:00:00+02:00,iaV4u9BxkgPjwp8DnlrofQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,2,2023-06-26 15:00:00+02:00
 771,CZ,Planned maintenance,A03,,2023-06-27 11:00:00+02:00,PJgRteg9RYLh1uqoyt1DpQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-27 09:00:00+02:00
 767.1,CZ,Planned maintenance,A03,,2023-06-27 01:00:00+02:00,EEIHSfb3dJTmNWV4dNCB_A,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-27 00:00:00+02:00
@@ -2003,8 +2003,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 116.3,CZ,Planned maintenance,A03,,2023-06-27 12:00:00+02:00,FUl7dI4HqkcpInyZvHpS-g,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G4____,1,MAW,PT15M,2,2023-06-27 11:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-06-27 18:00:00+02:00,PwVhpPYrSK6jJq-cDEn4HA,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G22___,1,MAW,PT15M,1,2023-06-27 14:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-06-27 14:00:00+02:00,cQactCiuhEOXRA0IYqNFYA,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G22___,1,MAW,PT15M,3,2023-06-27 13:00:00+02:00
-121.6,CZ,Planned maintenance,A03,,2023-06-27 16:00:00+02:00,iCFwbYIMWs0hSSfzThFSvA,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G25___,1,MAW,PT15M,2,2023-06-27 07:00:00+02:00
 121.6,CZ,Planned maintenance,A03,,2023-06-27 16:00:00+02:00,zrKGGeTVViZiY5M65JLeCA,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,2,2023-06-27 07:00:00+02:00
+121.6,CZ,Planned maintenance,A03,,2023-06-27 16:00:00+02:00,iCFwbYIMWs0hSSfzThFSvA,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G25___,1,MAW,PT15M,2,2023-06-27 07:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-06-27 20:00:00+02:00,sSkSQej36iv3KvJhvyHBRQ,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G21___,1,MAW,PT15M,2,2023-06-27 14:00:00+02:00
 292.4,CZ,Planned maintenance,A03,,2023-06-28 02:00:00+02:00,8A9PVtPflibokAlC9AkVVQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-06-28 00:30:00+02:00
 772,CZ,Planned maintenance,A03,,2023-06-29 14:00:00+02:00,dV8jCBp1d44wjORarHCRAQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-06-29 13:00:00+02:00
@@ -2542,8 +2542,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-07-17 00:00:00+02:00,iKNKnTzTe4KUEd0K7glW3w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,5,2023-07-16 00:00:00+02:00
 768,CZ,Planned maintenance,A03,Cancelled,2023-07-12 22:00:00+02:00,qPuItLubE16O7Qxrtxk2uQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-12 21:00:00+02:00
 756.2,CZ,Planned maintenance,A03,Cancelled,2023-07-12 21:00:00+02:00,WhtbTPdzom7aflajC5SHMA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-12 20:00:00+02:00
-121.6,CZ,Planned maintenance,A03,,2023-07-13 00:00:00+02:00,BNz334_Hm5iM1SkgC0fekw,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,1,2023-07-12 21:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-14 00:00:00+02:00,0lGvvRPapKBQ9_dLy4Zm1g,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,5,2023-07-13 00:00:00+02:00
+121.6,CZ,Planned maintenance,A03,,2023-07-13 00:00:00+02:00,BNz334_Hm5iM1SkgC0fekw,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,1,2023-07-12 21:00:00+02:00
 754.2,CZ,Planned maintenance,A03,,2023-07-12 22:00:00+02:00,vhRkiLxo_8gMytwS78X7Eg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-12 21:00:00+02:00
 762.1,CZ,Planned maintenance,A03,Cancelled,2023-07-13 12:00:00+02:00,g-B1cp85-Qkmuq2jC9d03w,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 11:00:00+02:00
 756.2,CZ,Planned maintenance,A03,,2023-07-13 12:00:00+02:00,dCskLkEr6M3NCG_HJbbssA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-13 11:00:00+02:00
@@ -2552,8 +2552,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-07-17 00:00:00+02:00,orSnc0CkJX6WvvZb6547CQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-16 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-15 00:00:00+02:00,zx1XWtiaERU6BYkAydwqbg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-14 00:00:00+02:00
 121.6,CZ,Planned maintenance,A03,,2023-07-14 00:00:00+02:00,fg1pW1RHPiG1gx_G3GadPQ,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,1,2023-07-13 13:00:00+02:00
-750.2,CZ,Planned maintenance,A03,,2023-07-13 13:00:00+02:00,a1oS9p2YSm4XgQFOf5IdYA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 12:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-14 00:00:00+02:00,qM7ckcWm1DZ08zPD34qgKg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-13 00:00:00+02:00
+750.2,CZ,Planned maintenance,A03,,2023-07-13 13:00:00+02:00,a1oS9p2YSm4XgQFOf5IdYA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 12:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-15 00:00:00+02:00,IzLEZfvrRMTeO4_al99vpg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,5,2023-07-14 00:00:00+02:00
 772,CZ,Planned maintenance,A03,Cancelled,2023-07-13 22:00:00+02:00,oNvoCnsRR4eQDjhtwyqdoA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 21:00:00+02:00
 756.2,CZ,Planned maintenance,A03,Cancelled,2023-07-13 21:00:00+02:00,ObUlCzteskiI4uNUt3RnHA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 20:00:00+02:00
@@ -2580,8 +2580,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 750.2,CZ,Planned maintenance,A03,Cancelled,2023-07-13 20:00:00+02:00,CSHIpqKn-LPgUhbIQoQ1mg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 19:00:00+02:00
 768,CZ,Planned maintenance,A03,,2023-07-13 01:00:00+02:00,vQpRqQ5l-joP3cK7TWHv9Q,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-13 00:00:00+02:00
 464.6,CZ,Planned maintenance,A03,Cancelled,2023-07-14 16:00:00+02:00,xKu83s2TpIoCaoQk9Xl0_A,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,3,2023-07-14 00:00:00+02:00
-464.6,CZ,Planned maintenance,A03,,2023-07-14 18:00:00+02:00,OengOcIbJhOKsna41mN0CQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-07-14 02:00:00+02:00
 762.1,CZ,Planned maintenance,A03,,2023-07-13 17:00:00+02:00,llTF1XghoG9hV6flv2lUFg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-13 14:00:00+02:00
+464.6,CZ,Planned maintenance,A03,,2023-07-14 18:00:00+02:00,OengOcIbJhOKsna41mN0CQ,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-07-14 02:00:00+02:00
 762.1,CZ,Planned maintenance,A03,Cancelled,2023-07-13 21:00:00+02:00,-RmZ8WHU4eXRLcxlez5fYg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 20:00:00+02:00
 764.1,CZ,Planned maintenance,A03,,2023-07-13 19:00:00+02:00,d6jT1hg9YH_YWwvDCWa8-A,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-13 18:00:00+02:00
 754.2,CZ,Planned maintenance,A03,Cancelled,2023-07-13 19:00:00+02:00,CTpNZYEVjZHaN9Kod_un0g,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-13 18:00:00+02:00
@@ -2771,8 +2771,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-07-28 00:00:00+02:00,K7Gs1GdytUVtXaMkVWpc5A,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,5,2023-07-27 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-21 00:00:00+02:00,JC1qD1TgAytIypPWvpNI8w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-20 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-22 00:00:00+02:00,rZ3q40s-gpsUfBrKU6hKvQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-21 00:00:00+02:00
-12,CZ,Planned maintenance,A03,,2023-07-18 00:00:00+02:00,HeG9E0g72FGj0QRIKInp-w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,3,2023-07-17 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-18 00:00:00+02:00,ODYUosGwJdHCS09f_4BbAw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,3,2023-07-17 00:00:00+02:00
+12,CZ,Planned maintenance,A03,,2023-07-18 00:00:00+02:00,HeG9E0g72FGj0QRIKInp-w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,3,2023-07-17 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-24 00:00:00+02:00,446SxZdIjaEwFI2VDnxWoQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-23 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-25 00:00:00+02:00,cTCU19G6qooopb_V2vCKpA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,5,2023-07-24 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-07-27 00:00:00+02:00,_18nbJoW2ZliFbHdREcXeQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,5,2023-07-26 00:00:00+02:00
@@ -2830,8 +2830,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 751.2,CZ,Planned maintenance,A03,,2023-07-19 15:00:00+02:00,1tZsKmkNceg66wksh0-hnw,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-19 12:00:00+02:00
 762.1,CZ,Planned maintenance,A03,,2023-07-19 11:00:00+02:00,OtNrPYBmI_TR6K6PKnkmhQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-19 10:00:00+02:00
 737.4,CZ,Planned maintenance,A03,Cancelled,2023-07-25 00:00:00+02:00,SJOVq2c_Ac3weLZ7_kEmWw,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,4,2023-07-22 00:00:00+02:00
-0,CZ,Planned maintenance,A03,Cancelled,2023-07-28 10:00:00+02:00,IHr8eIAhQ5bq8xF-_Djlmg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,2,2023-07-28 06:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-07-28 10:00:00+02:00,qgBYdMYnoRj0t5lmAObzWw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2023-07-28 06:00:00+02:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-07-28 10:00:00+02:00,IHr8eIAhQ5bq8xF-_Djlmg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,2,2023-07-28 06:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-07-28 10:00:00+02:00,K3VusVi2Og--A02FlqHdGw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2023-07-28 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-07-18 15:30:00+02:00,WThG5LDgz7rLpcidv32JMw,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G5____,1,MAW,PT15M,3,2023-07-18 08:30:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-07-20 16:00:00+02:00,bOKC08Z2ogaAnVwmBfRH9w,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2023-07-20 08:00:00+02:00
@@ -2844,8 +2844,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 743.3,CZ,Planned maintenance,A03,Cancelled,2023-07-19 21:00:00+02:00,itVPQKLKo6R0e9Tg61-vqw,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-19 19:00:00+02:00
 748.3,CZ,Planned maintenance,A03,,2023-07-19 21:00:00+02:00,WvwDLq8r_vw6dmsoOlb7xQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-19 19:00:00+02:00
 772,CZ,Planned maintenance,A03,Cancelled,2023-07-19 22:00:00+02:00,Avkztomo9a3m2Rs-zbzPuQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-19 21:00:00+02:00
-753.2,CZ,Planned maintenance,A03,Cancelled,2023-07-19 22:00:00+02:00,JGB_m6m_lNqlnGFF_nQ45Q,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-19 21:00:00+02:00
 773,CZ,Planned maintenance,A03,Cancelled,2023-07-20 00:00:00+02:00,uWdYW3-Fwkqs3Zl8iBLYKg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-19 23:00:00+02:00
+753.2,CZ,Planned maintenance,A03,Cancelled,2023-07-19 22:00:00+02:00,JGB_m6m_lNqlnGFF_nQ45Q,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-19 21:00:00+02:00
 768,CZ,Planned maintenance,A03,,2023-07-19 22:00:00+02:00,56hB-Ii8cLbgKHGJRLASFw,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-19 21:00:00+02:00
 763.1,CZ,Planned maintenance,A03,Cancelled,2023-07-19 23:00:00+02:00,gW-1co18y1qAVMcI98O0Jg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-19 22:00:00+02:00
 768,CZ,Planned maintenance,A03,,2023-07-21 17:00:00+02:00,FtiCxKbXfs5T4bcpUY9C5g,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-07-21 14:00:00+02:00
@@ -2902,8 +2902,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 772,CZ,Planned maintenance,A03,Cancelled,2023-07-28 15:00:00+02:00,hRPJ-aoB1A3JIdVKK_INpA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-07-28 13:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-07-28 14:00:00+02:00,hXuQUc1GGQQoXaPX8-qi_w,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 11:15:00+02:00
 -28,CZ,Planned maintenance,A03,,2023-07-28 15:00:00+02:00,-M0qNenzaUXXXD1W3jblAA,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,1,2023-07-28 14:00:00+02:00
-107.5,CZ,Planned maintenance,A03,,2023-07-29 00:00:00+02:00,xIRcyFIgQley18BUuiU0zQ,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,1,2023-07-28 15:00:00+02:00
 121.6,CZ,Planned maintenance,A03,,2023-07-28 15:00:00+02:00,NcN_NTB698ywsLN3kDmI8w,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,2,2023-07-28 00:00:00+02:00
+346,CZ,Planned maintenance,A03,Cancelled,2023-07-28 16:00:00+02:00,LXWetVqviUGpHEOsk3mXAg,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 15:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-07-28 18:15:00+02:00,cilK9RICR3MAKpm5gajqdA,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,4,2023-07-27 20:30:00+02:00
 0,CZ,Planned maintenance,A03,,2023-08-11 15:00:00+02:00,lyTx7oKhMbPaxK5S-DCwWQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,17,2023-07-22 00:30:00+02:00
 0,CZ,Planned maintenance,A03,,2023-08-21 00:00:00+02:00,cWG-GQYLz0i2EGQ47Ai5ag,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,3,2023-07-27 00:00:00+02:00
@@ -2985,7 +2985,7 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 766,CZ,Planned maintenance,A03,Cancelled,2023-07-28 21:00:00+02:00,znyzQV9YZlf4feFf9opcXA,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 20:00:00+02:00
 646,CZ,Planned maintenance,A03,Cancelled,2023-07-28 20:00:00+02:00,OWz44umfXnOUGw_XLhNcCA,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 19:00:00+02:00
 346,CZ,Planned maintenance,A03,Cancelled,2023-07-28 18:00:00+02:00,DDEmPLjRWV0Wzbe2orN8Ug,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 17:00:00+02:00
-346,CZ,Planned maintenance,A03,Cancelled,2023-07-28 16:00:00+02:00,LXWetVqviUGpHEOsk3mXAg,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 15:00:00+02:00
+107.5,CZ,Planned maintenance,A03,,2023-07-29 00:00:00+02:00,xIRcyFIgQley18BUuiU0zQ,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,1,2023-07-28 15:00:00+02:00
 646,CZ,Planned maintenance,A03,Cancelled,2023-07-28 18:00:00+02:00,vY-AQXnLy-e6j-5dT5acVg,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 17:00:00+02:00
 138,CZ,Planned maintenance,A03,,2023-07-28 16:00:00+02:00,i20PfONpdqI1ZCqNVEhA0A,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,1,2023-07-28 15:00:00+02:00
 766,CZ,Planned maintenance,A03,Cancelled,2023-07-28 19:00:00+02:00,BeaJMxpY5HbZSzfCZPz0rg,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-07-28 18:00:00+02:00
@@ -3331,8 +3331,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,Cancelled,2023-08-23 00:00:00+02:00,yzpj9qmY1TxpuWS5eiszLQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,4,2023-08-22 00:00:00+02:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-08-22 00:00:00+02:00,YvIiSuLxC8hjmEZqg5cX0Q,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,4,2023-08-21 00:00:00+02:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-08-25 00:00:00+02:00,pubiXJQDmqmqw0XMXEvYSw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,4,2023-08-24 00:00:00+02:00
-0,CZ,Planned maintenance,A03,Cancelled,2023-08-28 00:00:00+02:00,BspwD8J5Jv5jjFsBla14UQ,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G22___,1,MAW,PT15M,2,2023-08-24 00:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-08-28 00:00:00+02:00,qkZdtJEKDPp08p0ihV8rtA,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G21___,1,MAW,PT15M,2,2023-08-24 00:00:00+02:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-08-28 00:00:00+02:00,BspwD8J5Jv5jjFsBla14UQ,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G22___,1,MAW,PT15M,2,2023-08-24 00:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-08-28 00:00:00+02:00,M30Oau3B9d7c2DyE7ANDzQ,188.0,Fossil Hard coal,27W-PU-EDET----M,Dětmarovice,EDET_______,EDET_G3____,1,MAW,PT15M,2,2023-08-19 00:00:00+02:00
 336,CZ,Planned maintenance,A03,Cancelled,2023-08-18 21:00:00+02:00,kR_yKEfrLWUPkop76XqqlQ,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,3,2023-08-18 20:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-08-21 00:00:00+02:00,JRV0bjxcQ9L5GbJ67ZaIpg,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G24___,1,MAW,PT15M,3,2023-08-19 00:00:00+02:00
@@ -3380,8 +3380,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,Cancelled,2023-08-24 00:00:00+02:00,8TNhXA7mH_fZ-_oNYOL0BQ,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,3,2023-08-21 00:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-08-28 00:00:00+02:00,t73LrTGrpwrpYBaqiMls2g,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G4____,1,MAW,PT15M,3,2023-08-21 00:00:00+02:00
 768,CZ,Planned maintenance,A03,Cancelled,2023-08-18 21:00:00+02:00,zHKJSy0nFZD-xLaNEjy7sQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,2,2023-08-18 20:00:00+02:00
-242,CZ,Planned maintenance,A03,Cancelled,2023-08-18 21:00:00+02:00,djdkapKuE7YBhyVJBWy65g,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-08-18 20:00:00+02:00
 772,CZ,Planned maintenance,A03,,2023-08-19 00:00:00+02:00,o-ivBdB6-2vcG0oY0yybXw,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-08-18 23:00:00+02:00
+242,CZ,Planned maintenance,A03,Cancelled,2023-08-18 21:00:00+02:00,djdkapKuE7YBhyVJBWy65g,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,2,2023-08-18 20:00:00+02:00
 283,CZ,Planned maintenance,A03,,2023-08-18 21:00:00+02:00,eDG_ptQF8crNgrneezuvlg,1027.0,Nuclear,27W-PU-ETEM----A,Temelín,ETEM_______,ETEM_G2____,1,MAW,PT15M,1,2023-08-18 20:00:00+02:00
 766.1,CZ,Planned maintenance,A03,,2023-08-18 23:00:00+02:00,IBhlwMbIwkUWK1HwB2eJVA,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-08-18 22:00:00+02:00
 763.1,CZ,Planned maintenance,A03,,2023-08-18 22:00:00+02:00,-kb0hChoGhI6VbghvHsHrg,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-08-18 21:00:00+02:00
@@ -4580,7 +4580,6 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,Cancelled,2023-10-12 00:00:00+02:00,qD00Lxmh_R15-lTsdU_U6w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-10-11 00:00:00+02:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-10-20 00:00:00+02:00,wSGJ8PCQ_OuhdKJv-CdyLQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-10-19 00:00:00+02:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-10-16 00:00:00+02:00,afR4TN7RTM5hne_yl_NKBA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-10-15 00:00:00+02:00
-0,CZ,Planned maintenance,A03,Cancelled,2023-10-30 00:00:00+01:00,fNXA4FFuK_c4VEIButCMkg,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G24___,1,MAW,PT15M,2,2023-10-26 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-12 00:00:00+02:00,8L96s6RLW4FfJ0L3WBZR_w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-11 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-15 00:00:00+02:00,KXdm0VZbkEBtHbuLOnouUA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-14 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-16 00:00:00+02:00,Vh4PsFENKA3ln38iOvgj5Q,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-15 00:00:00+02:00
@@ -4588,8 +4587,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-10-18 00:00:00+02:00,rXcAjlGwBA1YvFWLxY77tA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-17 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-15 00:00:00+02:00,eHpXLfupkutN0W6Asa__aw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-14 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-23 00:00:00+02:00,xtiP6LhuCg99LmkFZ1iqbA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-22 00:00:00+02:00
-12,CZ,Planned maintenance,A03,,2023-10-26 00:00:00+02:00,ZAVIFqqaoeltMyJbGCkMyQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-25 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-26 00:00:00+02:00,8MrNP1_n28XuzU3uoRzhTw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-25 00:00:00+02:00
+12,CZ,Planned maintenance,A03,,2023-10-26 00:00:00+02:00,ZAVIFqqaoeltMyJbGCkMyQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-25 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-11 00:00:00+02:00,P3jm68GJVlKUO6cuq0IfzA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-10 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-13 00:00:00+02:00,TSHz0iGgt4urgLx-10yaSQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-12 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-17 00:00:00+02:00,k0modti_DUyxUmpIkPHjdw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-16 00:00:00+02:00
@@ -4603,6 +4602,7 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-10-21 00:00:00+02:00,DRP5sRLlf2nonz6jt63nHg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-20 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-20 00:00:00+02:00,THTm0SphKSs_Uzanxzl2dg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-19 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-24 00:00:00+02:00,o7SdT6-nowymVXMVDizJDA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-23 00:00:00+02:00
+12,CZ,Planned maintenance,A03,,2023-10-27 00:00:00+02:00,9mZTstX4m9LYL3suY4yb9Q,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-26 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-21 00:00:00+02:00,gk8tLZPoUy8zBc572W0_0A,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-20 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-17 00:00:00+02:00,_FK3tUhErxIapecEHDlmzA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-16 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-22 00:00:00+02:00,1ktkiK3BOoiPHsVy4LFOwA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-21 00:00:00+02:00
@@ -4643,8 +4643,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 772,CZ,Planned maintenance,A03,,2023-10-13 16:00:00+02:00,WBZWbUQWGSaxQtV72aJ7ZQ,847.0,Fossil Gas,27W-PU-EPC2----S,Počerady 2,EPC2_______,EPC2_B21___,1,MAW,PT15M,1,2023-10-13 14:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2023-10-16 00:00:00+02:00,gVbT9az9J3J_-WIJFRIr4g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2023-10-13 00:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-10-16 10:00:00+02:00,Qa0o6GtlOsk1avdc7x6b_g,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,1,2023-10-16 06:00:00+02:00
-0,CZ,Planned maintenance,A03,,2023-10-16 00:00:00+02:00,K6KDwW0eDID-_392QUdGgg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,1,2023-10-14 00:00:00+02:00
 0,CZ,Planned maintenance,A03,,2023-10-16 00:00:00+02:00,25ks-mfKmxrmqO2MEL-7rw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2023-10-14 00:00:00+02:00
+0,CZ,Planned maintenance,A03,,2023-10-16 00:00:00+02:00,K6KDwW0eDID-_392QUdGgg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,1,2023-10-14 00:00:00+02:00
 355.8,CZ,Planned maintenance,A03,Cancelled,2023-10-15 18:00:00+02:00,zdQ_kKhYwy0riXUxuU2kOg,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,4,2023-10-15 06:00:00+02:00
 401.1,CZ,Planned maintenance,A03,,2023-10-14 18:00:00+02:00,ZWPGyZwuO8RqIEzv_Rta1g,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,2,2023-10-14 12:00:00+02:00
 355.8,CZ,Planned maintenance,A03,,2023-10-14 12:00:00+02:00,xPHoeryrJbREeZHL74xtcg,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,3,2023-10-14 06:00:00+02:00
@@ -4746,12 +4746,12 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,Cancelled,2023-10-30 00:00:00+01:00,pHEurmNbgVBEOIsz5nm7Ng,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-10-29 00:00:00+02:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-11-11 00:00:00+01:00,CyQdbOTLRymK9hMLdYDKsQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-11-10 00:00:00+01:00
 12,CZ,Planned maintenance,A03,Cancelled,2023-11-02 00:00:00+01:00,KNWrB_sW11hWsJQ_It20iA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,2,2023-11-01 00:00:00+01:00
+0,CZ,Planned maintenance,A03,Cancelled,2023-10-30 00:00:00+01:00,fNXA4FFuK_c4VEIButCMkg,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G24___,1,MAW,PT15M,2,2023-10-26 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-11-01 00:00:00+01:00,vHe1aabois23BI-ssDEmsg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-31 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-10-31 00:00:00+01:00,hgYQ-JZDWGWq54xyP0iuNw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-30 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-10-31 00:00:00+01:00,fkRFFjFo4opr04_8Dyo8kA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-30 00:00:00+01:00
 12,CZ,Planned maintenance,A03,,2023-10-28 00:00:00+02:00,V2deZ1uH87xrp9qp1YC6YA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-27 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-30 00:00:00+01:00,wMPC88PkfeuoJXHydwCYuA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-29 00:00:00+02:00
-12,CZ,Planned maintenance,A03,,2023-10-27 00:00:00+02:00,9mZTstX4m9LYL3suY4yb9Q,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-26 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-30 00:00:00+01:00,OJd7I0YuLrHAE6f7nXhq7Q,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-29 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-27 00:00:00+02:00,QZrRLpbHp4ylM28u7NHLOA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-10-26 00:00:00+02:00
 12,CZ,Planned maintenance,A03,,2023-10-29 00:00:00+02:00,Q3aIO4HK2FLWv_p2V0kPcA,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-10-28 00:00:00+02:00
@@ -4896,8 +4896,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 12,CZ,Planned maintenance,A03,,2023-11-10 00:00:00+01:00,5Vhu0Lj8rBLG4NYXcjM9eQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-11-09 08:00:00+01:00
 130,CZ,Planned maintenance,A03,Cancelled,2023-11-08 08:00:00+01:00,_u98dQVSoY91yc0ILqVAcw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-11-08 00:00:00+01:00
 0,CZ,Planned maintenance,A03,,2023-11-09 00:00:00+01:00,Bp6r5L9Bdm_mv7v9KsJ5kg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-11-08 18:00:00+01:00
-12,CZ,Planned maintenance,A03,Cancelled,2023-11-10 00:00:00+01:00,jNxZDTQn2JgNeNO6JW65Hg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,2,2023-11-09 00:00:00+01:00
 130,CZ,Planned maintenance,A03,Cancelled,2023-11-09 00:00:00+01:00,4tIMeSr53EpXhZqOHNbLyQ,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2023-11-08 16:00:00+01:00
+12,CZ,Planned maintenance,A03,Cancelled,2023-11-10 00:00:00+01:00,jNxZDTQn2JgNeNO6JW65Hg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,2,2023-11-09 00:00:00+01:00
 130,CZ,Planned maintenance,A03,,2023-11-08 18:00:00+01:00,QKqMAIKnlxdWz_qymdb1ag,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2023-11-08 16:00:00+01:00
 5,CZ,Planned maintenance,A03,,2023-11-09 08:00:00+01:00,t8aIa3noR-M88e4JUbTDkw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-11-09 06:00:00+01:00
 0,CZ,Planned maintenance,A03,,2023-11-09 06:00:00+01:00,jkgA8OPdGMLCOnksuUSdCg,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B2,1,MAW,PT15M,1,2023-11-09 00:00:00+01:00
