@@ -1,125 +1,84 @@
-avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
-0,IE,Planned maintenance,A03,,2023-08-16 18:00:00+01:00,4kbz-UbvficpbZO1li2vRQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2023-08-14 06:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2024-01-01 00:00:00+00:00,YkR62xOlpzd5qi7DsIw_OA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,2,2022-01-01 00:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2024-01-01 00:00:00+00:00,K0G6DoKjJwW-rozVq6F60A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,2,2022-01-01 00:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-10-22 00:30:00+01:00,rKfyyPIfh8JLNVsAUKfKew,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,2,2023-10-15 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-05-13 00:30:00+01:00,STjlzUV8ghDPFlzvMv9jVw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,2,2023-05-10 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-19 00:30:00+01:00,d9SvgB6bE5P2nXp12Loqvw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,2,2023-09-05 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-05 00:00:00+01:00,HPbDulEgNKoPrDhUqd07Tw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,2,2023-08-22 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-06-17 20:30:00+01:00,EEgS86pdaxv_plO5W9b2Qw,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT15M,2,2023-06-13 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-05-22 00:00:00+01:00,Rt0DKUUP_GeZgUREVwmMng,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,2,2023-05-01 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-21 00:30:00+01:00,vtzHy6du6e-D8mYuoND-Eg,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,2,2023-04-18 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-14 00:30:00+01:00,o_7pMtFTePYGTTWGvlkHHw,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,2,2023-04-11 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-14 00:30:00+01:00,SI8PhgTDFSNnih4wNssHgg,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,2,2023-04-11 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-21 00:30:00+01:00,UfLx__Iw6jliTThaikhDIA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,2,2023-04-18 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-03-11 17:00:00+00:00,EumMDa-qmMDyo0s4MoBq6g,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,2,2023-03-05 08:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-10-11 17:00:00+01:00,qdugLCpUMDC_nnIWFL5eyg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,2,2023-10-09 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-03-25 17:00:00+00:00,RixiMg8Uf3v-CRCVCOUIZg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,2,2023-03-19 08:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-03-25 17:00:00+00:00,9QGaEOORG0Zt7a_yYpZGHA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,2,2023-03-19 08:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-08-28 08:00:00+01:00,6h7dZ6QBBi1hr4MZ08EJFQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2023-06-30 12:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-08 18:00:00+01:00,iwAjMlNwLjm2zaEQfC4Mxg,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT15M,1,2023-09-08 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-05 00:00:00+01:00,hG_FLCBBvuPHNS_Dy4i50w,15.0,Waste,47W000000000240T,Dublin (Poolbeg),Indaver Production,Indaver,1,MAW,PT15M,1,2023-03-26 00:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-04-18 18:00:00+01:00,WFBJPmFgtBgwcCbDF_iDSQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2023-03-19 06:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-09-22 20:00:00+01:00,5aBFFjQXtqWHZs-c7K3Ppw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2023-09-18 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-15 20:00:00+01:00,Fmcm73g99tVL43J5rFichg,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 4,1,MAW,PT15M,1,2023-09-11 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-21 08:00:00+01:00,gv-NtGFFh1uTlh3uXKgo3g,15.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 1,1,MAW,PT15M,1,2023-06-12 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-28 08:00:00+01:00,Jatzrw1yrWkuhm_trk7V0w,4.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 2,1,MAW,PT15M,1,2023-03-20 08:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-06-23 17:00:00+01:00,j8lnsjkH7ixsZ5sHgetFOQ,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT15M,1,2023-06-04 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-03-21 00:30:00+00:00,K1Xv_vD2GIVMqlQCAVeWgA,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2023-03-16 00:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-11-05 00:30:00+00:00,8lvDloGF6tBxVC9YEs0g7A,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2023-10-31 00:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-07-28 20:00:00+01:00,qPwrf2ql-3ZU29zEPykwzQ,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT15M,2,2023-05-02 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-21 20:00:00+01:00,q0u2yb9VDCSS5Zulb2PqlQ,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,2,2023-04-17 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-01 20:00:00+01:00,cqV37GLMCnmcYjc2Tc9mTA,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,2,2023-08-28 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-05-13 00:30:00+01:00,DZiHqetLaqOOR1T00RTCOQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,2,2023-05-10 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-19 00:30:00+01:00,y9z48lDcctFthqDqQyXcqA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,2,2023-09-05 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-05 00:30:00+01:00,Hs2PXmLFAdZOmRL7x7qq4Q,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,2,2023-08-22 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-01 20:00:00+01:00,tF66lgKj_K9aQPjE8U-ICw,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,2,2023-08-28 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-07-09 20:00:00+01:00,q15Ns0f4QrhTm_ns_lVx6g,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,2,2023-06-26 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-02 17:00:00+01:00,3FgswzLc3E9F84DB0TQ_XQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,2,2023-03-25 07:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-02 17:00:00+01:00,-owuYkP0Ixv2lt25tybwxA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,2,2023-03-25 07:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-02 17:00:00+01:00,xbJAovEe3o5aYl7UI1Bw-Q,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,2,2023-03-25 07:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-04-02 17:00:00+01:00,5yN5FDegCeYC_-g-ML1Btg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,2,2023-03-25 07:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-29 21:00:00+01:00,CmchoHUq_M2fP7duh7aHaQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,2,2023-09-15 21:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-29 00:30:00+01:00,aHiLgQcu2Mji37S1tEGknQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2023-05-15 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-23 18:00:00+01:00,SEuqbCw-yOCSxO0gw92JjQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2023-06-09 20:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-12 08:00:00+01:00,tpNThWGd9Td7qI3-rbu4pg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2023-04-06 17:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-08 20:00:00+01:00,iWBDkTy_RyyrZau9BQJ3Fw,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2023-09-04 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-08 20:00:00+01:00,Q74W3x7q9CT4suuB0Tu_lQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2023-04-17 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-22 20:00:00+01:00,JWh74WPhUMhoaTfg8VgYhA,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT15M,1,2023-09-18 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-28 20:00:00+01:00,kqpIQHKj83OQdSapZ5tTJw,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 4,1,MAW,PT15M,1,2023-06-06 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-26 00:30:00+01:00,6qFsQG5DnU8iwNBVw00qXQ,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2023-04-01 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-05-26 08:00:00+01:00,1Low2KQy5aPe01p7TGAUgQ,8.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 3,1,MAW,PT15M,2,2023-05-15 08:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-05-21 22:00:00+01:00,vj4BFR-A5zvqCFZhRRd4Uw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,2,2023-05-09 22:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-06-02 20:00:00+01:00,9Wkkt-Dpyli-EQes6gff_A,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,2,2023-05-28 12:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-03-27 00:00:00+01:00,uON30WDdGMRT8hF2kyVNYw,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,2,2023-03-01 00:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-14 00:30:00+01:00,is2oa-6-9PMXs79NL5DEzw,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,2,2023-08-15 00:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-05-26 20:00:00+01:00,2ou6HFzioVUECmTKYjZfXw,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,2,2023-05-21 12:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-07 19:00:00+01:00,VOHMCyHBF2AKbMfLIqQV6w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,2,2023-09-01 07:00:00+01:00
-0,IE,Planned maintenance,A03,Cancelled,2023-06-11 20:00:00+01:00,__54j0n2ju_LAmUfMnYpAA,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT15M,2,2023-04-17 08:00:00+01:00
-26,IE,Planned maintenance,A03,Cancelled,2023-10-06 00:00:00+01:00,Jv4hR54TJBejs6f4vmTCCw,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,2,2023-10-02 00:00:00+01:00
-26,IE,Planned maintenance,A03,Cancelled,2023-10-13 00:00:00+01:00,5dC8h8fhOVgcRpLaSnudew,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,2,2023-10-09 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-26 08:00:00+01:00,ucpnGCnA7bXUh1pISlMvRg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2023-04-20 17:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-10-06 18:00:00+01:00,PB5edn2o7cL9dC9Eu5Y1FQ,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT15M,1,2023-10-06 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-10-06 18:00:00+01:00,O8P1feY_w-M9xuVmbPQc7g,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT15M,1,2023-10-06 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-14 19:00:00+01:00,PdtWeFiYv599UKw5qakSZg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2023-05-05 01:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-14 19:00:00+01:00,6YaeDVFlza28i5WX5wtuOw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2023-05-05 01:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-13 20:00:00+01:00,B3iQsYs3em9EIyeuaBme9Q,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2023-09-08 20:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-25 21:00:00+01:00,3L4Pfk9JxIfJ2Z1AvXXxlQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2023-09-15 21:00:00+01:00
-26,IE,Planned maintenance,A03,,2023-10-05 17:00:00+01:00,GhTJ6xtyvJhtwvGLCP3yng,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,1,2023-10-02 08:00:00+01:00
-26,IE,Planned maintenance,A03,,2023-10-12 17:00:00+01:00,WAd3JCAG3-vsuwNI-2z5dA,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,1,2023-10-09 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-28 17:00:00+01:00,9iMlOkf4XTu8KaMo1Qxsqg,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT15M,1,2023-06-05 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-14 19:00:00+01:00,A1tyiYww34EE0u3A81hUMQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2023-05-02 01:00:00+01:00
-84,IE,Planned maintenance,A03,,2023-05-26 20:00:00+01:00,2NUvef5DPHHuQlUUHyUFPA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2023-05-08 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-03-31 20:00:00+01:00,i8z0vwTVnHoRvhDnoCAbmQ,4.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 2,1,MAW,PT15M,1,2023-03-20 08:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-04-28 20:00:00+01:00,0Hw0OaM6fWUGcLGffPKPRg,15.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 1,1,MAW,PT15M,1,2023-04-17 08:00:00+01:00
-131,IE,Planned maintenance,A03,Cancelled,2023-03-01 00:00:00+00:00,33UbYhiuXtnZGKISlaemGA,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,2,2022-11-08 13:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-06-23 20:00:00+01:00,CIEGqdReErNUDpFW3qf9cQ,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2023-06-12 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-08 17:00:00+01:00,b0_iQmp_lPhjpG0BV4xLEw,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2023-09-01 09:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-02-15 18:00:00+00:00,_Agfj7uAXMAZv7pN2I_1Zw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2023-02-13 06:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-04-26 10:00:00+01:00,m0cf0OeAxjjGCco1JfP79w,4.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 2,1,MAW,PT15M,1,2023-04-18 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-14 08:00:00+01:00,V_7zZDkSDe9Pr4A-wc4TaQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2023-06-30 12:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-20 20:00:00+01:00,fdyceiCp8krv4srdvKy1Fg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2023-04-17 18:30:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-20 16:00:00+01:00,b1qf_DRs0UYaeUcGttmfLQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2023-04-18 18:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-24 22:00:00+01:00,e-xy9T32zAvVj2hsFR1OgQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2023-05-08 22:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-12 23:00:00+01:00,5VrU-0VsCs-AA22q_JB3_w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2023-08-09 23:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-14 21:00:00+01:00,EDqaQqMJimVcE79b8oW5og,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2023-05-25 21:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-09 21:00:00+01:00,zMA9dXH_w2nyHuUN0B18Ug,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2023-03-24 21:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-06-14 21:00:00+01:00,eHuL1Uqfl_EsFRnGlXakvg,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2023-05-25 21:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-30 20:00:00+01:00,HHfhesTvoe3TckxEB5w4mA,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT15M,1,2023-06-26 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-15 18:00:00+01:00,In6XKapWJfUWZVnFAfC2iA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2023-05-01 06:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-15 18:00:00+01:00,G4W4rfkoYGDklFASTq5b4Q,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2023-05-01 06:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-19 00:30:00+01:00,yjC_epkzSzpBpXMn3r-fDw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2023-07-14 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-27 20:00:00+01:00,_xNIiB3Wq77Bt1doXKVgMw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2023-04-25 06:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-28 00:30:00+01:00,-SbvVP4VvpA3fbXKLzF-UQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2023-07-14 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-07 00:30:00+01:00,k10xU4brqzn-MYKmv-t5iw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2023-07-24 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-15 23:00:00+01:00,Dj_LZ0Ma-xSv8FFrRioEkA,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2023-04-09 12:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-04-05 00:00:00+01:00,dK3xAdhNivRNL3QoLnnCQQ,15.0,Waste,47W000000000240T,Dublin (Poolbeg),Indaver Production,Indaver,1,MAW,PT15M,1,2023-03-25 00:00:00+00:00
-0,IE,Planned maintenance,A03,,2023-07-07 21:00:00+01:00,djFqXNh21ZgGkKSQJi9g-g,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2023-06-23 12:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-17 20:00:00+01:00,p9qmjZWq-JIdEv7ZhaK4QQ,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 4,1,MAW,PT15M,1,2023-05-08 11:00:00+01:00
-84,IE,Planned maintenance,A03,,2023-10-07 00:00:00+01:00,WmaQqlTqXV5FWf34VgI14w,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2023-09-03 00:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-05-19 16:00:00+01:00,Jn9EgfzyB7W0D2vg5ENWvg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2023-05-01 06:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-28 17:00:00+01:00,z6RQ2GLp3ecOF1f1e1FvoA,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 4,1,MAW,PT15M,1,2023-06-06 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-16 18:30:00+01:00,nPcugo3CMEkMbiYkyIhJFw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2023-06-16 09:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-16 18:30:00+01:00,Guzch5dWyHpNq5eUoEiXlQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2023-06-16 09:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-16 18:30:00+01:00,wAFAloYckvjkRyakZ4tS0g,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2023-06-16 09:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-06-16 18:30:00+01:00,eNi7j2J2N6KY0cHHTjnL_w,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2023-06-16 09:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-05 22:00:00+01:00,fJGsoUcoeOUoD-gCpqcIoQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2023-08-16 10:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-11-06 22:00:00+00:00,pFxxw9tH_imKSIKmgKG4sg,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2023-11-02 10:00:00+00:00
-0,IE,Planned maintenance,A03,Cancelled,2023-09-25 21:00:00+01:00,rHuI_LbZhn2m6waozAfTzg,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,2,2023-09-15 21:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-07 18:00:00+01:00,vBaCLwv7EM5kRxhBsMmYIQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2023-06-26 09:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-18 18:30:00+01:00,A4TNBwUca8VuNT3fUh1Dag,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2023-07-17 05:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-19 16:00:00+01:00,yx_k2qIbccjlmvqIj63NNg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2023-07-17 05:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-10-07 20:00:00+01:00,5EfHE4wcnBefQyPmiOWORA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2023-09-01 20:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-11 22:00:00+01:00,Fkp8JN7kvXk7Cdi0Hpj2wQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2023-08-08 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-11 22:00:00+01:00,35I4dsLBv1YX-mr-uObBPA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2023-08-08 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-11 22:00:00+01:00,KklAPl_OnloLlV1QLY5eIw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2023-08-08 08:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-29 17:00:00+01:00,V7KXydtRhecOcepYBJH7kQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2023-07-25 11:30:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-31 15:00:00+01:00,oXStRquJDimefQNckTerfw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2023-07-31 10:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-07-30 16:00:00+01:00,gM5aGgo28gayIvKXiIPhYA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2023-07-25 11:30:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-04 16:00:00+01:00,2ToIT8eyS-aW7t4u30Ohjg,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2023-07-25 14:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-04 15:30:00+01:00,_ft_4z-e9vfHKzgbACmjAA,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2023-07-25 14:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-10 21:00:00+01:00,oq6Bvh8rt5GIeNCmRyKSfQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2023-09-08 21:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-08-31 18:00:00+01:00,K4BKejj6LHFMW1fnoz5AHQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2023-08-28 06:00:00+01:00
-0,IE,Planned maintenance,A03,,2023-09-15 20:00:00+01:00,XXdcT6Y4y--vCixtVtxSOg,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2023-09-08 20:00:00+01:00
-84,IE,Planned maintenance,A03,,2023-09-12 11:00:00+01:00,ztcBROlIo6ZmaqBC5HTarA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2023-09-01 20:00:00+01:00
-84,IE,Planned maintenance,A03,,2023-10-07 20:00:00+01:00,DttF5zmreiIWboW-3DEvRg,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2023-09-22 23:00:00+01:00
+avail_qty,end,nominal_power,production_resource_name,start
+0,2023-08-16 18:00:00+01:00,85.0,Aughinish Alumnia(Sealrock),2023-08-14 06:00:00+01:00
+0,2023-08-28 08:00:00+01:00,118.0,Edenderry Prod,2023-06-30 12:00:00+01:00
+0,2023-09-08 18:00:00+01:00,56.0,Cushaling Production,2023-09-08 08:00:00+01:00
+0,2023-04-05 00:00:00+01:00,15.0,Indaver Production,2023-03-26 00:00:00+00:00
+0,2023-04-18 18:00:00+01:00,85.0,Aughinish Alumnia(Sealrock),2023-03-19 06:00:00+00:00
+0,2023-09-22 20:00:00+01:00,24.0,Ardnacrucha Production Unit,2023-09-18 08:00:00+01:00
+0,2023-09-15 20:00:00+01:00,22.0,ERNE Production,2023-09-11 08:00:00+01:00
+0,2023-07-21 08:00:00+01:00,15.0,LEE Production,2023-06-12 08:00:00+01:00
+0,2023-04-28 08:00:00+01:00,4.0,LEE Production,2023-03-20 08:00:00+00:00
+0,2023-06-23 17:00:00+01:00,4.0,Liffey Production,2023-06-04 08:00:00+01:00
+0,2023-03-21 00:30:00+00:00,431.0,Aghada Prod,2023-03-16 00:00:00+00:00
+0,2023-11-05 00:30:00+00:00,431.0,Aghada Prod,2023-10-31 00:00:00+00:00
+0,2023-05-29 00:30:00+01:00,90.0,Aghada Prod,2023-05-15 00:00:00+01:00
+0,2023-06-23 18:00:00+01:00,405.0,Dublin Bay Prod,2023-06-09 20:00:00+01:00
+0,2023-04-12 08:00:00+01:00,118.0,Edenderry Prod,2023-04-06 17:00:00+01:00
+0,2023-09-08 20:00:00+01:00,10.0,ERNE Production,2023-09-04 08:00:00+01:00
+0,2023-05-08 20:00:00+01:00,10.0,ERNE Production,2023-04-17 08:00:00+01:00
+0,2023-09-22 20:00:00+01:00,22.0,ERNE Production,2023-09-18 08:00:00+01:00
+0,2023-07-28 20:00:00+01:00,22.0,ERNE Production,2023-06-06 08:00:00+01:00
+0,2023-04-26 00:30:00+01:00,400.0,Huntstown Production,2023-04-01 00:00:00+01:00
+0,2023-04-26 08:00:00+01:00,118.0,Edenderry Prod,2023-04-20 17:00:00+01:00
+0,2023-10-06 18:00:00+01:00,56.0,Cushaling Production,2023-10-06 08:00:00+01:00
+0,2023-10-06 18:00:00+01:00,56.0,Cushaling Production,2023-10-06 08:00:00+01:00
+0,2023-05-14 19:00:00+01:00,73.0,Turlough Hill,2023-05-05 01:00:00+01:00
+0,2023-05-14 19:00:00+01:00,73.0,Turlough Hill,2023-05-05 01:00:00+01:00
+0,2023-09-13 20:00:00+01:00,404.0,Tynagh Production,2023-09-08 20:00:00+01:00
+0,2023-09-25 21:00:00+01:00,435.0,Whitegate Prod,2023-09-15 21:00:00+01:00
+26,2023-10-05 17:00:00+01:00,62.0,Dublin Waste to Energy,2023-10-02 08:00:00+01:00
+26,2023-10-12 17:00:00+01:00,62.0,Dublin Waste to Energy,2023-10-09 08:00:00+01:00
+0,2023-07-28 17:00:00+01:00,15.0,Liffey Production,2023-06-05 08:00:00+01:00
+0,2023-05-14 19:00:00+01:00,73.0,Turlough Hill,2023-05-02 01:00:00+01:00
+84,2023-05-26 20:00:00+01:00,463.0,Poolbeg Production,2023-05-08 00:00:00+01:00
+0,2023-03-31 20:00:00+01:00,4.0,LEE Production,2023-03-20 08:00:00+00:00
+0,2023-04-28 20:00:00+01:00,15.0,LEE Production,2023-04-17 08:00:00+01:00
+0,2023-06-23 20:00:00+01:00,22.0,Ardnacrucha Production Unit,2023-06-12 08:00:00+01:00
+0,2023-09-08 17:00:00+01:00,52.0,Tawnaghmore Production,2023-09-01 09:00:00+01:00
+0,2023-02-15 18:00:00+00:00,85.0,Aughinish Alumnia(Sealrock),2023-02-13 06:00:00+00:00
+0,2023-04-26 10:00:00+01:00,4.0,LEE Production,2023-04-18 08:00:00+01:00
+0,2023-09-14 08:00:00+01:00,118.0,Edenderry Prod,2023-06-30 12:00:00+01:00
+0,2023-04-20 20:00:00+01:00,85.0,Aughinish Alumnia(Sealrock),2023-04-17 18:30:00+01:00
+0,2023-04-20 16:00:00+01:00,85.0,Aughinish Alumnia(Sealrock),2023-04-18 18:00:00+01:00
+0,2023-05-24 22:00:00+01:00,285.0,Moneypoint Production,2023-05-08 22:00:00+01:00
+0,2023-08-12 23:00:00+01:00,285.0,Moneypoint Production,2023-08-09 23:00:00+01:00
+0,2023-06-14 21:00:00+01:00,400.0,Huntstown Production,2023-05-25 21:00:00+01:00
+0,2023-04-09 21:00:00+01:00,342.0,Huntstown Production,2023-03-24 21:00:00+00:00
+0,2023-06-14 21:00:00+01:00,400.0,Huntstown Production,2023-05-25 21:00:00+01:00
+0,2023-06-30 20:00:00+01:00,22.0,ERNE Production,2023-06-26 08:00:00+01:00
+0,2023-05-15 18:00:00+01:00,73.0,Turlough Hill,2023-05-01 06:00:00+01:00
+0,2023-05-15 18:00:00+01:00,73.0,Turlough Hill,2023-05-01 06:00:00+01:00
+0,2023-07-19 00:30:00+01:00,90.0,Aghada Prod,2023-07-14 00:00:00+01:00
+0,2023-04-27 20:00:00+01:00,90.0,Aghada Prod,2023-04-25 06:00:00+01:00
+0,2023-07-28 00:30:00+01:00,90.0,Aghada Prod,2023-07-14 00:00:00+01:00
+0,2023-08-07 00:30:00+01:00,90.0,Aghada Prod,2023-07-24 00:00:00+01:00
+0,2023-04-15 23:00:00+01:00,431.0,Aghada Prod,2023-04-09 12:00:00+01:00
+0,2023-04-05 00:00:00+01:00,15.0,Indaver Production,2023-03-25 00:00:00+00:00
+0,2023-07-07 21:00:00+01:00,405.0,Dublin Bay Prod,2023-06-23 12:00:00+01:00
+0,2023-05-17 20:00:00+01:00,22.0,ERNE Production,2023-05-08 11:00:00+01:00
+84,2023-10-07 00:00:00+01:00,463.0,Poolbeg Production,2023-09-03 00:00:00+01:00
+0,2023-05-19 16:00:00+01:00,73.0,Turlough Hill,2023-05-01 06:00:00+01:00
+0,2023-07-28 17:00:00+01:00,4.0,Liffey Production,2023-06-06 08:00:00+01:00
+0,2023-06-16 18:30:00+01:00,73.0,Turlough Hill,2023-06-16 09:00:00+01:00
+0,2023-06-16 18:30:00+01:00,73.0,Turlough Hill,2023-06-16 09:00:00+01:00
+0,2023-06-16 18:30:00+01:00,73.0,Turlough Hill,2023-06-16 09:00:00+01:00
+0,2023-06-16 18:30:00+01:00,73.0,Turlough Hill,2023-06-16 09:00:00+01:00
+0,2023-09-05 22:00:00+01:00,435.0,Whitegate Prod,2023-08-16 10:00:00+01:00
+0,2023-11-06 22:00:00+00:00,435.0,Whitegate Prod,2023-11-02 10:00:00+00:00
+0,2023-07-07 18:00:00+01:00,10.0,ERNE Production,2023-06-26 09:00:00+01:00
+0,2023-07-18 18:30:00+01:00,90.0,Aghada Prod,2023-07-17 05:00:00+01:00
+0,2023-07-19 16:00:00+01:00,90.0,Aghada Prod,2023-07-17 05:00:00+01:00
+0,2023-10-07 20:00:00+01:00,463.0,Poolbeg Production,2023-09-01 20:00:00+01:00
+0,2023-08-11 22:00:00+01:00,285.0,Moneypoint Production,2023-08-08 08:00:00+01:00
+0,2023-08-11 22:00:00+01:00,285.0,Moneypoint Production,2023-08-08 08:00:00+01:00
+0,2023-08-11 22:00:00+01:00,285.0,Moneypoint Production,2023-08-08 08:00:00+01:00
+0,2023-07-29 17:00:00+01:00,90.0,Aghada Prod,2023-07-25 11:30:00+01:00
+0,2023-07-31 15:00:00+01:00,73.0,Turlough Hill,2023-07-31 10:00:00+01:00
+0,2023-07-30 16:00:00+01:00,90.0,Aghada Prod,2023-07-25 11:30:00+01:00
+0,2023-08-04 16:00:00+01:00,52.0,Rhode Island Production,2023-07-25 14:00:00+01:00
+0,2023-08-04 15:30:00+01:00,52.0,Rhode Island Production,2023-07-25 14:00:00+01:00
+0,2023-09-10 21:00:00+01:00,435.0,Whitegate Prod,2023-09-08 21:00:00+01:00
+0,2023-08-31 18:00:00+01:00,85.0,Aughinish Alumnia(Sealrock),2023-08-28 06:00:00+01:00
+0,2023-09-15 20:00:00+01:00,404.0,Tynagh Production,2023-09-08 20:00:00+01:00
+84,2023-09-12 11:00:00+01:00,463.0,Poolbeg Production,2023-09-01 20:00:00+01:00
+84,2023-10-07 20:00:00+01:00,463.0,Poolbeg Production,2023-09-22 23:00:00+01:00

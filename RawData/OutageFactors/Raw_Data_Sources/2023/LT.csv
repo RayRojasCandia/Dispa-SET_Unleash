@@ -1,70 +1,65 @@
-avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
-0,LT,Unplanned outage,A03,,2023-01-12 17:30:00+02:00,BPapnurtCio7pGrMHbrvNw,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT30M,2,2023-01-12 17:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-01-12 17:00:00+02:00,BPapnurtCio7pGrMHbrvNw,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,2,2023-01-12 00:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-04-21 10:00:00+03:00,fTUrBVIefRYuJH_cf571qA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT60M,3,2023-03-06 00:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-04-21 10:30:00+03:00,fTUrBVIefRYuJH_cf571qA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT30M,3,2023-04-21 10:00:00+03:00
-0,LT,Planned maintenance,A03,,2023-05-31 00:00:00+03:00,xRRfAZio-gTwo0DJBonToA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,1,2023-05-29 00:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-06-15 07:23:00+03:00,iSyF9j00jBS71iGxIcPEtw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-06-15 07:15:00+03:00
-0,LT,Unplanned outage,A03,,2023-06-15 07:15:00+03:00,iSyF9j00jBS71iGxIcPEtw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2023-06-15 07:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-06-15 07:00:00+03:00,iSyF9j00jBS71iGxIcPEtw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2023-06-15 06:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-06-15 06:00:00+03:00,iSyF9j00jBS71iGxIcPEtw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-06-15 05:53:00+03:00
-0,LT,Planned maintenance,A03,,2023-07-21 10:00:00+03:00,F2cCAv6x9eAaz3U7H22_2w,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,5,2023-07-03 00:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-08-23 11:30:00+03:00,NwenNv_ZRgz3QDPuq0F1UA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT30M,3,2023-08-23 11:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-08-23 11:00:00+03:00,NwenNv_ZRgz3QDPuq0F1UA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,3,2023-08-22 18:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-08-22 18:00:00+03:00,NwenNv_ZRgz3QDPuq0F1UA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT30M,3,2023-08-22 17:30:00+03:00
-0,LT,Unplanned outage,A03,,2023-08-22 17:30:00+03:00,NwenNv_ZRgz3QDPuq0F1UA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT15M,3,2023-08-22 17:15:00+03:00
-0,LT,Unplanned outage,A03,,2023-08-22 17:15:00+03:00,NwenNv_ZRgz3QDPuq0F1UA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT1M,3,2023-08-22 17:10:00+03:00
-0,LT,Unplanned outage,A03,,2023-08-23 11:45:00+03:00,NwenNv_ZRgz3QDPuq0F1UA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT15M,3,2023-08-23 11:30:00+03:00
-0,LT,Unplanned outage,A03,,2023-09-20 16:00:00+03:00,EgdRsIBctbSftjHdIOwMZg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2023-09-20 15:30:00+03:00
-0,LT,Unplanned outage,A03,,2023-09-20 17:40:00+03:00,EgdRsIBctbSftjHdIOwMZg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-09-20 17:30:00+03:00
-0,LT,Unplanned outage,A03,,2023-09-20 17:30:00+03:00,EgdRsIBctbSftjHdIOwMZg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2023-09-20 17:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-09-20 17:00:00+03:00,EgdRsIBctbSftjHdIOwMZg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2023-09-20 16:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-09-20 15:30:00+03:00,EgdRsIBctbSftjHdIOwMZg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2023-09-20 15:15:00+03:00
-0,LT,Unplanned outage,A03,,2023-09-20 15:15:00+03:00,EgdRsIBctbSftjHdIOwMZg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-09-20 15:06:00+03:00
-0,LT,Planned maintenance,A03,,2023-10-14 00:00:00+03:00,dzh6u9cYnj10I6rayVdo3w,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,1,2023-10-09 00:00:00+03:00
-0,LT,Planned maintenance,A03,Cancelled,2023-12-15 23:00:00+02:00,XFbjzirIWgtq1TWVxnjF3g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT60M,5,2023-11-27 00:00:00+02:00
-0,LT,Planned maintenance,A03,Cancelled,2023-12-15 23:30:00+02:00,XFbjzirIWgtq1TWVxnjF3g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT30M,5,2023-12-15 23:00:00+02:00
-0,LT,Planned maintenance,A03,Cancelled,2023-12-15 23:45:00+02:00,XFbjzirIWgtq1TWVxnjF3g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT15M,5,2023-12-15 23:30:00+02:00
-0,LT,Planned maintenance,A03,Cancelled,2023-12-15 23:59:00+02:00,XFbjzirIWgtq1TWVxnjF3g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT1M,5,2023-12-15 23:45:00+02:00
-0,LT,Unplanned outage,A03,,2023-10-16 09:03:00+03:00,4bocZl-g_zek5PkcXjrY6g,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-10-16 09:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-16 09:00:00+03:00,4bocZl-g_zek5PkcXjrY6g,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2023-10-16 08:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-16 07:30:00+03:00,4bocZl-g_zek5PkcXjrY6g,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-10-16 07:16:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-16 08:00:00+03:00,4bocZl-g_zek5PkcXjrY6g,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2023-10-16 07:30:00+03:00
-0,LT,Planned maintenance,A03,,2023-10-18 13:30:00+03:00,aqfOUI38f6eqw7DLFgJiNg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,4,2023-10-18 13:00:00+03:00
-0,LT,Planned maintenance,A03,,2023-10-18 13:45:00+03:00,aqfOUI38f6eqw7DLFgJiNg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,4,2023-10-18 13:30:00+03:00
-0,LT,Planned maintenance,A03,,2023-10-18 13:00:00+03:00,aqfOUI38f6eqw7DLFgJiNg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,4,2023-10-18 06:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-27 06:45:00+03:00,Za_fZp49Gh-td_00rN-7fA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-10-27 06:41:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-27 08:16:00+03:00,Za_fZp49Gh-td_00rN-7fA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-10-27 08:15:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-27 08:15:00+03:00,Za_fZp49Gh-td_00rN-7fA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2023-10-27 08:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-27 08:00:00+03:00,Za_fZp49Gh-td_00rN-7fA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2023-10-27 07:00:00+03:00
-0,LT,Unplanned outage,A03,,2023-10-27 07:00:00+03:00,Za_fZp49Gh-td_00rN-7fA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2023-10-27 06:45:00+03:00
-0,LT,Planned maintenance,A03,Cancelled,2023-11-09 00:00:00+02:00,ENFWL0HphYZRNX2z1fFI9Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,5,2023-11-06 00:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-11-07 21:00:00+02:00,qxJIx5nvo-H4EIMwuejnKg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2023-11-06 08:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-11-07 21:30:00+02:00,qxJIx5nvo-H4EIMwuejnKg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2023-11-07 21:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-11-07 21:38:00+02:00,qxJIx5nvo-H4EIMwuejnKg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2023-11-07 21:30:00+02:00
-0,LT,Planned maintenance,A03,,2023-11-13 19:11:00+02:00,4RSZnK8FgMnovQipZGURzQ,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT1M,5,2023-11-13 19:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-11-13 19:00:00+02:00,4RSZnK8FgMnovQipZGURzQ,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,5,2023-06-12 00:00:00+03:00
-0,LT,Planned maintenance,A03,,2023-11-20 00:00:00+02:00,HKEVX_MsZM-eLkjYlJQMIQ,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,1,2023-11-18 08:00:00+02:00
-200,LT,Unplanned outage,A03,,2023-11-22 10:00:00+02:00,-nRxMNdHKhwEiO_tk42IDw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT30M,2,2023-11-22 09:30:00+02:00
-200,LT,Unplanned outage,A03,,2023-11-22 11:00:00+02:00,-nRxMNdHKhwEiO_tk42IDw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,2,2023-11-22 10:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-22 17:24:00+02:00,XWZ2pQbePeD_GrgI5L4qug,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT1M,2,2023-11-22 17:15:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-22 15:00:00+02:00,XWZ2pQbePeD_GrgI5L4qug,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT15M,2,2023-11-22 14:45:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-22 17:15:00+02:00,XWZ2pQbePeD_GrgI5L4qug,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT15M,2,2023-11-22 17:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-22 17:00:00+02:00,XWZ2pQbePeD_GrgI5L4qug,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,2,2023-11-22 15:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-23 03:30:00+02:00,RBDVp3tsk9aTDsjq1aWOlw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT1M,3,2023-11-23 03:24:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-23 04:00:00+02:00,RBDVp3tsk9aTDsjq1aWOlw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT30M,3,2023-11-23 03:30:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-26 11:15:00+02:00,RBDVp3tsk9aTDsjq1aWOlw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT15M,3,2023-11-26 11:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-26 11:00:00+02:00,RBDVp3tsk9aTDsjq1aWOlw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,3,2023-11-23 04:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-27 13:30:00+02:00,bHopQ0ZOocGk-YX6ZKk69w,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT30M,3,2023-11-27 13:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-27 06:00:00+02:00,bHopQ0ZOocGk-YX6ZKk69w,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT30M,3,2023-11-27 05:30:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-27 13:45:00+02:00,bHopQ0ZOocGk-YX6ZKk69w,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT15M,3,2023-11-27 13:30:00+02:00
-0,LT,Unplanned outage,A03,,2023-11-27 13:00:00+02:00,bHopQ0ZOocGk-YX6ZKk69w,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,3,2023-11-27 06:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-11-29 15:00:00+02:00,pruIHbKn2wTd3ZyCnc3wFA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,4,2023-11-20 00:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-12-18 09:45:00+02:00,hLHXe18paUd-M4IBYN4x9Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT1M,4,2023-12-18 09:38:00+02:00
-0,LT,Unplanned outage,A03,,2023-12-18 10:00:00+02:00,hLHXe18paUd-M4IBYN4x9Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT15M,4,2023-12-18 09:45:00+02:00
-0,LT,Unplanned outage,A03,,2023-12-18 15:00:00+02:00,hLHXe18paUd-M4IBYN4x9Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,4,2023-12-18 10:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-12-18 15:30:00+02:00,hLHXe18paUd-M4IBYN4x9Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT30M,4,2023-12-18 15:00:00+02:00
-0,LT,Unplanned outage,A03,,2023-12-18 15:40:00+02:00,hLHXe18paUd-M4IBYN4x9Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT1M,4,2023-12-18 15:30:00+02:00
-0,LT,Planned maintenance,A03,,2023-12-20 10:30:00+02:00,wzVP4mJ5eePVXRLSVPbj3A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2023-12-20 10:00:00+02:00
-0,LT,Planned maintenance,A03,,2023-12-20 10:00:00+02:00,wzVP4mJ5eePVXRLSVPbj3A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2023-12-19 08:00:00+02:00
-0,LT,Planned maintenance,A03,,2024-05-03 14:00:00+03:00,W1pgO93cjHcCVg-TF9iE-g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA1,1,MAW,PT60M,11,2023-07-24 08:00:00+03:00
+avail_qty,end,nominal_power,production_resource_name,start
+0,2023-01-12 17:30:00+02:00,225.0,KruonioHAE,2023-01-12 17:00:00+02:00
+0,2023-01-12 17:00:00+02:00,225.0,KruonioHAE,2023-01-12 00:00:00+02:00
+0,2023-04-21 10:00:00+03:00,225.0,KruonioHAE,2023-03-06 00:00:00+02:00
+0,2023-04-21 10:30:00+03:00,225.0,KruonioHAE,2023-04-21 10:00:00+03:00
+0,2023-05-31 00:00:00+03:00,300.0,Lietuvos elektrine,2023-05-29 00:00:00+03:00
+0,2023-06-15 07:23:00+03:00,445.0,Lietuvos elektrine,2023-06-15 07:15:00+03:00
+0,2023-06-15 07:15:00+03:00,445.0,Lietuvos elektrine,2023-06-15 07:00:00+03:00
+0,2023-06-15 07:00:00+03:00,445.0,Lietuvos elektrine,2023-06-15 06:00:00+03:00
+0,2023-06-15 06:00:00+03:00,445.0,Lietuvos elektrine,2023-06-15 05:53:00+03:00
+0,2023-07-21 10:00:00+03:00,225.0,KruonioHAE,2023-07-03 00:00:00+03:00
+0,2023-08-23 11:30:00+03:00,300.0,Lietuvos elektrine,2023-08-23 11:00:00+03:00
+0,2023-08-23 11:00:00+03:00,300.0,Lietuvos elektrine,2023-08-22 18:00:00+03:00
+0,2023-08-22 18:00:00+03:00,300.0,Lietuvos elektrine,2023-08-22 17:30:00+03:00
+0,2023-08-22 17:30:00+03:00,300.0,Lietuvos elektrine,2023-08-22 17:15:00+03:00
+0,2023-08-22 17:15:00+03:00,300.0,Lietuvos elektrine,2023-08-22 17:10:00+03:00
+0,2023-08-23 11:45:00+03:00,300.0,Lietuvos elektrine,2023-08-23 11:30:00+03:00
+0,2023-09-20 16:00:00+03:00,445.0,Lietuvos elektrine,2023-09-20 15:30:00+03:00
+0,2023-09-20 17:40:00+03:00,445.0,Lietuvos elektrine,2023-09-20 17:30:00+03:00
+0,2023-09-20 17:30:00+03:00,445.0,Lietuvos elektrine,2023-09-20 17:00:00+03:00
+0,2023-09-20 17:00:00+03:00,445.0,Lietuvos elektrine,2023-09-20 16:00:00+03:00
+0,2023-09-20 15:30:00+03:00,445.0,Lietuvos elektrine,2023-09-20 15:15:00+03:00
+0,2023-09-20 15:15:00+03:00,445.0,Lietuvos elektrine,2023-09-20 15:06:00+03:00
+0,2023-10-14 00:00:00+03:00,300.0,Lietuvos elektrine,2023-10-09 00:00:00+03:00
+0,2023-10-16 09:03:00+03:00,445.0,Lietuvos elektrine,2023-10-16 09:00:00+03:00
+0,2023-10-16 09:00:00+03:00,445.0,Lietuvos elektrine,2023-10-16 08:00:00+03:00
+0,2023-10-16 07:30:00+03:00,445.0,Lietuvos elektrine,2023-10-16 07:16:00+03:00
+0,2023-10-16 08:00:00+03:00,445.0,Lietuvos elektrine,2023-10-16 07:30:00+03:00
+0,2023-10-18 13:30:00+03:00,445.0,Lietuvos elektrine,2023-10-18 13:00:00+03:00
+0,2023-10-18 13:45:00+03:00,445.0,Lietuvos elektrine,2023-10-18 13:30:00+03:00
+0,2023-10-18 13:00:00+03:00,445.0,Lietuvos elektrine,2023-10-18 06:00:00+03:00
+0,2023-10-27 06:45:00+03:00,445.0,Lietuvos elektrine,2023-10-27 06:41:00+03:00
+0,2023-10-27 08:16:00+03:00,445.0,Lietuvos elektrine,2023-10-27 08:15:00+03:00
+0,2023-10-27 08:15:00+03:00,445.0,Lietuvos elektrine,2023-10-27 08:00:00+03:00
+0,2023-10-27 08:00:00+03:00,445.0,Lietuvos elektrine,2023-10-27 07:00:00+03:00
+0,2023-10-27 07:00:00+03:00,445.0,Lietuvos elektrine,2023-10-27 06:45:00+03:00
+0,2023-11-07 21:00:00+02:00,445.0,Lietuvos elektrine,2023-11-06 08:00:00+02:00
+0,2023-11-07 21:30:00+02:00,445.0,Lietuvos elektrine,2023-11-07 21:00:00+02:00
+0,2023-11-07 21:38:00+02:00,445.0,Lietuvos elektrine,2023-11-07 21:30:00+02:00
+0,2023-11-13 19:11:00+02:00,300.0,Lietuvos elektrine,2023-11-13 19:00:00+02:00
+0,2023-11-13 19:00:00+02:00,300.0,Lietuvos elektrine,2023-06-12 00:00:00+03:00
+0,2023-11-20 00:00:00+02:00,300.0,Lietuvos elektrine,2023-11-18 08:00:00+02:00
+200,2023-11-22 10:00:00+02:00,300.0,Lietuvos elektrine,2023-11-22 09:30:00+02:00
+200,2023-11-22 11:00:00+02:00,300.0,Lietuvos elektrine,2023-11-22 10:00:00+02:00
+0,2023-11-22 17:24:00+02:00,300.0,Lietuvos elektrine,2023-11-22 17:15:00+02:00
+0,2023-11-22 15:00:00+02:00,300.0,Lietuvos elektrine,2023-11-22 14:45:00+02:00
+0,2023-11-22 17:15:00+02:00,300.0,Lietuvos elektrine,2023-11-22 17:00:00+02:00
+0,2023-11-22 17:00:00+02:00,300.0,Lietuvos elektrine,2023-11-22 15:00:00+02:00
+0,2023-11-23 03:30:00+02:00,300.0,Lietuvos elektrine,2023-11-23 03:24:00+02:00
+0,2023-11-23 04:00:00+02:00,300.0,Lietuvos elektrine,2023-11-23 03:30:00+02:00
+0,2023-11-26 11:15:00+02:00,300.0,Lietuvos elektrine,2023-11-26 11:00:00+02:00
+0,2023-11-26 11:00:00+02:00,300.0,Lietuvos elektrine,2023-11-23 04:00:00+02:00
+0,2023-11-27 13:30:00+02:00,300.0,Lietuvos elektrine,2023-11-27 13:00:00+02:00
+0,2023-11-27 06:00:00+02:00,300.0,Lietuvos elektrine,2023-11-27 05:30:00+02:00
+0,2023-11-27 13:45:00+02:00,300.0,Lietuvos elektrine,2023-11-27 13:30:00+02:00
+0,2023-11-27 13:00:00+02:00,300.0,Lietuvos elektrine,2023-11-27 06:00:00+02:00
+0,2023-11-29 15:00:00+02:00,445.0,Lietuvos elektrine,2023-11-20 00:00:00+02:00
+0,2023-12-18 09:45:00+02:00,300.0,Lietuvos elektrine,2023-12-18 09:38:00+02:00
+0,2023-12-18 10:00:00+02:00,300.0,Lietuvos elektrine,2023-12-18 09:45:00+02:00
+0,2023-12-18 15:00:00+02:00,300.0,Lietuvos elektrine,2023-12-18 10:00:00+02:00
+0,2023-12-18 15:30:00+02:00,300.0,Lietuvos elektrine,2023-12-18 15:00:00+02:00
+0,2023-12-18 15:40:00+02:00,300.0,Lietuvos elektrine,2023-12-18 15:30:00+02:00
+0,2023-12-20 10:30:00+02:00,445.0,Lietuvos elektrine,2023-12-20 10:00:00+02:00
+0,2023-12-20 10:00:00+02:00,445.0,Lietuvos elektrine,2023-12-19 08:00:00+02:00
+0,2024-05-03 14:00:00+03:00,225.0,KruonioHAE,2023-07-24 08:00:00+03:00
