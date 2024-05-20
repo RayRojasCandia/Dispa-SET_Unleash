@@ -1,1 +1,1 @@
-avail_qty,end,nominal_power,production_resource_name,start
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
