@@ -1,34 +1,31 @@
 Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,30W-CERNAVODA--E,NPP Cernavoda,1300,1300.0,internal,400,01.12.2014,,RO
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,30W-CHE-PDF1---A,HPP Portile de Fier I,1161,1161.0,internal,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,30W-CET-ROVI---Q,TPP Rovinari,878,882.0,internal,400,01.12.2014,,RO,Stur,Lignite
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,30W-CET-PETROM-L,TPP CCCC Petrom Brazi,832,832.0,internal,400,01.12.2014,,RO,Comc,Fossil Gas
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,30W-CET-TURC---M,TPP Turceni,785,785.0,internal,400,01.12.2014,,RO,Stur,Lignite
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-LOTR---A,HPP Lotru,509,509.0,internal,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,30W-CEE-FANT---U,WPP Fantanele,348,348.0,internal,400,01.12.2014,,RO,Wind Onshore,Wind
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,30W-CET-ISAL---X,TPP Isalnita,292,292.0,internal,220,01.12.2014,01.01.2026,RO,Stur,Lignite
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,30W-CET-IERN---J,TPP Iernut,282,282.0,internal,220,01.12.2014,01.01.2025,RO,Comc,Fossil Gas
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,30W-CEE-COGEA--T,Cogealac,252,252.0,intra_zonal,400,01.12.2014,,RO,Wind Onshore,Wind
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,30W-CHE-PDF2---5,HPP Portile de Fier II,250,250.0,internal,110,01.12.2014,,RO,Hydro Run-of-river,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,30W-CET-CRAI---T,TPP Craiova,240,240.0,internal,110,01.12.2014,,RO,Stur,Lignite
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-CORB---Q,HPP Vidraru,219,219.0,internal,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-MARI---9,HPP Mariselu,215,215.0,internal,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-RUIM---B,HPP Raul Mare,210,210.0,internal,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,30W-CET-BUCV---D,TPP Bucuresti Vest,171,171.0,internal,110,01.12.2014,,RO,Comc,Fossil Gas
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,30W-CET-BRAZ---Q,TPP Brazi,170,170.0,internal,110,01.12.2014,,RO,Comc,Fossil Gas
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,30W-CET-BUCS---S,TPP Bucuresti Sud,168,168.0,internal,220,01.12.2014,,RO,Comc,Fossil Gas
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-STEJ---C,HPP Stejaru,202,149.0,internal,110,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-SUGAG--7,HPP Sugag,149,149.0,internal,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-GALC---C,HPP Galceag,149,149.0,internal,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-RUIE---E,HPP Ruieni,138,138.0,internal,110,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,30W-FACAENI----J,WPP Facaeni,132,132.0,internal,400,01.12.2014,,RO,Wind Onshore,Wind
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,30W-CET-PARO---N,TPP Paroseni,130,130.0,internal,110,01.12.2014,,RO,Stur,Fossil Hard coal
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,30W-CEE-PANT---O,WPP Pantelimon,123,123.0,internal,400,01.12.2014,,RO,Wind Onshore,Wind
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,30W-CEE-STUP---U,WPP Stupina,120,120.0,internal,400,01.12.2014,,RO,Wind Onshore,Wind
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,30W-CRUCEA-----N,WPP Crucea Nord,108,108.0,internal,400,01.12.2014,,RO,Wind Onshore,Wind
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-TISM---J,HPP Tismana,105,105.0,internal,110,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,30W-CHE-BRAD---V,HPP Bradisoru,100,100.0,internal,110,01.12.2014,,RO,Hydro Water Reservoir,Hydro
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Coal-derived gas,30W-CET-PROGR--Z,TPP Progresu,92,92.0,internal,110,01.12.2014,,RO,Stur,Fossil Coal-derived gas
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,30W-CET-GOVO---A,TPP Govora,166,82.0,internal,110,01.12.2014,01.01.2026,RO,Stur,Lignite
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,30W-CET-ORAD---W,TPP Oradea,61,61.0,internal,110,01.12.2014,,RO,Stur,Lignite
-CTA|RO / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,30W-CET-GALA---G,TPP Galati,192,,internal,110,01.12.2014,20.12.2023,RO,Comc,Fossil Gas
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WRIBATE------E,Ribatejo,1176,1176,ALENQUER,400,01.12.2014,,RO,Comc,Fossil Gas
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WRTG---------V,T.Outeiro C.C.,990,990,GONDOMAR,220,01.12.2014,,RO,Comc,Fossil Gas
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WGVAES-------R,Gouvães,880,880,RIBEIRA DE PENA,400,26.01.2022,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WPEGO--------O,Pego C.C.,837,837,ABRANTES,400,01.12.2014,,RO,Comc,Fossil Gas
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WLARES-------R,Lares,826,826,FIGUEIRA DA FOZ,400,01.12.2014,,RO,Comc,Fossil Gas
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WFRADE2------F,Frades II,780,780,VIEIRA DO MINHO,400,27.08.2017,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WALINDO------J,Alto Lindoso,630,630,PONTE DA BARCA,400,01.12.2014,,RO,Hydro Water Reservoir,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WALQUE-------F,Alqueva,508,508,PORTEL,400,01.12.2014,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WAGUIE-------3,Aguieira,336,336,PENACOVA,220,01.12.2014,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WFOZT--------Y,Foz Tua,268,268,ALIJÓ,400,09.02.2017,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WPICOTII-----K,Picote II,245,245,MIRANDA DOURO,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WBEMPOS------6,Bemposta,240,240,MOGADOURO,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WVALEIRA-----B,Valeira,240,240,S.J.PESQUEIRA,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WSALAM2------Z,Salamonde II,220,220,VIEIRA DO MINHO,400,14.07.2015,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WBEMPOII-----R,Bemposta II,203,203,MOGADOURO,400,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WCARRAPA-----2,Carrapatelo,201,201,CINFÃES,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WPICOTE------0,Picote,195,195,MIRANDA DOURO,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WFRADES------T,V.Nova II(Frades),191,191,VIEIRA DO MINHO,150,01.12.2014,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WMIRANII-----E,Miranda II,189,189,MIRANDA DOURO,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WPOCINHO-----S,Pocinho,186,186,V.NOVA FOZ CÔA,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WREGUA-------O,Regua,180,180,PESO DA RÉGUA,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16W-MIRANDA----I,Miranda,180,180,MIRANDA DOURO,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WCBODE-------5,Castelo Bode,159,159,TOMAR,220,01.12.2014,,RO,Hydro Water Reservoir,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WBASBM-------8,Baixo Sabor Montante,153,153,TORRE MONCORVO,220,09.06.2015,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WTORRAO------V,Torrao,140,140,MARCO CANAVESES,220,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16W-FRATEL-----A,Fratel,132,132,NISA,150,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WVFURNA------1,Vilarinho F.,125,125,TERRAS DE BOURO,150,01.12.2014,,RO,Hydro Pumped Storage,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WCRESTUM-----6,Crestuma,117,117,VILA NOVA GAIA,60,01.12.2014,,RO,Hydro Run-of-river,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WDVOES-------N,Daivões,114,114,CABEC.DE BASTO,400,23.11.2022,,RO,Hydro Water Reservoir,Hydro
+CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WCABRIL------U,Cabril,108,108,SERTÃ,150,01.12.2014,,RO,Hydro Water Reservoir,Hydro

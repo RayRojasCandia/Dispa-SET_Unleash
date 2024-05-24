@@ -1,31 +1,78 @@
 Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WRIBATE------E,Ribatejo,1176,1176,ALENQUER,400,01.12.2014,,PT,Comc,Fossil Gas
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WRTG---------V,T.Outeiro C.C.,990,990,GONDOMAR,220,01.12.2014,,PT,Comc,Fossil Gas
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WGVAES-------R,Gouvães,880,880,RIBEIRA DE PENA,400,26.01.2022,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WPEGO--------O,Pego C.C.,837,837,ABRANTES,400,01.12.2014,,PT,Comc,Fossil Gas
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,16WLARES-------R,Lares,826,826,FIGUEIRA DA FOZ,400,01.12.2014,,PT,Comc,Fossil Gas
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WFRADE2------F,Frades II,780,780,VIEIRA DO MINHO,400,27.08.2017,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WALINDO------J,Alto Lindoso,630,630,PONTE DA BARCA,400,01.12.2014,,PT,Hydro Water Reservoir,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WALQUE-------F,Alqueva,508,508,PORTEL,400,01.12.2014,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WAGUIE-------3,Aguieira,336,336,PENACOVA,220,01.12.2014,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WFOZT--------Y,Foz Tua,268,268,ALIJÓ,400,09.02.2017,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WPICOTII-----K,Picote II,245,245,MIRANDA DOURO,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WBEMPOS------6,Bemposta,240,240,MOGADOURO,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WVALEIRA-----B,Valeira,240,240,S.J.PESQUEIRA,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WSALAM2------Z,Salamonde II,220,220,VIEIRA DO MINHO,400,14.07.2015,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WBEMPOII-----R,Bemposta II,203,203,MOGADOURO,400,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WCARRAPA-----2,Carrapatelo,201,201,CINFÃES,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WPICOTE------0,Picote,195,195,MIRANDA DOURO,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WFRADES------T,V.Nova II(Frades),191,191,VIEIRA DO MINHO,150,01.12.2014,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WMIRANII-----E,Miranda II,189,189,MIRANDA DOURO,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WPOCINHO-----S,Pocinho,186,186,V.NOVA FOZ CÔA,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WREGUA-------O,Regua,180,180,PESO DA RÉGUA,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16W-MIRANDA----I,Miranda,180,180,MIRANDA DOURO,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WCBODE-------5,Castelo Bode,159,159,TOMAR,220,01.12.2014,,PT,Hydro Water Reservoir,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WBASBM-------8,Baixo Sabor Montante,153,153,TORRE MONCORVO,220,09.06.2015,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WTORRAO------V,Torrao,140,140,MARCO CANAVESES,220,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16W-FRATEL-----A,Fratel,132,132,NISA,150,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,16WVFURNA------1,Vilarinho F.,125,125,TERRAS DE BOURO,150,01.12.2014,,PT,Hydro Pumped Storage,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,16WCRESTUM-----6,Crestuma,117,117,VILA NOVA GAIA,60,01.12.2014,,PT,Hydro Run-of-river,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WDVOES-------N,Daivões,114,114,CABEC.DE BASTO,400,23.11.2022,,PT,Hydro Water Reservoir,Hydro
-CTA|PT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,16WCABRIL------U,Cabril,108,108,SERTÃ,150,01.12.2014,,PT,Hydro Water Reservoir,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,19W000000000016F,Bełchatów,5102.0,5102,Polska,400,01.01.2011,,PT,Stur,Lignite
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000001292,Opole,3342.0,3342,Polska,400,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000104I,Kozienice 2,2207.0,2207,Polska,400,01.03.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,19W000000000199I,Turów,2029.0,2029,Polska,400,01.01.2014,,PT,Stur,Lignite
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000095U,Kozienice 1,1800.0,1797,Polska,220,11.09.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000001519,Połaniec,1674.0,1449,Polska,400,01.04.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000000636,Jaworzno 3,1345.0,1345,Polska,220,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000296K,Jaworzno 2 JWCD,910.0,910,Polska,400,10.09.2018,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000001195,Łaziska 3,905.0,905,Polska,220,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000043C,Dolna Odra,903.0,903,Polska,400,01.01.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000001713,Rybnik,1350.0,900,Polska,400,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,19W0000000002418,Żarnowiec,780.0,780,Polska,400,30.12.2014,,PT,Hydro Pumped Storage,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000001349,Ostrołęka B,690.0,690,Polska,220,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W110000000313L,Elektrownia Gryfino,,683,Polska,400,11.06.2023,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,19W000000000142A,Pątnów 1,644.0,644,Polska,220,01.01.2011,,PT,Stur,Lignite
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000283T,Płock,630.0,630,Polska,400,30.05.2017,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000002191,EC Siekierki,620.0,620,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,19W000000000247X,Porąbka Żar,552.0,552,Polska,220,30.12.2014,,PT,Hydro Pumped Storage,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000290W,EC Żerań 2,496.0,496,Polska,220,12.05.2020,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,19W000000000149X,Pątnów 2,474.0,474,Polska,400,01.01.2011,,PT,Stur,Lignite
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000256W,EC Włocławek,465.0,465,Polska,220,31.10.2015,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000111L,Łagisza,460.0,460,Polska,400,01.06.2013,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000000806,Kraków Łęg,451.0,451,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000284R,EC Stalowa Wola,450.0,450,Polska,220,01.04.2019,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,19W0000000002345,PKN Orlen,373.0,373,Polska,30,01.12.2014,,PT,Stur,Fossil Oil
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000186R,Skawina,330.0,330,Polska,220,01.01.2013,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000002361,Siersza,306.0,306,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000297I,EC Żerań 1,299.0,299,Polska,110,27.04.2020,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000213D,Wrocław,272.0,272,Polska,110,07.10.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W110000000306I,Farma wiatrowa Dunowo,186.0,250,Polska,110,21.05.2021,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W000000000041G,FW Darłowo,239.0,239,Polska,400,01.04.2014,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W0000000001098,EC Wrotków,231.0,231,Polska,110,01.01.2011,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000000369,Chorzów,226.0,226,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,19W000000000165Z,Połaniec 2-Pasywna,225.0,225,Polska,400,28.09.2012,,PT,Stur,Biomass
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000059Y,Gdańsk 2,217.0,217,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000000741,Karolin 2,212.0,212,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000238Y,Mondi Świecie,211.0,211,Polska,110,01.12.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000106E,EC Łódź-3,205.0,205,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,19W0000000002515,Solina,198.0,198,Polska,110,30.12.2014,,PT,Hydro Pumped Storage,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000107C,EC Łódź-4,198.0,198,Polska,110,01.09.2012,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000230D,Zielona Góra,188.0,198,Polska,220,01.01.2011,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000000628,Jaworzno 2,189.0,189,Polska,110,21.09.2013,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000239W,Nowa,177.0,177,Polska,110,01.12.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000035B,Bydgoszcz 2,177.0,177,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,19W000000000004M,EW Włocławek,168.0,174,Polska,110,01.01.2011,,PT,Hydro Run-of-river,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,19W0000000002426,Żydowo,165.0,165,Polska,110,30.12.2014,,PT,Hydro Pumped Storage,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Coal-derived gas,19W000000000034D,Blachownia,158.0,158,Polska,110,01.01.2011,,PT,Stur,Fossil Coal-derived gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000033F,EC Białystok,157.0,157,Polska,110,01.01.2013,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W110000000307G,Farma wiatrowa Biały Bór,145.0,145,Polska,110,01.09.2021,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000274U,Gorzów 2,138.0,138,Polska,110,01.01.2016,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000076Y,Katowice,135.0,135,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000168T,Pomorzany,134.0,134,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W110000000303O,FW Jasna,132.0,132,Polska,110,11.08.2020,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W0000000000571,EC Nowa Sarzyna,129.0,129,Polska,110,01.01.2011,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000240A,Azoty Tarnów,125.0,125,Polska,110,01.12.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W0000000001276,FW Margonin,120.0,120,Polska,110,01.01.2011,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W000000000301G,FW Potegowo Zachód,118.0,118,Polska,110,11.03.2020,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Coal-derived gas,19W000000000294O,Przyjaźń,114.0,114,Polska,110,01.04.2018,,PT,Stur,Fossil Coal-derived gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000002337,International Paper Kwidzyn,112.0,112,Polska,110,01.12.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000212F,ZA Puławy,110.0,110,Polska,6,18.11.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W000000000275S,FW Banie,106.0,106,Polska,110,30.10.2015,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000197M,Tychy,106.0,106,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000061A,Gdynia 3,105.0,105,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000002353,Zakłady Chemiczne Police SA,95.0,102,Polska,6,18.11.2014,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W000000000299E,FW Potegowo,101.0,101,Polska,110,22.11.2019,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000169R,EC Rzeszów,101.0,101,Polska,110,01.01.2011,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000293Q,EC Toruń,101.0,101,Polska,60,15.03.2017,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W0000000002604,FW Marszewo,100.0,100,Polska,110,01.09.2013,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000040I,Czechnica,94.0,94,Polska,110,01.01.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,19W000000000272Y,Dychów,90.0,90,Polska,110,01.01.2015,,PT,Hydro Pumped Storage,Hydro
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000295M,Zofiówka,81.0,86,Polska,110,01.04.2018,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W000000000258S,FW Korytnica,83.0,83,Polska,400,15.12.2015,,PT,Wind Onshore,Wind
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W000000000287L,Zabrze,77.0,77,Polska,110,01.01.2016,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,19W000000000060C,Gorzów,70.0,70,Polska,110,01.06.2012,,PT,Comc,Fossil Gas
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,19W000000000094W,Konin,50.0,50,Polska,110,01.01.2015,,PT,Stur,Lignite
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,19W0000000000725,Karolin 1,49.0,49,Polska,110,01.09.2011,,PT,Stur,Fossil Hard coal
+CTA|PL / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,19W0000000000563,FW EGL,41.0,41,Polska,110,18.06.2012,,PT,Wind Onshore,Wind

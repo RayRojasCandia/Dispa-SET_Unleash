@@ -1,2 +1,11 @@
 ,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon
-,NE Krško,696,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Oskarshamn 3,1400.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Forsmark block 3,1172.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Ringhals 4,1140.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Forsmark block 2,1121.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Ringhals 3,1063.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Forsmark block 1,1014.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Eken,12.0,1.0,SI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Öresundsverket CHP,0.0,1.0,SI,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Aros G3,,1.0,SI,,,STUR,OIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Uppsala KVV,,1.0,SI,,,STUR,PEA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

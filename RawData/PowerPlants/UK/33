@@ -1,10 +1,10 @@
 Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,47W000000000156I,Kilroot,655,655,Coolkeeragh,275,23.12.2014,,UK,Stur,Fossil Hard coal
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000154M,Ballylumford C Station,494,494,Ballylumford,275,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000155K,Coolkeeragh,467,467,Coolkeeragh,275,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000153O,Ballylumford B Station,217,217,Ballylumford,220,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,47W000000000243N,iPower Solutions Limited,74,74,County Antrim,33,01.11.2014,,UK,Stur,Fossil Oil
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,47W000000000318I,Lisahally,18,18,Lisahally,33,01.01.2017,,UK,Stur,Biomass
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000242P,Knockmore Hill AGU Production,12,12,County Antrim,33,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000241R,Knockmore Hill,3,3,County Antrim,33,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,47W000000000244L,Empower Generation Limited,3,3,County Down,33,01.12.2014,,UK,Stur,Fossil Oil
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,24WV--EMO------K,Mochovce,1921,1921,Mochovce,400,01.01.2015,,UK
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,24WV--EBO------8,Bohunice,1000,1000,Jaslovské Bohunice,400,01.01.2015,,UK
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,734,734,Čierny Váh,400,01.01.2015,,UK,Hydro Pumped Storage,Hydro
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,24WV--HGA------8,Gabčíkovo,720,720,Gabčíkovo,400,01.01.2015,,UK,Hydro Run-of-river,Hydro
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,24WV--EOK------Y,Malženice,430,430,Malženice,400,01.01.2015,,UK,Comc,Fossil Gas
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,24WV--EVO------D,Vojany,220,220,Vojany,220,01.01.2015,,UK,Stur,Fossil Hard coal
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,220,220,Nováky,110,01.01.2015,,UK,Stur,Lignite
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,24WV--PBA------A,PPC Bratislava,218,218,Bratislava,110,01.01.2015,,UK,Comc,Fossil Gas
+CTA|SK / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Water Reservoir,24WV--HLM------F,Liptovská Mara,198,198,Liptovská Mara,110,01.01.2015,,UK,Hydro Water Reservoir,Hydro

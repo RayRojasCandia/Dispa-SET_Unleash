@@ -1,7 +1,22 @@
 Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|EE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil shale,38W-MT--EEJ----3,Eesti Elektrijaam,1369,1369,Narva,330,30.06.1969,,EE,Stur,Fossil Oil shale
-CTA|EE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil shale,38W-MT--BEJ----R,Balti Elektrijaam,472,472,Narva,330,26.12.1963,,EE,Stur,Fossil Oil shale
-CTA|EE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil shale,38W-KTJ-AUVERE-Z,Auvere kondensatsioonielektrijaam,270,270,Auvere,330,28.04.2015,,EE,Stur,Fossil Oil shale
-CTA|EE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,38W-MT--IRU--Q-T,IRU Elektrijaam,173,173,Iru,110,01.01.1980,,EE,Comc,Fossil Gas
-CTA|EE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,38W-MT--AREJ2--A,Kiisa AREJ 2,140,140,Kiisa,330,02.07.2014,,EE,Comc,Fossil Gas
-CTA|EE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,38W-MT--AREJ---M,Kiisa AREJ 1,110,110,Kiisa,110,13.09.2013,,EE,Comc,Fossil Gas
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,45W0000000000102,Avedoerevaerket,815.0,815,Denmark,400,18.05.2017,,EE,Stur,Biomass
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,45W000000000012Z,Asnaesvaerket,787.0,787,Denmark,132,18.05.2017,,EE,Stur,Fossil Hard coal
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,45W000000000015T,Studstrupvaerket,730.0,730,Denmark,400,31.03.2017,,EE,Stur,Fossil Hard coal
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,45W000000000009O,Kyndbyvaerket,664.0,664,Denmark,132,18.05.2017,,EE,Stur,Fossil Oil
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000125M,DK_KF_AB_PU,604.0,604,Denmark,220,16.11.2020,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,45W000000000013X,Amagervaerket,479.0,479,Denmark,132,18.05.2017,,EE,Stur,Fossil Hard coal
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,45W000000000014V,Fynsvaerket,407.0,407,Denmark,400,18.05.2017,,EE,Stur,Fossil Hard coal
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000114R,Horns Rev C,407.0,407,Denmark,220,12.11.2018,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,45W000000000016R,Nordjyllandsvaerket,405.0,405,Denmark,400,18.05.2017,,EE,Stur,Fossil Hard coal
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000022W,Anholt,400.0,400,Denmark,220,18.05.2017,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,45W0000000000110,Skaerbaekvaerket,392.0,392,Denmark,400,18.05.2017,,EE,Comc,Fossil Gas
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,45W000000000017P,Esbjergvaerket,377.0,377,Denmark,150,18.05.2017,,EE,Stur,Fossil Hard coal
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,45W000000000153H,Solar Park Kassoe,303.0,303,DK1,150,20.05.2022,,EE
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000024S,Horns Rev B,209.0,209,Denmark,150,18.05.2017,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000021Y,Roedsand 2,207.0,207,Denmark,132,18.05.2017,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000172D,Vesterhav Nord,,176,DK1,150,09.02.2024,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000173B,Vesterhav Syd,,168,DK1,150,10.11.2023,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Solar,45W000000000156B,Solar Park Gedmosen,165.0,165,DK1,150,07.10.2021,,EE
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000019L,Roedsand 1,166.0,161,Denmark,132,18.05.2017,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Offshore,45W000000000023U,Horns Rev A,160.0,160,Denmark,150,18.05.2017,,EE,Wind Offshore,Wind
+CTA|DK / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,45W000000000112V,Silkeborgvaerket,108.0,108,Denmark,60,18.05.2017,,EE,Comc,Fossil Gas
