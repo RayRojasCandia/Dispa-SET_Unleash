@@ -1,0 +1,19 @@
+Zone,Technology,Name,Fueltype,Capacity,Efficiency,StorageCapacity_MWh
+Central,CCGT,"CCERI30, CCERI40, CCERI50","CCGT, CCGT, CCGT",396.77,0.45,0.0
+Central,OCGT,"VHE01, VHE02, VHE03, VHE04, VHE05, VHE06, VHE07, VHE08, CAR01, CAR02, CAR03, BUL01, BUL02, BUL03, ERI11, ERI12, ERI21, ERI22","OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT",496.05,0.3499999999999999,0.0
+Central,Onshore,"QOL, QOL2","Wind, Wind",26.54,1.0,0.0
+Central,Pv,ORU,Solar,50.2,1.0,0.0
+Central,Reservoir,"SIS, COR, MIG, ANG, CHO, CRB, MIS","hydro, hydro, hydro, hydro, hydro, hydro, hydro",296.15,,541370.39
+Central,Run-Of-River,"SJS, SJE, KAN, QUE","hydro, hydro, hydro, hydro",132.31999999999996,,442.71000000000004
+North,OCGT,"ALT01, ALT02","OCGT, OCGT",49.25,0.35,0.0
+North,Reservoir,"ZON, TIQ, SRO01, CHJ","hydro, hydro, hydro, hydro",66.06,,19089.559999999998
+North,Run-Of-River,"BOT, CUT, SRO02*, SAI, CHU*, HAR, CAH, HUA, YAN","hydro, hydro, hydro, hydro, hydro, hydro, hydro, hydro, hydro",211.17,,946.0699999999999
+North,Steam Turbine,"SBU01*, MOA02**, MOA05**, MOA06**, MOA07**, MOA08**, RRE01**, RRE02**, SBO01**, SBO02**, YUC01**, SAY01**, SAY02**, SIM01**, SIM02**","Bioenergy, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil, Oil",16.68,0.34733333333333327,0.0
+Oriental,CCGT,"CCWAR21*, CCWAR22*, CCWAR51, CCWAR10*, CCWAR30*, CCWAR40*","CCGT, CCGT, CCGT, CCGT, CCGT, CCGT",512.92,0.39999999999999997,0.0
+Oriental,OCGT,"GCH01*, GCH02*, GCH04*, GCH06*, GCH09COM*, GCH10COM*, GCH11*, SCZ01, SCZ02","OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT",369.12,0.35,0.0
+Oriental,Steam Turbine,"UNA01*, GBE01*, IAG01*","Bioenergy, Bioenergy, Bioenergy",50.64,0.31,0.0
+South,CCGT,"CCSUR11, CCSUR12, CCSUR21, CCSUR22, CCSUR30, CCSUR40","CCGT, CCGT, CCGT, CCGT, CCGT, CCGT",454.3,0.3833333333333333,0.0
+South,OCGT,"ARJ01*, ARJ02*, ARJ03*, ARJ08, ARJ09*, ARJ11*, ARJ12*, ARJ13*, ARJ14*, ARJ15*","OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT, OCGT",34.49999999999999,0.35,0.0
+South,Pv,"UYU, YUN","Solar, Solar",64.7,1.0,0.0
+South,Reservoir,SJA,hydro,7.46,,5443.6
+South,Run-Of-River,"KIL, LAN, PUH*","hydro, hydro, hydro",19.04,,296.6700000000001
