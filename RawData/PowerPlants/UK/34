@@ -1,10 +1,10 @@
 Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Hard coal,47W000000000156I,Kilroot,655,655,Coolkeeragh,275,23.12.2014,,UK,Stur,Fossil Hard coal
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000154M,Ballylumford C Station,494,494,Ballylumford,275,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000155K,Coolkeeragh,467,467,Coolkeeragh,275,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000153O,Ballylumford B Station,217,217,Ballylumford,220,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,47W000000000243N,iPower Solutions Limited,74,74,County Antrim,33,01.11.2014,,UK,Stur,Fossil Oil
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Biomass,47W000000000318I,Lisahally,18,18,Lisahally,33,01.01.2017,,UK,Stur,Biomass
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000242P,Knockmore Hill AGU Production,12,12,County Antrim,33,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,47W000000000241R,Knockmore Hill,3,3,County Antrim,33,23.12.2014,,UK,Comc,Fossil Gas
-CTA|NIE / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Oil,47W000000000244L,Empower Generation Limited,3,3,County Down,33,01.12.2014,,UK,Stur,Fossil Oil
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Hard coal,47W000000000156I,Kilroot,655,655,Coolkeeragh,275,23.12.2014,,UK,Stur,Fossil Hard coal
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,47W000000000154M,Ballylumford C Station,494,494,Ballylumford,275,23.12.2014,,UK,Comc,Fossil Gas
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,47W000000000155K,Coolkeeragh,467,467,Coolkeeragh,275,23.12.2014,,UK,Comc,Fossil Gas
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,47W000000000153O,Ballylumford B Station,217,217,Ballylumford,220,23.12.2014,,UK,Comc,Fossil Gas
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Oil,47W000000000243N,iPower Solutions Limited,74,74,County Antrim,33,01.11.2014,,UK,Stur,Fossil Oil
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Biomass,47W000000000318I,Lisahally,18,18,Lisahally,33,01.01.2017,,UK,Stur,Biomass
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,47W000000000242P,Knockmore Hill AGU Production,12,12,County Antrim,33,23.12.2014,,UK,Comc,Fossil Gas
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,47W000000000241R,Knockmore Hill,3,3,County Antrim,33,23.12.2014,,UK,Comc,Fossil Gas
+CTA|NIE / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Oil,47W000000000244L,Empower Generation Limited,3,3,County Down,33,01.12.2014,,UK,Stur,Fossil Oil

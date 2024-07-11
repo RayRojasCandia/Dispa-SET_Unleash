@@ -1,8 +1,10 @@
 Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,28W-G-000000080M,TE Šoštanj,844,844,Šoštanj,400,01.01.2014,,SK,Stur,Lignite
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Nuclear,28W-G-000000119L,NE Krško,696,696,Krško,400,01.01.2014,,SK
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,28W-G-000000122W,PE Brestanica,350,350,Brestanica,110,01.01.2014,,SK,Comc,Fossil Gas
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,28W-G-0000000009,ČHE Avče elektrarna,180,180,Avče,110,01.01.2014,,SK,Hydro Pumped Storage,Hydro
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,28W-G-000000090J,HE Zlatoličje,126,126,Zlatoličje,110,01.01.2014,,SK,Hydro Run-of-river,Hydro
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,28W-G-000000091H,HE Formin,116,116,Formin,100,01.01.2014,,SK,Hydro Run-of-river,Hydro
-CTA|SI / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Brown coal/Lignite,28W-G-000000082I,TE TE-TOL,112,112,Ljubljana,110,01.01.2014,,SK,Stur,Lignite
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Nuclear,24WV--EMO------K,Mochovce,1921,1921,Mochovce,400,01.01.2015,,SK
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Nuclear,24WV--EBO------8,Bohunice,1000,1000,Jaslovské Bohunice,400,01.01.2015,,SK
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,734,734,Čierny Váh,400,01.01.2015,,SK,Hydro Pumped Storage,Hydro
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Hydro Run-of-river and poundage,24WV--HGA------8,Gabčíkovo,720,720,Gabčíkovo,400,01.01.2015,,SK,Hydro Run-of-river,Hydro
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,24WV--EOK------Y,Malženice,430,430,Malženice,400,01.01.2015,,SK,Comc,Fossil Gas
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Hard coal,24WV--EVO------D,Vojany,220,220,Vojany,220,01.01.2015,,SK,Stur,Fossil Hard coal
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,220,220,Nováky,110,01.01.2015,,SK,Stur,Lignite
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Fossil Gas,24WV--PBA------A,PPC Bratislava,218,218,Bratislava,110,01.01.2015,,SK,Comc,Fossil Gas
+CTA|SK / 01.01.2021 00:00 - 01.01.2022 00:00,Hydro Water Reservoir,24WV--HLM------F,Liptovská Mara,198,198,Liptovská Mara,110,01.01.2015,,SK,Hydro Water Reservoir,Hydro

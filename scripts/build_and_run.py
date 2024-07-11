@@ -8,13 +8,13 @@ create a simulation environment folder and run the simulation in GAMS
 
 # Add the root folder of Dispa-SET to the path so that the library can be loaded:
 import sys,os
-sys.path.append(os.path.abspath('..'))
+sys.path.append(os.path.abspath('/home/ray/Dispa-SET_Unleash'))
 
 # Import Dispa-SET
 import dispaset as ds
 
 # Load the configuration file
-config = ds.load_config('../ConfigFiles/ConfigBE.xlsx')
+config = ds.load_config('/home/ray/Dispa-SET_Unleash/ConfigFiles/ConfigBE.xlsx')
 
 # Build the simulation environment:
 SimData = ds.build_simulation(config)

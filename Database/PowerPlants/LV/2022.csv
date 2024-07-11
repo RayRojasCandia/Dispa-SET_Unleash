@@ -1,0 +1,7 @@
+Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
+,Plavinas HPP,894,1.0,LV,,,HROR,WAT,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,RTEC2-1,441,1.0,LV,,,COMC,GAS,0.53,4.0,1.0,0.019887387,0.027882883,110787.8241,,0.0,0.486486487,0.52,0.0,0.388490083,,,,,,,,,,,,,,,,,,,,
+,RTEC2-2,440,1.0,LV,,,COMC,GAS,0.525,5.0,1.0,0.0255606407,0.0255606407,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
+,Riga HPP,402,1.0,LV,,,HROR,WAT,1.0,0.0,0.0,0.5238095238,0.5238095238,0.0,,0.0,0.0,1.0,0.3,0.0,,,,,,,,,,,,,,,,,,,,
+,Kegums HPP,240,1.0,LV,,,HROR,WAT,1.0,0.0,0.0,0.9282700422,0.9282700422,0.0,,0.0,0.0,1.0,0.3,0.0,,,,,,,,,,,,,,,,,,,,
+,RTEC1,144,1.0,LV,,,COMC,GAS,0.525,5.0,1.0,0.085923077,0.085923077,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
