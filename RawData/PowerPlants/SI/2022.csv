@@ -1,7 +1,0 @@
-Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
-,TE Šoštanj,844,1.0,SI,,,STUR,LIG,0.38,6.0,6.0,0.01171875,0.01953125,60000.0,,0.0,0.295857988,0.35,6.0,1.49,,,,,,,,,,,,,,,,,,,,
-,PE Brestanica,350,1.0,SI,,,COMC,GAS,0.525,5.0,1.0,0.0319142857,0.0319142857,112542.12,,0.0,0.4,0.525,0.0,0.45,,,,,,,,,,,,,,,,,,,,
-,ČHE Avče elektrarna,180,1.0,SI,,,HPHS,WAT,0.86,0.0,0.0,1.6666666667,1.6666666667,0.0,,0.0,0.0,0.86,0.3,0.0,,,,,,,,,,,,,,,,,,,,
-,HE Zlatoličje,126,1.0,SI,,,HROR,WAT,1.0,0.0,0.0,1.746031746,1.746031746,0.0,,0.0,0.0,1.0,0.3,0.0,,,,,,,,,,,,,,,,,,,,
-,HE Formin,116,1.0,SI,,,HROR,WAT,1.0,0.0,0.0,1.8965517241,1.8965517241,0.0,,0.0,0.0,1.0,0.3,0.0,,,,,,,,,,,,,,,,,,,,
-,TE TE-TOL,112,1.0,SI,,,STUR,LIG,0.385,8.0,6.0,0.0442477876,0.0442477876,136849.915,,0.0,0.3,0.385,7.0,1.0,,,,,,,,,,,,,,,,,,,,

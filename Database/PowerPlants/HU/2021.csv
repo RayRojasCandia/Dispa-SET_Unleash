@@ -1,4 +1,5 @@
 Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
+,Paksi Atomerőmű,1916.0,1.0,HU,,,STUR,NUC,0.405,24.0,24.0,0.0022866667,0.0022866667,200000.0,,0.0,0.9,0.405,72.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Mátrai Erőmű,852.0,1.0,HU,,,STUR,LIG,0.38,6.0,6.0,0.01171875,0.01953125,60000.0,,0.0,0.295857988,0.35,6.0,1.49,,,,,,,,,,,,,,,,,,,,
 ,Dunamenti Erőmű,760.0,1.0,HU,,,COMC,GAS,0.525,5.0,1.0,0.0146013072,0.0146013072,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,Gönyűi Erőmű,437.0,1.0,HU,,,COMC,GAS,0.525,5.0,1.0,0.0255606407,0.0255606407,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,10 @@
 Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
+,Oskarshamn 3,1400.0,1.0,SE,,,STUR,NUC,0.405,24.0,24.0,0.002446505,0.002446505,200000.0,,0.0,0.9,0.405,72.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Forsmark block 3,1172.0,1.0,SE,,,STUR,NUC,0.405,24.0,24.0,0.0028969595,0.0028969595,200000.0,,0.0,0.9,0.405,72.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Ringhals 4,1140.0,1.0,SE,,,STUR,NUC,0.405,24.0,24.0,0.0028969595,0.0028969595,200000.0,,0.0,0.9,0.405,72.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Forsmark block 2,1121.0,1.0,SE,,,STUR,NUC,0.405,24.0,24.0,0.0028969595,0.0028969595,200000.0,,0.0,0.9,0.405,72.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Ringhals 3,1063.0,1.0,SE,,,STUR,NUC,0.405,24.0,24.0,0.0032791587,0.0032791587,200000.0,,0.0,0.9,0.405,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Forsmark block 1,1014.0,1.0,SE,,,STUR,NUC,0.405,24.0,24.0,0.0034027778,0.0034027778,200000.0,,0.0,0.9,0.405,0.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Harsprånget,811.0,1.0,SE,,,HDAM,WAT,0.85,0.0,0.0,0.1645338208,0.1645338208,0.0,,0.0,0.0,0.85,0.3,0.0,,,,,,,,,,,,,,,,,,,,
 ,Karlshamn,662.0,1.0,SE,,,STUR,OIL,0.41,8.0,6.0,0.0072992701,0.0072992701,35280.965,,0.0,0.3,0.41,7.0,0.79,,,,,,,,,,,,,,,,,,,,
 ,MarkbygdenETT,645.0,1.0,SE,,,WTON,WIN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
