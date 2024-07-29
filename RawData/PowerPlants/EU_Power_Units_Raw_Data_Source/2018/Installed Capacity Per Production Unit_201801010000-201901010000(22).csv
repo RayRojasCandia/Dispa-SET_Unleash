@@ -1,0 +1,7 @@
+"Area / Date","Production Type","Code","Name","Intalled Capacity at the beginning of year [MW]","Current Installed Capacity [MW]","Location","Voltage Connection Level [kV]","Commissioning Date","Decommissioning Date"
+"CTA|LV / 01.01.2018 00:00 - 01.01.2019 00:00","Hydro Run-of-river and poundage","43W-PLAV-HPP---J","Plavinas HPP","894","894","Latvia","330","01.01.2000",""
+"CTA|LV / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Gas","43W-RTEC-2-1---C","RTEC2-1","441","441","Latvia","330","01.01.2000",""
+"CTA|LV / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Gas","43W-RTEC-2-2---7","RTEC2-2","440","440","Latvia","330","01.01.2000",""
+"CTA|LV / 01.01.2018 00:00 - 01.01.2019 00:00","Hydro Run-of-river and poundage","43W-RIG-HPP----1","Riga HPP","402","402","Latvia","330","01.01.2000",""
+"CTA|LV / 01.01.2018 00:00 - 01.01.2019 00:00","Hydro Run-of-river and poundage","43W-KEG-HPP----I","Kegums HPP","240","240","Latvia","110","01.01.2000",""
+"CTA|LV / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Gas","43W-RTEC-1-----T","RTEC1","144","144","Latvia","110","01.01.2000",""

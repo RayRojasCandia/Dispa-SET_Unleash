@@ -1,10 +1,10 @@
 Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
-,Mochovce,1921,1.0,SK,,,STUR,NUC,0.405,24.0,24.0,0.0022866667,0.0022866667,200000.0,,0.0,0.9,0.405,72.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Mochovce,940,1.0,SK,,,STUR,NUC,1.0,24.0,24.0,0.003333333,0.003333333,,0.0,0.0,0.5,1.0,12.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Bohunice,1000,1.0,SK,,,STUR,NUC,1.0,24.0,24.0,0.003333333,0.003333333,,0.0,0.0,0.5,1.0,12.0,0.0,,,,,,,,,,,,,,,,,,,,
-,Čierny Váh,734,1.0,SK,,,HPHS,WAT,0.86,0.0,0.0,0.4098360656,0.4098360656,0.0,,0.0,0.0,0.86,0.3,0.0,,,,,,,,,,,,,,,,,,,,
+,Čierny Váh,734,1.0,SK,,,HPHS,WAT,0.86,0.0,0.0,0.4098360656,0.4098360656,0.0,,0.0,0.0,0.86,0.3,0.0,,,,,,,,,0.0,,,,,,,,,,,
 ,Gabčíkovo,720,1.0,SK,,,HROR,WAT,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Malženice,430,1.0,SK,,,COMC,GAS,0.55,5.0,1.0,0.025678161,0.025678161,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,Vojany,220,1.0,SK,,,STUR,HRD,0.395,8.0,6.0,0.0227272727,0.0227272727,117242.17,,0.0,0.3,0.395,7.0,0.95,,,,,,,,,,,,,,,,,,,,
 ,Nováky,220,1.0,SK,,,STUR,LIG,0.3517,6.0,6.0,0.011764706,0.019607843,60000.0,,0.0,0.603921569,0.3232,6.0,1.49,,,,,,,,,,,,,,,,,,,,
 ,PPC Bratislava,218,1.0,SK,,,COMC,GAS,0.525,5.0,1.0,0.0514746544,0.0514746544,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
-,Liptovská Mara,198,1.0,SK,,,HDAM,WAT,0.85,0.0,0.0,0.45,0.45,0.0,,0.0,0.0,0.85,0.3,0.0,,,,,,,,,,,,,,,,,,,,
+,Liptovská Mara,198,1.0,SK,,,HDAM,WAT,0.85,0.0,0.0,0.45,0.45,0.0,,0.0,0.0,0.85,0.3,0.0,,,,,,,,,0.0,,,,,,,,,,,

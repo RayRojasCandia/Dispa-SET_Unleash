@@ -1,0 +1,7 @@
+"Area / Date","Production Type","Code","Name","Intalled Capacity at the beginning of year [MW]","Current Installed Capacity [MW]","Location","Voltage Connection Level [kV]","Commissioning Date","Decommissioning Date"
+"CTA|EE / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Oil shale","38W-MT--EEJ----3","Eesti Elektrijaam","1369","1369","Narva","330","30.06.1969",""
+"CTA|EE / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Oil shale","38W-MT--BEJ----R","Balti Elektrijaam","472","472","Narva","330","26.12.1963",""
+"CTA|EE / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Oil shale","38W-KTJ-AUVERE-Z","Auvere kondensatsioonielektrijaam","270","270","Auvere","330","28.04.2015",""
+"CTA|EE / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Gas","38W-MT--IRU--Q-T","IRU Elektrijaam","173","173","Iru","110","01.01.1980",""
+"CTA|EE / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Gas","38W-MT--AREJ2--A","Kiisa AREJ 2","140","140","Kiisa","330","02.07.2014",""
+"CTA|EE / 01.01.2018 00:00 - 01.01.2019 00:00","Fossil Gas","38W-MT--AREJ---M","Kiisa AREJ 1","110","110","Kiisa","110","13.09.2013",""
