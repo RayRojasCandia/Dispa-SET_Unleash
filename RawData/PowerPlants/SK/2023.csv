@@ -1,0 +1,10 @@
+Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon
+,Mochovce,1921,1.0,SK,,,STUR,NUC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Bohunice,1000,1.0,SK,,,STUR,NUC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Čierny Váh,734,1.0,SK,,,HPHS,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Gabčíkovo,720,1.0,SK,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Malženice,430,1.0,SK,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Vojany,220,1.0,SK,,,STUR,HRD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Nováky,220,1.0,SK,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,PPC Bratislava,218,1.0,SK,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Liptovská Mara,198,1.0,SK,,,HDAM,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

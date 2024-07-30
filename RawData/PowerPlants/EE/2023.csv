@@ -1,0 +1,7 @@
+Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon
+,Eesti Elektrijaam,1369,1.0,EE,,,STUR,OIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Balti Elektrijaam,472,1.0,EE,,,STUR,OIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Auvere kondensatsioonielektrijaam,270,1.0,EE,,,STUR,OIL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,IRU Elektrijaam,173,1.0,EE,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Kiisa AREJ 2,140,1.0,EE,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Kiisa AREJ 1,110,1.0,EE,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
