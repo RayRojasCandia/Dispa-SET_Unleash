@@ -1,8 +1,0 @@
-Area / Date,Production Type,Code,Name,Intalled Capacity at the beginning of year [MW],Current Installed Capacity [MW],Location,Voltage Connection Level [kV],Commissioning Date,Decommissioning Date,Country,Technology,Fuel
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,41W1023600243EL3,Lietuvos elektrine,1045,1045,Elektrenai,110,01.01.2014,,LT,Comc,Fossil Gas
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Pumped Storage,41W2128003453ELI,KruonioHAE,900,900,Kruonis,330,01.01.2014,,LT,Hydro Pumped Storage,Hydro
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Wind Onshore,41W8908466671EL6,VEJO,433,433,Lietuva,110,01.01.2014,,LT,Wind Onshore,Wind
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,41W3185595680EL8,VilniausE3,360,360,Vilnius,110,01.01.2014,,LT,Comc,Fossil Gas
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,41WME-------TG1J,Mazeikiu elektrine,160,160,Mazeikiai,110,11.09.2014,,LT,Comc,Fossil Gas
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Fossil Gas,41W8538227475ELN,KaunoTE,110,110,Kaunas,110,01.01.2014,,LT,Comc,Fossil Gas
-CTA|LT / 01.01.2023 00:00 - 01.01.2024 00:00,Hydro Run-of-river and poundage,41W9259783288ELI,KaunoHE,101,101,Kaunas,110,01.01.2014,,LT,Hydro Run-of-river,Hydro
