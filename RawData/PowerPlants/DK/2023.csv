@@ -20,3 +20,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Roedsand 1,166.0,1.0,DK,,,WTOF,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Horns Rev A,160.0,1.0,DK,,,WTOF,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Silkeborgvaerket,108.0,1.0,DK,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,1854.0,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,4864.0,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

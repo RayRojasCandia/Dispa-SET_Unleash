@@ -41,3 +41,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,HERON1,49,1.0,EL,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,POURNARI2,34,1.0,EL,,,HDAM,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,EDESSAIOS,19,1.0,EL,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,5100,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,4547,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

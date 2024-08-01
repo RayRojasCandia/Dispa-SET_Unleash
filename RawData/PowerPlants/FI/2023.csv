@@ -43,3 +43,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Uimaharju,107.0,1.0,FI,,,STUR,BIO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Norrskogenin tuulipuisto,,1.0,FI,,,WTON,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Kuusaanniemi,100.0,1.0,FI,,,STUR,BIO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,18.0,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,4269.0,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

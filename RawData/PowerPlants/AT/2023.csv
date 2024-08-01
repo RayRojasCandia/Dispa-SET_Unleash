@@ -35,3 +35,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Kaprun-Oberstufe,113,1.0,AT,,,HPHS,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Kraftwerk Hintermuhr,107,1.0,AT,,,HPHS,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Kraftwerk Außerfragant,100,1.0,AT,,,HDAM,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,3265,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,3569,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

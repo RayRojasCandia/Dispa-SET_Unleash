@@ -169,3 +169,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,FESSENHEIM 2,880.0,1.0,FR,,,STUR,NUC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,FESSENHEIM 1,880.0,1.0,FR,,,STUR,NUC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,HAVRE 4,580.0,1.0,FR,,,STUR,HRD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,14639.0,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,20359.0,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

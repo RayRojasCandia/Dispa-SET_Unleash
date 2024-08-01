@@ -76,3 +76,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Konin,50.0,1.0,PL,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Karolin 1,49.0,1.0,PL,,,STUR,HRD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,FW EGL,41.0,1.0,PL,,,WTON,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,10643.0,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,7607.0,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

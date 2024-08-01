@@ -6,3 +6,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Mazeikiu elektrine,160,1.0,LT,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,KaunoTE,110,1.0,LT,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,KaunoHE,101,1.0,LT,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,578,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,381,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

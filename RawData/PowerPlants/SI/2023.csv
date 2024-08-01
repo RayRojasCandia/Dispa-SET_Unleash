@@ -6,3 +6,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,HE Zlatoličje,126,1.0,SI,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,HE Formin,116,1.0,SI,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,TE TE-TOL,112,1.0,SI,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,702,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,2,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

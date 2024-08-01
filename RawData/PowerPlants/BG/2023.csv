@@ -23,3 +23,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,HPP_KARDZHALI,110,1.0,BG,,,HDAM,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,CHP_REPUBLIKA_PK,105,1.0,BG,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,CHP_EVN_PLOVDIV,105,1.0,BG,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,3092,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,549,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

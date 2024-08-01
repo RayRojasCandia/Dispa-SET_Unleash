@@ -34,3 +34,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,INESCO WKK,138,1.0,BE,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,TIHANGE 2,1008,1.0,BE,,,STUR,NUC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Kristal _ Solar _ Park,99,1.0,BE,,,PHOT,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,6376,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,3053,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

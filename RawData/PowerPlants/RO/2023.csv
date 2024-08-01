@@ -32,3 +32,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,TPP Govora,166,1.0,RO,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,TPP Oradea,61,1.0,RO,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,TPP Galati,192,1.0,RO,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,1185,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,1874,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

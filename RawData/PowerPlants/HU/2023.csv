@@ -49,3 +49,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,SARFPV1uz,48.0,1.0,HU,,,PHOT,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,SARFPV2uz,48.0,1.0,HU,,,PHOT,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,AJKAPV,20.0,1.0,HU,,,PHOT,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,2536.0,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,300.0,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

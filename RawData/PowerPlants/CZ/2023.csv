@@ -26,3 +26,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,ELI1_______,120,1.0,CZ,,,HDAM,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,EPLE_______,111,1.0,CZ,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,ETI2_______,105,1.0,CZ,,,STUR,LIG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,2083,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,339,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

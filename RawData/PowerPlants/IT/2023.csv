@@ -173,3 +173,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,IM_S08ERNPUP_NPWRRVENNA_9,123.0,1.0,IT,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,IM_S19TCRMUP_TERMINI_I_42,118.0,1.0,IT,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,IM_S19TCRMUP_TERMINI_I_5,118.0,1.0,IT,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,5431.0,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,10970.0,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

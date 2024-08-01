@@ -5,3 +5,5 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Riga HPP,402,1.0,LV,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Kegums HPP,240,1.0,LV,,,HROR,WAT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,RTEC1,144,1.0,LV,,,COMC,GAS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_Solar,63,,,,,,SUN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN,165,,,,,,WIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
