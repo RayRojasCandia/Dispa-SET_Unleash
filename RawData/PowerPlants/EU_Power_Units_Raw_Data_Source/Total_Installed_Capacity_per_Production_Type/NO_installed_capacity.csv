@@ -1,15 +1,23 @@
 Production Type,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
-BIO,0,0,0,0,0,0,0,0,0,14
-GAS,1412,1412,611,635,635,642,639,639,459,473
-GEO,0,0,0,0,0,0,0,0,0,0
-HRD,0,0,0,0,0,0,0,0,0,0
-LIG,0,0,0,0,0,0,0,0,0,0
-NUC,0,0,0,0,0,0,0,0,0,0
-OIL,0,0,0,0,0,0,0,0,0,0
-OTH,0,0,0,0,0,0,131,131,131,131
-PEA,0,0,0,0,0,0,0,0,0,0
-SUN,0,0,0,0,0,0,0,0,0,9
+Production Type,[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW]
+Fossil Peat,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Nuclear,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Fossil Hard coal,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Wind Onshore,627,692,904,1232,2262,3866,5105,5105,5130,5133
+Fossil Brown coal/Lignite,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Geothermal,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Hydro Run-of-river and poundage,4351,4522,4660,5586,5937,6248,6677,6677,6702,6875
+Hydro Water Reservoir,24961,25378,25393,26313,26472,26533,26683,26683,26701,26660
+Wind Offshore,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Hydro Pumped Storage,1042,1042,1042,1031,1031,1031,1065,1065,1065,1065
+Other renewable,,,,,,,100,100,100,100
+Solar,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,9
+Fossil Oil shale,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Waste,,,,,,,90,90,90,92
+Fossil Gas,1412,1412,611,635,635,642,639,639,459,473
+Fossil Coal-derived gas,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Fossil Oil,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Marine,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Other,0,0,0,0,0,0,31,31,31,31
+Biomass,n/e,n/e,n/e,n/e,n/e,n/e,n/e,,,14
 Total Grand capacity,32393,33046,32610,34797,36337,38320,40390,40390,40278,40452
-WAT,30354,30942,31095,32930,33440,33812,34425,34425,34468,34600
-WIN,627,692,904,1232,2262,3866,5105,5105,5130,5133
-WST,0,0,0,0,0,0,90,90,90,92
