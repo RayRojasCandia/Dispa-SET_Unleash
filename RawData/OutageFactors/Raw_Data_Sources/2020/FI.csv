@@ -1,0 +1,373 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,FI,Planned maintenance,A03,Cancelled,2020-05-10 01:00:00+03:00,FJb_KqvVjzg6qupJiUr9Gg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,3,2020-05-03 01:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-06-14 01:00:00+03:00,B9k7eFana-booeJlHcn4qw,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,4,2020-05-24 01:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-05-17 01:00:00+03:00,YGYGbEMOsZ38ILdourJhVw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,3,2020-05-10 01:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-11-03 01:00:00+02:00,-Ee38b_39EveLQL0E5NPNQ,1600.0,Nuclear,44W-T-YV-0000042,Eurajoki,Olkiluoto 3,Olkiluoto 3 B3,1,MAW,PT60M,3,2020-10-04 01:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-11-03 01:00:00+02:00,hs3aHm2pgxZYqewfwVPZGA,1600.0,Nuclear,44W-T-YV-0000042,Eurajoki,Olkiluoto 3,Olkiluoto 3 B3,1,MAW,PT60M,2,2020-10-04 01:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-06-14 01:00:00+03:00,xo7Caj0YLwiMrVQX-66iGQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,2,2020-05-24 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-03 00:59:00+03:00,Etp8QLla18rGsiLvNZQKXA,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT1M,1,2020-08-03 00:45:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-03 00:45:00+03:00,Etp8QLla18rGsiLvNZQKXA,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT15M,1,2020-08-03 00:30:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-03 00:30:00+03:00,Etp8QLla18rGsiLvNZQKXA,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT30M,1,2020-08-03 00:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-03 00:00:00+03:00,Etp8QLla18rGsiLvNZQKXA,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,1,2020-06-08 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-29 00:59:00+03:00,y2p4FAk1Za0Zu-ov4Fok7Q,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT1M,1,2020-06-29 00:45:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-29 00:45:00+03:00,y2p4FAk1Za0Zu-ov4Fok7Q,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT15M,1,2020-06-29 00:30:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-29 00:30:00+03:00,y2p4FAk1Za0Zu-ov4Fok7Q,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT30M,1,2020-06-29 00:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-29 00:00:00+03:00,y2p4FAk1Za0Zu-ov4Fok7Q,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,1,2020-05-04 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-07-06 01:00:00+03:00,R2C5ZP3tYUqawaD_K4pjCA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,1,2020-06-22 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-16 01:00:00+03:00,RMwqE5sCwp8PWYa65HTeqA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT60M,1,2020-07-18 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-01-03 16:00:00+02:00,hKvaH8qECL6ILa-ICVcm5Q,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,1,2020-01-02 00:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-01 18:15:00+02:00,QFxewnon9gjSK0WMrSRQaQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,3,2020-01-01 18:08:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-01 19:00:00+02:00,QFxewnon9gjSK0WMrSRQaQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,3,2020-01-01 18:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-01 22:00:00+02:00,QFxewnon9gjSK0WMrSRQaQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,3,2020-01-01 19:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-01 22:10:00+02:00,QFxewnon9gjSK0WMrSRQaQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,3,2020-01-01 22:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-01 18:30:00+02:00,QFxewnon9gjSK0WMrSRQaQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,3,2020-01-01 18:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 01:15:00+02:00,VPalAdFahORQ9SM8nkOAng,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT1M,2,2020-01-03 01:01:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 01:30:00+02:00,VPalAdFahORQ9SM8nkOAng,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT15M,2,2020-01-03 01:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 02:00:00+02:00,VPalAdFahORQ9SM8nkOAng,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT30M,2,2020-01-03 01:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 02:13:00+02:00,VPalAdFahORQ9SM8nkOAng,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT1M,2,2020-01-03 02:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 17:15:00+02:00,-_f0Yb8FR8JWmoUBq61anA,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,2,2020-01-03 17:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 17:25:00+02:00,-_f0Yb8FR8JWmoUBq61anA,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,2,2020-01-03 17:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 16:00:00+02:00,-_f0Yb8FR8JWmoUBq61anA,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,2,2020-01-03 15:47:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-03 17:00:00+02:00,-_f0Yb8FR8JWmoUBq61anA,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,2,2020-01-03 16:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-01-07 15:00:00+02:00,oRss6Bx3KcabuniWtn38WQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT60M,2,2020-01-06 19:00:00+02:00
+75,FI,Unplanned outage,A03,,2020-01-08 07:55:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,9,2020-01-08 07:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-08 02:30:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,9,2020-01-08 02:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-07 09:15:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,9,2020-01-07 09:08:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-07 09:30:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,9,2020-01-07 09:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-07 10:00:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,9,2020-01-07 09:30:00+02:00
+75,FI,Unplanned outage,A03,,2020-01-08 07:45:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,9,2020-01-08 07:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-08 02:00:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,9,2020-01-07 10:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-08 02:15:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,9,2020-01-08 02:00:00+02:00
+75,FI,Unplanned outage,A03,,2020-01-08 07:30:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,9,2020-01-08 07:00:00+02:00
+40,FI,Unplanned outage,A03,,2020-01-08 07:00:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,9,2020-01-08 03:00:00+02:00
+40,FI,Unplanned outage,A03,,2020-01-08 03:00:00+02:00,nc8cokacLGRqE_ts9aRPBw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,9,2020-01-08 02:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-15 07:00:00+02:00,JlLdVJfHr8vf4kDjOCI0Sw,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT1M,1,2020-01-15 06:56:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-15 10:00:00+02:00,JlLdVJfHr8vf4kDjOCI0Sw,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,1,2020-01-15 07:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-20 13:45:00+02:00,C9r4u3hrvwVTMZjPfp7XJQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,1,2020-01-20 13:35:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-20 14:00:00+02:00,C9r4u3hrvwVTMZjPfp7XJQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,1,2020-01-20 13:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-01-20 16:00:00+02:00,C9r4u3hrvwVTMZjPfp7XJQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,1,2020-01-20 14:00:00+02:00
+610,FI,Planned maintenance,A03,,2020-01-24 22:30:00+02:00,ySRGNR1aa7ZhHVFQK6d9TA,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,2,2020-01-24 22:00:00+02:00
+610,FI,Planned maintenance,A03,,2020-01-24 22:00:00+02:00,ySRGNR1aa7ZhHVFQK6d9TA,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,2,2020-01-24 21:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-01-28 11:20:00+02:00,nfutFCMDH02ehVr79F8kZQ,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT1M,4,2020-01-28 11:15:00+02:00
+0,FI,Planned maintenance,A03,,2020-01-28 11:15:00+02:00,nfutFCMDH02ehVr79F8kZQ,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT15M,4,2020-01-28 11:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-01-28 11:00:00+02:00,nfutFCMDH02ehVr79F8kZQ,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT60M,4,2020-01-28 10:00:00+02:00
+0,FI,Planned maintenance,A03,Cancelled,2020-10-26 00:00:00+02:00,qwmKvI6v8lqe1SKIpd07GQ,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B2,1,MAW,PT60M,2,2020-09-28 00:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-02-04 02:00:00+02:00,-9ojbrWDy8RV3PfFxQc29g,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT60M,2,2020-02-03 21:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-03 20:15:00+02:00,-9ojbrWDy8RV3PfFxQc29g,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT1M,2,2020-02-03 20:14:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-03 20:30:00+02:00,-9ojbrWDy8RV3PfFxQc29g,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT15M,2,2020-02-03 20:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-03 21:00:00+02:00,-9ojbrWDy8RV3PfFxQc29g,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT30M,2,2020-02-03 20:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-04 11:00:00+02:00,vQjSmZ0eyo_IZHS-7MRBWw,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT1M,1,2020-02-04 10:46:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-04 16:00:00+02:00,vQjSmZ0eyo_IZHS-7MRBWw,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT60M,1,2020-02-04 11:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-07 06:37:00+02:00,huOy6np_-1xLuhEtXQi2hQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,8,2020-02-07 06:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-07 06:30:00+02:00,huOy6np_-1xLuhEtXQi2hQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,8,2020-02-07 06:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-07 06:00:00+02:00,huOy6np_-1xLuhEtXQi2hQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,8,2020-02-04 06:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-04 05:30:00+02:00,huOy6np_-1xLuhEtXQi2hQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,8,2020-02-04 05:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-04 06:00:00+02:00,huOy6np_-1xLuhEtXQi2hQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,8,2020-02-04 05:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-04 05:15:00+02:00,huOy6np_-1xLuhEtXQi2hQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,8,2020-02-04 05:14:00+02:00
+0,FI,Planned maintenance,A03,,2020-02-10 15:30:00+02:00,WoLgnbR3fRI6_7wDRDChvA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT30M,2,2020-02-10 15:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-02-10 15:45:00+02:00,WoLgnbR3fRI6_7wDRDChvA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT15M,2,2020-02-10 15:30:00+02:00
+0,FI,Planned maintenance,A03,,2020-02-10 15:48:00+02:00,WoLgnbR3fRI6_7wDRDChvA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT1M,2,2020-02-10 15:45:00+02:00
+0,FI,Planned maintenance,A03,,2020-02-10 15:00:00+02:00,WoLgnbR3fRI6_7wDRDChvA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT60M,2,2020-02-10 12:00:00+02:00
+100,FI,Unplanned outage,A03,,2020-02-13 06:30:00+02:00,LVqXE1jO-_SwqDf2x-o8GQ,565.0,Fossil Hard coal,44W-T-LV-000003N,Pori,Meri-Pori,Meri-Pori B1,1,MAW,PT1M,3,2020-02-13 06:20:00+02:00
+100,FI,Unplanned outage,A03,,2020-02-13 07:00:00+02:00,LVqXE1jO-_SwqDf2x-o8GQ,565.0,Fossil Hard coal,44W-T-LV-000003N,Pori,Meri-Pori,Meri-Pori B1,1,MAW,PT30M,3,2020-02-13 06:30:00+02:00
+100,FI,Unplanned outage,A03,,2020-02-13 11:00:00+02:00,LVqXE1jO-_SwqDf2x-o8GQ,565.0,Fossil Hard coal,44W-T-LV-000003N,Pori,Meri-Pori,Meri-Pori B1,1,MAW,PT60M,3,2020-02-13 07:00:00+02:00
+100,FI,Unplanned outage,A03,,2020-02-13 11:30:00+02:00,LVqXE1jO-_SwqDf2x-o8GQ,565.0,Fossil Hard coal,44W-T-LV-000003N,Pori,Meri-Pori,Meri-Pori B1,1,MAW,PT30M,3,2020-02-13 11:00:00+02:00
+35,FI,Unplanned outage,A03,,2020-02-20 05:45:00+02:00,d-gRtTUhu9gAmSeBJMZu3g,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,4,2020-02-20 05:40:00+02:00
+35,FI,Unplanned outage,A03,,2020-02-20 06:00:00+02:00,d-gRtTUhu9gAmSeBJMZu3g,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,4,2020-02-20 05:45:00+02:00
+35,FI,Unplanned outage,A03,,2020-02-20 06:15:00+02:00,d-gRtTUhu9gAmSeBJMZu3g,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,4,2020-02-20 06:00:00+02:00
+120,FI,Unplanned outage,A03,,2020-02-20 06:30:00+02:00,d-gRtTUhu9gAmSeBJMZu3g,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,4,2020-02-20 06:15:00+02:00
+120,FI,Unplanned outage,A03,,2020-02-20 06:40:00+02:00,d-gRtTUhu9gAmSeBJMZu3g,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,4,2020-02-20 06:30:00+02:00
+480,FI,Planned maintenance,A03,,2020-02-21 23:30:00+02:00,hK_iPJwTZiYn-lWRHa7yfA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,2,2020-02-21 23:00:00+02:00
+480,FI,Planned maintenance,A03,,2020-02-21 23:00:00+02:00,hK_iPJwTZiYn-lWRHa7yfA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,2,2020-02-21 21:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-22 10:30:00+02:00,UaJrf3vyAgUv5E1GeD99dQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,2,2020-02-22 10:23:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-22 12:00:00+02:00,UaJrf3vyAgUv5E1GeD99dQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,2,2020-02-22 10:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-27 10:15:00+02:00,STWeTI7cIU1gEYXtbWyy3w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,4,2020-02-27 10:12:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-27 10:30:00+02:00,STWeTI7cIU1gEYXtbWyy3w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,4,2020-02-27 10:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-27 11:00:00+02:00,STWeTI7cIU1gEYXtbWyy3w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,4,2020-02-27 10:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-27 14:00:00+02:00,STWeTI7cIU1gEYXtbWyy3w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,4,2020-02-27 11:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-27 14:30:00+02:00,STWeTI7cIU1gEYXtbWyy3w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,4,2020-02-27 14:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-02-27 14:38:00+02:00,STWeTI7cIU1gEYXtbWyy3w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,4,2020-02-27 14:30:00+02:00
+0,FI,Planned maintenance,A03,,2020-03-02 16:00:00+02:00,AwEfmUK73IYV0ll75iiUWQ,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,1,2020-03-02 11:00:00+02:00
+130,FI,Unplanned outage,A03,,2020-03-02 09:30:00+02:00,DlwrwHZcNv06teBUUZFswQ,248.0,Nuclear,44W-T-YV-000000A,Loviisa,Loviisa 1,Loviisa 1 G12,1,MAW,PT30M,2,2020-03-02 08:30:00+02:00
+130,FI,Unplanned outage,A03,,2020-03-02 08:30:00+02:00,DlwrwHZcNv06teBUUZFswQ,248.0,Nuclear,44W-T-YV-000000A,Loviisa,Loviisa 1,Loviisa 1 G12,1,MAW,PT1M,2,2020-03-02 08:27:00+02:00
+0,FI,Unplanned outage,A03,,2020-03-04 12:00:00+02:00,FJZxhbzo7vvnkQr8PfVj_A,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT60M,6,2020-03-03 14:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-03-04 12:30:00+02:00,FJZxhbzo7vvnkQr8PfVj_A,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT30M,6,2020-03-04 12:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-03-04 12:45:00+02:00,FJZxhbzo7vvnkQr8PfVj_A,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT15M,6,2020-03-04 12:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-03-04 12:46:00+02:00,FJZxhbzo7vvnkQr8PfVj_A,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT1M,6,2020-03-04 12:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-03-03 13:30:00+02:00,FJZxhbzo7vvnkQr8PfVj_A,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT1M,6,2020-03-03 13:19:00+02:00
+0,FI,Unplanned outage,A03,,2020-03-03 14:00:00+02:00,FJZxhbzo7vvnkQr8PfVj_A,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT30M,6,2020-03-03 13:30:00+02:00
+0,FI,Planned maintenance,A03,,2020-04-03 16:00:00+03:00,QqkR6AcXslxEInnVRIhJTQ,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT1,1,MAW,PT60M,1,2020-03-30 08:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-04-09 16:00:00+03:00,TVIJeIUK2qinjGOgXVnxFg,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT2,1,MAW,PT60M,1,2020-04-06 08:00:00+03:00
+475,FI,Planned maintenance,A03,,2020-03-20 22:40:00+02:00,f3FqSbw0VMSZorOEfImSDg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,1,2020-03-20 22:30:00+02:00
+475,FI,Planned maintenance,A03,,2020-03-20 22:00:00+02:00,f3FqSbw0VMSZorOEfImSDg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,1,2020-03-20 21:00:00+02:00
+475,FI,Planned maintenance,A03,,2020-03-20 22:30:00+02:00,f3FqSbw0VMSZorOEfImSDg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,1,2020-03-20 22:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-04-03 16:00:00+03:00,OtdFQB5HzLJwvHHZakzyQg,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT2,1,MAW,PT60M,2,2020-03-31 08:00:00+03:00
+610,FI,Unplanned outage,A03,,2020-03-31 01:00:00+03:00,AamxYhMWqlqiFqPnAhTEhQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,3,2020-03-29 20:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-01 21:00:00+03:00,keH5R2Z4Bpne4v1DrC_NkA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,7,2020-03-31 01:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-01 21:15:00+03:00,keH5R2Z4Bpne4v1DrC_NkA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,7,2020-04-01 21:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-01 21:16:00+03:00,keH5R2Z4Bpne4v1DrC_NkA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,7,2020-04-01 21:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-12 20:45:00+03:00,s_5eaYXbhF2t9ZHnUhe6MA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT1M,2,2020-04-12 20:38:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-12 21:00:00+03:00,s_5eaYXbhF2t9ZHnUhe6MA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT15M,2,2020-04-12 20:45:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-13 01:00:00+03:00,s_5eaYXbhF2t9ZHnUhe6MA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT60M,2,2020-04-12 21:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-13 01:15:00+03:00,s_5eaYXbhF2t9ZHnUhe6MA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT15M,2,2020-04-13 01:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-13 01:26:00+03:00,s_5eaYXbhF2t9ZHnUhe6MA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT1M,2,2020-04-13 01:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-15 16:30:00+03:00,8EEqmFI2eZhTeQTM7meWZg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,10,2020-04-15 16:25:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-15 17:00:00+03:00,8EEqmFI2eZhTeQTM7meWZg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,10,2020-04-15 16:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-16 16:00:00+03:00,8EEqmFI2eZhTeQTM7meWZg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,10,2020-04-15 17:00:00+03:00
+870,FI,Unplanned outage,A03,,2020-04-17 10:10:00+03:00,zOsJ4Jh3Nv7GJv-yRH_NMw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,6,2020-04-17 10:00:00+03:00
+190,FI,Unplanned outage,A03,,2020-04-17 10:00:00+03:00,zOsJ4Jh3Nv7GJv-yRH_NMw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,6,2020-04-16 14:00:00+03:00
+120,FI,Unplanned outage,A03,,2020-04-30 12:09:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,3,2020-04-30 12:00:00+03:00
+120,FI,Unplanned outage,A03,,2020-04-30 12:00:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,3,2020-04-29 23:00:00+03:00
+120,FI,Unplanned outage,A03,,2020-04-29 22:30:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,3,2020-04-29 22:15:00+03:00
+120,FI,Unplanned outage,A03,,2020-04-29 23:00:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,3,2020-04-29 22:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-29 22:00:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,3,2020-04-29 18:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-29 18:00:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,3,2020-04-29 17:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-04-29 22:15:00+03:00,puvFmqELgjKyH_ay8BHXRw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,3,2020-04-29 22:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-17 17:15:00+03:00,6uOvncueK-o2lkcR2cH-nQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,2,2020-05-17 17:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-17 09:15:00+03:00,6uOvncueK-o2lkcR2cH-nQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,2,2020-05-17 09:10:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-17 10:00:00+03:00,6uOvncueK-o2lkcR2cH-nQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,2,2020-05-17 09:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-17 17:00:00+03:00,6uOvncueK-o2lkcR2cH-nQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,2,2020-05-17 10:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-17 17:22:00+03:00,6uOvncueK-o2lkcR2cH-nQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,2,2020-05-17 17:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-17 09:30:00+03:00,6uOvncueK-o2lkcR2cH-nQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,2,2020-05-17 09:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-05-21 10:00:00+03:00,7ElcFli8iuHkbX7iv0EbJw,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,2,2020-05-20 07:00:00+03:00
+765,FI,Unplanned outage,A03,,2020-05-24 18:00:00+03:00,P5ZL5ZFkF05fkeIu4yWMeA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,1,2020-05-24 16:00:00+03:00
+765,FI,Unplanned outage,A03,,2020-05-24 16:00:00+03:00,P5ZL5ZFkF05fkeIu4yWMeA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,1,2020-05-24 15:30:00+03:00
+765,FI,Unplanned outage,A03,,2020-05-24 15:30:00+03:00,P5ZL5ZFkF05fkeIu4yWMeA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,1,2020-05-24 15:20:00+03:00
+836,FI,Unplanned outage,A03,,2020-05-24 15:20:00+03:00,ywM54bvP-S-kdI7mUDLbQQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,5,2020-05-24 15:15:00+03:00
+836,FI,Unplanned outage,A03,,2020-05-24 15:15:00+03:00,ywM54bvP-S-kdI7mUDLbQQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,5,2020-05-24 15:00:00+03:00
+610,FI,Unplanned outage,A03,,2020-05-24 15:00:00+03:00,ywM54bvP-S-kdI7mUDLbQQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,5,2020-04-02 05:00:00+03:00
+795,FI,Planned maintenance,A03,,2020-05-24 00:30:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,14,2020-05-24 00:00:00+03:00
+320,FI,Planned maintenance,A03,,2020-05-24 00:00:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,14,2020-05-22 00:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-05-22 00:00:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,14,2020-05-21 22:00:00+03:00
+796,FI,Planned maintenance,A03,,2020-05-24 23:00:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,14,2020-05-24 02:00:00+03:00
+795,FI,Planned maintenance,A03,,2020-05-24 00:45:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,14,2020-05-24 00:30:00+03:00
+795,FI,Planned maintenance,A03,,2020-05-24 01:00:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,14,2020-05-24 00:45:00+03:00
+605,FI,Planned maintenance,A03,,2020-05-24 01:45:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,14,2020-05-24 01:30:00+03:00
+605,FI,Planned maintenance,A03,,2020-05-24 01:30:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,14,2020-05-24 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-05-21 22:00:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,14,2020-05-10 18:00:00+03:00
+796,FI,Planned maintenance,A03,,2020-05-24 02:00:00+03:00,OpedvmQL20rW275h8TjOdg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,14,2020-05-24 01:45:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-01 12:00:00+03:00,JmmFD-IXuUJyibr7E9RtTA,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,3,2020-05-29 14:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-01 12:00:00+03:00,VtmABli-nOWwXUQv2LBD1w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,1,2020-05-29 16:00:00+03:00
+40,FI,Unplanned outage,A03,,2020-06-15 01:00:00+03:00,pM8CdhMcnu3bX2WVw_lLNA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT60M,5,2020-05-08 10:00:00+03:00
+40,FI,Unplanned outage,A03,,2020-05-08 09:15:00+03:00,pM8CdhMcnu3bX2WVw_lLNA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT1M,5,2020-05-08 09:10:00+03:00
+40,FI,Unplanned outage,A03,,2020-05-08 09:30:00+03:00,pM8CdhMcnu3bX2WVw_lLNA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT15M,5,2020-05-08 09:15:00+03:00
+40,FI,Unplanned outage,A03,,2020-05-08 10:00:00+03:00,pM8CdhMcnu3bX2WVw_lLNA,120.0,Fossil Peat,44W-T-YT-000009A,Seinäjoki,Seinäjoki,Seinäjoki B1,1,MAW,PT30M,5,2020-05-08 09:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-05 16:00:00+03:00,-OU0B72OX0p80r9UjInhqQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,5,2020-06-05 15:45:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-06 11:00:00+03:00,-OU0B72OX0p80r9UjInhqQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,5,2020-06-05 16:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-06 11:30:00+03:00,-OU0B72OX0p80r9UjInhqQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,5,2020-06-06 11:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-06 11:39:00+03:00,-OU0B72OX0p80r9UjInhqQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,5,2020-06-06 11:30:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-06-11 22:00:00+03:00,f3N7vkuBloT61XuC6uFcbQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,8,2020-05-24 18:00:00+03:00
+790,FI,Unplanned outage,A03,,2020-06-12 12:15:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,9,2020-06-12 12:00:00+03:00
+790,FI,Unplanned outage,A03,,2020-06-12 12:23:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,9,2020-06-12 12:15:00+03:00
+735,FI,Unplanned outage,A03,,2020-06-12 12:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-10 05:00:00+03:00
+480,FI,Unplanned outage,A03,,2020-06-09 06:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-09 05:00:00+03:00
+735,FI,Unplanned outage,A03,,2020-06-10 04:30:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,9,2020-06-10 04:15:00+03:00
+690,FI,Unplanned outage,A03,,2020-06-09 08:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-09 07:00:00+03:00
+690,FI,Unplanned outage,A03,,2020-06-09 09:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-09 08:00:00+03:00
+712,FI,Unplanned outage,A03,,2020-06-09 10:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-09 09:00:00+03:00
+712,FI,Unplanned outage,A03,,2020-06-09 11:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-09 10:00:00+03:00
+735,FI,Unplanned outage,A03,,2020-06-09 16:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-09 11:00:00+03:00
+735,FI,Unplanned outage,A03,,2020-06-09 17:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-09 16:00:00+03:00
+757,FI,Unplanned outage,A03,,2020-06-09 20:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-09 17:00:00+03:00
+735,FI,Unplanned outage,A03,,2020-06-10 05:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-10 04:30:00+03:00
+757,FI,Unplanned outage,A03,,2020-06-09 21:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-09 20:00:00+03:00
+768,FI,Unplanned outage,A03,,2020-06-10 00:30:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-10 00:00:00+03:00
+768,FI,Unplanned outage,A03,,2020-06-10 00:45:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,9,2020-06-10 00:30:00+03:00
+480,FI,Unplanned outage,A03,,2020-06-09 07:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-09 06:00:00+03:00
+200,FI,Unplanned outage,A03,,2020-06-10 02:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-10 01:00:00+03:00
+200,FI,Unplanned outage,A03,,2020-06-10 03:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,9,2020-06-10 02:30:00+03:00
+450,FI,Unplanned outage,A03,,2020-06-10 04:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-10 03:00:00+03:00
+450,FI,Unplanned outage,A03,,2020-06-10 04:15:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,9,2020-06-10 04:00:00+03:00
+768,FI,Unplanned outage,A03,,2020-06-10 00:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,9,2020-06-09 21:00:00+03:00
+768,FI,Unplanned outage,A03,,2020-06-10 01:00:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,9,2020-06-10 00:45:00+03:00
+200,FI,Unplanned outage,A03,,2020-06-10 02:30:00+03:00,l54jEdepe_h1Gn4Dk70-OQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,9,2020-06-10 02:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-24 13:45:00+03:00,gM30AkES-F7_KrRcRXM4dQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT15M,5,2020-06-24 13:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-18 06:15:00+03:00,gM30AkES-F7_KrRcRXM4dQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT1M,5,2020-06-18 06:02:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-18 06:30:00+03:00,gM30AkES-F7_KrRcRXM4dQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT15M,5,2020-06-18 06:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-18 07:00:00+03:00,gM30AkES-F7_KrRcRXM4dQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT30M,5,2020-06-18 06:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-24 13:00:00+03:00,gM30AkES-F7_KrRcRXM4dQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT60M,5,2020-06-18 07:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-06-24 13:30:00+03:00,gM30AkES-F7_KrRcRXM4dQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT30M,5,2020-06-24 13:00:00+03:00
+585,FI,Planned maintenance,A03,,2020-07-18 14:00:00+03:00,C26pbA4ADt9Ry6lxsmxRbw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,2,2020-07-18 13:00:00+03:00
+585,FI,Planned maintenance,A03,,2020-07-18 14:30:00+03:00,C26pbA4ADt9Ry6lxsmxRbw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,2,2020-07-18 14:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-01 12:00:00+03:00,1Z8PlaxVsRYFhpYt7PW4yA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT60M,3,2020-06-29 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-01 12:00:00+03:00,zR8kzZ5WkWrX2uX3em_HUQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT60M,2,2020-07-20 01:00:00+03:00
+60,FI,Planned maintenance,A03,,2020-08-01 12:00:00+03:00,DFPw37O8OGDezDfKdJiD9Q,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT60M,2,2020-07-31 11:00:00+03:00
+775,FI,Planned maintenance,A03,,2020-08-04 12:45:00+03:00,R9GUNZw90s09PgnPClNW2A,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,2,2020-08-04 12:30:00+03:00
+775,FI,Planned maintenance,A03,,2020-08-04 12:30:00+03:00,R9GUNZw90s09PgnPClNW2A,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,2,2020-08-04 12:00:00+03:00
+770,FI,Unplanned outage,A03,,2020-08-10 10:45:00+03:00,Zv2W_VkNYbFg9aLCAdNmdw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,3,2020-08-10 10:30:00+03:00
+770,FI,Unplanned outage,A03,,2020-08-10 10:30:00+03:00,Zv2W_VkNYbFg9aLCAdNmdw,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,3,2020-08-10 10:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-12 03:00:00+03:00,AD7Dn0GiW9m1zuIoP6BW4w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,8,2020-06-10 10:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-12 03:26:00+03:00,AD7Dn0GiW9m1zuIoP6BW4w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,8,2020-08-12 03:15:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-12 03:15:00+03:00,AD7Dn0GiW9m1zuIoP6BW4w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,8,2020-08-12 03:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-06-10 10:00:00+03:00,AD7Dn0GiW9m1zuIoP6BW4w,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,8,2020-06-10 09:30:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-12 15:00:00+03:00,9iBcbplYWh_JMJ49xOuLqA,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT30M,4,2020-08-12 14:30:00+03:00
+0,FI,Planned maintenance,A03,,2020-11-15 00:00:00+02:00,9iBcbplYWh_JMJ49xOuLqA,105.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B3,1,MAW,PT60M,4,2020-08-12 15:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-08-12 15:30:00+03:00,dn78uM4mtILj2r0NJzo8cg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,1,2020-08-12 15:16:00+03:00
+0,FI,Unplanned outage,A03,,2020-08-12 16:00:00+03:00,dn78uM4mtILj2r0NJzo8cg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,1,2020-08-12 15:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-08-12 18:00:00+03:00,dn78uM4mtILj2r0NJzo8cg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,1,2020-08-12 16:00:00+03:00
+770,FI,Unplanned outage,A03,,2020-08-17 10:46:00+03:00,wXlIiYh_Gj2A_bUr_fkokg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,2,2020-08-17 10:45:00+03:00
+770,FI,Unplanned outage,A03,,2020-08-17 10:30:00+03:00,wXlIiYh_Gj2A_bUr_fkokg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,2,2020-08-17 10:00:00+03:00
+770,FI,Unplanned outage,A03,,2020-08-17 10:45:00+03:00,wXlIiYh_Gj2A_bUr_fkokg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,2,2020-08-17 10:30:00+03:00
+600,FI,Planned maintenance,A03,,2020-08-21 22:00:00+03:00,UrMNW2b4GECfxmsDxWNf6g,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,1,2020-08-21 21:00:00+03:00
+600,FI,Planned maintenance,A03,,2020-08-21 22:30:00+03:00,UrMNW2b4GECfxmsDxWNf6g,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,1,2020-08-21 22:00:00+03:00
+765,FI,Planned maintenance,A03,,2020-08-21 01:30:00+03:00,GT_JCYtOwbB5-ekNaMMFuQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,2,2020-08-21 01:00:00+03:00
+765,FI,Planned maintenance,A03,,2020-08-21 01:36:00+03:00,GT_JCYtOwbB5-ekNaMMFuQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,2,2020-08-21 01:30:00+03:00
+60,FI,Planned maintenance,A03,,2020-08-22 17:00:00+03:00,5KF4B8s57Fykv8deN3_1sw,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT60M,3,2020-08-22 12:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-23 19:30:00+03:00,ZrqfMF2035ymbxv3waMwvQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT30M,5,2020-08-23 19:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-23 19:59:00+03:00,ZrqfMF2035ymbxv3waMwvQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT1M,5,2020-08-23 19:45:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-23 19:00:00+03:00,ZrqfMF2035ymbxv3waMwvQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT60M,5,2020-07-20 01:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-23 19:45:00+03:00,ZrqfMF2035ymbxv3waMwvQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT15M,5,2020-08-23 19:30:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-24 05:00:00+03:00,mgV64nD6Mu511M--obG49g,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT60M,1,2020-08-23 21:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-08-24 09:00:00+03:00,DXDTJ2bgsoV6P7CL8ua5iQ,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,6,2020-04-14 17:00:00+03:00
+765,FI,Planned maintenance,A03,,2020-08-24 10:30:00+03:00,s7gnLChsyOQIfgC1w0IdHA,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,2,2020-08-24 10:00:00+03:00
+765,FI,Planned maintenance,A03,,2020-08-24 10:43:00+03:00,s7gnLChsyOQIfgC1w0IdHA,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,2,2020-08-24 10:30:00+03:00
+0,FI,Planned maintenance,A03,,2020-09-23 00:00:00+03:00,U-E_IZegzYWKXuQcv_YwaQ,155.0,Fossil Hard coal,44W-T-YT-000008C,Helsinki,Salmisaari,Salmisaari SaB,1,MAW,PT60M,4,2020-07-20 01:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-02 02:30:00+03:00,F9dROE2l4PZLTVeXLTwQBQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,1,2020-09-02 02:27:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-02 03:00:00+03:00,F9dROE2l4PZLTVeXLTwQBQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,1,2020-09-02 02:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-02 05:00:00+03:00,F9dROE2l4PZLTVeXLTwQBQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,1,2020-09-02 03:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-09-04 18:00:00+03:00,GfxlHFYQRQrCSFDH31KM-g,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,2,2020-09-03 06:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-09-03 20:00:00+03:00,M2qcjYP-91wB6RtSRcySZQ,248.0,Nuclear,44W-T-YV-0000018,Loviisa,Loviisa 2,Loviisa 2 G21,1,MAW,PT60M,3,2020-09-03 08:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-09-05 14:00:00+03:00,1e-SF-ZxXlSEXoiSoLTvdQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT60M,5,2020-09-04 00:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-09-06 22:00:00+03:00,pDuj1PKszMGishBJ_HIioQ,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT60M,3,2020-09-06 08:00:00+03:00
+0,FI,Planned maintenance,A03,Cancelled,2020-09-15 10:00:00+03:00,NCYk-ue_s6E1WVkG9cs8ug,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,2,2020-09-15 09:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-15 13:00:00+03:00,bBwkoD2VIxv_CFtngrit2Q,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,4,2020-09-15 10:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-15 10:00:00+03:00,bBwkoD2VIxv_CFtngrit2Q,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,4,2020-09-15 09:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-15 13:30:00+03:00,bBwkoD2VIxv_CFtngrit2Q,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,4,2020-09-15 13:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-09-21 13:00:00+03:00,evhRI2JybLO7JtrdhzCg1g,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,1,2020-09-21 12:00:00+03:00
+150,FI,Unplanned outage,A03,,2020-09-17 07:45:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,8,2020-09-17 07:15:00+03:00
+160,FI,Unplanned outage,A03,,2020-09-17 09:00:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,8,2020-09-17 08:30:00+03:00
+160,FI,Unplanned outage,A03,,2020-09-17 08:30:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,8,2020-09-17 08:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-19 13:53:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,8,2020-09-19 13:45:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-19 13:45:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,8,2020-09-19 13:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-19 13:30:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,8,2020-09-19 13:00:00+03:00
+150,FI,Unplanned outage,A03,,2020-09-17 08:00:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,8,2020-09-17 07:45:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-17 12:00:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,8,2020-09-17 11:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-17 11:30:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,8,2020-09-17 11:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-19 13:00:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,8,2020-09-17 12:00:00+03:00
+100,FI,Unplanned outage,A03,,2020-09-17 11:15:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,8,2020-09-17 11:00:00+03:00
+100,FI,Unplanned outage,A03,,2020-09-17 11:00:00+03:00,L3BX44zjBu9XglPKl2T3ow,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,8,2020-09-17 09:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-13 04:00:00+03:00,tUz9u8f0Yz-WzOKecIkKkg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT30M,15,2020-09-13 03:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-22 13:00:00+03:00,tUz9u8f0Yz-WzOKecIkKkg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,15,2020-09-13 04:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-13 03:30:00+03:00,tUz9u8f0Yz-WzOKecIkKkg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT1M,15,2020-09-13 03:22:00+03:00
+595,FI,Planned maintenance,A03,,2020-09-25 22:30:00+03:00,f556Y115pa77w34kuTJnew,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,1,2020-09-25 22:00:00+03:00
+595,FI,Planned maintenance,A03,,2020-09-25 22:00:00+03:00,f556Y115pa77w34kuTJnew,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,1,2020-09-25 21:00:00+03:00
+20,FI,Planned maintenance,A03,,2020-09-28 07:26:00+03:00,eFqS-kobJ1UZRxilDuyIZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,8,2020-09-28 07:15:00+03:00
+20,FI,Planned maintenance,A03,,2020-09-28 07:15:00+03:00,eFqS-kobJ1UZRxilDuyIZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,8,2020-09-28 07:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-09-28 07:00:00+03:00,eFqS-kobJ1UZRxilDuyIZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,8,2020-09-05 01:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-28 09:30:00+03:00,5vsvGXMitCb_nnmeBXztOQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,3,2020-09-28 09:15:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-28 10:30:00+03:00,5vsvGXMitCb_nnmeBXztOQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,3,2020-09-28 09:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-09-28 09:15:00+03:00,5vsvGXMitCb_nnmeBXztOQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,3,2020-09-28 09:10:00+03:00
+695,FI,Planned maintenance,A03,,2020-10-01 13:40:00+03:00,OH1oy-vuRPmqH3Euu5tdrA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT1M,2,2020-10-01 13:30:00+03:00
+695,FI,Planned maintenance,A03,,2020-10-01 13:30:00+03:00,OH1oy-vuRPmqH3Euu5tdrA,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,2,2020-10-01 13:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-10-10 01:00:00+03:00,vNN5qqK29JItaVHT4it3vQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,1,2020-10-06 01:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-08 02:00:00+03:00,fsUwaS1aYSpOin6BhDZDJg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,2,2020-10-08 01:50:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-08 02:45:00+03:00,fsUwaS1aYSpOin6BhDZDJg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,2,2020-10-08 02:30:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-08 02:50:00+03:00,fsUwaS1aYSpOin6BhDZDJg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,2,2020-10-08 02:45:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-08 02:30:00+03:00,fsUwaS1aYSpOin6BhDZDJg,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,2,2020-10-08 02:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-10-11 19:00:00+03:00,XbutQeiePcSxi0OyqNwmLg,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB5,1,MAW,PT60M,2,2020-10-09 23:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-11 18:00:00+03:00,yvpE46KW459d3ctLYSiGmA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT15M,2,2020-10-11 17:45:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-11 21:00:00+03:00,yvpE46KW459d3ctLYSiGmA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT60M,2,2020-10-11 18:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-11 21:15:00+03:00,yvpE46KW459d3ctLYSiGmA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT15M,2,2020-10-11 21:00:00+03:00
+0,FI,Unplanned outage,A03,,2020-10-11 21:22:00+03:00,yvpE46KW459d3ctLYSiGmA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB6,1,MAW,PT1M,2,2020-10-11 21:15:00+03:00
+605,FI,Planned maintenance,A03,,2020-10-16 22:00:00+03:00,mqr6CazsXi7XG3B6QsnLhQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,4,2020-10-16 21:00:00+03:00
+605,FI,Planned maintenance,A03,,2020-10-16 22:30:00+03:00,mqr6CazsXi7XG3B6QsnLhQ,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT15M,4,2020-10-16 22:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-10-23 10:00:00+03:00,YAbKZ49b1jEUPMGxTPAYrQ,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,2,2020-10-22 00:00:00+03:00
+0,FI,Planned maintenance,A03,,2020-10-28 15:00:00+02:00,a1XmWtHvZgP7qnJVzDyteA,160.0,Fossil Gas,44W-T-YT-000013J,Helsinki,Vuosaari,Vuosaari VuB4,1,MAW,PT60M,1,2020-10-28 08:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-10-28 07:47:00+02:00,f8ugoAcamzO2jA9g74W3xw,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,2,2020-10-28 07:45:00+02:00
+0,FI,Planned maintenance,A03,,2020-10-28 07:45:00+02:00,f8ugoAcamzO2jA9g74W3xw,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,2,2020-10-28 07:30:00+02:00
+0,FI,Planned maintenance,A03,,2020-10-28 07:30:00+02:00,f8ugoAcamzO2jA9g74W3xw,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,2,2020-10-28 07:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-10-28 07:00:00+02:00,f8ugoAcamzO2jA9g74W3xw,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT60M,2,2020-10-27 09:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-03 00:00:00+02:00,MM_F855J-cS1Xb8EyIKfdw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,1,2020-11-02 12:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-02 12:00:00+02:00,MM_F855J-cS1Xb8EyIKfdw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,1,2020-11-02 11:50:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-05 13:45:00+02:00,EYZFJ2M9rqf-a82kARn6VQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT1M,2,2020-11-05 13:44:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-05 14:00:00+02:00,EYZFJ2M9rqf-a82kARn6VQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT15M,2,2020-11-05 13:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-05 14:30:00+02:00,EYZFJ2M9rqf-a82kARn6VQ,146.0,Fossil Hard coal,44W-T-YT-000006G,Naantali,Naantali,Naantali B4,1,MAW,PT30M,2,2020-11-05 14:00:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-06 19:45:00+02:00,-udOwH_2H3aw0iJpoPmcEg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT15M,2,2020-11-06 19:30:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-06 19:50:00+02:00,-udOwH_2H3aw0iJpoPmcEg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT1M,2,2020-11-06 19:45:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-06 19:00:00+02:00,-udOwH_2H3aw0iJpoPmcEg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,2,2020-11-04 14:00:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-06 19:30:00+02:00,-udOwH_2H3aw0iJpoPmcEg,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT30M,2,2020-11-06 19:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-08 11:00:00+02:00,Wzhkymm9di1JmKpiUvt96w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT15M,1,2020-11-08 10:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-08 14:00:00+02:00,Wzhkymm9di1JmKpiUvt96w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,1,2020-11-08 11:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-08 10:45:00+02:00,Wzhkymm9di1JmKpiUvt96w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT1M,1,2020-11-08 10:32:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 22:00:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,9,2020-11-09 21:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 21:00:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,9,2020-11-09 20:30:00+02:00
+35,FI,Unplanned outage,A03,,2020-11-09 20:30:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,9,2020-11-09 20:15:00+02:00
+35,FI,Unplanned outage,A03,,2020-11-09 20:15:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,9,2020-11-09 20:00:00+02:00
+35,FI,Unplanned outage,A03,,2020-11-09 20:00:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,9,2020-11-09 19:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 18:45:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,9,2020-11-09 18:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 18:30:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,9,2020-11-09 18:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 18:00:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,9,2020-11-09 05:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 05:00:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,9,2020-11-09 04:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-09 22:05:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,9,2020-11-09 22:00:00+02:00
+35,FI,Unplanned outage,A03,,2020-11-09 19:00:00+02:00,J4vKqFi7Z2m1uUgALkHihA,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,9,2020-11-09 18:45:00+02:00
+605,FI,Planned maintenance,A03,,2020-11-14 00:15:00+02:00,3rJozKjIJB0YVCzuHxYeJg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,1,2020-11-14 00:00:00+02:00
+470,FI,Planned maintenance,A03,,2020-11-13 22:00:00+02:00,3rJozKjIJB0YVCzuHxYeJg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,1,2020-11-13 21:00:00+02:00
+470,FI,Planned maintenance,A03,,2020-11-13 22:30:00+02:00,3rJozKjIJB0YVCzuHxYeJg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT15M,1,2020-11-13 22:00:00+02:00
+500,FI,Planned maintenance,A03,,2020-11-14 00:00:00+02:00,3rJozKjIJB0YVCzuHxYeJg,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,1,2020-11-13 22:30:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-17 07:24:00+02:00,vwWAJIZ18FYdSVMyPdx55w,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT1M,4,2020-11-17 07:15:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-17 07:15:00+02:00,vwWAJIZ18FYdSVMyPdx55w,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT15M,4,2020-11-17 07:00:00+02:00
+70,FI,Planned maintenance,A03,,2020-11-17 07:00:00+02:00,vwWAJIZ18FYdSVMyPdx55w,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,4,2020-11-14 02:00:00+02:00
+80,FI,Unplanned outage,A03,,2020-11-19 19:42:00+02:00,efi-yqu6z-a9R-W0Rpguaw,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,2,2020-11-19 19:20:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-29 17:55:00+02:00,Ost-_LqI75KJYzBE7Yc9ZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,2,2020-11-29 17:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-29 17:45:00+02:00,Ost-_LqI75KJYzBE7Yc9ZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,2,2020-11-29 17:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-29 17:30:00+02:00,Ost-_LqI75KJYzBE7Yc9ZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,2,2020-11-29 17:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-28 16:00:00+02:00,Ost-_LqI75KJYzBE7Yc9ZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,2,2020-11-28 15:45:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-28 15:45:00+02:00,Ost-_LqI75KJYzBE7Yc9ZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,2,2020-11-28 15:40:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-29 17:00:00+02:00,Ost-_LqI75KJYzBE7Yc9ZA,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,2,2020-11-28 16:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-30 11:00:00+02:00,MfeTn9nHRopg3vByLnKyNg,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT1,1,MAW,PT30M,2,2020-11-30 10:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-30 12:00:00+02:00,MfeTn9nHRopg3vByLnKyNg,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT1,1,MAW,PT60M,2,2020-11-30 11:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-30 12:15:00+02:00,MfeTn9nHRopg3vByLnKyNg,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT1,1,MAW,PT15M,2,2020-11-30 12:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-11-30 12:27:00+02:00,MfeTn9nHRopg3vByLnKyNg,163.0,Fossil Oil,44W-T-KT-000001I,Forssa,Forssa,Forssa GT1,1,MAW,PT1M,2,2020-11-30 12:15:00+02:00
+100,FI,Unplanned outage,A03,,2020-12-01 21:15:00+02:00,DvQfg_jYs4MQhmj1Q0r1zQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT1M,2,2020-12-01 21:00:00+02:00
+160,FI,Unplanned outage,A03,,2020-12-01 21:30:00+02:00,DvQfg_jYs4MQhmj1Q0r1zQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,2,2020-12-01 21:15:00+02:00
+160,FI,Unplanned outage,A03,,2020-12-01 22:00:00+02:00,DvQfg_jYs4MQhmj1Q0r1zQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,2,2020-12-01 21:30:00+02:00
+160,FI,Unplanned outage,A03,,2020-12-02 00:00:00+02:00,DvQfg_jYs4MQhmj1Q0r1zQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT60M,2,2020-12-01 22:00:00+02:00
+100,FI,Unplanned outage,A03,,2020-12-01 20:30:00+02:00,DvQfg_jYs4MQhmj1Q0r1zQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT15M,2,2020-12-01 20:15:00+02:00
+100,FI,Unplanned outage,A03,,2020-12-01 21:00:00+02:00,DvQfg_jYs4MQhmj1Q0r1zQ,223.0,Fossil Hard coal,44W-T-YT-000012L,Vaasa,Vaskiluoto,Vaskiluoto B2,1,MAW,PT30M,2,2020-12-01 20:30:00+02:00
+0,FI,Planned maintenance,A03,,2020-12-05 17:00:00+02:00,G8ZKwUL2YenHvDQtAJpxTg,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B3,1,MAW,PT60M,2,2020-12-05 00:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-05 14:00:00+02:00,DcvTOVXV9uyO2jKQA5OlsQ,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT30M,2,2020-12-05 13:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-05 15:00:00+02:00,DcvTOVXV9uyO2jKQA5OlsQ,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT60M,2,2020-12-05 14:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-05 15:02:00+02:00,DcvTOVXV9uyO2jKQA5OlsQ,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT1M,2,2020-12-05 15:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-05 13:30:00+02:00,DcvTOVXV9uyO2jKQA5OlsQ,170.0,Fossil Gas,44W-T-YT-000010P,Espoo,Suomenoja,Suomenoja 2 GT,1,MAW,PT1M,2,2020-12-05 13:25:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-09 21:30:00+02:00,lsA9TMB2lhQXI6lDE3TL8A,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT1M,2,2020-12-09 21:26:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-11 16:00:00+02:00,lsA9TMB2lhQXI6lDE3TL8A,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,2,2020-12-09 22:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-09 22:00:00+02:00,lsA9TMB2lhQXI6lDE3TL8A,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT30M,2,2020-12-09 21:30:00+02:00
+220,FI,Unplanned outage,A03,,2020-12-11 10:30:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,7,2020-12-11 10:15:00+02:00
+90,FI,Unplanned outage,A03,,2020-12-14 02:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,7,2020-12-11 17:00:00+02:00
+90,FI,Unplanned outage,A03,,2020-12-11 17:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,7,2020-12-11 16:45:00+02:00
+140,FI,Unplanned outage,A03,,2020-12-11 16:45:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,7,2020-12-11 16:30:00+02:00
+140,FI,Unplanned outage,A03,,2020-12-11 16:30:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,7,2020-12-11 16:00:00+02:00
+180,FI,Unplanned outage,A03,,2020-12-11 16:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,7,2020-12-11 15:45:00+02:00
+180,FI,Unplanned outage,A03,,2020-12-11 15:45:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,7,2020-12-11 15:15:00+02:00
+200,FI,Unplanned outage,A03,,2020-12-11 15:15:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,7,2020-12-11 15:00:00+02:00
+200,FI,Unplanned outage,A03,,2020-12-11 15:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,7,2020-12-11 13:00:00+02:00
+220,FI,Unplanned outage,A03,,2020-12-11 13:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,7,2020-12-11 12:00:00+02:00
+220,FI,Unplanned outage,A03,,2020-12-11 12:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,7,2020-12-11 11:00:00+02:00
+220,FI,Unplanned outage,A03,,2020-12-11 11:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,7,2020-12-11 10:30:00+02:00
+200,FI,Unplanned outage,A03,,2020-12-11 10:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,7,2020-12-11 08:00:00+02:00
+200,FI,Unplanned outage,A03,,2020-12-11 08:00:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT15M,7,2020-12-11 07:45:00+02:00
+200,FI,Unplanned outage,A03,,2020-12-11 10:15:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,7,2020-12-11 10:00:00+02:00
+200,FI,Unplanned outage,A03,,2020-12-11 07:45:00+02:00,zCyDRtx55prQei7547f3ZQ,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT1M,7,2020-12-11 07:40:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 01:00:00+02:00,D_GwntDYvsNseXOrghZGVw,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,3,2020-12-10 22:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 14:00:00+02:00,RfjZRqF2WQ6ow746LIC3IQ,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,1,2020-12-16 01:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 14:30:00+02:00,0iaJyc57AgqblRbK3WPM4w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT15M,2,2020-12-16 14:15:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 16:38:00+02:00,0iaJyc57AgqblRbK3WPM4w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT1M,2,2020-12-16 16:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 16:00:00+02:00,0iaJyc57AgqblRbK3WPM4w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,2,2020-12-16 15:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 16:30:00+02:00,0iaJyc57AgqblRbK3WPM4w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT30M,2,2020-12-16 16:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-16 15:00:00+02:00,0iaJyc57AgqblRbK3WPM4w,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT30M,2,2020-12-16 14:30:00+02:00
+712,FI,Unplanned outage,A03,,2020-12-21 17:00:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,10,2020-12-20 16:00:00+02:00
+623,FI,Unplanned outage,A03,,2020-12-20 16:00:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,10,2020-12-20 15:00:00+02:00
+801,FI,Unplanned outage,A03,,2020-12-22 17:00:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,10,2020-12-21 18:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-10 13:00:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,10,2020-12-10 12:30:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-10 12:30:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT1M,10,2020-12-10 12:23:00+02:00
+801,FI,Unplanned outage,A03,,2020-12-22 17:30:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,10,2020-12-22 17:00:00+02:00
+712,FI,Unplanned outage,A03,,2020-12-21 18:00:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT30M,10,2020-12-21 17:00:00+02:00
+0,FI,Unplanned outage,A03,,2020-12-20 15:00:00+02:00,RjE8Kq4f9MjLJpmXUZ1jdQ,890.0,Nuclear,44W-T-YV-0000034,Eurajoki,Olkiluoto 2,Olkiluoto 2 B2,1,MAW,PT60M,10,2020-12-10 13:00:00+02:00
+475,FI,Planned maintenance,A03,,2020-12-30 02:30:00+02:00,jPPX-j6vtSI-c8_XF5elgw,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT30M,2,2020-12-30 02:00:00+02:00
+475,FI,Planned maintenance,A03,,2020-12-30 02:00:00+02:00,jPPX-j6vtSI-c8_XF5elgw,890.0,Nuclear,44W-T-YV-0000026,Eurajoki,Olkiluoto 1,Olkiluoto 1 B1,1,MAW,PT60M,2,2020-12-29 21:00:00+02:00
+0,FI,Planned maintenance,A03,,2021-01-09 07:00:00+02:00,CQsXzOq4VkFqIbHOJdWEPg,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT60M,2,2020-12-28 15:00:00+02:00
+0,FI,Planned maintenance,A03,,2020-12-28 15:00:00+02:00,CQsXzOq4VkFqIbHOJdWEPg,240.0,Fossil Peat,44W-T-YT-000000S,Pietarsaari,Alholmens Kraft,Alholmens B2,1,MAW,PT30M,2,2020-12-28 14:30:00+02:00
+0,FI,Unplanned outage,A03,,2021-12-03 00:30:00+02:00,0XzigEptKkinAnzQo_HqvQ,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT30M,16,2021-12-03 00:00:00+02:00
+0,FI,Unplanned outage,A03,,2021-12-03 00:45:00+02:00,0XzigEptKkinAnzQo_HqvQ,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT15M,16,2021-12-03 00:30:00+02:00
+0,FI,Unplanned outage,A03,,2021-12-03 00:00:00+02:00,0XzigEptKkinAnzQo_HqvQ,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT60M,16,2020-12-17 05:00:00+02:00
+0,FI,Unplanned outage,A03,,2021-12-03 00:59:00+02:00,0XzigEptKkinAnzQo_HqvQ,105.0,Fossil Hard coal,44W-T-YT-000001Q,Helsinki,Hanasaari,Hanasaari B4,1,MAW,PT1M,16,2021-12-03 00:45:00+02:00
