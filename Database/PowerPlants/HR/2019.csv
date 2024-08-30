@@ -1,1 +1,10 @@
 Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
+,Dispa-SET_Solar_HR,53,1.0,HR,,,PHOT,SUN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN_HR,616,1.0,HR,,,WTOF,WIN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_BIO_HR,71,1.0,HR,,,STUR,BIO,0.46,4.0,6.0,0.02,0.02,,12.5,1.3,0.35,0.35,1.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_GAS_HR,743,1.0,HR,,,COMC,GAS,0.525,5.0,1.0,0.0146013072,0.0146013072,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_GEO_HR,10,1.0,HR,,,STUR,GEO,0.1,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,0.1,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_HRD_HR,332,1.0,HR,,,STUR,HRD,0.395,8.0,6.0,0.015015015,0.015015015,117242.17,,0.0,0.3,0.395,7.0,0.95,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_OIL_HR,937,1.0,HR,,,STUR,OIL,0.41,8.0,6.0,0.0064766839,0.0064766839,35280.965,,0.0,0.3,0.41,7.0,0.79,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WAT_HR,2140,1.0,HR,,,HROR,WAT,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WST_HR,6,1.0,HR,,,STUR,WST,0.85,0.0,0.0,0.021176471,0.038235294,0.0,,0.0,0.058823529,0.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,

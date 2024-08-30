@@ -716,10 +716,10 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,AT,Planned maintenance,A03,Cancelled,2020-11-22 12:30:00+01:00,B6GtBpWLhWcRcygT_kG3kw,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT15M,2,2020-11-21 00:00:00+01:00
 0,AT,Planned maintenance,A03,Cancelled,2020-11-22 12:31:00+01:00,B6GtBpWLhWcRcygT_kG3kw,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT1M,2,2020-11-22 12:30:00+01:00
 0,AT,Planned maintenance,A03,Cancelled,2020-11-21 00:00:00+01:00,B6GtBpWLhWcRcygT_kG3kw,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT1M,2,2020-11-20 23:59:00+01:00
-0,AT,Unplanned outage,A03,,2020-11-20 18:30:00+01:00,MpNQmYeB-dCiC4T0oSeKSg,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT15M,3,2020-11-20 12:45:00+01:00
-0,AT,Unplanned outage,A03,,2020-11-20 12:45:00+01:00,0CAbej5hX9x-bGpLEnFUfQ,295.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_GT42,1,MAW,PT1M,3,2020-11-20 12:31:00+01:00
 0,AT,Unplanned outage,A03,,2020-11-20 18:30:00+01:00,0CAbej5hX9x-bGpLEnFUfQ,295.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_GT42,1,MAW,PT15M,3,2020-11-20 12:45:00+01:00
 0,AT,Unplanned outage,A03,,2020-11-20 12:45:00+01:00,MpNQmYeB-dCiC4T0oSeKSg,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT1M,3,2020-11-20 12:31:00+01:00
+0,AT,Unplanned outage,A03,,2020-11-20 18:30:00+01:00,MpNQmYeB-dCiC4T0oSeKSg,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT15M,3,2020-11-20 12:45:00+01:00
+0,AT,Unplanned outage,A03,,2020-11-20 12:45:00+01:00,0CAbej5hX9x-bGpLEnFUfQ,295.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_GT42,1,MAW,PT1M,3,2020-11-20 12:31:00+01:00
 0,AT,Unplanned outage,A03,,2020-11-20 18:30:00+01:00,RMgGGf8kcjQFJ25XTPmzyg,295.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_GT41,1,MAW,PT15M,3,2020-11-20 12:45:00+01:00
 0,AT,Unplanned outage,A03,,2020-11-20 12:45:00+01:00,RMgGGf8kcjQFJ25XTPmzyg,295.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_GT41,1,MAW,PT1M,3,2020-11-20 12:31:00+01:00
 0,AT,Unplanned outage,A03,,2020-11-20 19:15:00+01:00,LyObSEwHVmw2pNkwBmalOg,250.0,Fossil Gas,14W-PROD-SIM---P,intra_zonal,KW Simmering,Sim1_DT,1,MAW,PT1M,3,2020-11-20 19:10:00+01:00
