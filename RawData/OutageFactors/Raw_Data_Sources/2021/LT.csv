@@ -1,0 +1,22 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,LT,Unplanned outage,A03,,2021-01-18 06:00:00+02:00,pqT605rp0JOVWqHTk58-6A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,5,2021-01-18 05:50:00+02:00
+0,LT,Unplanned outage,A03,,2021-01-18 12:00:00+02:00,pqT605rp0JOVWqHTk58-6A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,5,2021-01-18 06:00:00+02:00
+0,LT,Unplanned outage,A03,,2021-01-18 12:30:00+02:00,pqT605rp0JOVWqHTk58-6A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,5,2021-01-18 12:00:00+02:00
+0,LT,Unplanned outage,A03,,2021-01-18 12:33:00+02:00,pqT605rp0JOVWqHTk58-6A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,5,2021-01-18 12:30:00+02:00
+0,LT,Planned maintenance,A03,,2021-03-31 15:00:00+03:00,T0u_JwzzGTcNs64GX2ejzA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA1,1,MAW,PT60M,3,2021-03-15 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2021-06-30 18:00:00+03:00,ojo4pLyOO3-nln-OV_efQw,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT60M,5,2021-06-29 08:00:00+03:00
+0,LT,Planned maintenance,A03,Cancelled,2021-07-24 00:00:00+03:00,XORWeT6ljILBio6Js1Qi1Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,2,2021-07-21 00:00:00+03:00
+0,LT,Planned maintenance,A03,,2021-07-13 17:00:00+03:00,TLaNOou2qnyC4u2t-H-S7g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,3,2021-07-12 08:00:00+03:00
+0,LT,Unplanned outage,A03,,2021-07-17 06:00:00+03:00,B4W3AgBmyA-ZxvHJ4V8bhw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,3,2021-07-16 19:00:00+03:00
+0,LT,Unplanned outage,A03,,2021-07-16 19:00:00+03:00,B4W3AgBmyA-ZxvHJ4V8bhw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,3,2021-07-16 18:45:00+03:00
+0,LT,Unplanned outage,A03,,2021-07-16 18:45:00+03:00,B4W3AgBmyA-ZxvHJ4V8bhw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,3,2021-07-16 18:44:00+03:00
+0,LT,Planned maintenance,A03,,2021-07-17 18:00:00+03:00,157uxmMJT-MlKTwZtLNKKw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,4,2021-07-07 07:00:00+03:00
+0,LT,Planned maintenance,A03,,2021-09-05 07:00:00+03:00,wMOveAfyxNqZ6rX2e9V9Iw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,3,2021-09-04 12:00:00+03:00
+0,LT,Planned maintenance,A03,,2021-09-05 07:30:00+03:00,wMOveAfyxNqZ6rX2e9V9Iw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,3,2021-09-05 07:00:00+03:00
+0,LT,Planned maintenance,A03,,2021-09-05 07:36:00+03:00,wMOveAfyxNqZ6rX2e9V9Iw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,3,2021-09-05 07:30:00+03:00
+0,LT,Planned maintenance,A03,,2021-09-24 08:00:00+03:00,bOQYhSkp-UMnqhrgJFjUWQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT60M,4,2021-09-06 00:00:00+03:00
+0,LT,Unplanned outage,A03,,2021-09-28 08:00:00+03:00,fSKLMRK0kicFrvoaGrOFVw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,3,2021-09-28 05:00:00+03:00
+0,LT,Unplanned outage,A03,,2021-09-28 05:00:00+03:00,fSKLMRK0kicFrvoaGrOFVw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,3,2021-09-28 04:30:00+03:00
+0,LT,Planned maintenance,A03,,2021-12-18 15:00:00+02:00,vpJM7qsvuyULKDAGr7ZE1g,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,4,2021-12-06 08:00:00+02:00
+0,LT,Planned maintenance,A03,,2022-01-06 01:00:00+02:00,y24g_-g6O1Rg6cZYh16F1Q,180.0,Fossil Gas,41W3185595680EL8,Vilnius,VilniausE3,VE3 TG-1,1,MAW,PT60M,4,2020-11-06 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2022-01-06 01:00:00+02:00,yiHNvir6fXSZqiRol_xDlw,180.0,Fossil Gas,41W3185595680EL8,Vilnius,VilniausE3,VE3 TG-2,1,MAW,PT60M,5,2018-03-31 00:00:00+03:00

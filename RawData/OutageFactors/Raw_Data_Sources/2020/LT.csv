@@ -1,0 +1,53 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,LT,Planned maintenance,A03,Cancelled,2020-01-01 00:00:00+02:00,o3PECdvmGlu5Ma9GIn7dUA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,3,2019-12-23 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2020-03-04 11:00:00+02:00,lwwonyRoysAEf22Odmf52Q,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,3,2020-03-04 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2020-03-04 11:30:00+02:00,lwwonyRoysAEf22Odmf52Q,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,3,2020-03-04 11:00:00+02:00
+0,LT,Planned maintenance,A03,,2020-05-19 13:00:00+03:00,vqz-53ZNSa5jOYsjatonFg,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT60M,6,2020-04-27 00:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-05-19 13:30:00+03:00,vqz-53ZNSa5jOYsjatonFg,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT30M,6,2020-05-19 13:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-05-19 13:45:00+03:00,vqz-53ZNSa5jOYsjatonFg,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT15M,6,2020-05-19 13:30:00+03:00
+0,LT,Planned maintenance,A03,,2020-05-19 13:59:00+03:00,vqz-53ZNSa5jOYsjatonFg,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT1M,6,2020-05-19 13:45:00+03:00
+0,LT,Unplanned outage,A03,,2020-06-02 08:45:00+03:00,D-KSX9AWKaNKomoXkrOi5A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2020-06-02 08:35:00+03:00
+0,LT,Unplanned outage,A03,,2020-06-02 12:00:00+03:00,D-KSX9AWKaNKomoXkrOi5A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2020-06-02 09:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-06-02 12:30:00+03:00,D-KSX9AWKaNKomoXkrOi5A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2020-06-02 12:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-06-02 12:35:00+03:00,D-KSX9AWKaNKomoXkrOi5A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2020-06-02 12:30:00+03:00
+0,LT,Unplanned outage,A03,,2020-06-02 09:00:00+03:00,D-KSX9AWKaNKomoXkrOi5A,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2020-06-02 08:45:00+03:00
+0,LT,Planned maintenance,A03,Cancelled,2020-06-19 00:00:00+03:00,MRz6-BW-W95T-RVh6FoXXw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,2,2020-06-17 07:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-10-08 00:00:00+03:00,eudIRwHZtk2vE90o40yvhg,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,1,2020-10-06 00:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-07-02 15:00:00+03:00,OY6GFGDqulVc_vTI9uWM4Q,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-8,1,MAW,PT60M,2,2020-07-01 07:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-07-15 15:00:00+03:00,qcy4LHOeZcE_jSz1T_qp4g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,7,2020-05-25 00:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-07-25 12:20:00+03:00,pxzg6QYKwfg8LNTVJZLiWw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2020-07-25 12:15:00+03:00
+0,LT,Planned maintenance,A03,,2020-07-25 12:15:00+03:00,pxzg6QYKwfg8LNTVJZLiWw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2020-07-25 12:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-07-25 12:00:00+03:00,pxzg6QYKwfg8LNTVJZLiWw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2020-07-25 08:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-07-30 19:59:00+03:00,Nb92I6t-LwHVwkkAgBm_yA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT1M,3,2020-07-30 19:45:00+03:00
+0,LT,Unplanned outage,A03,,2020-07-30 19:30:00+03:00,Nb92I6t-LwHVwkkAgBm_yA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT30M,3,2020-07-30 19:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-07-30 19:00:00+03:00,Nb92I6t-LwHVwkkAgBm_yA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,3,2020-07-29 08:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-07-30 19:45:00+03:00,Nb92I6t-LwHVwkkAgBm_yA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT15M,3,2020-07-30 19:30:00+03:00
+0,LT,Planned maintenance,A03,,2020-08-04 16:00:00+03:00,zJ4EC_T4ndnje5OVC6f7KQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA1,1,MAW,PT60M,3,2020-08-03 08:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-08-04 16:05:00+03:00,zJ4EC_T4ndnje5OVC6f7KQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA1,1,MAW,PT1M,3,2020-08-04 16:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-08-13 14:00:00+03:00,SjAj-juYFaalAtAJqc6Egw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,2,2020-08-12 07:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-08-13 14:40:00+03:00,SjAj-juYFaalAtAJqc6Egw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT1M,2,2020-08-13 14:30:00+03:00
+0,LT,Planned maintenance,A03,,2020-08-13 14:30:00+03:00,SjAj-juYFaalAtAJqc6Egw,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT30M,2,2020-08-13 14:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-10-08 08:00:00+03:00,p7D71OjPJSNrU0XZ6ZL4NQ,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,4,2020-10-05 07:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-09 16:00:00+03:00,Gp8YPTP9IV7rcLXg-EYxBA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT60M,2,2020-10-09 03:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-09 03:00:00+03:00,Gp8YPTP9IV7rcLXg-EYxBA,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT30M,2,2020-10-09 02:30:00+03:00
+0,LT,Planned maintenance,A03,,2020-10-11 21:30:00+03:00,2Y1F76e8XsWZ9s9njvS6hQ,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,4,2020-10-11 21:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-10-11 21:00:00+03:00,2Y1F76e8XsWZ9s9njvS6hQ,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,4,2020-10-05 07:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-19 09:45:00+03:00,xOfBgM6sIubi6q2ajBOLlg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2020-10-19 09:43:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-19 10:00:00+03:00,xOfBgM6sIubi6q2ajBOLlg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2020-10-19 09:45:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-19 11:00:00+03:00,xOfBgM6sIubi6q2ajBOLlg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,2,2020-10-19 10:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-19 11:45:00+03:00,xOfBgM6sIubi6q2ajBOLlg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2020-10-19 11:30:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-19 11:30:00+03:00,xOfBgM6sIubi6q2ajBOLlg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2020-10-19 11:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-19 11:50:00+03:00,xOfBgM6sIubi6q2ajBOLlg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2020-10-19 11:45:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-20 04:00:00+03:00,dqppTDM4dPZUMsRAkc4XHA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,4,2020-10-20 03:53:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-20 11:15:00+03:00,dqppTDM4dPZUMsRAkc4XHA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,4,2020-10-20 11:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-10-20 11:00:00+03:00,dqppTDM4dPZUMsRAkc4XHA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT60M,4,2020-10-20 04:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-11-05 00:00:00+02:00,vYAtX1QA_AMQ_cSl79Q83g,180.0,Fossil Gas,41W3185595680EL8,Vilnius,VilniausE3,VE3 TG-1,1,MAW,PT60M,5,2018-03-31 00:00:00+03:00
+0,LT,Planned maintenance,A03,,2020-11-13 15:00:00+02:00,v9wC4nkuozdJ5QFsOFOPQQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT60M,2,2020-09-28 00:00:00+03:00
+0,LT,Unplanned outage,A03,,2020-11-16 13:00:00+02:00,pypHwcKbvwQdZogeEHY5Dg,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT60M,2,2020-11-16 08:00:00+02:00
+305,LT,Unplanned outage,A03,,2020-11-17 07:00:00+02:00,7fgD4ZQN2DQwfM5sL5A8kw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2020-11-17 06:54:00+02:00
+305,LT,Unplanned outage,A03,,2020-11-17 07:45:00+02:00,7fgD4ZQN2DQwfM5sL5A8kw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT15M,2,2020-11-17 07:30:00+02:00
+305,LT,Unplanned outage,A03,,2020-11-17 07:30:00+02:00,7fgD4ZQN2DQwfM5sL5A8kw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT30M,2,2020-11-17 07:00:00+02:00
+0,LT,Unplanned outage,A03,,2020-12-18 17:00:00+02:00,cIe28C_r6RFAxfod_1atWA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,2,2020-12-15 23:00:00+02:00
+0,LT,Unplanned outage,A03,,2020-12-25 16:00:00+02:00,JCaFpbFcgdvOnJJXbKgWuA,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT60M,3,2020-12-18 17:00:00+02:00
+0,LT,Planned maintenance,A03,,2022-01-06 01:00:00+02:00,y24g_-g6O1Rg6cZYh16F1Q,180.0,Fossil Gas,41W3185595680EL8,Vilnius,VilniausE3,VE3 TG-1,1,MAW,PT60M,4,2020-11-06 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2022-01-06 01:00:00+02:00,yiHNvir6fXSZqiRol_xDlw,180.0,Fossil Gas,41W3185595680EL8,Vilnius,VilniausE3,VE3 TG-2,1,MAW,PT60M,5,2018-03-31 00:00:00+03:00

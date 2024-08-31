@@ -3053,8 +3053,8 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2020-08-05 10:00:00+02:00,oetr5wEHIyvzHgwh3g2EQg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,1,2020-08-05 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2020-08-05 10:00:00+02:00,cZvMgMhps9ihGuPRQ0pmBA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,1,2020-08-05 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2020-08-05 10:00:00+02:00,tsLP3gkojjIBCUTNb1_FoA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,1,2020-08-05 06:00:00+02:00
-0,CZ,Planned maintenance,A03,,2020-08-04 08:00:00+02:00,RTUAmrJFZyRmmdweboSxxA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2020-08-04 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2020-08-04 08:00:00+02:00,IjhiHkTnlWprkZf0d5I6Hw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,2,2020-08-04 06:00:00+02:00
+0,CZ,Planned maintenance,A03,,2020-08-04 08:00:00+02:00,RTUAmrJFZyRmmdweboSxxA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2020-08-04 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2020-08-04 08:00:00+02:00,IAzmtgLJbxDguPHD9NG0uQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,2,2020-08-04 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2020-08-04 08:00:00+02:00,fAlM59QVUBcaaTUMA1etLA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2020-08-04 06:00:00+02:00
 0,CZ,Planned maintenance,A03,,2020-08-04 15:30:00+02:00,Ds7raQxjf-7oXOpGfW4MUA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,3,2020-08-01 00:00:00+02:00

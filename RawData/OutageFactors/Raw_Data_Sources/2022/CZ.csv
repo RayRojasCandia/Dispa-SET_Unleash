@@ -251,10 +251,10 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Unplanned outage,A03,,2022-02-20 13:00:00+01:00,crkUAxvVdy4VN45kSUc-Ow,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,4,2022-02-18 13:15:00+01:00
 181.9,CZ,Unplanned outage,A03,,2022-02-18 22:00:00+01:00,fgu7OigvwaEAtNTDHGlO3w,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-02-18 20:30:00+01:00
 0,CZ,Unplanned outage,A03,,2022-02-21 10:30:00+01:00,qPdp5JOCVPHKtvZ0tj1D-g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,3,2022-02-21 01:00:00+01:00
-0,CZ,Unplanned outage,A03,,2022-02-27 22:45:00+01:00,TaRZYQfOAoWo88fvvFU2Sw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-02-27 21:15:00+01:00
+106.3,CZ,Unplanned outage,A03,,2022-03-01 06:30:00+01:00,oKLIeYQC3jp3D3N8s4I_Lw,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,1,2022-03-01 05:30:00+01:00
 84.9,CZ,Unplanned outage,A03,,2022-02-26 15:00:00+01:00,BWsNqwEFJ4b-HRMKu_1FjQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,1,2022-02-26 12:30:00+01:00
 0,CZ,Unplanned outage,A03,,2022-03-04 04:45:00+01:00,Fomw66-TrFIeg7SdmHF0Gg,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,1,2022-03-02 18:15:00+01:00
-106.3,CZ,Unplanned outage,A03,,2022-03-01 06:30:00+01:00,oKLIeYQC3jp3D3N8s4I_Lw,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,1,2022-03-01 05:30:00+01:00
+0,CZ,Unplanned outage,A03,,2022-02-27 22:45:00+01:00,TaRZYQfOAoWo88fvvFU2Sw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-02-27 21:15:00+01:00
 144.9,CZ,Unplanned outage,A03,,2022-03-04 15:45:00+01:00,1DmydlMsRp88k8d6qNeRsw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-03-04 14:00:00+01:00
 0,CZ,Unplanned outage,A03,,2022-02-27 01:30:00+01:00,9L1AQ0zDd5MqAjGepWTZBA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-02-26 22:15:00+01:00
 0,CZ,Unplanned outage,A03,,2022-02-27 01:30:00+01:00,3RjOjoVYx1p0k-VBVURlNg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-02-26 22:15:00+01:00
@@ -388,17 +388,17 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Unplanned outage,A03,,2022-07-26 10:00:00+02:00,bmxJwznfjt-lcYEo_auPbQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2022-07-26 08:45:00+02:00
 174.9,CZ,Unplanned outage,A03,,2022-07-28 04:45:00+02:00,J7PQ4dGiWOrqX2ZMpCc83Q,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,6,2022-07-27 20:15:00+02:00
 154.9,CZ,Unplanned outage,A03,,2022-07-28 08:45:00+02:00,Ood7Zkoe4Kh-jV-_2L1J_g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,12,2022-07-27 18:15:00+02:00
-124.9,CZ,Unplanned outage,A03,,2022-07-29 06:30:00+02:00,7g2DfwhgNtaIQnZDT4exbw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,17,2022-07-28 09:15:00+02:00
-134.9,CZ,Unplanned outage,A03,,2022-07-29 20:30:00+02:00,DGBsMTX35RGdRsED6O543g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-07-29 19:45:00+02:00
-114.9,CZ,Unplanned outage,A03,,2022-07-30 00:30:00+02:00,It2QD6aDnQKkrDRbr3fwXg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-07-29 06:30:00+02:00
-144.9,CZ,Unplanned outage,A03,,2022-07-29 23:45:00+02:00,-591eyGgQwtiVT0H6xNT4A,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-07-29 20:45:00+02:00
-164.9,CZ,Unplanned outage,A03,,2022-08-01 13:00:00+02:00,6R0NeKHIqq1U45EZn8mF2A,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,6,2022-08-01 08:15:00+02:00
 0,CZ,Unplanned outage,A03,,2022-08-02 03:00:00+02:00,Lbfpqeg0v0ZXKNPiybO89A,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G4____,1,MAW,PT15M,10,2022-07-19 19:45:00+02:00
-116.3,CZ,Unplanned outage,A03,,2022-08-02 06:00:00+02:00,a3p6e5nYEECeGnebXLxQaA,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,3,2022-08-02 04:00:00+02:00
-116.3,CZ,Unplanned outage,A03,,2022-08-02 10:00:00+02:00,BhFhTc3oXlgAjD2jBPnXHw,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,2,2022-08-02 09:00:00+02:00
-84.9,CZ,Unplanned outage,A03,,2022-08-02 13:00:00+02:00,SvWzTx4XygJBZHKij2PxCQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-08-02 10:00:00+02:00
-164.9,CZ,Unplanned outage,A03,,2022-08-02 19:00:00+02:00,Qrr172W0TWzHnsSAIWiKdQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-08-02 10:30:00+02:00
-134.9,CZ,Unplanned outage,A03,,2022-08-03 13:15:00+02:00,srPkTCnNTkW2ihpOrMQjDA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,15,2022-08-02 18:30:00+02:00
+130,CZ,Unplanned outage,A03,,2022-04-19 14:15:00+02:00,3tTWl2F0daw-0ysCiPaHWw,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-04-19 08:00:00+02:00
+130,CZ,Unplanned outage,A03,,2022-06-13 16:30:00+02:00,1dhOWykadZtGHLSTQoaM_A,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G7____,1,MAW,PT15M,2,2022-06-13 05:30:00+02:00
+130,CZ,Unplanned outage,A03,,2022-04-13 16:00:00+02:00,ecFeXHpdk380ID7DEYmT0A,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G5____,1,MAW,PT15M,2,2022-02-10 06:00:00+01:00
+130,CZ,Unplanned outage,A03,,2022-06-11 23:45:00+02:00,NiUKrK7-R1pacUftKA7PiA,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-06-11 17:30:00+02:00
+130,CZ,Unplanned outage,A03,,2022-06-09 12:00:00+02:00,oEtiC6lxY8hhzz50baqL1Q,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G5____,1,MAW,PT15M,2,2022-06-09 05:45:00+02:00
+130,CZ,Unplanned outage,A03,,2022-05-28 17:30:00+02:00,L2wRXrGKnoeNWNaHJYGGzg,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-05-28 11:15:00+02:00
+130,CZ,Unplanned outage,A03,,2022-04-26 15:00:00+02:00,QLj3Zu_uMnxetIllVCIb-Q,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G7____,1,MAW,PT15M,2,2022-03-24 08:30:00+01:00
+130,CZ,Unplanned outage,A03,,2022-05-21 19:00:00+02:00,ZAKVKGv_SI9mBrG6ovjk6w,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G5____,1,MAW,PT15M,2,2022-05-21 12:45:00+02:00
+130,CZ,Unplanned outage,A03,,2022-05-28 15:30:00+02:00,jg2sQPry9uFZZWhpD2fnVg,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-05-28 09:15:00+02:00
+130,CZ,Unplanned outage,A03,,2022-05-21 03:00:00+02:00,2M7RESMjycMh3etfF5YiKA,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G7____,1,MAW,PT15M,2,2022-05-02 12:00:00+02:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-02-21 00:00:00+01:00,AzVN4dccdHG_2Pj5HkFTTA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,2,2022-01-31 00:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-02-07 00:00:00+01:00,aMUKXvAImBO-TDM9Xf-Lxw,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G21___,1,MAW,PT15M,2,2022-02-03 00:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-02-07 00:00:00+01:00,rHxevDQhPIY6H1Ikj3u_jQ,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G22___,1,MAW,PT15M,2,2022-02-03 00:00:00+01:00
@@ -599,7 +599,17 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 353.5,CZ,Planned maintenance,A03,,2022-02-09 16:00:00+01:00,EzT5yHq9t0RPT-NAgjXuZw,470.0,Nuclear,27W-PU-EDUK----1,Dukovany,EDUK_______,EDUK_B2____,1,MAW,PT15M,1,2022-02-09 15:00:00+01:00
 368.5,CZ,Planned maintenance,A03,,2022-02-09 19:00:00+01:00,VqJMk2opc8B_oFNlkcBPpQ,470.0,Nuclear,27W-PU-EDUK----1,Dukovany,EDUK_______,EDUK_B2____,1,MAW,PT15M,1,2022-02-09 18:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-02-17 08:00:00+01:00,rHvrxZKqtdsb6BLf60pDTA,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,9,2022-02-06 14:00:00+01:00
+124.9,CZ,Unplanned outage,A03,,2022-07-29 06:30:00+02:00,7g2DfwhgNtaIQnZDT4exbw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,17,2022-07-28 09:15:00+02:00
+134.9,CZ,Unplanned outage,A03,,2022-07-29 20:30:00+02:00,DGBsMTX35RGdRsED6O543g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-07-29 19:45:00+02:00
+114.9,CZ,Unplanned outage,A03,,2022-07-30 00:30:00+02:00,It2QD6aDnQKkrDRbr3fwXg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-07-29 06:30:00+02:00
+144.9,CZ,Unplanned outage,A03,,2022-07-29 23:45:00+02:00,-591eyGgQwtiVT0H6xNT4A,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-07-29 20:45:00+02:00
+164.9,CZ,Unplanned outage,A03,,2022-08-01 13:00:00+02:00,6R0NeKHIqq1U45EZn8mF2A,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,6,2022-08-01 08:15:00+02:00
+116.3,CZ,Unplanned outage,A03,,2022-08-02 06:00:00+02:00,a3p6e5nYEECeGnebXLxQaA,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,3,2022-08-02 04:00:00+02:00
+116.3,CZ,Unplanned outage,A03,,2022-08-02 10:00:00+02:00,BhFhTc3oXlgAjD2jBPnXHw,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,2,2022-08-02 09:00:00+02:00
+84.9,CZ,Unplanned outage,A03,,2022-08-02 13:00:00+02:00,SvWzTx4XygJBZHKij2PxCQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-08-02 10:00:00+02:00
+164.9,CZ,Unplanned outage,A03,,2022-08-02 19:00:00+02:00,Qrr172W0TWzHnsSAIWiKdQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-08-02 10:30:00+02:00
 179.9,CZ,Unplanned outage,A03,,2022-08-03 00:00:00+02:00,eqgj6DDWOc5EqrD3k-YXCw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,1,2022-08-02 19:00:00+02:00
+134.9,CZ,Unplanned outage,A03,,2022-08-03 13:15:00+02:00,srPkTCnNTkW2ihpOrMQjDA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,15,2022-08-02 18:30:00+02:00
 179.9,CZ,Unplanned outage,A03,,2022-08-04 13:00:00+02:00,hqzW9NoAeXlXj1ElJr0EdA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,4,2022-08-04 01:00:00+02:00
 174.9,CZ,Unplanned outage,A03,,2022-08-05 02:00:00+02:00,h0hf4bmqA_HpmMkOjYaS1Q,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-08-05 00:00:00+02:00
 174.9,CZ,Unplanned outage,A03,,2022-08-06 00:00:00+02:00,p5LDBhrThhyZXh41xyOq0g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-08-05 15:00:00+02:00
@@ -779,26 +789,16 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Unplanned outage,A03,,2022-12-20 00:00:00+01:00,NsqlkEV_OWhYDbw-vFhssA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,1,2022-12-19 10:00:00+01:00
 174.9,CZ,Unplanned outage,A03,,2022-12-19 16:45:00+01:00,fL_LklxPGRG3pIXtCnWIgA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,4,2022-12-19 11:45:00+01:00
 0,CZ,Unplanned outage,A03,,2022-12-19 21:15:00+01:00,PuCE64j7CKMrSaUHiYL8gw,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,5,2022-12-16 12:00:00+01:00
-179.9,CZ,Unplanned outage,A03,,2022-12-20 06:00:00+01:00,DByI8BjSaVbYSVimekJnuA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-12-19 23:15:00+01:00
-116.3,CZ,Unplanned outage,A03,,2022-12-20 07:45:00+01:00,CX7eXcpTjwRAUYXZCPRwTw,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,3,2022-12-20 04:30:00+01:00
-116.3,CZ,Unplanned outage,A03,,2022-12-20 16:15:00+01:00,fXcWIYhnNxy8KtzK8zpOhw,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,3,2022-12-20 14:30:00+01:00
-184.9,CZ,Unplanned outage,A03,,2022-12-21 00:00:00+01:00,A4e5djG7zhd-kEs-lAY0mg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G1____,1,MAW,PT15M,7,2022-12-19 17:00:00+01:00
 184.9,CZ,Unplanned outage,A03,,2022-12-21 00:00:00+01:00,V3tu3j0Ammc79pL0ui-t-Q,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,11,2022-12-19 16:00:00+01:00
-164.9,CZ,Unplanned outage,A03,,2022-12-21 12:00:00+01:00,L-5fJADc-g4-pTs9aF65Zg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,12,2022-12-21 03:30:00+01:00
-174.9,CZ,Unplanned outage,A03,,2022-12-21 14:45:00+01:00,Q3ErUoOneL_HTp7FWfJmLw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,15,2022-12-20 21:00:00+01:00
-179.9,CZ,Unplanned outage,A03,,2022-12-21 23:00:00+01:00,fxPy1TSx2mN9ncXGrFn25g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2022-12-21 21:30:00+01:00
-184.9,CZ,Unplanned outage,A03,,2022-12-22 22:30:00+01:00,AQxZVSIaN0U3uP4Ji8Kokw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,6,2022-12-22 12:45:00+01:00
-174.9,CZ,Unplanned outage,A03,,2022-12-22 22:30:00+01:00,KicJ4FpgMmqtK4UAhoVULw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-12-22 13:45:00+01:00
-0,CZ,Unplanned outage,A03,,2022-12-23 02:00:00+01:00,4WKNHvzVIrOxdbtLZ-CdNg,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,5,2022-12-21 22:30:00+01:00
-174.9,CZ,Unplanned outage,A03,,2022-12-24 01:45:00+01:00,ovGyNot-ggti7wz5UkoweA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2022-12-24 01:00:00+01:00
-179.9,CZ,Unplanned outage,A03,,2022-12-24 17:00:00+01:00,VvDFsIVXOOQOYU58XCfECA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,2,2022-12-24 09:45:00+01:00
-0,CZ,Unplanned outage,A03,,2022-12-26 18:00:00+01:00,QSfTmTPXXIxGb5mIuwIxlw,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,1,2022-12-24 19:30:00+01:00
-164.9,CZ,Unplanned outage,A03,,2022-12-24 22:30:00+01:00,FcZ8KQFZLRKdXW7MKGwCSA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,2,2022-12-24 21:15:00+01:00
-179.9,CZ,Unplanned outage,A03,,2022-12-25 08:00:00+01:00,Op8FeDi1Hi1HBLGdJMC7eA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,4,2022-12-25 07:00:00+01:00
-154.9,CZ,Unplanned outage,A03,,2022-12-25 14:30:00+01:00,jejfX9658WGYWqmEJ7Wesg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,2,2022-12-25 13:30:00+01:00
-164.9,CZ,Unplanned outage,A03,,2022-12-26 01:00:00+01:00,9k2UNC8sdj0oohnas4z2Wg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,1,2022-12-25 23:00:00+01:00
-0,CZ,Unplanned outage,A03,,2022-12-27 00:45:00+01:00,sop_c7CzfA8rNExuB8j4eA,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,6,2022-12-25 07:45:00+01:00
-164.9,CZ,Unplanned outage,A03,,2022-12-27 03:15:00+01:00,NifULYDai1HF0ozHXuG4_w,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-12-26 21:00:00+01:00
+130,CZ,Unplanned outage,A03,,2022-11-17 12:00:00+01:00,AjIaCYvOS5dY1JCwwdni8Q,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G5____,1,MAW,PT15M,2,2022-11-14 07:30:00+01:00
+130,CZ,Unplanned outage,A03,,2022-11-16 00:00:00+01:00,JLKcnAlaAhwcyjQh6scNXQ,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-11-14 07:30:00+01:00
+130,CZ,Unplanned outage,A03,,2022-09-16 23:15:00+02:00,yom0tooAWEnMoqaikOcBKw,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G7____,1,MAW,PT15M,2,2022-09-16 14:30:00+02:00
+130,CZ,Unplanned outage,A03,,2022-09-21 12:15:00+02:00,2FGyZjDaDboTWVIh1Ojmhw,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-09-19 20:45:00+02:00
+130,CZ,Unplanned outage,A03,,2022-11-06 00:00:00+01:00,yfa9G3wAIrGsc3Bt3r5U4w,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G7____,1,MAW,PT15M,2,2022-11-05 17:45:00+01:00
+130,CZ,Unplanned outage,A03,,2022-08-07 16:00:00+02:00,alrNp3M103UadZUsRRVB2Q,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-08-07 04:15:00+02:00
+130,CZ,Unplanned outage,A03,,2022-08-04 00:00:00+02:00,73zWAxgzbzdf8p0EsM73pw,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-07-31 03:30:00+02:00
+130,CZ,Unplanned outage,A03,,2022-11-17 08:30:00+01:00,zKJBmer44p6HRoNi6wQqrA,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G4____,1,MAW,PT15M,2,2022-11-17 02:15:00+01:00
+130,CZ,Unplanned outage,A03,,2022-12-10 17:30:00+01:00,Uw21xZxT8byhVXGlicwvHg,125.0,Fossil Brown coal/Lignite,27W-PU-EECK----8,Kladno,EECK_______,EECK_G5____,1,MAW,PT15M,2,2022-12-10 08:15:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-04-16 00:00:00+02:00,iMTvCAGbDW6BXizTAcRnPw,187.0,Fossil Hard coal,27W-PU-EDET----M,Dětmarovice,EDET_______,EDET_G1____,1,MAW,PT15M,2,2022-03-07 00:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-03-21 00:00:00+01:00,AxY5OAVenLfoHna6hlH1Hw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2022-02-28 00:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-03-07 00:00:00+01:00,uodkLxrz8yP3EBNwiG-cbw,187.0,Fossil Hard coal,27W-PU-EDET----M,Dětmarovice,EDET_______,EDET_G1____,1,MAW,PT15M,2,2022-03-04 00:00:00+01:00
@@ -896,9 +896,9 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2022-02-14 00:00:00+01:00,F-gAn6BbkgbSIACErQuCKA,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,1,2022-02-13 00:00:00+01:00
 10,CZ,Planned maintenance,A03,,2022-02-12 01:00:00+01:00,ASfZ2JAOp_M7XyqQojjD_Q,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,1,2022-02-12 00:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-02-13 00:00:00+01:00,cJ2KG864iQ6gj2UW40e3wA,105.0,Fossil Brown coal/Lignite,27W-PU-ETI2----S,"Tisová 2, 356 01 Březová",ETI2_______,ETI2.G6,1,MAW,PT15M,1,2022-02-12 01:00:00+01:00
+0,CZ,Planned maintenance,A03,Cancelled,2022-03-03 13:00:00+01:00,PrHKgiItJvWCO5p4DrUD3w,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2022-03-03 06:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-07 13:00:00+01:00,eAH7YfcJU6emY0JQPhnHug,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G2____,1,MAW,PT15M,1,2022-03-07 11:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-03-02 13:00:00+01:00,2a_CgLJjjrp3sZt4VbvxTg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2022-03-02 06:00:00+01:00
-0,CZ,Planned maintenance,A03,Cancelled,2022-03-03 13:00:00+01:00,PrHKgiItJvWCO5p4DrUD3w,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,2,2022-03-03 06:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-03-08 14:00:00+01:00,tLRVCb8Kz4N6LwJa2HxkFw,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,2,2022-03-08 11:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-09 13:00:00+01:00,_VJF_KbONSyN0NbpAcWREQ,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G2____,1,MAW,PT15M,2,2022-03-09 11:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-08 09:00:00+01:00,FgCa1qx7vo25bLteeQPqJg,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2022-03-08 07:00:00+01:00
@@ -965,14 +965,14 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2022-03-09 00:00:00+01:00,u356igzS1rUvwpBRDF3Wpw,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,1,2022-03-08 22:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-01 13:00:00+01:00,coxfIruYilyRmBk8R3OZsQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,1,2022-03-01 06:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-02 18:00:00+01:00,Af4-PZwspfyOhaEn3aphJA,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,2,2022-03-02 06:00:00+01:00
-0,CZ,Planned maintenance,A03,,2022-03-08 04:00:00+01:00,PFT5CcbktlHy-pW478hG2A,186.0,Fossil Hard coal,27W-PU-EDET----M,Dětmarovice,EDET_______,EDET_G2____,1,MAW,PT15M,1,2022-03-08 03:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-02 08:00:00+01:00,mKeldWrnpX7YcLZxlU7KnA,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2022-03-02 02:00:00+01:00
+0,CZ,Planned maintenance,A03,,2022-03-08 04:00:00+01:00,PFT5CcbktlHy-pW478hG2A,186.0,Fossil Hard coal,27W-PU-EDET----M,Dětmarovice,EDET_______,EDET_G2____,1,MAW,PT15M,1,2022-03-08 03:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-06 01:00:00+01:00,ktsVy1oiyDFEcL3aMnUEIw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,1,2022-03-05 00:15:00+01:00
-0,CZ,Planned maintenance,A03,Cancelled,2022-03-09 00:00:00+01:00,KrMm96FGxFaK3lBi6Ch3Yg,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,2,2022-03-05 00:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-06 01:15:00+01:00,xWexYBfEs8jGyf5HI7U7Qg,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G24___,1,MAW,PT15M,1,2022-03-05 18:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-05 15:00:00+01:00,DB5tSxTTZC4aHgpm4G4QTA,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G24___,1,MAW,PT15M,1,2022-03-05 00:00:00+01:00
-0,CZ,Planned maintenance,A03,,2022-03-10 00:00:00+01:00,AHh3TMYoGeWMHNjFnBVjew,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2022-03-09 00:00:00+01:00
+0,CZ,Planned maintenance,A03,Cancelled,2022-03-09 00:00:00+01:00,KrMm96FGxFaK3lBi6Ch3Yg,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G23___,1,MAW,PT15M,2,2022-03-05 00:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-07 20:00:00+01:00,h9K8enfHY7ykdf_Il-U1JQ,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G23___,1,MAW,PT15M,1,2022-03-04 11:00:00+01:00
+0,CZ,Planned maintenance,A03,,2022-03-10 00:00:00+01:00,AHh3TMYoGeWMHNjFnBVjew,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,2,2022-03-09 00:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-02-28 14:00:00+01:00,jxIXOSIfDzhVHuRhJFy7QQ,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G21___,1,MAW,PT15M,1,2022-02-25 16:00:00+01:00
 110,CZ,Planned maintenance,A03,,2022-03-04 11:00:00+01:00,qSQfyIDKR-eFmJmDvS7Ekg,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G24___,1,MAW,PT15M,1,2022-03-04 10:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-03 12:00:00+01:00,PsEkBNA6dfIOwC00pAvNKw,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,1,2022-03-03 10:00:00+01:00
@@ -983,11 +983,11 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2022-03-08 01:00:00+01:00,6_yMe_6SYt-q0ClW02VtYA,227.0,Fossil Brown coal/Lignite,27W-PU-EPR2----Y,Prunéřov 2,EPR2_______,EPR2_G24___,1,MAW,PT15M,2,2022-03-05 15:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-07 22:00:00+01:00,pnzPBGROnlEO50Im6ejLbg,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,3,2022-02-26 09:00:00+01:00
 470.3,CZ,Planned maintenance,A03,,2022-03-08 15:00:00+01:00,uC5RUcAknzlvB3SLeT1J2A,597.0,Fossil Brown coal/Lignite,27W-PU-ELED----H,Ledvice,ELED_______,ELED_G6____,1,MAW,PT15M,4,2022-03-08 04:00:00+01:00
-0,CZ,Planned maintenance,A03,Cancelled,2022-03-01 13:00:00+01:00,HjiK2qaJm7FefGlJghOPLQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,3,2022-03-01 06:00:00+01:00
 0,CZ,Planned maintenance,A03,Cancelled,2022-03-02 13:00:00+01:00,pi9AcnbrCmstm_bihc4I8w,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G4____,1,MAW,PT15M,3,2022-03-02 06:00:00+01:00
+0,CZ,Planned maintenance,A03,Cancelled,2022-03-01 13:00:00+01:00,HjiK2qaJm7FefGlJghOPLQ,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G3____,1,MAW,PT15M,3,2022-03-01 06:00:00+01:00
+0,CZ,Planned maintenance,A03,,2022-02-22 03:15:00+01:00,Hm2o8n_O_Bm3tcOylKkGsQ,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G5____,1,MAW,PT15M,2,2022-02-21 22:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-02-23 05:00:00+01:00,RsocwFbANfyO-wNZ6qOPeQ,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,2,2022-02-22 21:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-02-22 04:15:00+01:00,XZQSpJ5dhqgj2Onp2kCzOQ,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,5,2022-02-21 10:30:00+01:00
-0,CZ,Planned maintenance,A03,,2022-02-22 03:15:00+01:00,Hm2o8n_O_Bm3tcOylKkGsQ,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G5____,1,MAW,PT15M,2,2022-02-21 22:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-09 00:00:00+01:00,uD50gTjiSykfv5qQdcWt-A,182.0,Fossil Brown coal/Lignite,27W-PU-ETU2----I,Tušimice 2,ETU2_______,ETU2_G23___,1,MAW,PT15M,1,2022-03-08 19:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-09 17:00:00+01:00,CBr7BLiYi0DJqnEG4WqF9g,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,1,2022-03-09 16:00:00+01:00
 10,CZ,Planned maintenance,A03,Cancelled,2022-03-11 00:00:00+01:00,6w0i-3eOe944DjLgu2aa7w,200.0,Fossil Gas,27W-PU-EPVR----4,357 43 Vřesová,EPVR_______,EPVR.B1,1,MAW,PT15M,4,2022-03-10 20:00:00+01:00
@@ -999,6 +999,25 @@ avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_p
 0,CZ,Planned maintenance,A03,,2022-03-14 19:00:00+01:00,pm2PqGQLtWs9VTWH6cNAQg,319.0,Hydro Pumped Storage,27W-PU-EDST----Z,Dlouhé Stráně,EDST_______,EDST_G1____,1,MAW,PT15M,5,2022-03-09 18:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-03-25 17:00:00+01:00,t0vEZDwFlZeYPkb7mzMCtg,118.0,Hydro Pumped Storage,27W-PU-EDAL----O,Dalešice,EDAL_______,EDAL_G1____,1,MAW,PT15M,3,2022-03-07 06:00:00+01:00
 0,CZ,Planned maintenance,A03,,2022-04-04 13:00:00+02:00,bABHnsqyoAp9Lgl7lhFTWw,470.0,Nuclear,27W-PU-EDUK----1,Dukovany,EDUK_______,EDUK_B1____,1,MAW,PT15M,5,2022-02-18 12:00:00+01:00
+179.9,CZ,Unplanned outage,A03,,2022-12-20 06:00:00+01:00,DByI8BjSaVbYSVimekJnuA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-12-19 23:15:00+01:00
+116.3,CZ,Unplanned outage,A03,,2022-12-20 07:45:00+01:00,CX7eXcpTjwRAUYXZCPRwTw,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,3,2022-12-20 04:30:00+01:00
+116.3,CZ,Unplanned outage,A03,,2022-12-20 16:15:00+01:00,fXcWIYhnNxy8KtzK8zpOhw,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G6____,1,MAW,PT15M,3,2022-12-20 14:30:00+01:00
+184.9,CZ,Unplanned outage,A03,,2022-12-21 00:00:00+01:00,A4e5djG7zhd-kEs-lAY0mg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G1____,1,MAW,PT15M,7,2022-12-19 17:00:00+01:00
+164.9,CZ,Unplanned outage,A03,,2022-12-21 12:00:00+01:00,L-5fJADc-g4-pTs9aF65Zg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,12,2022-12-21 03:30:00+01:00
+174.9,CZ,Unplanned outage,A03,,2022-12-21 14:45:00+01:00,Q3ErUoOneL_HTp7FWfJmLw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,15,2022-12-20 21:00:00+01:00
+179.9,CZ,Unplanned outage,A03,,2022-12-21 23:00:00+01:00,fxPy1TSx2mN9ncXGrFn25g,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2022-12-21 21:30:00+01:00
+184.9,CZ,Unplanned outage,A03,,2022-12-22 22:30:00+01:00,AQxZVSIaN0U3uP4Ji8Kokw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,6,2022-12-22 12:45:00+01:00
+174.9,CZ,Unplanned outage,A03,,2022-12-22 22:30:00+01:00,KicJ4FpgMmqtK4UAhoVULw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,3,2022-12-22 13:45:00+01:00
+0,CZ,Unplanned outage,A03,,2022-12-23 02:00:00+01:00,4WKNHvzVIrOxdbtLZ-CdNg,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,5,2022-12-21 22:30:00+01:00
+174.9,CZ,Unplanned outage,A03,,2022-12-24 01:45:00+01:00,ovGyNot-ggti7wz5UkoweA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2022-12-24 01:00:00+01:00
+179.9,CZ,Unplanned outage,A03,,2022-12-24 17:00:00+01:00,VvDFsIVXOOQOYU58XCfECA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,2,2022-12-24 09:45:00+01:00
+0,CZ,Unplanned outage,A03,,2022-12-26 18:00:00+01:00,QSfTmTPXXIxGb5mIuwIxlw,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,1,2022-12-24 19:30:00+01:00
+164.9,CZ,Unplanned outage,A03,,2022-12-24 22:30:00+01:00,FcZ8KQFZLRKdXW7MKGwCSA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,2,2022-12-24 21:15:00+01:00
+179.9,CZ,Unplanned outage,A03,,2022-12-25 08:00:00+01:00,Op8FeDi1Hi1HBLGdJMC7eA,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G4____,1,MAW,PT15M,4,2022-12-25 07:00:00+01:00
+154.9,CZ,Unplanned outage,A03,,2022-12-25 14:30:00+01:00,jejfX9658WGYWqmEJ7Wesg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,2,2022-12-25 13:30:00+01:00
+164.9,CZ,Unplanned outage,A03,,2022-12-26 01:00:00+01:00,9k2UNC8sdj0oohnas4z2Wg,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G2____,1,MAW,PT15M,1,2022-12-25 23:00:00+01:00
+0,CZ,Unplanned outage,A03,,2022-12-27 00:45:00+01:00,sop_c7CzfA8rNExuB8j4eA,187.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G2____,1,MAW,PT15M,6,2022-12-25 07:45:00+01:00
+164.9,CZ,Unplanned outage,A03,,2022-12-27 03:15:00+01:00,NifULYDai1HF0ozHXuG4_w,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,3,2022-12-26 21:00:00+01:00
 0,CZ,Unplanned outage,A03,,2022-12-27 19:30:00+01:00,UFaQkYhZq5a1q9WxStYvKw,192.0,Fossil Brown coal/Lignite,27W-PU-ECHV----Y,Chvaletice,ECHV_______,ECHV_G3____,1,MAW,PT15M,2,2022-12-27 18:30:00+01:00
 116.3,CZ,Unplanned outage,A03,,2022-12-29 16:45:00+01:00,Y6_TBO_fE-5l6anepkdfAg,186.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G3____,1,MAW,PT15M,3,2022-12-29 15:00:00+01:00
 161.3,CZ,Unplanned outage,A03,,2022-12-29 22:15:00+01:00,QMqweaBiNSvgVWgoB5oIzg,185.0,Fossil Brown coal/Lignite,27W-PU-EPC1----Y,Počerady,EPC1_______,EPC1_G5____,1,MAW,PT15M,1,2022-12-29 21:45:00+01:00
