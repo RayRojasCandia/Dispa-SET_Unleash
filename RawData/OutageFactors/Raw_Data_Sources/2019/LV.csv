@@ -1,0 +1,13 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,LV,Planned maintenance,A03,,2019-02-02 01:00:00+02:00,2WjDycV4rCKLHSpoO85qyg,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT60M,1,2019-01-28 01:00:00+02:00
+0,LV,Planned maintenance,A03,,2019-03-10 01:00:00+02:00,4fDhEBdVBl61sY0tAiRFlw,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT60M,1,2019-03-05 01:00:00+02:00
+0,LV,Planned maintenance,A03,,2019-04-11 17:00:00+03:00,AEoIq_0PY_rccLpOlbp7Yw,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT60M,1,2019-04-08 08:00:00+03:00
+0,LV,Planned maintenance,A03,,2019-07-05 17:00:00+03:00,OzSf9Wp_wU9V_k2Bjw68vw,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT60M,2,2019-05-30 08:00:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-05 12:45:00+03:00,99HOtVB4vmTlFT0NQi5XMw,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT1M,3,2019-09-05 12:44:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-05 13:00:00+03:00,99HOtVB4vmTlFT0NQi5XMw,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT15M,3,2019-09-05 12:45:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-06 00:00:00+03:00,99HOtVB4vmTlFT0NQi5XMw,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT60M,3,2019-09-05 13:00:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-19 11:15:00+03:00,HlmDmsLE0aH_97XE7t14Ew,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT1M,2,2019-09-19 11:12:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-19 11:30:00+03:00,HlmDmsLE0aH_97XE7t14Ew,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT15M,2,2019-09-19 11:15:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-19 12:30:00+03:00,HlmDmsLE0aH_97XE7t14Ew,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT30M,2,2019-09-19 11:30:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-19 12:45:00+03:00,HlmDmsLE0aH_97XE7t14Ew,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT15M,2,2019-09-19 12:30:00+03:00
+0,LV,Unplanned outage,A03,,2019-09-19 12:57:00+03:00,HlmDmsLE0aH_97XE7t14Ew,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT1M,2,2019-09-19 12:45:00+03:00

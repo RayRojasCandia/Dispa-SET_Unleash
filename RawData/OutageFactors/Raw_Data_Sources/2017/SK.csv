@@ -1,0 +1,161 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,SK,Planned maintenance,A03,,2016-12-31 23:59:00+01:00,ueqqaxn8SRppPALpRd1kRQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,19,2016-12-10 00:00:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-03 14:30:00+01:00,InhRV0h2m2VPEQzInmjMsg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-01-03 11:49:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-05 14:00:00+01:00,OwT8y_kNhZvvwt8frvxsTw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG3,1,MAW,PT1M,1,2017-01-05 00:28:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-08 07:23:00+01:00,ObOmt5ILzH_a04d5mLzEnQ,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG11,1,MAW,PT1M,1,2017-01-07 06:03:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-07 20:48:00+01:00,VykPidWlStGrmX_N5o6FZg,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG12,1,MAW,PT1M,1,2017-01-07 06:03:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-20 19:50:00+01:00,AxbXv1MBk3YjrQJLqScESw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,2,2017-01-19 00:46:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-21 19:56:00+01:00,WeQOIwQ8zqfCQd3BQ5P8Xw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-01-21 03:47:00+01:00
+0,SK,Unplanned outage,A03,,2017-01-28 08:29:00+01:00,Hu28v4tPYocX14wcy9s9kA,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG3,1,MAW,PT1M,1,2017-01-28 04:28:00+01:00
+0,SK,Unplanned outage,A03,,2017-02-05 14:20:00+01:00,_4KmG9_FlfUkJVt7lfkPgg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG3,1,MAW,PT1M,2,2017-02-02 00:13:00+01:00
+0,SK,Unplanned outage,A03,,2017-02-05 20:37:00+01:00,vYhsbh6W6W1QcRWRWBiJ6A,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-02-04 03:53:00+01:00
+0,SK,Unplanned outage,A03,,2017-02-05 08:01:00+01:00,S2uliZpcjRBSrJ6FzydRrw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-02-04 04:11:00+01:00
+0,SK,Unplanned outage,A03,,2017-02-20 13:41:00+01:00,rwLbpNBlbFY_xkiG9znwOQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG3,1,MAW,PT1M,2,2017-02-20 09:22:00+01:00
+0,SK,Unplanned outage,A03,,2017-02-20 03:02:00+01:00,0-1vg-NYXRZXjFGHEeyb9A,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG3,1,MAW,PT1M,3,2017-02-19 15:57:00+01:00
+0,SK,Unplanned outage,A03,,2017-03-20 06:33:00+01:00,hL1D6MaCEpnAoDtQcxo2rQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,2,2017-03-18 11:50:00+01:00
+0,SK,Unplanned outage,A03,,2017-03-21 23:30:00+01:00,qVxlYKK0d6j2ROjRsmO5wA,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,2,2017-03-21 02:24:00+01:00
+0,SK,Unplanned outage,A03,,2017-03-25 13:43:00+01:00,G26zNPPUUxua2QajMmkx6A,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-03-25 08:50:00+01:00
+160,SK,Unplanned outage,A03,,2017-03-29 03:40:00+02:00,m4KY4wbaTMjCpH9aFoODMA,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG21,1,MAW,PT1M,1,2017-03-28 18:03:00+02:00
+160,SK,Unplanned outage,A03,,2017-03-29 03:40:00+02:00,dis8wC4cfkZA8sJgy355pg,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG22,1,MAW,PT1M,1,2017-03-28 18:03:00+02:00
+0,SK,Unplanned outage,A03,,2017-03-29 04:00:00+02:00,0WOyr19D3Lx_zYjExsPqHQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,2,2017-03-28 17:26:00+02:00
+0,SK,Unplanned outage,A03,,2017-03-30 22:35:00+02:00,o0mHdy02VCeT9zUziO5mUw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,2,2017-03-29 16:47:00+02:00
+0,SK,Unplanned outage,A03,,2017-04-11 02:36:00+02:00,KZtdPk7V4gJlc4tLPID4nw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,2,2017-04-10 04:58:00+02:00
+0,SK,Unplanned outage,A03,,2017-05-08 20:51:00+02:00,DNvRqt3Ot5oEDP_4iNhd2Q,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-05-08 18:41:00+02:00
+0,SK,Unplanned outage,A03,,2017-05-15 22:56:00+02:00,Wiw-oLhVOTpDOB8fOc4Hmg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,2,2017-05-13 08:23:00+02:00
+0,SK,Unplanned outage,A03,,2017-05-15 11:47:00+02:00,Ln7tXLwDRHZll6-Y9STW2w,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,1,2017-05-15 09:37:00+02:00
+0,SK,Unplanned outage,A03,,2017-05-17 11:50:00+02:00,kdzXIKjQXqHQzM9q8Fnc9g,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG11,1,MAW,PT1M,1,2017-05-14 21:09:00+02:00
+0,SK,Unplanned outage,A03,,2017-05-17 03:27:00+02:00,jS9ObkQ-YeEXrTIaj7pQcA,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG12,1,MAW,PT1M,1,2017-05-14 21:09:00+02:00
+0,SK,Unplanned outage,A03,,2017-05-19 11:25:00+02:00,6zIMP4K8feYR4e387sdKig,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-05-19 09:39:00+02:00
+0,SK,Unplanned outage,A03,,2017-06-02 11:58:00+02:00,ftrn7cxhH-7JZJpvDgjPAw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,3,2017-05-31 10:19:00+02:00
+0,SK,Unplanned outage,A03,,2017-06-02 21:35:00+02:00,r_BsDkF0SFxyIeYCnf99vw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-06-02 15:49:00+02:00
+0,SK,Unplanned outage,A03,,2017-06-20 05:51:00+02:00,Gl1yD9qC0f3Z_Z4GyW32-g,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG21,1,MAW,PT1M,3,2017-06-19 11:41:00+02:00
+0,SK,Unplanned outage,A03,,2017-06-22 09:12:00+02:00,mfztbs02pKlLffUsGvBOuQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-06-22 07:10:00+02:00
+0,SK,Unplanned outage,A03,,2017-06-22 14:11:00+02:00,JnQz4-n-n5NskT0Sztmr2w,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-06-22 12:53:00+02:00
+0,SK,Unplanned outage,A03,,2017-06-22 21:31:00+02:00,OfVP61eXDrvAr1DcvEd9Ew,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-06-22 17:18:00+02:00
+0,SK,Unplanned outage,A03,,2017-07-14 02:44:00+02:00,z6ONbu_3kTG8iZd0IRTbEA,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-07-12 00:17:00+02:00
+0,SK,Unplanned outage,A03,,2017-07-14 08:52:00+02:00,8lYfzPJCNVUZx7RHusQLSg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-07-14 07:02:00+02:00
+85,SK,Unplanned outage,A03,,2017-07-21 21:33:00+02:00,AoaGI1VvgrrGp_IPL0ayPg,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG12,1,MAW,PT1M,1,2017-07-21 17:28:00+02:00
+0,SK,Unplanned outage,A03,,2017-07-28 01:00:00+02:00,pEaSa5oCxiBn5jOlvcQztw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,2,2017-07-27 00:30:00+02:00
+0,SK,Unplanned outage,A03,,2017-07-21 19:43:00+02:00,dxP858FPZYn98X3Kn2csLw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,2,2017-07-21 04:25:00+02:00
+0,SK,Unplanned outage,A03,,2017-08-04 11:50:00+02:00,scDNirGdHiXOrsyp9IN8Gw,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG41,1,MAW,PT1M,2,2017-07-29 02:13:00+02:00
+0,SK,Unplanned outage,A03,,2017-08-04 16:32:00+02:00,TzJy6xU79UsbHSYYVLFGSQ,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG42,1,MAW,PT1M,2,2017-07-29 03:07:00+02:00
+0,SK,Unplanned outage,A03,,2017-08-05 04:45:00+02:00,QXxBkgc5Wa0cfow2WAx3_w,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-08-04 00:29:00+02:00
+0,SK,Unplanned outage,A03,,2017-08-11 04:00:00+02:00,W7pcPcYEo_z-ZV_F0pb0DA,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-08-10 14:20:00+02:00
+0,SK,Unplanned outage,A03,,2017-08-25 18:39:00+02:00,8oROzZ3cYS9-sZJpSOQeJg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-08-25 16:42:00+02:00
+0,SK,Unplanned outage,A03,,2017-09-03 23:03:00+02:00,eyPPMpGlqw3tTthROOejhQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,1,2017-09-02 05:19:00+02:00
+0,SK,Unplanned outage,A03,,2017-09-03 13:23:00+02:00,KcLU9nXpobGBY5o-NZUbew,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-09-03 10:24:00+02:00
+0,SK,Unplanned outage,A03,,2017-08-31 19:00:00+02:00,P33S5Kfp6yesWtlSmSpUFA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,2,2017-08-29 00:03:00+02:00
+0,SK,Unplanned outage,A03,,2017-09-18 23:00:00+02:00,JqDVSCRO1tdVNWyu-roYoA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-09-18 09:21:00+02:00
+0,SK,Unplanned outage,A03,,2017-09-22 11:42:00+02:00,oi8QjcP7Exn6_-1DPEL-LQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,2,2017-09-18 22:22:00+02:00
+0,SK,Unplanned outage,A03,,2017-09-26 20:32:00+02:00,PgKgm3GJWhkuZkcOz-27bg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,2,2017-09-23 19:59:00+02:00
+0,SK,Unplanned outage,A03,,2017-10-10 02:26:00+02:00,hYit56FAGJHjpJGSOAmklw,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,2,2017-10-08 10:17:00+02:00
+70,SK,Unplanned outage,A03,,2017-10-12 04:17:00+02:00,Y39uoKHdJfxGX28FZqdkiw,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG41,1,MAW,PT1M,1,2017-10-11 21:07:00+02:00
+180,SK,Unplanned outage,A03,,2017-10-12 04:17:00+02:00,xcbE-PyVlpM3sDhdCxkLOA,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG42,1,MAW,PT1M,1,2017-10-11 21:07:00+02:00
+0,SK,Unplanned outage,A03,,2017-10-29 20:13:00+01:00,Y8kx9xC_DQj5IjM4JDpbNg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,1,2017-10-29 14:09:00+01:00
+0,SK,Unplanned outage,A03,,2017-11-06 04:18:00+01:00,EcfJhQrBgSvPsv4r8_XdcA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,1,2017-11-06 00:43:00+01:00
+0,SK,Unplanned outage,A03,,2017-11-16 09:00:00+01:00,tBdqImy-8HCn3_nsCpEIcg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,2,2017-11-15 22:32:00+01:00
+0,SK,Unplanned outage,A03,,2017-11-16 23:42:00+01:00,g3q0WCZfMT9oPpiARf3WQQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,2,2017-11-13 00:17:00+01:00
+0,SK,Planned maintenance,A03,,2017-10-27 10:00:00+02:00,hnnTyFt3Dq8zNf5agtD8Og,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG22,1,MAW,PT1M,93,2017-10-07 03:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-10-27 10:00:00+02:00,bv2MSgTJ6WFLLvzxTn8_9w,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG21,1,MAW,PT1M,93,2017-10-07 03:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-02-16 14:00:00+01:00,vzmqKSd0avd7LCNjWMczlg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,349,2017-02-16 11:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-22 15:00:00+01:00,gD5cos8ULtqrs_rfrWE-aA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,405,2017-12-06 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-06-30 23:59:00+02:00,WUDkUy2N1kGIyH-pFuy61Q,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG32,1,MAW,PT1M,405,2017-06-12 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-01-16 23:59:00+01:00,5U9KReQ9zX62WSChmKomhA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,404,2017-01-01 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-06-30 23:59:00+02:00,KOEQVHA3mP9ijHrSzoaMZw,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG31,1,MAW,PT1M,405,2017-06-12 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-06-22 07:00:00+02:00,v3qR0R4UJWGVonDSPbF1yQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,405,2017-05-20 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-05-28 23:59:00+02:00,XYvkEb8DQZBFDuDvkIJ28g,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,405,2017-05-20 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-06-07 23:59:00+02:00,AoZVKvkMcheU8-MF6OkYwg,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG42,1,MAW,PT1M,405,2017-05-18 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-06-07 23:59:00+02:00,jokiGith67wcqchKwPsxlQ,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG41,1,MAW,PT1M,405,2017-05-18 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-02-08 11:00:00+01:00,O56shjri2gyt151ovjDXGA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,361,2017-02-08 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-05-11 23:59:00+02:00,qe42hOWyclw_K2xlzSnBwg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,405,2017-04-25 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-05-14 07:00:00+02:00,Y8QFDPAQjWXDLDej87eRKQ,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG12,1,MAW,PT1M,405,2017-03-25 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-06 15:00:00+01:00,SDufdA20KJZf5z4TIwS2JA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,405,2017-12-06 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-09-15 23:59:00+02:00,b4xlpHTdegM-mfoXJB4UIA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,405,2017-08-05 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-09-15 23:59:00+02:00,tVBQCZX5X8YyXh0QM6Owkg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,405,2017-08-05 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-09-29 23:59:00+02:00,zeAXKEb3IhzmgoerbwLpAQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,405,2017-07-31 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-05-14 07:00:00+02:00,mXVa-GY63cH4Asi4_tVaVg,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG11,1,MAW,PT1M,405,2017-03-25 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-01-30 01:00:00+01:00,uvBRkWWeI-nc1FTldG97hg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,370,2017-01-29 01:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-05-08 23:59:00+02:00,0vosrgEYUgxpuYjgpfW7Qg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,405,2017-04-22 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-09-22 23:59:00+02:00,sIovNWZSuG44jUKPauFgfg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,405,2017-08-05 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-01-24 12:00:00+01:00,MJISgLRW9yYrC9x53vvKvA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,370,2017-01-24 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-08 14:00:00+01:00,iq6WSSp08kgQ_MadbB-CRw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,330,2017-03-08 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-06-20 18:00:00+02:00,Azr5Fde4CmHpDFWEHVHNyg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,238,2017-06-20 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-07-14 23:59:00+02:00,_sdQfxybPK7SxoKj0OHS7A,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,194,2017-06-24 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-09-21 18:00:00+02:00,NzqRDR1MP78hjSPvPRvcIA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,118,2017-09-21 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-10-09 04:00:00+02:00,N_nWMMyhNbWFWLYhIIMIrw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,86,2017-09-19 18:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-06-23 18:00:00+02:00,av0a4AEPeIlbHSjrhrbkIw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,238,2017-06-21 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-10-03 12:00:00+02:00,Vu1G1IXMRZMp_0H31U39XQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,72,2017-10-03 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-09-21 18:00:00+02:00,-4LQscB-Pku29G4bXNl6_Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,118,2017-09-21 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-05-16 07:00:00+02:00,mglRG3fm-QGxo1Sz9kr8eQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,243,2017-05-13 08:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-11-06 23:59:00+01:00,Yje5tCTXRT0FDR9MvI9nfA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,43,2017-10-28 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-08-30 23:59:00+02:00,VegTgl72y8WzUyagbcir8g,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,106,2017-08-29 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-12-07 04:00:00+01:00,hkD5WicJHKZTS3RE24NR4A,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,4,2017-12-03 01:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-11-22 12:00:00+01:00,8ACW9kePz7sPl6_8rDbEdw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,52,2017-11-22 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-06-22 18:00:00+02:00,y7bS0qNS4mWReaLaOkQxnQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,238,2017-06-22 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-11-21 14:30:00+01:00,eOW7ospzWfSysDi2mHF1Bw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,55,2017-11-21 11:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-09-21 18:00:00+02:00,Wu88IqpJ_7BpHnGw25Jj3w,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,118,2017-09-21 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-12-11 04:00:00+01:00,SLXMbJed6C5JuS83dx6BHg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,1,2017-12-05 01:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-09-21 18:00:00+02:00,QyTSscKo4vU8dfzoZfOGzw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,118,2017-09-21 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-09-15 23:59:00+02:00,MAqF-wPlYH6w_SSBczpQDw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,104,2017-08-31 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-12-06 15:00:00+01:00,7h0LfsJveS_9FTGY_vzrgA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,23,2017-12-06 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-06-21 18:00:00+02:00,_UCLAMs_wiwRSqiKBFjhtw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,238,2017-06-21 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-11-21 18:00:00+01:00,dMrz_NY3P79YsSADo4zzKA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,52,2017-11-21 14:30:00+01:00
+0,SK,Planned maintenance,A03,,2017-11-21 14:30:00+01:00,qjgeyJjhwPq_tq5o1LyoCw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,52,2017-11-21 11:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-18 18:00:00+01:00,K0he1ZPRdL0iZe7LJIsK0Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,23,2017-12-07 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-04 17:00:00+01:00,AhgIwwEpx13p4TPkv57rSw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,23,2017-12-04 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-11-19 23:59:00+01:00,QD4hP-cJ4-W_TmduHfM4sQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,22,2017-11-18 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-11-21 23:59:00+01:00,MAmC3gHCx33q6w0ME6nj5A,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,22,2017-11-20 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-10-12 16:00:00+02:00,fxWTN0q-MJdI17KoVtc4HQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,63,2017-10-12 08:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-12-06 15:00:00+01:00,KE-zLJddM_9TaJg_tG43hA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,23,2017-12-06 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-06 18:00:00+01:00,0iDyz-ZP_nOqqOe2rXdqlA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,23,2017-12-06 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-05 18:00:00+01:00,wmVtmx23eaVuP8Z-hp4NxA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,23,2017-12-04 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-11-22 12:00:00+01:00,EUSiDpZymttBuwbt64T53Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,52,2017-11-22 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-11-21 18:00:00+01:00,k2YpcmLEI6Jm5eGXVMsQ9g,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,52,2017-11-21 14:30:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-06 15:00:00+01:00,AA8_BhiISMTluVU-sTuiNw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,23,2017-12-06 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-06 15:00:00+01:00,pFUvqvLxPkdD1qMhGfvFLA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,23,2017-12-06 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-06 18:00:00+01:00,ejP3pCifec73ZgSHIwP0jw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,23,2017-12-06 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-12-07 18:00:00+01:00,j3knlNTDsU8oDNOC0Ov0vA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,23,2017-12-07 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-01-24 12:00:00+01:00,w6bdU8uaJG3tKnxZQ9tefA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,370,2017-01-24 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-08 13:00:00+01:00,8HlUMmLYXJpagZp06CBcLQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,361,2017-02-08 12:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-01-20 01:00:00+01:00,HC_ppaB0d4fvxiaDMGkZeg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,384,2017-01-19 01:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-01-26 17:00:00+01:00,yTuZqJdsMUmhq2nrZS20ng,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,370,2017-01-26 10:00:00+01:00
+180,SK,Planned maintenance,A03,,2017-02-05 15:00:00+01:00,iWvm6-wUZTXMHl-LupH32Q,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG32,1,MAW,PT1M,363,2017-02-05 05:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-07-30 23:59:00+02:00,osmUIUTbX8f22MctuwjTGQ,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG42,1,MAW,PT1M,153,2017-07-29 04:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-07-30 23:59:00+02:00,cHgM6egdb6Try6Uzn1Q9FA,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG41,1,MAW,PT1M,153,2017-07-29 04:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-05-16 23:59:00+02:00,UwCcM47TERws-qWasbrRIQ,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG12,1,MAW,PT1M,243,2017-05-14 21:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-05-16 23:59:00+02:00,mpY2bvUXZCbUWjylrqOhIA,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG11,1,MAW,PT1M,243,2017-05-14 21:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-02-06 05:00:00+01:00,DerCoqsRhTY_i-mSi1K5bw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,363,2017-02-05 00:00:00+01:00
+180,SK,Planned maintenance,A03,,2017-02-05 15:00:00+01:00,OQhggaauJrIWS0moda3ehQ,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG31,1,MAW,PT1M,363,2017-02-05 05:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-10 23:59:00+01:00,7elVoFnIr-wbFC3dctRrsw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,362,2017-02-06 22:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-08 13:00:00+01:00,GwdeQi2ovpFol4-3kvxvyQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,361,2017-02-08 12:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-08 11:00:00+01:00,3xa1J6MIrPTmM9MRnVJW3Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,361,2017-02-08 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-08 11:00:00+01:00,epe-X7jCJCX4bjOAZ60h2Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,361,2017-02-08 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-16 16:00:00+01:00,Agj8gteMlw-BY9MRCTLv_Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,349,2017-02-16 14:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-09 14:00:00+01:00,ab1G28dUYMgVGyEQwsUd1g,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,328,2017-03-09 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-01-26 23:00:00+01:00,ErvsUeUJgFKSN0ToOTq3CQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,370,2017-01-26 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-06 17:00:00+01:00,xooqKl86Oo4i2JQ_SWMQ-Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,335,2017-03-06 14:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-22 23:59:00+01:00,CLw7Fd4lCv3rTDeo9NB7nA,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,314,2017-03-21 03:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-22 11:00:00+01:00,D_XbpSlp8Em0K5WTqpkzdA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,314,2017-03-22 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-31 23:59:00+02:00,le97QhjA1MvKwDS9kvQsMg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,357,2017-02-11 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-23 18:00:00+01:00,LKQM8Qd30BeSqsoCMqCy9w,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,349,2017-02-20 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-28 11:00:00+01:00,9yFTFpa9kvRvc36ltmBNJA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,337,2017-02-28 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-05-19 23:59:00+02:00,mcmqpGbgvxmHYDmixVrw_w,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,301,2017-04-01 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-02-16 18:00:00+01:00,_JRa7M9nYqAhlmxm4c_QaA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,349,2017-02-16 16:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-17 10:00:00+01:00,F8D-RgwaqgFghJTnZx1waA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,349,2017-02-17 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-07 15:00:00+01:00,iSvXvh43ZmBDEIp9u-HBrg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,331,2017-03-07 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-07 18:00:00+01:00,3cg8pTddfJPwk7b4XZC28A,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,331,2017-03-07 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-08 23:59:00+01:00,EEvqR4R4D1wVMtkmo70WQQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,330,2017-03-08 01:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-09-22 03:00:00+02:00,ZapPG7szBFJsom--3_1fpg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,86,2017-09-16 22:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-06-20 18:00:00+02:00,v1KIkSsr08axGoc4g88Mew,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT1M,238,2017-06-20 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-07-30 22:00:00+02:00,ool1fDv7q-ojxNVx-7Mvbg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT1M,153,2017-07-26 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-03-09 14:00:00+01:00,3KLBq6V27_Nlp4GftG79kg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT1M,328,2017-03-09 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-02-28 10:00:00+01:00,OgWAykLH1KtYr2CM94sAMA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT1M,337,2017-02-28 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-03-08 14:00:00+01:00,07dTFiRoBIMCPe01ps-PMw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT1M,330,2017-03-08 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-05-29 11:00:00+02:00,jsqwDsv1EkgNxFJ7Htn7WQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT1M,227,2017-05-29 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-11-17 04:00:00+01:00,GHxpdCTStAhZeOzwdtWtlg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT1M,24,2017-11-13 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-06-22 18:00:00+02:00,qhOSi7yYWoAy_lDiy1BVoQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT1M,238,2017-06-22 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2017-03-24 23:59:00+01:00,dohfV53lSkSml7qnKA14Ug,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,312,2017-03-23 22:00:00+01:00
+0,SK,Planned maintenance,A03,,2017-05-04 19:00:00+02:00,CJ-pFs5t_GvmeowmyUxJnw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT1M,258,2017-05-04 07:00:00+02:00
+0,SK,Unplanned outage,A03,,2017-12-08 10:34:00+01:00,sjWUf7YWi9FWRDguAj7ZBg,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG1,1,MAW,PT1M,2,2017-12-03 00:16:00+01:00
+0,SK,Unplanned outage,A03,,2017-12-21 16:16:00+01:00,_77bsBPi4U8bUVfWhtgk2A,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT60M,1,2017-12-21 00:16:00+01:00
+0,SK,Unplanned outage,A03,,2017-12-22 16:37:00+01:00,yQqqf1U0uS-mF7H5L9RnsQ,110.0,Fossil Brown coal/Lignite,24WV--ENO------B,Nováky,Nováky,Nováky TG2,1,MAW,PT60M,1,2017-12-22 04:37:00+01:00

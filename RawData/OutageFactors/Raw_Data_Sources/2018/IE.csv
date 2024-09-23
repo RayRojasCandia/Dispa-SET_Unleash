@@ -1,0 +1,769 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,IE,Planned maintenance,A03,,2018-06-20 23:30:00+01:00,WuenOoN8B_GD5LlYronlYg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT1M,1,2018-06-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-20 23:30:00+01:00,45EhbgHQnjUlv5Vd4fJgGQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT1M,1,2018-06-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-20 23:30:00+01:00,UmJUtA0Vp92Ye3Pu8lv4SA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT1M,1,2018-06-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-20 23:30:00+01:00,nob03tXgr9ycSCNcly5IJw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT1M,1,2018-06-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-18 23:30:00+01:00,lsPeQCFVXAzuHqCorthYwg,243.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 4,1,MAW,PT1M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-15 19:30:00+01:00,yorsxW2INRbWr0N_JCxv2g,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT1M,1,2018-06-11 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-18 19:30:00+01:00,RRP1JN6S-PV2HtMXzuJPtw,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT1M,1,2018-08-27 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-13 19:30:00+01:00,HzDhRY_K54FtNRgtSO0P_w,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT1M,1,2018-04-09 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-18 19:30:00+01:00,hZltyty2cMlQhgi3oorvUQ,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT1M,1,2018-05-14 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-01 23:30:00+01:00,TTSVoibINJa21toK-73Q6Q,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,1,2018-06-08 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-12 16:30:00+01:00,lIlbcaVnMgi92xv4vIVXUA,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT1M,1,2018-05-12 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-12 16:30:00+01:00,tNWKeGesbNmn0Xh487etGg,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT1M,1,2018-05-12 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-29 19:30:00+01:00,25K2QE2-VCfGgCpi0h4NVg,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT1M,1,2018-06-25 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-21 19:30:00+01:00,K4wbdxmfeGwXecsyqMAY_w,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 4,1,MAW,PT1M,1,2018-09-17 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-21 23:30:00+01:00,ImGEFjHYjYnv4r5qHoIqgg,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT1M,1,2018-09-10 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-06 23:30:00+01:00,WXQsCMzNUDEVbFAwe_Hbug,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT1M,1,2018-09-01 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-14 23:30:00+01:00,3IpmsZN4pSwvH78btt063A,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT1M,1,2018-07-12 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-14 23:30:00+01:00,NvJ5LYsHMc8JHAidwkCXCQ,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 2,1,MAW,PT1M,1,2018-07-12 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-14 23:30:00+01:00,x0B9346MPKg4tJFnVzdnRQ,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 4,1,MAW,PT1M,1,2018-05-12 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-14 23:30:00+01:00,UpxEw4xhAFKox5ERNv5WgQ,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT1M,1,2018-05-12 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-01 19:30:00+01:00,IjBVwPmZhu3e2ANcOuF7iQ,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT1M,1,2018-06-27 20:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-09 23:30:00+01:00,TRDEOKcgfN-pxil3G1Pq5g,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT1M,1,2018-07-02 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-01-30 16:30:00+00:00,hQ1MBq1fL-sJ4MZUvDofZw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT1M,1,2018-01-28 07:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-05-09 21:30:00+01:00,-4dqOHu-4UO41DzvGcXACQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT1M,1,2018-05-08 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-12 06:30:00+01:00,CJyAiJGZg1cNih32o3uqAA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT1M,1,2018-09-09 07:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-10 16:30:00+01:00,-dDmatBJPswuzUl_KM0osA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT1M,1,2018-04-08 07:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-08 21:30:00+01:00,AzozlNBZybZwHmDBARC9TA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT1M,1,2018-05-08 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-08-14 16:30:00+01:00,lgvDTkkRs59narO1mM9rog,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT1M,1,2018-08-12 07:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-12-12 06:30:00+00:00,MJa1zUFZc4GuncfqSDvC1g,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT1M,1,2018-12-09 07:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-07-23 23:30:00+01:00,Cw1ip9IeL27KXr9dsU_aHg,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT1M,1,2018-07-16 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-18 23:30:00+01:00,-iBy-JdTMjsc3cCyVo0rzQ,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT1M,1,2018-07-24 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-03-26 23:30:00+01:00,Amf7evmscDQxAw504vxEWw,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT1M,1,2018-03-20 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-04-26 23:30:00+01:00,or6s4KuSMnCVrphk5SAN6Q,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT1M,1,2018-03-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-26 23:30:00+01:00,miJ9_X5V3dJwpOXM2p_Tyw,8.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 3,1,MAW,PT1M,1,2018-06-05 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-29 23:30:00+01:00,3RR1GBKwtimyHL1fyOLl4A,15.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 1,1,MAW,PT1M,1,2018-05-08 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-25 23:30:00+01:00,Eu5pDkL9ydy1WUuuXXA32A,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT1M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-18 23:30:00+01:00,UP0JxF5-1pgUhAE8vmGNVg,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT1M,1,2018-06-04 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-08 23:30:00+01:00,Jtpi3lXXUVMqoKzolB9K4Q,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT1M,1,2018-09-03 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-01 19:30:00+01:00,a6z93mJLsRbqgE-5oItu_g,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT1M,1,2018-06-27 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-07 23:30:00+01:00,pqeE92vxYmvBuIOt1E483A,258.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 1,1,MAW,PT1M,1,2018-04-28 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2019-01-01 23:30:00+00:00,DHICBpvVU6ubJ8YIukQoiQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,1,2018-12-27 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-04-26 19:30:00+01:00,kb0kgexao7VtuoLFtWy5gA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT1M,1,2018-04-05 20:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-08 23:30:00+01:00,4llMO2ipR2LWvo2_3M-qSQ,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT1M,1,2018-09-01 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-25 19:30:00+01:00,H3jyiJglCxISNVcb0uoWmw,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT1M,1,2018-08-27 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-04 07:30:00+01:00,iRI3FqhR3i3nenVA_suoZw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,1,2018-03-29 18:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-09 07:30:00+01:00,dTEjXrLiVDevOg7iaj3Zhg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,1,2018-06-01 12:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-12 17:30:00+01:00,29tBgOt77TRxqFdqmKg0Fg,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT1M,1,2018-05-12 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-12 17:30:00+01:00,iAlh1uluQoXcF2B3V_jkBQ,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT1M,1,2018-05-12 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-12-12 19:30:00+00:00,KxdTMy6iIiTlxlFEsSAuQQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT1M,1,2018-12-05 16:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-20 23:30:00+01:00,NugYYwnL1O1-6GtDFn0Qqw,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT1M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-13 23:30:00+01:00,JkACMZjVgrffNYi4j0Newg,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT1M,1,2018-04-23 00:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2018-04-03 23:30:00+01:00,JJ2OLOc1GoUTvNpUbSCG7A,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,2,2018-03-30 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-16 16:30:00+01:00,-kDkJIOEkc4j4UBnF2lJMw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT1M,1,2018-06-10 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-02-01 19:30:00+00:00,SDpkKxTIYrqpviO0Eb7mxg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT1M,1,2018-01-25 20:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-08-30 19:30:00+01:00,xrRtX85j3jPTZJRlHdbGjw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT1M,1,2018-06-28 20:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-30 19:30:00+01:00,DHyYiDGYVTtRx81Mq4O16Q,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT1M,1,2018-09-10 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-09 07:30:00+01:00,2uerFNRYP1P1uOd0xAOYdA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,1,2018-06-05 12:00:00+01:00
+0,IE,Planned maintenance,A03,,2019-01-02 07:30:00+00:00,Ill2MNpKNvo7reT_fxP1qg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT1M,1,2018-12-26 12:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-04-21 17:30:00+01:00,B5FJl0abkd65UJlJJAyHjQ,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT1M,1,2018-04-21 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-21 17:30:00+01:00,ZzUpqZ1ty_0HtCsPykepZQ,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT1M,1,2018-04-21 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-10-13 19:30:00+01:00,0-z-W6Jo0AN9GJDLaey80g,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT1M,1,2018-10-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-23 19:30:00+01:00,GN3DNFxhbhBokd94soJHKw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT1M,1,2018-06-21 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-10-24 23:30:00+01:00,asz5wZmxdmv3RDA44XTcig,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT1M,1,2018-09-29 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-08-04 16:30:00+01:00,r9BZ0l0stsoGIMKR0bS8NA,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT1M,1,2018-07-28 09:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-05 21:30:00+01:00,NwbWw_5qBnItGVhRDhzpxg,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT1M,1,2018-08-31 22:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-08 19:30:00+01:00,y1CzpP9ek6y4_sAwW6CheQ,258.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 1,1,MAW,PT1M,1,2018-06-06 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-23 23:30:00+01:00,1IjpK-U7Nh1gNax6oUw8fA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT1M,1,2018-06-18 00:00:00+01:00
+84,IE,Planned maintenance,A03,,2018-08-13 23:30:00+01:00,7HyNM-bfKAhDq15LHn1BIQ,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT1M,1,2018-07-24 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-22 12:30:00+01:00,FUYRdhpn140v5ybGhmy0-g,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT1M,1,2018-09-14 13:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-18 23:30:00+01:00,XOKB4J-EQnJbX-bQ54Y-kw,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT1M,1,2018-05-15 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-28 16:30:00+01:00,K-G83R25CmCTfyAx9470LA,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT1M,1,2018-07-21 09:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-24 16:30:00+01:00,zDL1bNtc0F11vNNIxWKVxw,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT1M,1,2018-04-09 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-24 16:30:00+01:00,6CiAHBxpzCrFzTnWDA2oIg,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 2,1,MAW,PT1M,1,2018-04-09 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-08-28 16:30:00+01:00,u-IbfZN29DDaeuY9Yg9uFw,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT1M,1,2018-08-13 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-11-14 16:30:00+00:00,jYzrt7RfwvT0SAUdF9wnVA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-11-12 08:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-11-14 16:30:00+00:00,x0aD0041_nF4p0GwyeTXkQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-11-12 08:00:00+00:00
+20,IE,Unplanned outage,A03,,2018-01-02 00:00:00+00:00,Dgi4naeWS0ogPYy1LdD-Bw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2017-12-31 21:45:00+00:00
+23,IE,Unplanned outage,A03,,2018-01-02 00:00:00+00:00,Qka5k63t-JTim0QfcRQqdQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-01 15:00:00+00:00
+43,IE,Unplanned outage,A03,,2018-01-02 00:00:00+00:00,SlFSR6GpTlkBHDjdCkzBgA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-01 18:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-01 01:30:00+00:00,SuoHgkIKYpUxKYLQEn8Rrg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2017-12-31 22:30:00+00:00
+20,IE,Unplanned outage,A03,,2018-01-04 00:00:00+00:00,z7pGEkscXh72cnZIO-7zCw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-02 20:45:00+00:00
+0,IE,Planned maintenance,A03,Cancelled,2018-01-12 16:30:00+00:00,tePARuvUCouKhmV1-AYjxg,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,2,2018-01-08 09:00:00+00:00
+20,IE,Unplanned outage,A03,,2018-01-01 15:15:00+00:00,-iWRMMbNDWWtztm6pxm2Wg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,2,2018-01-01 01:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-01 01:15:00+00:00,OgDkrNegoygdsfecSZndtg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-01 00:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-01 15:15:00+00:00,xdgNFsAmUtKtyk_lUIVAKg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-01 01:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-04 00:00:00+00:00,hV2N49I6xyLQaEhxolCYEA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-03 17:30:00+00:00
+270,IE,Unplanned outage,A03,,2018-01-05 00:00:00+00:00,mbokiN8-Jv8l9XDA7tSTdg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-03 23:45:00+00:00
+0,IE,Planned maintenance,A03,,2018-09-26 23:30:00+01:00,Wdh27GJzdoQWBd-sf5nf0A,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-09-12 20:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-01-08 13:30:00+00:00,scktOSo8cyu0xi7ZLTwQzg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-01-08 10:00:00+00:00
+255,IE,Unplanned outage,A03,,2018-01-05 00:00:00+00:00,UKsvq5yovkd1QQ5FU2Ac9Q,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-04 16:15:00+00:00
+20,IE,Unplanned outage,A03,,2018-01-05 00:00:00+00:00,l7SI8BMVOZw6JT4N-N6EIQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-04 19:15:00+00:00
+270,IE,Unplanned outage,A03,,2018-01-05 00:00:00+00:00,Pf91AY40vWyZf86zy5i-Jw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-04 19:00:00+00:00
+22,IE,Unplanned outage,A03,,2018-01-05 01:15:00+00:00,OuXIdcWmhF1Ybko0e07iBg,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-05 00:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-04 09:00:00+00:00,a5peFOj3qrOgTNFlm3K-wA,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-01-04 06:45:00+00:00
+395,IE,Unplanned outage,A03,,2018-01-05 06:30:00+00:00,nrE7CVnJnNv43X9dMGPpSw,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-01-04 08:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-08 00:00:00+00:00,GAObbWA3n1TmPHh9m8RbvA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-01-07 04:30:00+00:00
+280,IE,Unplanned outage,A03,,2018-01-09 00:00:00+00:00,NxR4-pWjcs0ekoPsATWYgw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-08 09:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-09 00:00:00+00:00,GaQUx2CGpxTAlbfJ08r4kA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-01-08 13:30:00+00:00
+79,IE,Unplanned outage,A03,,2018-01-11 00:00:00+00:00,zH0YYsT_45acyxGjDT2R6Q,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-01-10 14:00:00+00:00
+130,IE,Unplanned outage,A03,,2018-01-12 00:00:00+00:00,oHPG7liOxj7lG6ivf3VrKw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-01-10 21:15:00+00:00
+225,IE,Unplanned outage,A03,,2018-01-12 00:00:00+00:00,EfmgW3at61XE115YedCRwA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-01-11 00:15:00+00:00
+200,IE,Unplanned outage,A03,,2018-01-12 00:00:00+00:00,gj4fju_qD4EryDuI8e5lnA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-01-11 06:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-01-08 13:00:00+00:00,nBwE1-kZh2hKvgPYxnxuCQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-01-08 11:00:00+00:00
+280,IE,Unplanned outage,A03,,2018-01-12 00:00:00+00:00,AfIvFr20OVibrAYIP9g98w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-01-11 18:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-01-13 04:30:00+00:00,KbCcSeW54jeJ6KuWft0Shg,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-01-12 14:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-23 16:30:00+01:00,lUR63ZB7fv4QZH2IPDprUw,243.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 4,1,MAW,PT15M,1,2018-06-11 08:00:00+01:00
+17,IE,Unplanned outage,A03,,2018-01-13 00:00:00+00:00,Bp5ueZtgQRG7aK5zqPKSfQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-12 16:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-16 00:00:00+00:00,LqkNMAv4TEKdWAvRPdha5g,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-01-15 00:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-16 14:45:00+00:00,lusat-XtWvqfZEe58pfWsQ,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-01-16 14:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-01-22 13:00:00+00:00,8XzOuOO4yeFDy1F6ZIjWow,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-01-22 11:00:00+00:00
+41,IE,Unplanned outage,A03,,2018-01-18 00:00:00+00:00,K5tTtzfhYKbjh85QS5yv-Q,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-17 11:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-18 00:00:00+00:00,SE2hdeFu5NaZ0IAjtPjJuA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-01-17 12:00:00+00:00
+76,IE,Unplanned outage,A03,,2018-01-18 00:00:00+00:00,9Ox3osXQVUq7vG209S8rew,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-17 13:00:00+00:00
+15,IE,Unplanned outage,A03,,2018-01-19 00:00:00+00:00,Y4RVf4uGJF89_Vy7E5dGcQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-17 21:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-17 23:00:00+00:00,-xWB5A37SrKQFKp7-nu9Eg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-01-17 22:15:00+00:00
+150,IE,Unplanned outage,A03,,2018-01-19 00:00:00+00:00,qZYmULblVkYSdI-x2yAuEw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-01-18 05:15:00+00:00
+0,IE,Planned maintenance,A03,,2018-03-23 19:30:00+00:00,Hd6KC_BghbvsT4n5h4RrzA,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-03-19 08:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-04-20 19:30:00+01:00,JxmtHeKCg-2rHPwRXfJfDQ,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-04-16 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-22 19:30:00+01:00,WtEB7gMww6nORf6p7e3vqA,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-06-18 08:00:00+01:00
+21,IE,Unplanned outage,A03,,2018-01-20 00:00:00+00:00,wkiRYk7O7qRrNctft2sDjQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-19 07:15:00+00:00
+210,IE,Unplanned outage,A03,,2018-01-20 00:00:00+00:00,ngmlR2e149eonlV1g3ofyg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-01-19 07:00:00+00:00
+270,IE,Unplanned outage,A03,,2018-01-20 00:00:00+00:00,1MMeKvujfxCAmGvvvrSmQQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-19 10:00:00+00:00
+22,IE,Unplanned outage,A03,,2018-01-20 00:00:00+00:00,Qw9UDSCfLm8DfBgMUxoagw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-19 15:00:00+00:00
+250,IE,Unplanned outage,A03,,2018-01-20 00:00:00+00:00,ggZpfKiyxX-aaIXBJYdLbw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-01-19 20:00:00+00:00
+270,IE,Unplanned outage,A03,,2018-01-21 00:00:00+00:00,iSpZ-6NijTgcWHJWU1uG0Q,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-01-20 05:15:00+00:00
+124,IE,Unplanned outage,A03,,2018-01-21 00:00:00+00:00,tF4qrjI5O2ZRwEebJ6rUCA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-01-20 15:00:00+00:00
+400,IE,Unplanned outage,A03,,2018-01-22 00:00:00+00:00,IDD2Tlrvbp6j1Ml7lRkuuQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-01-21 01:00:00+00:00
+23,IE,Unplanned outage,A03,,2018-01-22 00:00:00+00:00,DXzAecBuK_1j-IZALvlTsQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-01-21 08:00:00+00:00
+280,IE,Unplanned outage,A03,,2018-01-22 00:00:00+00:00,7gWrHQXStqXOaMuW8QzQLg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-21 19:00:00+00:00
+111,IE,Unplanned outage,A03,,2018-01-22 17:15:00+00:00,0N3dKdQc1i03xrGR4Qr0rA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-01-22 16:15:00+00:00
+125,IE,Unplanned outage,A03,,2018-01-23 00:00:00+00:00,yz8OQW42gq-SiQiaOB10Ww,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-01-22 17:00:00+00:00
+91,IE,Unplanned outage,A03,,2018-01-22 22:15:00+00:00,rQsTZCUA_tDrmWitK1Jwrw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-01-22 21:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-04-13 21:30:00+01:00,ASw89Pd5jglr1Mdq8iaysA,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-02-02 22:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-23 12:30:00+00:00,j0yoxD4SymUw1LLVsKMgpg,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-01-23 11:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-29 00:00:00+00:00,ceiKjUYjAMRaWmSF7os0KQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-01-28 01:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-28 09:00:00+00:00,fHhuwVL-fO82qadKMrSYeA,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-01-28 04:45:00+00:00
+80,IE,Unplanned outage,A03,,2018-01-28 19:45:00+00:00,VdePy5x-HNt0zkd9bDFqzA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-01-28 15:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-01-30 00:00:00+00:00,uOAfX5WItrB0EVg4y-OSJQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-01-29 16:15:00+00:00
+235,IE,Unplanned outage,A03,,2018-01-30 00:00:00+00:00,pY4NOrjz8eQ66j_uzZLs5A,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-01-29 19:15:00+00:00
+0,IE,Planned maintenance,A03,,2018-02-07 15:30:00+00:00,tyx4g-wrs8rWIxscv1rdaw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-02-07 09:00:00+00:00
+275,IE,Unplanned outage,A03,,2018-01-31 00:00:00+00:00,ybHovf5iiNtxq0n1AbZpMg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-30 08:00:00+00:00
+280,IE,Unplanned outage,A03,,2018-01-31 00:00:00+00:00,95pRX3PCapo0fcvdCOBR6g,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-01-30 08:00:00+00:00
+280,IE,Unplanned outage,A03,,2018-01-31 00:00:00+00:00,HuX5NMhdyDUBCV222JWlhQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-01-30 10:15:00+00:00
+176,IE,Unplanned outage,A03,,2018-01-30 13:15:00+00:00,31rFIdRrz27Dn_15tyDfmA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-01-30 12:15:00+00:00
+84,IE,Planned maintenance,A03,,2018-04-20 11:30:00+01:00,QTASAMYoIS8H9FEMzEakRA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2018-04-17 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-02-03 00:00:00+00:00,kKphmBqqRrdBL0fMVNeK9g,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-02-02 00:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-03 00:00:00+00:00,mrKuyDJgQRbugQlD2-4hyw,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-02-02 00:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-02 03:15:00+00:00,5xf4xQSRrui-nSG6rj6YZw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-01 23:30:00+00:00
+98,IE,Unplanned outage,A03,,2018-02-03 00:00:00+00:00,-LW10VKfTx1YVNKEhgh3JQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-02 05:00:00+00:00
+250,IE,Unplanned outage,A03,,2018-02-02 09:00:00+00:00,H8WXNFTxMtqimmC6YMwwuw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-02 08:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-03 00:00:00+00:00,0s-VSdp1Xwfu-eueXAU8eQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-02-02 14:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-03 00:00:00+00:00,heyiXv-7t7hw0AOFKNHyhg,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-02-02 14:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-03 17:30:00+00:00,-zgFgYj1l6CXMXvJW0Mdcw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-03 13:15:00+00:00
+280,IE,Unplanned outage,A03,,2018-02-04 00:00:00+00:00,BxqGXdtz-vUs37bZgBYxtA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-03 17:15:00+00:00
+87,IE,Unplanned outage,A03,,2018-02-04 00:00:00+00:00,2kX6AE5F7mfsLBJnbNDNGw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-02-03 20:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-04 00:00:00+00:00,YSr3pnUOWhAZuzjB_7qsLg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-03 20:00:00+00:00
+77,IE,Unplanned outage,A03,,2018-02-05 00:00:00+00:00,Dlsmq6YTwgVxXp6ZEAJm4A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-04 03:00:00+00:00
+77,IE,Unplanned outage,A03,,2018-02-04 08:00:00+00:00,U04ma5hLxjiW8ue0OxGyUQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-04 04:15:00+00:00
+87,IE,Unplanned outage,A03,,2018-02-05 00:00:00+00:00,H0Gx3StHF1_9KiNtMP0b_g,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-04 07:45:00+00:00
+215,IE,Unplanned outage,A03,,2018-02-05 00:00:00+00:00,-2lf1QfjvIcSRYsfME0ckA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-04 14:15:00+00:00
+235,IE,Unplanned outage,A03,,2018-02-04 16:00:00+00:00,y11nqnVb-EQqVqdLr3M7lg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-04 15:00:00+00:00
+280,IE,Unplanned outage,A03,,2018-02-05 00:00:00+00:00,JBSwN8Km55E7pBjrCBuhuA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-04 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-06 00:00:00+00:00,AAV2ah6C6riBTi0h5zaKkw,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-02-04 22:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-06 00:00:00+00:00,ftNdl5Sr7lQAjTs3zwQAOA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-02-04 23:45:00+00:00
+280,IE,Unplanned outage,A03,,2018-02-06 00:00:00+00:00,ywG10Ch1ThdhxdqmGEY0qQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-05 04:15:00+00:00
+275,IE,Unplanned outage,A03,,2018-02-06 00:00:00+00:00,0_bZKfpqjs972HMMtB8Jdw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-05 04:15:00+00:00
+280,IE,Unplanned outage,A03,,2018-02-06 00:00:00+00:00,PnOk2ZcH9VGk8SXfGLdhvg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-05 07:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-06 00:00:00+00:00,5NA4gxIFpoDraYMC4muKWA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-02-05 07:45:00+00:00
+13,IE,Unplanned outage,A03,,2018-02-05 10:45:00+00:00,nZVTMK7ayor_hUN_D0M6BQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-05 09:15:00+00:00
+33,IE,Unplanned outage,A03,,2018-02-05 11:30:00+00:00,curehbsSmWYzJO5syUODPQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-05 10:30:00+00:00
+18,IE,Unplanned outage,A03,,2018-02-06 09:45:00+00:00,lXbuifb8mhlJ5LgfIpr6Hw,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-02-06 09:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-05 10:45:00+00:00,EbZ3-1SxQcsBHyFzJ9aw8A,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-05 09:30:00+00:00
+17,IE,Unplanned outage,A03,,2018-02-09 00:00:00+00:00,NHVGWKiofI0jo-w6SErLAA,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-02-07 23:15:00+00:00
+370,IE,Unplanned outage,A03,,2018-02-09 00:00:00+00:00,pMZ07FHSCvVT9f79k2AuIA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-02-08 01:00:00+00:00
+133,IE,Unplanned outage,A03,,2018-02-09 00:00:00+00:00,j3uU0SQkg_WPELQkvN45lw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-08 01:00:00+00:00
+205,IE,Unplanned outage,A03,,2018-02-09 00:00:00+00:00,Ese8xBsIxMB2o2eTVfkVaw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-08 06:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-09 00:00:00+00:00,ONTwF7kr5cFEevnSD0PZkw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-02-07 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-09 00:00:00+00:00,9v_ZqKkdCpHw5IDf3ag3Bg,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2018-02-08 22:30:00+00:00
+205,IE,Unplanned outage,A03,,2018-02-10 00:00:00+00:00,Zu2do_auH-dw_qCRS9NIaA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-02-09 06:00:00+00:00
+275,IE,Unplanned outage,A03,,2018-02-11 00:00:00+00:00,oZ1E5XeF4L3Db62A6KAt0A,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-10 20:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-12 00:00:00+00:00,SWKfGe06i15Mi7yNsPPS7Q,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-11 14:00:00+00:00
+136,IE,Unplanned outage,A03,,2018-02-12 00:00:00+00:00,LCzBULg6HZvHkYHoHS1R2w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-11 17:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-11 20:30:00+00:00,pUeuiuIeDd_R2F9wUgIomg,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT15M,1,2018-02-11 18:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-11 20:30:00+00:00,c-7Tf01AbciGruBNNa9DTA,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2018-02-11 18:30:00+00:00
+26,IE,Unplanned outage,A03,,2018-02-13 00:00:00+00:00,6eIlm_IQRMTnAEz6X_e6mA,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-02-12 12:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-13 00:00:00+00:00,zu7XKEqbnTADHIEqHPSXpg,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-02-12 16:00:00+00:00
+85,IE,Unplanned outage,A03,,2018-02-14 00:00:00+00:00,T30Irw18yPl7EXUXFpYCEQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-13 03:00:00+00:00
+48,IE,Unplanned outage,A03,,2018-02-15 00:00:00+00:00,rRfR91uJVnTDiVj0sFudFQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-14 10:00:00+00:00
+200,IE,Unplanned outage,A03,,2018-02-15 00:00:00+00:00,Rw0NYXyaMD-2ub3QaKn_wQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-14 19:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-15 01:45:00+00:00,Nu7jM8wa04YFV26juBpdIg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-02-14 22:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,P0MhAPS1O77_98x1Lwkx9w,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-02-14 22:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,aC8tMCobWMOnYiKkIMFGvg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-02-15 02:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,4EuDycSfGgRqRn0_GKPALA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-02-15 04:00:00+00:00
+40,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,rMgYhcLCERc5ncrfqfMn8A,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-02-15 04:45:00+00:00
+61,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,-uAKIn4hv_7KIXAajCGR2A,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-02-15 07:00:00+00:00
+77,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,OtdTQ6uHf322tOQLpAIF-A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-15 10:00:00+00:00
+85,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,NEGdKGwmRDqZY8wb8U2qXw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-15 12:00:00+00:00
+76,IE,Unplanned outage,A03,,2018-02-16 00:00:00+00:00,6043qnj8iXkJpQm7xdtD0g,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-02-15 15:00:00+00:00
+125,IE,Unplanned outage,A03,,2018-02-14 10:00:00+00:00,LWn_QuM4MpHaL6kSPdDdsA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-13 21:45:00+00:00
+75,IE,Unplanned outage,A03,,2018-02-16 12:15:00+00:00,qkcL5O9bDXpSI6-7AXQ-jg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-02-16 11:15:00+00:00
+137,IE,Unplanned outage,A03,,2018-02-14 14:30:00+00:00,NIEPPp5elHhu4DfN-S7c1A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,2,2018-02-14 13:00:00+00:00
+240,IE,Unplanned outage,A03,,2018-02-17 00:00:00+00:00,KEIzDzmyJaIpuMHRwn_dmg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-16 17:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-17 02:15:00+00:00,kBFLJlnoJuujQk2_IJhlqQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-16 23:30:00+00:00
+128,IE,Unplanned outage,A03,,2018-02-18 00:00:00+00:00,RikokRU8FghY_C-Mt_MLlA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-17 09:00:00+00:00
+265,IE,Unplanned outage,A03,,2018-02-18 00:00:00+00:00,IqZnwZ7RtLW1CsKNwEG8Yg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-17 12:30:00+00:00
+275,IE,Unplanned outage,A03,,2018-02-18 00:00:00+00:00,vc6Afs59eIjcLnqFGvFm7w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-17 14:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-18 00:00:00+00:00,35xzWK6LynVVNm-ZDvVYqw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-17 15:45:00+00:00
+89,IE,Unplanned outage,A03,,2018-02-19 00:00:00+00:00,cLWREQf8yAU0YXc9hf9T3g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-18 02:00:00+00:00
+86,IE,Unplanned outage,A03,,2018-02-19 00:00:00+00:00,FrwNJ130Tq1FebsMq1x4wA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-18 08:00:00+00:00
+127,IE,Unplanned outage,A03,,2018-02-19 00:00:00+00:00,QF_hSB0MdQFU5L11WxVBiA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-18 14:00:00+00:00
+86,IE,Unplanned outage,A03,,2018-02-20 00:00:00+00:00,OYNxzYczI7p4ciAY5EcBIw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-18 22:00:00+00:00
+92,IE,Unplanned outage,A03,,2018-02-20 00:00:00+00:00,RlOPJWBm44eSsBPz72lmIw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-19 10:00:00+00:00
+87,IE,Unplanned outage,A03,,2018-02-20 00:00:00+00:00,xZCS1IEEYfsLpNIUx7mvsw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-19 15:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-20 00:00:00+00:00,hVy1xwtDi86F-3_yD6k1pg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-02-19 14:30:00+00:00
+86,IE,Unplanned outage,A03,,2018-02-21 00:00:00+00:00,403LA1KAKbXyw0qv71JrSQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-19 23:00:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-21 00:00:00+00:00,bRfplrnlVWQX2JWVN3KUGQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-20 08:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-21 00:00:00+00:00,V8XVW_uiERbnOAAobVjA3w,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT15M,1,2018-02-20 08:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-21 00:00:00+00:00,VpqOSbWAmNn1wUi6C6D7kg,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-02-20 13:00:00+00:00
+87,IE,Unplanned outage,A03,,2018-02-20 17:15:00+00:00,5p7y45NvLl9GeaiUQe5SsQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-20 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-21 00:00:00+00:00,pEJaOPsuDzzd_7GCsTQ7xQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-02-20 17:00:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-22 00:00:00+00:00,EdkChaq2HRooz90HTE7oag,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-20 23:00:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-22 00:00:00+00:00,BhnsYbQKcuDslEEJWD-Wgw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-21 07:00:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-22 00:00:00+00:00,MpLQ_YYUMUwtAboJqwnYsg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-21 15:00:00+00:00
+121,IE,Unplanned outage,A03,,2018-02-22 00:00:00+00:00,sBgcjG5rUv3w_XF6sX4dRw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-21 16:00:00+00:00
+12,IE,Unplanned outage,A03,,2018-02-21 17:00:00+00:00,P05xM8-ZqaGzaqGFoBJbEw,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-02-21 16:00:00+00:00
+275,IE,Unplanned outage,A03,,2018-02-22 00:00:00+00:00,KMfnOT4MxOJ8b1CmdCqzqg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-02-21 19:00:00+00:00
+400,IE,Unplanned outage,A03,,2018-02-23 00:00:00+00:00,6ETxsvhULH1I-W3TvE9cZQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-02-22 02:00:00+00:00
+110,IE,Unplanned outage,A03,,2018-02-23 00:00:00+00:00,6joOHBzzjPoGnfWWc84O8A,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-22 07:15:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-23 00:00:00+00:00,sBnL_lE4hnGLdsYQUZdMIw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-22 07:15:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-23 00:00:00+00:00,xUx2-tZi7A1-5jADvT3Jzw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-22 15:15:00+00:00
+88,IE,Unplanned outage,A03,,2018-02-24 00:00:00+00:00,rL5thIopSnBJw6QUbIgNxg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-02-23 08:00:00+00:00
+78,IE,Unplanned outage,A03,,2018-02-24 00:00:00+00:00,uTOSJrYeJJgpWW1epVlaJA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-02-23 16:00:00+00:00
+78,IE,Unplanned outage,A03,,2018-02-24 00:00:00+00:00,C-I9yJux9llCmqIN7ZRlig,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-02-23 16:00:00+00:00
+110,IE,Unplanned outage,A03,,2018-02-24 00:00:00+00:00,N2xIrNSHQknpMfeVA65Slg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-23 17:15:00+00:00
+124,IE,Unplanned outage,A03,,2018-02-24 00:00:00+00:00,wXdz7UNuEun_mgDBUWwJCg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-23 18:00:00+00:00
+80,IE,Unplanned outage,A03,,2018-02-25 03:15:00+00:00,KzjEc8pqh83WbSFwZ7vKSw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-02-25 00:15:00+00:00
+76,IE,Unplanned outage,A03,,2018-02-26 00:00:00+00:00,GedinRSUQ2jVq3I1aie1tg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-02-25 12:15:00+00:00
+76,IE,Unplanned outage,A03,,2018-02-26 00:00:00+00:00,rhAxIQaPMZ8xD6IsETOefA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-02-25 12:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-24 08:45:00+00:00,8fc-sIjMyhVnY8nvdMVA_Q,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2018-02-24 08:00:00+00:00
+77,IE,Unplanned outage,A03,,2018-03-01 00:00:00+00:00,T_hzl23NMSDvQXeXiiXmcQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-28 09:15:00+00:00
+260,IE,Unplanned outage,A03,,2018-03-01 00:00:00+00:00,ComHqiJLh89a6SLwtcfgVQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-02-28 10:15:00+00:00
+63,IE,Unplanned outage,A03,,2018-03-01 00:00:00+00:00,K1_Hm1kPjwUMZihtgjMCKw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-02-28 17:00:00+00:00
+80,IE,Unplanned outage,A03,,2018-03-01 00:00:00+00:00,yX5XXjZkqc6GfWGRD7ftKw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-02-28 18:15:00+00:00
+66,IE,Unplanned outage,A03,,2018-03-02 00:00:00+00:00,gQ47NrfQ4u5zkQu1M4JVgA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-01 09:00:00+00:00
+42,IE,Unplanned outage,A03,,2018-03-02 00:00:00+00:00,iTZcXc3sxYtD-YUqOtIgwg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-01 13:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-02-27 04:30:00+00:00,69qYd6cUWBtJZNkQOcqd5Q,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-02-27 03:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-02 00:00:00+00:00,N7c_mvjjb-81YSgY_Orffw,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-03-01 16:00:00+00:00
+52,IE,Unplanned outage,A03,,2018-03-03 00:00:00+00:00,B2Ol9A-AnucF4siTrYS_Vw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-02 11:00:00+00:00
+38,IE,Unplanned outage,A03,,2018-03-02 14:30:00+00:00,ft_Eoi8_OxZBBlfPht7vhA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-02 13:45:00+00:00
+41,IE,Unplanned outage,A03,,2018-03-03 00:00:00+00:00,6lceONlau_1K7DFKROcBxg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-02 18:00:00+00:00
+49,IE,Unplanned outage,A03,,2018-03-03 00:00:00+00:00,ofJpOL-0Z6a7JeOXeqLDhA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-03-02 20:00:00+00:00
+49,IE,Unplanned outage,A03,,2018-03-03 00:00:00+00:00,UkpiGk0Y1FQW-r_sRHKxoQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-03-02 20:00:00+00:00
+52,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,TJR_st69ril7rYsHML38gQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-03 11:00:00+00:00
+428,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,ozrmi7V-e-Y79l2CcfkLVg,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2018-03-03 15:00:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,i5nqHPWAL576eeN46Y_yOQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-03-03 15:00:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,UM9njTbPh_ISwymafw8png,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-03-03 15:00:00+00:00
+32,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,UicVCy_VDjQjdJ8_L_vZvg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-03 17:00:00+00:00
+48,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,o5u_gmz1gtDIsCJsp_o1GQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-03 18:00:00+00:00
+40,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,n9VlOnKVL-609ovHISiFiw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-03-03 20:00:00+00:00
+40,IE,Unplanned outage,A03,,2018-03-04 00:00:00+00:00,m6XxaEniJJ1rJlzaujnpBA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-03-03 20:00:00+00:00
+98,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,GcfMNRH53dhINUQKhxBt6Q,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-03 20:45:00+00:00
+43,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,0wwL3qs38CGrW2P42nsWag,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-03-04 00:00:00+00:00
+43,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,szq6jrNPO3SZMN8THTQvUw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-03-04 00:00:00+00:00
+69,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,fgALLQOYGXc1wF5ug4OwpQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-03-04 07:00:00+00:00
+69,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,ij7z4Ha0bXVqc3UESZD3kA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-03-04 07:00:00+00:00
+62,IE,Unplanned outage,A03,,2018-03-04 09:30:00+00:00,R5yHhLBRCYM8s64YqhZ2wQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-04 08:00:00+00:00
+52,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,fJvsEXqAVR17U6zvtRPBMg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-04 11:00:00+00:00
+105,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,DlOPaktspOziekdEvJ6ZZg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-04 15:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,hagI2puKUpqpg-v4W2DT9w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-04 16:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,dTY1uX_IrNd1g5sn7l4uXA,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-03-04 18:15:00+00:00
+43,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,UCJvWE7XiKq8c1TEUca8Ww,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-03-04 20:15:00+00:00
+43,IE,Unplanned outage,A03,,2018-03-05 00:00:00+00:00,JDQHI_GOjaLjwGgXiJsV8A,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-03-04 20:15:00+00:00
+398,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,b4zQo4hrLr5BSRIsjivJAg,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-03-04 20:15:00+00:00
+267,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,ltufOsSHQBlJ6YhLPi2VsA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-05 03:00:00+00:00
+110,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,3T6eVyXkNBbqsiMHK_8MfA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-05 07:15:00+00:00
+26,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,yIH9YyHzD0dGkfgo66s_jQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-03-04 18:00:00+00:00
+77,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,LWzRcdgDt7hmOBBEkZ8wug,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-05 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,rIsA8Pq4JyyCczPfk_9xzw,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2018-03-05 16:30:00+00:00
+110,IE,Unplanned outage,A03,,2018-03-06 00:00:00+00:00,uRlmY9zcZ29ZfupkgN-Kcg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-05 18:00:00+00:00
+267,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,0Ql7r3FcpDHknQo2FW3MDA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-06 06:00:00+00:00
+280,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,kulV5JQsJj6RR_p9G9LZzA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-06 07:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,feGSUWws6RHuhc31XBokhg,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-03-06 07:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,swWc2wdN_ARST2vVrU77QA,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-03-06 07:15:00+00:00
+105,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,tUaVsHte2Lg0UiylA6y7sQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-06 08:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-06 08:15:00+00:00,WYvrbIMRqCBCA8lDvy5T9A,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-03-06 05:45:00+00:00
+26,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,DMT-XIvTaG4Aw4aRUTQeVg,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-03-06 08:15:00+00:00
+280,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,8HRpiRrAHzORiqwAvArP8g,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-06 10:00:00+00:00
+260,IE,Unplanned outage,A03,,2018-03-07 00:00:00+00:00,5GwnPSx2fSEirBTGGWASxQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-06 11:00:00+00:00
+135,IE,Unplanned outage,A03,,2018-03-06 17:00:00+00:00,KKbM8Wx4qmWe3pRzNgIjig,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-06 16:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-07 18:30:00+01:00,WbzWwjrx-qgAW0dxiuFEbA,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-06-06 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-31 09:30:00+01:00,LuOemXIup-YokPTZ1_VZjA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-05-31 08:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2018-06-03 09:30:00+01:00,7OvATAiyxMTdYSVOYhVeuA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,2,2018-05-30 22:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-12-19 14:30:00+00:00,8gq-fAFLg19ws2MtcERASw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-12-19 07:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-08-22 16:30:00+01:00,OWAw8mc3Ua6jVG2JA9iKHQ,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-08-20 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-17 21:30:00+01:00,xmrZEy3k9pM9y0B48qo4Gg,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-09-08 22:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-10-21 16:00:00+01:00,L-E0nh0kOi4kxybORJZlMw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-10-21 08:30:00+01:00
+0,IE,Planned maintenance,A03,,2018-10-21 16:00:00+01:00,I3fk8_z7gWWSSOJTGweJMA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-10-21 08:30:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-14 23:30:00+01:00,CXgxTXgUkLRYNM_81wafFA,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT15M,1,2018-08-27 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-10 23:30:00+01:00,g6kXJHXxo2DxjOOymK0WCw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2018-08-20 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-11-24 23:30:00+00:00,HEvYllVRyvJzNJMJbwdH-g,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-11-16 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-01-02 07:30:00+00:00,YdS9xU2hqH9FOVI5Ke8P8A,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2017-12-26 13:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-19 23:30:00+01:00,mHJ7DY8J2KBgnxaixkbsGQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2018-06-05 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-11 23:30:00+01:00,XehpZheihGMqiNrBTqFFdQ,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT15M,1,2018-05-07 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-18 23:30:00+01:00,GmqEIJ9jMSWtLAKaQV7NMQ,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT15M,1,2018-04-16 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-18 23:30:00+01:00,Fp7CbQfLW0Oscsjk_LRlQA,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 2,1,MAW,PT15M,1,2018-04-16 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-08-15 23:30:00+01:00,zLOUqZm22LhCzRO_Z7Zqbg,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 4,1,MAW,PT15M,1,2018-08-13 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-08 23:30:00+01:00,rDzaSTfVObcgbF3p-QN5YA,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT15M,1,2018-04-23 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-30 23:30:00+01:00,SXREcmU5Ss4SgLwzmYhxbQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-09 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-09 23:30:00+01:00,ofYciaybp8wPwGQMYg38uw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-07-13 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-15 23:30:00+01:00,cXycoOKmSojcaE-VDYByhw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-06 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-20 23:30:00+01:00,rUsyfEArhUQK0S6ihBbvNQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-05-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-30 23:30:00+01:00,Ujns0wZz3SF_wu7LBJd5jg,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-24 23:30:00+01:00,Li4OWudQW6V3QheF4mBPHw,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2018-02-27 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-04-27 23:30:00+01:00,19xKSgFG0D_SN1AH3rgTxw,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2018-04-24 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-04-03 23:30:00+01:00,6fb5cg6mE_vcfWHhK8hniw,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2018-02-27 00:00:00+00:00
+91,IE,Planned maintenance,A03,,2018-04-24 23:30:00+01:00,Esm1F1sXefsk84kkcWPKGA,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2018-04-03 00:00:00+01:00
+91,IE,Planned maintenance,A03,,2018-04-27 23:30:00+01:00,s4E6VCW6cLbRiCSX6Xbz7A,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2018-04-24 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-01-23 16:30:00+00:00,jxPfub992oRe6bBdB-CxQg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-01-21 07:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-05-16 11:30:00+01:00,PB18yaBpWb8TviIYit7QIg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-05-15 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-09-14 16:30:00+01:00,s3A251Fc9qi1TmdKuDYdiw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-09-10 07:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-03-06 16:30:00+00:00,cFekhZgI0P3PYB8O-ye5Ww,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-03-04 07:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-05-15 20:30:00+01:00,9sPzmqvgbZxzkz7P2n_UyA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-05-15 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-07-06 16:30:00+01:00,b68agGyGKj2i6mE57SrsLQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-07-02 07:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-11-06 16:30:00+00:00,1oWt6mDPzAxFfmlc2qM-Jw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-11-04 07:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-10 23:30:00+01:00,BEWwn3-QY_lMaHUO-LqZKg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-06-04 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-10 23:30:00+01:00,Kw3hnd-MrvKXjCPQvAOFCw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-06-04 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-17 23:30:00+01:00,3YTv_gn1eU0Htp8o-F3B2w,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-17 23:30:00+01:00,KLzJZorsOYscnJzgzwVMGg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-24 23:30:00+01:00,0m-vwkLLIVEI80BQANNb0Q,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-05-19 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-03-28 23:30:00+01:00,W90UX4cfhS4p98U29xyjpA,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-02-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2018-06-07 23:30:00+01:00,JZdEXoEuwjIkx0VJDY4jaA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-04-05 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-24 23:30:00+01:00,SFr3F1hkmONnoDRIHYWK_A,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-06-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-08-12 23:30:00+01:00,9THYCOVmJmfejrwQAP1ShQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-08-06 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-08-12 23:30:00+01:00,yAZS2M441ZFHsG5YoWzPSQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-08-06 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-03 23:30:00+01:00,PuC5vftYcZnxdDEIHRzk8A,74.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 2,1,MAW,PT15M,1,2018-05-28 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-06-10 23:30:00+01:00,BJGlO3Y6WA5L2CQz1UinTw,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-06-04 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-13 23:30:00+01:00,lP9kpM2l0v_GUSz5gRv8vg,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT15M,1,2018-05-07 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2018-05-13 23:30:00+01:00,_PK6Hida6ZpOPr9q8Qv6dA,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2018-05-07 00:00:00+01:00
+121,IE,Unplanned outage,A03,,2018-03-08 00:00:00+00:00,OSObwjSeD44Dt53b3usjuQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-07 01:15:00+00:00
+110,IE,Unplanned outage,A03,,2018-03-08 00:00:00+00:00,96VSuXlTPIdEOhXO1eMIDA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-03-07 07:15:00+00:00
+390,IE,Unplanned outage,A03,,2018-03-09 00:00:00+00:00,5F71KpJuMxfIWYEvu-fxZg,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-08 02:00:00+00:00
+125,IE,Unplanned outage,A03,,2018-03-09 00:00:00+00:00,oKq6eaMSDaPLHY2hC0qHcg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-08 05:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-09 00:00:00+00:00,Glq20JHQwKQMmlWeWpUe1A,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-03-08 07:00:00+00:00
+205,IE,Unplanned outage,A03,,2018-03-09 00:00:00+00:00,7YSc9aZmpewbirhxs76vYQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-08 06:00:00+00:00
+210,IE,Unplanned outage,A03,,2018-03-10 00:00:00+00:00,bUThXynZ-AICOuy9OqdWSA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,2,2018-03-09 11:00:00+00:00
+125,IE,Unplanned outage,A03,,2018-03-10 00:00:00+00:00,hPa4xVsf8I6ddXH54lRkPQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-09 20:15:00+00:00
+280,IE,Unplanned outage,A03,,2018-03-11 00:00:00+00:00,HNELF2qj5mDOE0t18sJEJg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-09 21:15:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-11 00:00:00+00:00,BW8NFCBfQcFLsUzjOQcnTA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-10 12:15:00+00:00
+140,IE,Unplanned outage,A03,,2018-03-10 17:00:00+00:00,4LAJ1M3Ynthgv7xK3xVrLg,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-10 15:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-12 00:00:00+00:00,j1aAuvOsPG5bwUZ_ubwCCA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-10 18:30:00+00:00
+120,IE,Unplanned outage,A03,,2018-03-10 18:45:00+00:00,k39l-55l4hYsGMK2FKAuCQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-10 17:00:00+00:00
+270,IE,Unplanned outage,A03,,2018-03-13 00:00:00+00:00,LtoBOYdN3EeGpQAXVJ0ouA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-12 06:00:00+00:00
+255,IE,Unplanned outage,A03,,2018-03-13 00:00:00+00:00,mf2Un8rYiLLQCjsk9FEOMg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-12 06:00:00+00:00
+70,IE,Unplanned outage,A03,,2018-03-12 08:45:00+00:00,LHrbBk4wTxU1OadxrGzWyA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-12 08:00:00+00:00
+125,IE,Unplanned outage,A03,,2018-03-12 09:30:00+00:00,8a_4uxDeRou9EBbTfs1ixQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-12 08:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-13 00:00:00+00:00,7NJ7LUmdP1oU8XWg_UagyA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-03-12 09:15:00+00:00
+245,IE,Unplanned outage,A03,,2018-03-12 22:15:00+00:00,GlzOYSaYc66XHZEM--Ifaw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-12 19:15:00+00:00
+128,IE,Unplanned outage,A03,,2018-03-13 04:15:00+00:00,WbYIPqIRBfLAHAY3W87bSA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-12 22:15:00+00:00
+270,IE,Unplanned outage,A03,,2018-03-14 00:00:00+00:00,70a8zVO3Af35PqFR61Hr4w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-12 22:15:00+00:00
+71,IE,Unplanned outage,A03,,2018-03-14 00:00:00+00:00,WeNK3hbesvUZIR_XupTnVA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-13 07:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-14 00:00:00+00:00,GwEhNgu0Rni4UF45K_-a8A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-13 04:15:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-14 00:00:00+00:00,LPvHq7vqvTIPKwXuhl8zUA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-13 13:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-15 00:00:00+00:00,uNEq9edBqEStQrk5CxSzyA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-14 12:00:00+00:00
+85,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,i_yfvtDWw3e4ugJMPnhTng,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-15 09:00:00+00:00
+84,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,FKxwUGSVpewvdE9i1s9Q-Q,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-15 15:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,PuE5sgvs64AB-GqvlWwmuQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-03-15 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,4g9ROZojNpIaWBTljer6Nw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-03-15 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,QrUM16SWyOzuyEErwM1Izg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-03-15 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,aQw4oralsSY6mIHWf_lAZg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-03-15 16:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-15 20:00:00+00:00,9hL6iDfnpTKkc-GIFd900A,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-03-15 18:15:00+00:00
+90,IE,Unplanned outage,A03,,2018-03-16 00:00:00+00:00,p1EStFO7_X7zrRKzV_sVLw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-15 20:00:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,qVZT3frCmeExQEAv8JKBDw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-15 23:15:00+00:00
+90,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,6PlX8ylr8ymefUhZpRLYnQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-16 01:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,9ELmuiWUm2eSVtdTg1fB1g,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-03-16 12:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,8sCdJ8uK0qImQKpJo3b67A,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-03-16 12:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,qf7JcrhfC53Xm-pxgk5CmA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-03-16 12:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,11iMt2HgKRJK_35vY_cVdg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-03-16 12:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-17 00:00:00+00:00,5j2UZv_5-CbJkNceyE9IIQ,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-03-16 13:30:00+00:00
+99,IE,Unplanned outage,A03,,2018-03-21 00:00:00+00:00,Rm-CRhkv7bLhYsv7gg4Y-A,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-20 10:00:00+00:00
+75,IE,Unplanned outage,A03,,2018-03-21 00:00:00+00:00,_Omqp5MxaCdmu3SEHwKzTw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-20 11:15:00+00:00
+85,IE,Unplanned outage,A03,,2018-03-21 10:30:00+00:00,JARs9wubw260Btu6UWPcbA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-21 09:00:00+00:00
+75,IE,Unplanned outage,A03,,2018-03-22 00:00:00+00:00,6N_-yAW8ieBqzJWIv65cQw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-21 11:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-03-21 16:30:00+00:00,wJUkaVKeaYeDVBCD_CQqng,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT15M,1,2018-03-21 15:30:00+00:00
+87,IE,Unplanned outage,A03,,2018-03-21 17:30:00+00:00,49dalFU3ymHnYvEoL-7uzg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-21 16:00:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-23 00:00:00+00:00,G_yIplrIULrWlVTfBTWtzw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-22 15:15:00+00:00
+86,IE,Unplanned outage,A03,,2018-03-24 00:00:00+00:00,xOKBFzDvMiM1Zxeer3lYsw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-23 15:15:00+00:00
+88,IE,Unplanned outage,A03,,2018-03-25 00:00:00+00:00,royIae84Ptz39xp93ixeKQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-24 01:15:00+00:00
+88,IE,Unplanned outage,A03,,2018-03-25 00:00:00+00:00,CATrHXpuYmOD8xQ7ScWJfA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-24 11:00:00+00:00
+83,IE,Unplanned outage,A03,,2018-03-25 00:00:00+00:00,DkW2zS0XNOWkvM8NuBPBhw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-24 15:15:00+00:00
+88,IE,Unplanned outage,A03,,2018-03-25 00:00:00+00:00,EZ6IR4hxZgr5_i1Gdbp9UA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-24 18:00:00+00:00
+92,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,PkgGFDEKP0jweonSKT3FRg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-24 22:15:00+00:00
+85,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,6QmLn0LdH5v3vkDKacG-IQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-24 23:15:00+00:00
+80,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,Xtnazyz0WgIVoDK3_Zs3dA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-25 02:15:00+01:00
+280,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,Hj4pLvdaa4bwzVGNBBdHGg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-25 04:00:00+01:00
+275,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,q3wvFYUjUwGdWJCQxxsxQg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-25 08:15:00+01:00
+99,IE,Unplanned outage,A03,,2018-03-22 16:45:00+00:00,ep0ZK6amZoujcYpg6Ph8LQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-22 16:00:00+00:00
+175,IE,Unplanned outage,A03,,2018-03-22 18:00:00+00:00,FeJI5BLz8TLT5i-kMou8WA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-03-22 16:30:00+00:00
+281,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,PDLTKdSAXtOx23orML5rFw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-25 09:15:00+01:00
+88,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,NiPvAkTlYBrKRDy0ELfUiA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-25 10:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-03-26 00:00:00+01:00,4_zxn8_1GmPIwKqd8y4zqg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-25 14:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-03-27 00:00:00+01:00,LvZp698vTEEf2B3HjxZXfg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-25 23:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-03-27 00:00:00+01:00,FsRjFaAd0Ax9AoT2xc5jpw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-26 07:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-03-28 00:00:00+01:00,UtWaa2XmoKpruhoQcHOVOQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-26 23:15:00+01:00
+105,IE,Unplanned outage,A03,,2018-03-28 00:00:00+01:00,e_UH9IuySIxJBj2MzoLZtw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-27 07:00:00+01:00
+83,IE,Unplanned outage,A03,,2018-03-28 00:00:00+01:00,ZtfL7ekL6VG6bdyeD734KQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-27 11:15:00+01:00
+155,IE,Unplanned outage,A03,,2018-03-28 00:00:00+01:00,gjPvT_yIYepEWuui2aTNVQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-27 15:15:00+01:00
+205,IE,Unplanned outage,A03,,2018-03-28 00:00:00+01:00,3-sSXq4D6B6a3yVsa4Yb9g,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-03-27 16:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-03-28 00:00:00+01:00,IJRnkbaNsQj8rALwZ0Fydw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-27 18:00:00+01:00
+78,IE,Unplanned outage,A03,,2018-03-29 00:00:00+01:00,DjYq0dE2C6vC3fwNC29yAA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-28 06:00:00+01:00
+81,IE,Unplanned outage,A03,,2018-03-30 00:00:00+01:00,viKvMIk8ArRlYICTZ04dNA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-29 00:00:00+01:00
+78,IE,Unplanned outage,A03,,2018-03-30 00:00:00+01:00,bOZplq57uj_Go9k1izLoUA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-29 14:00:00+01:00
+81,IE,Unplanned outage,A03,,2018-03-31 00:00:00+01:00,DbE8i_LQBvjtQhGlMtVPCg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-30 00:00:00+01:00
+78,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,dvakgzRRqUwlQjHM69dfLA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-30 22:00:00+01:00
+81,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,l7xucURkxMif5_peRtY4GQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-31 00:15:00+01:00
+78,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,7ZUuUv2D73UswqNcJpLNfw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-31 07:00:00+01:00
+82,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,0esnrccDj2ZsJtBG5BjviQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-03-31 10:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-03-31 10:15:00+01:00,RwP95vifOeNOOZ5tODeavA,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-03-31 08:15:00+01:00
+201,IE,Unplanned outage,A03,,2018-03-29 21:45:00+01:00,Q_3gvfbNJkE4qicOo5_8fA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-29 20:45:00+01:00
+260,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,KiulPfPqS9RwmiN9uNyEJw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-29 21:45:00+01:00
+125,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,xJ3iy0cbZPUeMMPZl3ZTLw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-03-31 17:00:00+01:00
+29,IE,Unplanned outage,A03,,2018-04-01 00:00:00+01:00,EfTwA74cddNMEEg7UuFcXw,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT15M,1,2018-03-31 18:15:00+01:00
+255,IE,Unplanned outage,A03,,2018-04-02 00:00:00+01:00,ojmWUq_FX7xybNC7K9I3mg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-03-31 22:00:00+01:00
+82,IE,Unplanned outage,A03,,2018-04-02 00:00:00+01:00,OPQFKxXCfTBAt8_ZBmQPCQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-01 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-04-03 00:00:00+01:00,JwE-SsmZziISXaSrvfPP2g,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-04-02 06:00:00+01:00
+87,IE,Unplanned outage,A03,,2018-04-03 00:00:00+01:00,cLmU0cRuthkfM0Zvo4Tb0g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-02 19:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-04-04 00:00:00+01:00,CcP7ddc1JEBAak4IAFA2ww,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-03 07:00:00+01:00
+122,IE,Unplanned outage,A03,,2018-04-04 00:00:00+01:00,PwP_e6LYv1c-54uHQwgFtw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-04-03 07:15:00+01:00
+87,IE,Unplanned outage,A03,,2018-04-04 00:00:00+01:00,l5L0v-loKYCLn3t3LGJb9A,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-03 17:00:00+01:00
+100,IE,Unplanned outage,A03,,2018-04-05 00:00:00+01:00,8bJnAKJtHHFOb41YNEsB2g,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-04-04 07:15:00+01:00
+110,IE,Unplanned outage,A03,,2018-04-05 00:00:00+01:00,Xcsg_CNkP4xY2AfXRq7ZTw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-04-04 10:00:00+01:00
+81,IE,Unplanned outage,A03,,2018-04-05 00:00:00+01:00,wYqudQS9NNx_zkCdYebIQA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-04-04 11:15:00+01:00
+260,IE,Unplanned outage,A03,,2018-04-06 00:00:00+01:00,enhGPA00nG2Pu7frA2Nm9Q,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-05 05:00:00+01:00
+125,IE,Unplanned outage,A03,,2018-04-06 00:00:00+01:00,1J7t3g9SZP4cK-OxYkzYCg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-04-05 06:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-04-08 00:00:00+01:00,G9UZkDATr7a6WJaSFydlIQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-07 14:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-10 00:00:00+01:00,0Co-92-bFpUrPcllca8xZA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-09 00:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-11 00:00:00+01:00,7_m9FjqzdT0ll7AoRsMkEg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-10 09:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-12 00:00:00+01:00,KO7AVvNNn0WT1herADfTXg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-11 01:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-12 00:00:00+01:00,qepy4eDP_KKFBKnhoZDZ3Q,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-11 09:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-12 00:00:00+01:00,TOX2B_DMLj5R1TvQdbHuJg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-11 18:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-13 00:00:00+01:00,QQmo6uUATTqlj1LYpVtxvg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-12 09:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-14 00:00:00+01:00,-fH5TyawP9z3YrWfYCBPRQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-12 22:15:00+01:00
+280,IE,Unplanned outage,A03,,2018-04-14 00:00:00+01:00,ih8Ux2Zd-74Fm9zJtjOdow,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-04-13 03:15:00+01:00
+82,IE,Unplanned outage,A03,,2018-04-14 00:00:00+01:00,OG1x66ut8gLZGaI7-rWg1g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-13 07:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-14 00:00:00+01:00,lJ83TpYWSW8rj1g6zaMEFA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-13 18:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-04-15 00:00:00+01:00,LBXzFr_HtBEiQe5ItbH9ng,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-04-13 21:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-15 00:00:00+01:00,X9pRCo2XI7yixMxmH1EhuQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-13 23:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-04-15 00:00:00+01:00,MXGpaTfwa7yflRifxCerVg,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT15M,1,2018-04-13 07:45:00+01:00
+9,IE,Unplanned outage,A03,,2018-04-15 00:00:00+01:00,NEvzjWfuJo156vSQrFGSnQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2018-04-14 13:15:00+01:00
+9,IE,Unplanned outage,A03,,2018-04-15 00:00:00+01:00,BD-LNxWrq6L9W7HJ5UK3zA,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-04-14 13:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-04-16 00:00:00+01:00,MZiBQG7nB3EpKt0pETIEqw,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT15M,1,2018-04-15 16:15:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-17 00:00:00+01:00,FWZBtJmFGZ1TOsXkJVjoZA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-16 04:00:00+01:00
+110,IE,Unplanned outage,A03,,2018-04-17 00:00:00+01:00,bF2QyuSpcdyIMILjSemgPQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-04-16 06:15:00+01:00
+41,IE,Unplanned outage,A03,,2018-04-19 00:00:00+01:00,V6Z1wjX84qdVQAvNSm8w4Q,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-04-17 21:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-19 00:00:00+01:00,RLdKiPz8ln8r72WyJ6TqsA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-18 07:15:00+01:00
+260,IE,Unplanned outage,A03,,2018-04-21 00:00:00+01:00,8_rykQ9RosJ9rO8bWIJhTw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-20 00:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-21 00:00:00+01:00,gvZw0Sq6WNmAEVxFrEmNwg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-20 10:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-04-22 00:00:00+01:00,UuftlL_xaUJUIaX1spZQew,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-20 22:00:00+01:00
+12,IE,Unplanned outage,A03,,2018-04-18 13:00:00+01:00,iT6FDCAshnbdGtKHpiBLgg,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT15M,1,2018-04-18 11:30:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-23 00:00:00+01:00,h5xueKxm51l-B87s-xBJuw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-21 21:00:00+01:00
+110,IE,Unplanned outage,A03,,2018-04-23 00:00:00+01:00,m7SCcT1jDWW5pDn1BjFl_w,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-04-22 06:15:00+01:00
+260,IE,Unplanned outage,A03,,2018-04-24 00:00:00+01:00,2Ig8xPz6UgxJL5GgTusGWw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-23 00:00:00+01:00
+459,IE,Unplanned outage,A03,,2018-04-24 00:00:00+01:00,R9YASMozfSdL8I3Kn5rp_g,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-04-23 06:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-24 00:00:00+01:00,KF8wa_AtWUJL3_97pmVHsQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-23 08:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-04-21 16:00:00+01:00,xBzxWwrjKcAq1g_nsZQRaw,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2018-04-21 11:30:00+01:00
+324,IE,Unplanned outage,A03,,2018-04-22 01:15:00+01:00,rzFzrBunapH6FHWKhcq3Lg,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2018-04-21 15:45:00+01:00
+85,IE,Unplanned outage,A03,,2018-04-25 00:00:00+01:00,0dEihhENTpa5msF_1KgaBw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-24 14:15:00+01:00
+88,IE,Unplanned outage,A03,,2018-04-25 00:00:00+01:00,OSiGnBy67OQdC4SIkkBX9g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-04-24 18:15:00+01:00
+275,IE,Unplanned outage,A03,,2018-04-28 00:00:00+01:00,vOZSFwcpbSsl3xQZWVXtZQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-04-27 01:00:00+01:00
+260,IE,Unplanned outage,A03,,2018-04-28 00:00:00+01:00,CAmQIFq4eCQvvbZ6EERyDA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-27 01:00:00+01:00
+265,IE,Unplanned outage,A03,,2018-04-29 00:00:00+01:00,eOsH_PUG_G9b95Jjem1GZQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-28 00:15:00+01:00
+280,IE,Unplanned outage,A03,,2018-04-29 00:00:00+01:00,acKcNgXtDj1wDlMJen5edQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-28 04:00:00+01:00
+265,IE,Unplanned outage,A03,,2018-04-30 00:00:00+01:00,-MqKY35cTsoX7jAoLjTreA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-04-28 23:00:00+01:00
+390,IE,Unplanned outage,A03,,2018-05-01 00:00:00+01:00,tDHgmTeOoQgVmZ47jSvobA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-04-30 00:00:00+01:00
+112,IE,Unplanned outage,A03,,2018-05-01 00:00:00+01:00,FONOWnUHL2b4eqo9DXPR8A,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-04-30 15:15:00+01:00
+108,IE,Unplanned outage,A03,,2018-05-02 00:00:00+01:00,DkcjkhN-eVjYnOnvJv7aXw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-05-01 08:00:00+01:00
+110,IE,Unplanned outage,A03,,2018-05-03 00:00:00+01:00,EL6QervUaHx9sBu7CSLvRw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-05-02 06:15:00+01:00
+113,IE,Unplanned outage,A03,,2018-05-03 00:00:00+01:00,lX7Cwt7XiKZO7G5P3_gO4Q,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-05-02 11:00:00+01:00
+87,IE,Unplanned outage,A03,,2018-05-06 00:00:00+01:00,shutq0ECEbo3Mk293P0vgQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-05 14:00:00+01:00
+89,IE,Unplanned outage,A03,,2018-05-07 00:00:00+01:00,7d_f5TBLbQ5IpiKrBOtuIA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-06 00:00:00+01:00
+89,IE,Unplanned outage,A03,,2018-05-07 00:00:00+01:00,7fmjrUIC4sa-5foLxbH8MA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-06 09:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-07 00:00:00+01:00,6LR6O8chaEwIFquXW1ERag,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-06 14:15:00+01:00
+89,IE,Unplanned outage,A03,,2018-05-07 00:00:00+01:00,jLPUDCA9dyRY847LOhGSEw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-06 17:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-08 00:00:00+01:00,Vnj9zCVKZlDhXCK0PVQiIQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-06 22:00:00+01:00
+390,IE,Unplanned outage,A03,,2018-05-08 00:00:00+01:00,v0CRgTnurVHFWXKROOyG-w,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-05-07 00:00:00+01:00
+89,IE,Unplanned outage,A03,,2018-05-08 00:00:00+01:00,ECfDeLj7x01NwPK3gHiO-Q,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-07 00:15:00+01:00
+71,IE,Unplanned outage,A03,,2018-05-08 00:00:00+01:00,rG4JzzyKmy1v-qPvsQVbrA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-07 03:15:00+01:00
+61,IE,Unplanned outage,A03,,2018-05-08 00:00:00+01:00,Y8XBHt8bz15oNYYHmjFlWg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-07 07:00:00+01:00
+125,IE,Unplanned outage,A03,,2018-05-08 00:00:00+01:00,UpmYFQTKUs9mQXWebrPRfQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-05-07 07:15:00+01:00
+71,IE,Unplanned outage,A03,,2018-05-09 00:00:00+01:00,EA9pM0YoTLEecmPyLIwz7g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-08 11:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-11 00:00:00+01:00,x_a7j3ipbNvCVkHEClz6oA,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-05-10 11:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-12 00:00:00+01:00,UWdzinLQQ5Qoci5p-DPTNA,258.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 1,1,MAW,PT15M,1,2018-05-11 10:00:00+01:00
+235,IE,Unplanned outage,A03,,2018-05-12 00:00:00+01:00,mJgEViXsrllclT5ZRQj1ng,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-05-11 14:00:00+01:00
+246,IE,Unplanned outage,A03,,2018-05-13 00:00:00+01:00,eBVKamULBWxSa2EwTnGkJg,258.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 1,1,MAW,PT15M,1,2018-05-11 23:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-13 00:00:00+01:00,KmEfJV3fWMtoJLK7mHIvUQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-12 01:15:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-13 00:00:00+01:00,SOHxUZ8bkHMSwSCnQFShYw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-12 10:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-13 00:00:00+01:00,R4O-Uqo0qerdzLr64u2Xmg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-12 14:00:00+01:00
+83,IE,Unplanned outage,A03,,2018-05-14 00:00:00+01:00,xgjZzwei6f8QdxRfciG85A,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-12 23:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-14 00:00:00+01:00,MzjU53kcXzq4q26Ad1QT8w,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-13 16:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-15 00:00:00+01:00,bqUHhsSDIjvl4mQxc1CzhA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-14 09:00:00+01:00
+104,IE,Unplanned outage,A03,,2018-05-15 00:00:00+01:00,lKb8u_kJHagJ0GDjM3Dzzw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-05-14 13:15:00+01:00
+90,IE,Unplanned outage,A03,,2018-05-15 00:00:00+01:00,Y1JxAGCcNTfqfOss-vLk-g,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-05-14 14:15:00+01:00
+82,IE,Unplanned outage,A03,,2018-05-15 00:00:00+01:00,gGPGXpEHcf29BFdEpphtiA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-14 14:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-16 00:00:00+01:00,0i2qj_L-6blLGrIWp0H_CQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-15 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,p0dHEk5t7p4OUeD-cTd5iA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-05-16 17:15:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,BbrUmUdz7fqI-abL5qj-yA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-17 10:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,DWIkYSALcnxr75uDfy5FcQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-05-17 11:00:00+01:00
+24,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,4_iGZ0Rd4BtHznG7xGS2kA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-05-17 12:15:00+01:00
+29,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,SyIxUYbJi-31-gN6IFJ4mw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-05-17 13:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-17 15:15:00+01:00,OD_627LtOvH0PD2orCMQRQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-05-17 14:15:00+01:00
+69,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,9drut1-mK-mis1hz8LgUPg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-05-17 15:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,Mha6InKCGZua79p63VlCRA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-17 16:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-05-19 00:00:00+01:00,PHMAxQN3RS4TR9gAnTNNFw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-17 22:15:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-19 00:00:00+01:00,ozr1nCIBv1U-Wq1UhMhXLA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-18 00:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-18 00:00:00+01:00,su_yGD96FLS9e-DafveYuA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-05-17 23:15:00+01:00
+400,IE,Unplanned outage,A03,,2018-05-20 00:00:00+01:00,XHUmXlAucaTn2kFgF-ostA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-05-19 00:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-05-20 00:00:00+01:00,86KQaERGSnDMU6RQyMOnEg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-19 00:15:00+01:00
+86,IE,Unplanned outage,A03,,2018-05-21 00:00:00+01:00,Tb6GloKU9LYzAVyQEFI7gA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-20 00:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-05-21 00:00:00+01:00,kH8uPHgBFKU3HEpG35SIdQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-20 07:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-05-22 00:00:00+01:00,MfeVN0JVbp0eMkoOvfs83w,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-21 00:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-05-22 00:00:00+01:00,VcllSuqxc8LVz4YZDJoXVg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-21 09:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-05-22 00:00:00+01:00,OKxlz_yEXik8GZtbLF8USA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-21 14:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-05-22 00:00:00+01:00,dKhNERW0tskoReInyHlFnw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-21 16:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-05-23 00:00:00+01:00,6e8QI17-6_KOeTznd4zubA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-22 09:00:00+01:00
+83,IE,Unplanned outage,A03,,2018-05-23 00:00:00+01:00,zXcAEanOQImZffe82GvhLQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-22 14:15:00+01:00
+83,IE,Unplanned outage,A03,,2018-05-24 00:00:00+01:00,OpF5bi7PkUmr-xDbZpxxGg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-23 07:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-05-21 22:30:00+01:00,3iBRk7hSE0YXC6V8urc1FA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-05-21 21:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-25 00:00:00+01:00,2QQRlofuQ2gPCuifJk7qlw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-24 16:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-05-26 00:00:00+01:00,6dHZtm0840QNHZVZ_XRnKA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-05-25 14:15:00+01:00
+390,IE,Unplanned outage,A03,,2018-05-28 00:00:00+01:00,RfO_tGqNo7s_zEmqUYoHLQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-05-27 00:00:00+01:00
+200,IE,Unplanned outage,A03,,2018-05-29 00:00:00+01:00,Sm5JRaGZJqkrRi9yObYmwA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-05-28 06:00:00+01:00
+240,IE,Unplanned outage,A03,,2018-05-29 00:00:00+01:00,S7-BiRskjECYVCNSmpNBug,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-05-28 09:00:00+01:00
+400,IE,Unplanned outage,A03,,2018-05-30 00:00:00+01:00,lfOh8mfkb5Rv8NpBazUDyw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-05-29 00:00:00+01:00
+390,IE,Unplanned outage,A03,,2018-05-30 00:00:00+01:00,ZTPU5byoC4s83jy7Cg8xBw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-05-29 01:00:00+01:00
+122,IE,Unplanned outage,A03,,2018-06-03 00:00:00+01:00,4M_Ixzm-R-XdaFCBiskmng,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-02 16:00:00+01:00
+400,IE,Unplanned outage,A03,,2018-06-05 00:00:00+01:00,euiPhyvufN-A76mW5GjV8g,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-06-04 00:00:00+01:00
+380,IE,Unplanned outage,A03,,2018-06-07 00:00:00+01:00,KEVsLP0iaHDMIhREjm5_fA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-06-06 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-06 13:30:00+01:00,Uyv84W4LfqBVt94YW4rcTQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-06-05 16:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-07 10:00:00+01:00,Jsmy4K3KrBDG9qax6T3e1A,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-06-05 18:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-08 00:00:00+01:00,EjkjT-Lj-XAgP46l52nJQg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-06-07 02:45:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-08 00:00:00+01:00,5u23Eu7Yar9hw_u6VJhqZw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-06-07 02:45:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-08 00:00:00+01:00,n1sSHF0KFUJdSHMcPY6v_A,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-06-07 02:45:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-08 00:00:00+01:00,aafPXE_JN7KbuB0dRPI0UQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-06-07 02:45:00+01:00
+108,IE,Unplanned outage,A03,,2018-06-09 00:00:00+01:00,oTi3SUQI17u_m53T7MI7oA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-06-08 03:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-09 05:00:00+01:00,cVNrZJYwf04pPnDwAniN8Q,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-06-08 19:00:00+01:00
+412,IE,Unplanned outage,A03,,2018-06-12 00:00:00+01:00,rrmBiLyw9mdPnLQVqkFLfw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,2,2018-06-11 00:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-06-12 00:00:00+01:00,8I5RP7uGXuv-u47UXu6g7w,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-06-11 08:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-08 19:15:00+01:00,CqPMp-QFDHOERimhus7lPw,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-06-08 16:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-13 00:00:00+01:00,DFYTYb5o6-0DsWmnff91MA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-06-12 05:00:00+01:00
+118,IE,Unplanned outage,A03,,2018-06-15 00:00:00+01:00,mrolxauQ3L7eywQxXx6Y3Q,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-14 15:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-17 00:00:00+01:00,0srgIk4foM-_FwNLHMqsSg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-06-16 16:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-19 00:00:00+01:00,YUEFniK9UVIFJWpMqPdsCQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-06-17 23:00:00+01:00
+122,IE,Unplanned outage,A03,,2018-06-23 00:00:00+01:00,3Vo3TpzIiQJt9wOYsDKPbg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-22 04:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-25 00:00:00+01:00,pvgownRwk3SPT448HU9S3w,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2018-06-24 07:15:00+01:00
+116,IE,Unplanned outage,A03,,2018-06-26 00:00:00+01:00,42M9xgTKoOMfSBclc-PmtA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-25 13:00:00+01:00
+122,IE,Unplanned outage,A03,,2018-06-26 00:00:00+01:00,pxsWj8HEuEwF5wXjZF3O6A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-25 16:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-27 00:00:00+01:00,OYbcE9N3mZgMx25VnL65JA,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-06-26 04:00:00+01:00
+92,IE,Unplanned outage,A03,,2018-06-27 00:00:00+01:00,bVOi7zXFHIGChM8eM0VKLA,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-26 13:00:00+01:00
+71,IE,Unplanned outage,A03,,2018-06-27 00:00:00+01:00,r_BsLk3zVUuQ_Vp6-IPImg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-06-26 15:00:00+01:00
+400,IE,Unplanned outage,A03,,2018-06-27 00:00:00+01:00,GnDaSsALe-OLE6gFOVb2vw,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-06-26 15:45:00+01:00
+81,IE,Unplanned outage,A03,,2018-06-27 00:00:00+01:00,aMfOYmBehgeoIIVJFjnO0Q,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-06-26 18:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-26 17:30:00+01:00,86J6XHWsK0ZY9NEMKlBaBA,74.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 2,1,MAW,PT15M,1,2018-06-26 16:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-26 20:00:00+01:00,tCKdEZgjT_L9i3bF0YQcBg,74.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 2,1,MAW,PT15M,1,2018-06-26 17:15:00+01:00
+49,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,6Ywl-gHRrKWohzNpNuXzjQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-06-26 21:00:00+01:00
+49,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,k489PEUrcb-43ELiGtj6iA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-06-26 21:00:00+01:00
+395,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,FsCqIa8o1D-i19x0jV9TNg,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-06-27 00:00:00+01:00
+398,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,de_DJQCwvCK_QSie0EvLLA,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-06-27 11:15:00+01:00
+61,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,elu0-4YhFM5YcVEELRUzFA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-06-27 13:00:00+01:00
+389,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,GLWmnA0fht18jwQ6n1kBkA,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-06-27 15:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-28 00:00:00+01:00,dJ60Sb7hrWKBd639LhNu4A,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-06-27 18:00:00+01:00
+395,IE,Unplanned outage,A03,,2018-06-29 00:00:00+01:00,Whk-x-Kj_-L5dGnNK3gUVg,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-06-28 00:00:00+01:00
+77,IE,Unplanned outage,A03,,2018-06-29 00:00:00+01:00,daxfEz3rneKhEK1A1bkqIw,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-06-28 05:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-06-29 00:00:00+01:00,MwAI7o2sfXJTE1y8ke1ihg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-06-28 07:00:00+01:00
+393,IE,Unplanned outage,A03,,2018-06-29 00:00:00+01:00,zEsVESV4PsvQqJ3K7V9BWA,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-06-28 15:15:00+01:00
+42,IE,Unplanned outage,A03,,2018-06-29 00:00:00+01:00,6sFds9feKicoAiKmGYjZGA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-06-28 18:00:00+01:00
+332,IE,Unplanned outage,A03,,2018-06-30 00:00:00+01:00,0IeBQNtztAbSZtJdXRRWKw,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-06-29 15:00:00+01:00
+334,IE,Unplanned outage,A03,,2018-06-30 00:00:00+01:00,XgKoINikE5g0riv6Yqcg7w,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-06-29 18:00:00+01:00
+61,IE,Unplanned outage,A03,,2018-07-03 00:00:00+01:00,mmtf2Ihfs015i4sRCCv2Og,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-07-02 08:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-03 00:00:00+01:00,52vaC9nVza-N4B0MlY2obw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-07-02 07:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-02 05:00:00+01:00,U_1X38_fKey3zHkce3NL_A,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-06-29 08:45:00+01:00
+41,IE,Unplanned outage,A03,,2018-07-03 16:15:00+01:00,ozA1EjJ4wZRyJ5IxnqA_tQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-03 13:45:00+01:00
+55,IE,Unplanned outage,A03,,2018-07-04 00:00:00+01:00,_iLnX3F3yjMhQ8Dtd-W25g,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-03 16:00:00+01:00
+66,IE,Unplanned outage,A03,,2018-07-04 00:00:00+01:00,eJVDrYKI3T4xdoMuLyhtsQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-03 19:15:00+01:00
+90,IE,Unplanned outage,A03,,2018-07-05 00:00:00+01:00,XDXA2KhkyMzk4bJzXqv5zw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-04 12:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-06 00:00:00+01:00,GRk3lhJvBAMOMV3gJAiFyQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-07-05 02:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-06 00:00:00+01:00,zaeDQVrjIhyz_uThq9CmQw,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT15M,1,2018-07-05 07:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-06 00:00:00+01:00,8OrUgMDMarnLecVPWhE6Aw,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT15M,1,2018-07-05 07:00:00+01:00
+108,IE,Unplanned outage,A03,,2018-07-07 00:00:00+01:00,xjML1K7kXHmgYyvAWKicsg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-06 02:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-09 00:00:00+01:00,VTiUs5_ONT4_cm8CZk9AaQ,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-07-08 11:00:00+01:00
+12,IE,Unplanned outage,A03,,2018-07-10 00:00:00+01:00,rOOwqdz2wQYPujnisd0wtA,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT15M,1,2018-07-09 12:00:00+01:00
+15,IE,Unplanned outage,A03,,2018-07-10 00:00:00+01:00,nHowRPZBZSjnbQkhh9rM8A,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2018-07-09 15:00:00+01:00
+46,IE,Unplanned outage,A03,,2018-07-11 00:00:00+01:00,r8V-fHy8ggBauhC75E4IXA,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-10 00:15:00+01:00
+21,IE,Unplanned outage,A03,,2018-07-11 00:00:00+01:00,yxt3XmQ0tZqpPOzWyx9rQw,21.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 1,1,MAW,PT15M,2,2018-07-10 05:00:00+01:00
+22,IE,Unplanned outage,A03,,2018-07-11 00:00:00+01:00,JhWeNHp1NcM2GcVnPh4xVg,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,2,2018-07-10 05:00:00+01:00
+19,IE,Unplanned outage,A03,,2018-07-11 00:00:00+01:00,QyHWq6zali-jVNXamguV2w,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,2,2018-07-10 05:00:00+01:00
+24,IE,Unplanned outage,A03,,2018-07-11 00:00:00+01:00,xZgUUioH0YquPurQJN0NTw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,2,2018-07-10 05:00:00+01:00
+385,IE,Unplanned outage,A03,,2018-07-13 00:00:00+01:00,phT-LUWjERtmjAoZ91Phyw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-07-12 00:00:00+01:00
+71,IE,Unplanned outage,A03,,2018-07-13 00:00:00+01:00,GvtMXoWyrI6A6rAiG_6GJA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-07-12 09:00:00+01:00
+380,IE,Unplanned outage,A03,,2018-07-14 00:00:00+01:00,DsoYt2ktsJj4liZb8g7QUg,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-07-13 00:00:00+01:00
+80,IE,Unplanned outage,A03,,2018-07-14 00:00:00+01:00,iUZQJI98nnpf1mFffAXH5A,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-07-13 09:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-19 10:15:00+01:00,kA3qT62ZhquLaBIFyNms0g,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-07-19 05:00:00+01:00
+44,IE,Unplanned outage,A03,,2018-07-20 00:00:00+01:00,ZdlzxxxoiOfcSMrt4lMxIQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-07-19 10:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-20 00:00:00+01:00,bak0tpXtZnG80qf_goMudA,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-07-19 05:00:00+01:00
+12,IE,Unplanned outage,A03,,2018-07-20 00:00:00+01:00,OgJuB4K0iZZuFN8kaepjXQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-07-19 11:00:00+01:00
+44,IE,Unplanned outage,A03,,2018-07-20 00:00:00+01:00,H-JQY0z-BPsbmTSNUbHpfw,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 2,1,MAW,PT15M,1,2018-07-19 13:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-07-21 00:00:00+01:00,pUMF5dN08G4Z-taXh4bFWg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-07-20 09:00:00+01:00
+280,IE,Unplanned outage,A03,,2018-07-22 00:00:00+01:00,5Gmw2KY5k2CpMr5dbAjH5w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-07-21 08:15:00+01:00
+90,IE,Unplanned outage,A03,,2018-07-24 00:00:00+01:00,sAKGeK8vU33F8WXK0ZskvQ,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-23 00:00:00+01:00
+62,IE,Unplanned outage,A03,,2018-07-24 00:00:00+01:00,WJ5tZL810O9yhM9ZfIKPkw,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2018-07-23 04:15:00+01:00
+22,IE,Unplanned outage,A03,,2018-07-24 00:00:00+01:00,-CUr_qKgQHk8ENo0t3jwVw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-07-23 09:15:00+01:00
+24,IE,Unplanned outage,A03,,2018-07-24 00:00:00+01:00,4Rl4zJZ59WxeneOzD2jmaA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-07-23 10:15:00+01:00
+28,IE,Unplanned outage,A03,,2018-07-24 00:00:00+01:00,Gpvcvj-h_AfR5Hq33sTpmg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-07-23 11:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-03 00:00:00+01:00,87LMCvZUbP_ibMOIik9kwQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-01 21:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-02 04:30:00+01:00,1s9YSk-1ZqpyBhvoot3PnQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-08-02 03:00:00+01:00
+428,IE,Unplanned outage,A03,,2018-08-03 00:00:00+01:00,RJ-yHlErHrUnF1ItLC_wug,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-08-02 04:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-03 00:00:00+01:00,eGKYHkSik1kQvq1j1EV1EA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-02 14:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-04 00:00:00+01:00,lCm9MSEsdDSaYJCmb256aA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-03 06:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-05 00:00:00+01:00,8DsQ-4eQRelR2JN6f_Ytbg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-08-04 06:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-05 00:00:00+01:00,dHbqRFsXT4axn3MfMbrd2Q,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-08-04 06:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-05 00:00:00+01:00,97OfF5XqmS7JxX-eUBvBtw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-08-04 06:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-05 00:00:00+01:00,PVyMI5p41TrOTbO0oZD6VA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-08-04 06:30:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-06 00:00:00+01:00,7NsoRsGuxSNmnF8gMLuw8g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-05 14:00:00+01:00
+89,IE,Unplanned outage,A03,,2018-08-06 00:00:00+01:00,FEbB04xi1Thf4bKm4YepRg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-05 17:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-07 00:00:00+01:00,7ArPFi7vq9wv17ppKOGs4Q,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-08-06 17:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-09 00:00:00+01:00,Zly4RVpoqIbbZINHTjxDAw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-08 16:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-10 00:00:00+01:00,1EVLxnWy6-RA3OSnIb2qIA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-09 06:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-10 00:00:00+01:00,Xf7tWKBoPeP6jjscWBuuVg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-09 14:15:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-14 00:00:00+01:00,mW8ocCCncNI4c_UhhBh8WQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-12 22:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-08-16 00:00:00+01:00,kk6WLQM8YaZefMeKuetSQQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-15 08:00:00+01:00
+280,IE,Unplanned outage,A03,,2018-08-16 00:00:00+01:00,bqdNTCbVAZ26yrnTU4om0A,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-15 05:00:00+01:00
+88,IE,Unplanned outage,A03,,2018-08-17 00:00:00+01:00,ut2AHURzlIwYkwJ6RoKs-g,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-16 07:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-19 00:00:00+01:00,5TFf0olgAZFynDVnFPoBug,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-17 21:15:00+01:00
+280,IE,Unplanned outage,A03,,2018-08-19 00:00:00+01:00,xhN5kJGos0A2lwiLYyMSag,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-18 05:00:00+01:00
+210,IE,Unplanned outage,A03,,2018-08-19 00:00:00+01:00,bkBCwdsMlu_m3mk3gThrhA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-18 13:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-08-19 00:00:00+01:00,f7nW8YDg9h0fzbJims2l7A,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-18 14:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-08-20 00:00:00+01:00,2C1axRn0BXO06ls6rvxP8w,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-18 22:00:00+01:00
+86,IE,Unplanned outage,A03,,2018-08-20 00:00:00+01:00,dvsFgCUTu1HD7iLCStoI4w,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-19 09:15:00+01:00
+86,IE,Unplanned outage,A03,,2018-08-20 00:00:00+01:00,AnMOnwAVOXCkPmchz4Ex3Q,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-19 16:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-20 00:00:00+01:00,_K-ey4N91-8oeyg5MhLE5A,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2018-08-19 16:00:00+01:00
+266,IE,Unplanned outage,A03,,2018-08-20 00:00:00+01:00,7EqwIfYjQ4mB3L7OtClF1w,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-19 18:00:00+01:00
+83,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,-Eg6Jrm56FTTXV5DEkPDmg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-19 22:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,P5oqOs-AdNTFoaV0Awg7rQ,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2018-08-20 05:15:00+01:00
+52,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,ZRPBsPr6lSLeetXvIctmFw,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,2,2018-08-20 05:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,oNrsnNCQr7J87Wk3cYOCjg,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT15M,1,2018-08-20 09:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,xqhI7HIMtKRAjJyerW9wIg,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-08-20 11:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,1DXu6kE1v5pZLZbWtx2RZQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2018-08-20 07:30:00+01:00
+80,IE,Unplanned outage,A03,,2018-08-21 00:00:00+01:00,pCj8hYWv6tiSEwN8Yiw4BQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-20 15:00:00+01:00
+82,IE,Unplanned outage,A03,,2018-08-22 00:00:00+01:00,JP_ZtkJHGka4Axzbaw3rKw,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-21 16:00:00+01:00
+266,IE,Unplanned outage,A03,,2018-08-23 00:00:00+01:00,BPLBD7lWCPV5pZnaGm0xoQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-22 20:15:00+01:00
+252,IE,Unplanned outage,A03,,2018-08-24 00:00:00+01:00,erUH3H_36aRvCv7A2p3mlQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-22 21:15:00+01:00
+78,IE,Unplanned outage,A03,,2018-08-24 00:00:00+01:00,7Xcob_yUKI1xFtE7GEayAg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-23 16:00:00+01:00
+265,IE,Unplanned outage,A03,,2018-08-26 00:00:00+01:00,0Nq_vT-h6uwwsp9TF4B34g,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-25 07:00:00+01:00
+390,IE,Unplanned outage,A03,,2018-08-27 00:00:00+01:00,Q24p8N7_UO0dToiaC3OOlw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-08-26 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-28 00:00:00+01:00,xt0DJOW5tt-wtT9s_I2rUQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-08-27 10:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-28 00:00:00+01:00,ugYs-ws1LtWK2Ezg6xBvgw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-08-27 13:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-28 00:00:00+01:00,ApwcC61EGcKbmAsvwl9dPw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-08-27 10:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-28 00:00:00+01:00,wxPNnujxmG1K8YljWEY4tA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-08-27 10:30:00+01:00
+78,IE,Unplanned outage,A03,,2018-08-29 00:00:00+01:00,8hl4R4s1oNyupNXGLYCzqQ,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-08-28 09:15:00+01:00
+210,IE,Unplanned outage,A03,,2018-08-30 00:00:00+01:00,2L1Jr4JPGYH0DF1LSBDGlA,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-29 06:00:00+01:00
+85,IE,Unplanned outage,A03,,2018-08-30 00:00:00+01:00,YFpaCmgC2zXMje7O7osxtg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-08-29 17:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-08-31 00:00:00+01:00,YHFWJ2D2dX0fAT7iuvqpAg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2018-08-29 20:00:00+01:00
+365,IE,Unplanned outage,A03,,2018-09-01 00:00:00+01:00,W-65RoEqV5huwjO9RFwHsQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-08-31 00:00:00+01:00
+380,IE,Unplanned outage,A03,,2018-09-01 00:00:00+01:00,5VUHHk4PKDCPFsU2jxeU9Q,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-08-31 02:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-01 00:00:00+01:00,bX4-u1uLcEZJlFThtM21VA,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-08-29 20:00:00+01:00
+350,IE,Unplanned outage,A03,,2018-09-01 00:00:00+01:00,0v3kEZVlZU3oU0Omtmq4TA,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-08-31 15:00:00+01:00
+48,IE,Unplanned outage,A03,,2018-09-02 00:00:00+01:00,gF7uA9Ccn-Wv-2Ak8owa2Q,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-09-01 04:15:00+01:00
+27,IE,Unplanned outage,A03,,2018-09-02 00:00:00+01:00,KOPBe3BHs-nvohj1cndjuQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-09-01 06:00:00+01:00
+400,IE,Unplanned outage,A03,,2018-09-03 00:00:00+01:00,PyKKT7bNvIrfo1ZOgl5Rpg,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-02 00:00:00+01:00
+125,IE,Unplanned outage,A03,,2018-09-03 00:00:00+01:00,_h2knIkHgD2resgC4eeJxQ,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-09-02 12:00:00+01:00
+92,IE,Unplanned outage,A03,,2018-09-04 00:00:00+01:00,_IaFTVvAlwAuQG59BZMxWg,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,1,2018-09-03 09:15:00+01:00
+385,IE,Unplanned outage,A03,,2018-09-05 00:00:00+01:00,Px3Au4SXeQw0Zr3iryqEWA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-04 00:00:00+01:00
+32,IE,Unplanned outage,A03,,2018-09-05 00:00:00+01:00,jBBtQ_LXTkkI1Xrv4HBJPA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-09-04 08:15:00+01:00
+73,IE,Unplanned outage,A03,,2018-09-05 00:00:00+01:00,1XzoUeTjKVsZ5Tno0zjQ-w,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-09-04 15:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-03 20:15:00+01:00,uN7TSHjzzKYAZ_pQ04bTow,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2018-09-03 08:00:00+01:00
+385,IE,Unplanned outage,A03,,2018-09-07 00:00:00+01:00,4mLE7x-aGi16IqGVTf_TUw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-06 00:00:00+01:00
+385,IE,Unplanned outage,A03,,2018-09-08 00:00:00+01:00,j8LNdD8ZtWCWK49iKTB-Ug,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-07 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-10 00:00:00+01:00,3CfXibkIFRC4GZoo47DTSA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-09-08 23:45:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-12 00:00:00+01:00,h_oQ8zhvF-JTKVsGcn1nlw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-09-11 07:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-12 00:00:00+01:00,ODM7TjMgWMDzqRql8hp3UA,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,1,2018-09-11 08:00:00+01:00
+32,IE,Unplanned outage,A03,,2018-09-13 00:00:00+01:00,HINvSoUx7GvTYyE0jEHgXg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-09-12 13:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-18 00:00:00+01:00,qYBVGZxO1wx96UOBSs70TQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-17 14:00:00+01:00
+77,IE,Unplanned outage,A03,,2018-09-19 00:00:00+01:00,5YeWdbC17YjgU30hPe2LDg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-09-17 20:00:00+01:00
+78,IE,Unplanned outage,A03,,2018-09-19 00:00:00+01:00,PRaajilj5z9P27ioI0fFjg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-09-18 01:30:00+01:00
+55,IE,Unplanned outage,A03,,2018-09-19 00:00:00+01:00,QLqSPYeILebndgBdNU8skw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-09-18 15:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-21 00:00:00+01:00,EqZnnMX9fINaSXj8iRVxuA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-09-20 09:00:00+01:00
+398,IE,Unplanned outage,A03,,2018-09-25 00:00:00+01:00,HRfAwXzbJRUteQiHEPCSwA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-23 23:00:00+01:00
+370,IE,Unplanned outage,A03,,2018-09-26 00:00:00+01:00,2iVW6X0qMwKj180K9r48ZA,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-25 00:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-09-27 00:00:00+01:00,ww-13_iJHgrW2o5lsjMocg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-09-26 09:15:00+01:00
+21,IE,Unplanned outage,A03,,2018-09-27 00:00:00+01:00,JlzYyFk0QvypQZwuaN1_Jw,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2018-09-26 18:00:00+01:00
+385,IE,Unplanned outage,A03,,2018-09-29 00:00:00+01:00,14z8p3B4aVDc8zbELpZ-Hw,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-09-28 00:00:00+01:00
+42,IE,Unplanned outage,A03,,2018-10-02 00:00:00+01:00,b4P7dFa3Iw00KzKlytImqg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-09-30 21:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-02 00:00:00+01:00,2vyAiSA_z5Ue21uWGUl1ZQ,258.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 1,1,MAW,PT15M,1,2018-09-30 22:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-03 00:00:00+01:00,0CrXlHX1eE_qvKgGWoF7Nw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-10-02 08:00:00+01:00
+9,IE,Unplanned outage,A03,,2018-10-03 00:00:00+01:00,gnnLx-t6VD5j7SRRpWr49w,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,1,2018-10-02 11:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-05 00:00:00+01:00,mbg32aeEeHFEEcGZSMlqcQ,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 3,1,MAW,PT15M,1,2018-10-04 07:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-06 00:00:00+01:00,sYybRii-jQRj15qocOBgeg,243.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 4,1,MAW,PT15M,1,2018-10-05 10:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-11 00:00:00+01:00,cJTJFEl_sSBF41MhoNsRfA,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-10-10 11:15:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-16 00:00:00+01:00,3afSV4ivBx9GuwtmxwcAhA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2018-10-15 17:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-19 00:00:00+01:00,EaoDT5TirmzZPRtaxEDA9g,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-10-18 08:00:00+01:00
+52,IE,Unplanned outage,A03,,2018-10-21 00:00:00+01:00,_TvfRbvTrlEurIJ2lto0VQ,52.0,Fossil Oil,47W000000000161P,Offaly,Rhode Island Production,Rhode Unit 1,1,MAW,PT15M,2,2018-10-17 17:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-25 00:00:00+01:00,s1mSOsSfbKGmE5y11fesCQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-10-24 09:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-25 00:00:00+01:00,q0o5wvXs6_PUnvwnBBZ94Q,8.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 3,1,MAW,PT15M,1,2018-10-24 10:30:00+01:00
+0,IE,Unplanned outage,A03,,2018-10-28 00:00:00+01:00,X2jEpO-q3joBnQbFBl_T0Q,19.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 3,1,MAW,PT15M,1,2018-10-27 17:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-11-05 00:00:00+00:00,pfe_zi-qSamITkvpKaQgxQ,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT15M,1,2018-11-04 17:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-06 00:00:00+00:00,WeBlKDr8lxg4o4XE5FCkOg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-11-05 05:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-06 00:00:00+00:00,aE_sTFf-fvkt5_NtbbqEKg,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-11-05 05:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-06 00:00:00+00:00,jAkSaxGuoUt-M3MxPtsXvA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2018-11-05 05:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-06 00:00:00+00:00,RKgYFlaV1wstfQQM2GgaNg,74.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 2,1,MAW,PT15M,1,2018-11-05 16:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-05 15:45:00+00:00,sK6TVHsI3YnEL6SSA1WK5w,74.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 2,1,MAW,PT15M,1,2018-11-05 13:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-07 00:00:00+00:00,omXBN5cQdfydQGMsAQljUg,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2018-11-05 22:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-07 00:00:00+00:00,-MymLWFlKN_CjTlZiGjJWg,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-11-06 00:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-07 00:00:00+00:00,EUSAYsM7OKFrToqCD9LDrQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,1,2018-09-30 23:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-11-06 00:00:00+00:00,FcKDFHXqrMp0bVJVoafKpQ,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-10-24 23:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-11-07 00:00:00+00:00,5SHGVymSmkJsapkFDI5WaQ,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-06-10 23:00:00+01:00
+0,IE,Unplanned outage,A03,,2018-11-08 00:00:00+00:00,W3mVne3b12S30xJsnPJGog,15.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 1,1,MAW,PT15M,1,2018-11-07 13:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-08 00:00:00+00:00,e9nenrHuGDsf7XK1S9rNzQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2018-11-06 17:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-10 00:00:00+00:00,RIPrsNsFxXo44ydt9KfPUw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,1,2018-11-09 05:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-10 00:00:00+00:00,B7JHN3ZcVhalVAkIWp4crQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,1,2018-11-09 05:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-10 00:00:00+00:00,KKQG4okuhntSLV74eB98TA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,1,2018-11-09 05:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-13 15:30:00+00:00,KPr9bguTs0Wz7BuZRKSY7w,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-11-13 14:00:00+00:00
+61,IE,Unplanned outage,A03,,2018-11-16 00:00:00+00:00,_HnctRzbzqwewSiFoSJf6Q,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-11-15 10:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-17 00:00:00+00:00,rcW1I-ufTcjxGmRCrNUPnQ,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-11-14 16:15:00+00:00
+76,IE,Unplanned outage,A03,,2018-11-20 00:00:00+00:00,5-_eG-HDW71UXBHz58vA3A,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-11-19 13:15:00+00:00
+81,IE,Unplanned outage,A03,,2018-11-20 00:00:00+00:00,1QiVHfcxnewzsOYLPUYxQg,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,1,2018-11-19 19:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-21 00:00:00+00:00,SD-zE23TrlaCrL1iZ19mtQ,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-11-20 06:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-20 08:45:00+00:00,OPYf4ceyXex5xKbJXHyUYQ,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,2,2018-11-20 08:00:00+00:00
+404,IE,Unplanned outage,A03,,2018-11-20 10:45:00+00:00,KS9L956UC21ClGmD_s7jDg,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,2,2018-11-20 08:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-22 00:00:00+00:00,2FqLaeIR9oDkkCHEu_r7BQ,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-11-21 04:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-22 11:00:00+00:00,UDpF35HpIWP0NaWVHzz-VQ,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-11-22 08:30:00+00:00
+402,IE,Unplanned outage,A03,,2018-11-23 00:00:00+00:00,xkule9jB1QdDV1EmqOGhcA,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2018-11-22 11:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-22 15:15:00+00:00,D9vhzVDar76rYlx-geojtA,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-11-22 14:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-24 00:00:00+00:00,dW4I4x2e_c7c_hDSIsQ-aA,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 2,1,MAW,PT15M,1,2018-11-23 17:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-25 00:00:00+00:00,vPp4ZiZo7EScKXoY_K-SRQ,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2018-11-23 22:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-22 15:15:00+00:00,lmTAO0-MfljLFiMz8CdyxA,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-11-22 14:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-26 00:00:00+00:00,3N_9ZZQ_Ihdh29M_7E2oqQ,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-11-24 23:00:00+00:00
+396,IE,Unplanned outage,A03,,2018-11-26 00:00:00+00:00,kqwJ5vp76LUvfOLX5ypqXw,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2018-11-25 19:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-11-29 00:00:00+00:00,DPR-7k2ebvC6WtgUYX3WiA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2018-11-28 10:00:00+00:00
+210,IE,Unplanned outage,A03,,2018-11-30 00:00:00+00:00,Tfai8zZbeQ1N8LITgiitNA,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2018-11-29 10:00:00+00:00
+6,IE,Unplanned outage,A03,,2018-10-27 19:00:00+01:00,3tZZDseFHr6rBDfU9nHZ5A,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2018-10-26 20:45:00+01:00
+0,IE,Unplanned outage,A03,,2018-12-02 00:00:00+00:00,FkM9K-cHzGNfbTDHJd0bgg,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-11-30 22:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-03 00:00:00+00:00,BnVFFJojmEJN1avIXYz4vQ,271.0,Fossil Gas,47W000000000167D,Dublin,North Wall Production,North Wall CT5,1,MAW,PT15M,1,2018-12-02 16:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-04 13:30:00+00:00,aWeHVryoyBJXB25P3Ho0Gg,243.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 4,1,MAW,PT15M,1,2018-12-04 12:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-06 00:00:00+00:00,K9mGRQZndhh558tkA9pIUQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2018-12-05 08:00:00+00:00
+130,IE,Unplanned outage,A03,,2018-12-05 17:00:00+00:00,1vqrXgYwsKdiQ6kgqv7ohw,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-12-05 16:15:00+00:00
+170,IE,Unplanned outage,A03,,2018-12-05 18:15:00+00:00,a9zMroy-BLRvaGZTbbF4FQ,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-12-05 17:00:00+00:00
+180,IE,Unplanned outage,A03,,2018-12-06 00:00:00+00:00,ptu7yFgfp_KX3kVlpKGj9g,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,1,2018-12-05 18:00:00+00:00
+168,IE,Unplanned outage,A03,,2018-12-07 00:00:00+00:00,18819CyCqdjMGwTYmGo0qg,241.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 3,1,MAW,PT15M,2,2018-12-06 10:45:00+00:00
+22,IE,Unplanned outage,A03,,2018-12-07 00:00:00+00:00,ljnkgYpQ70ovM9EBzN6Qjw,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-12-06 17:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-08 00:00:00+00:00,Ufy73nTtuVriHZfwODr2Rg,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-12-06 23:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-09 00:00:00+00:00,PCpPFcbpkz89l-cdI4-hZw,243.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 4,1,MAW,PT15M,1,2018-12-07 21:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-10 00:00:00+00:00,u557WQsFGb7XuXYu3sVUYQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-12-09 20:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-11 06:30:00+00:00,p_CHOzGIb03Csz5xJsyZ5A,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT15M,1,2018-12-11 03:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-13 00:00:00+00:00,HyGoqbgCCE89k-7sFtaGQg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2018-12-12 09:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-14 00:00:00+00:00,JIUV9UXwo7OcW4eAJdjEGw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,1,2018-12-13 09:00:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-14 00:00:00+00:00,anArQweg9fS1OfA5NTl_8w,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2018-12-13 14:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-14 00:45:00+00:00,ULCRuCIjflj_h1LIvOOdIw,243.0,Fossil Oil,47W000000000162N,Kerry,Tarbert Production,Tarbert Unit 4,1,MAW,PT15M,1,2018-12-13 23:00:00+00:00
+21,IE,Unplanned outage,A03,,2018-12-16 00:00:00+00:00,IVFlg-Yprp47SnsyiQ9wNA,24.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 4,1,MAW,PT15M,1,2018-12-15 12:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-16 00:00:00+00:00,TwKejNb4OVxNuCcjeZ1kUQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-12-15 12:45:00+00:00
+220,IE,Unplanned outage,A03,,2018-12-16 16:00:00+00:00,OjMT7NcXgHGoY9rp2TnJsA,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2018-12-16 15:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-17 00:00:00+00:00,wBHo6vFbHvZoV4nL2LuAyQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-12-16 17:00:00+00:00
+68,IE,Unplanned outage,A03,,2018-12-17 02:00:00+00:00,ksHJnPNKlV3dU9K74pcv7g,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-12-17 01:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-18 00:00:00+00:00,fWq9zgoAEo9XVyBKrnnu4Q,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2018-12-17 20:00:00+00:00
+50,IE,Unplanned outage,A03,,2018-12-22 00:00:00+00:00,-v0azzvW8XLhvgiCuz7OYQ,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-12-21 17:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-23 00:00:00+00:00,sYRpwGorfk9lTsJdTIa4vA,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-12-21 20:15:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-23 00:00:00+00:00,US-0wW3IfbSVhrhYiRGZ9w,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2018-12-22 06:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-23 00:00:00+00:00,PlltLXHKM2J806ftBOR4Sg,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2018-12-22 17:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-24 00:00:00+00:00,ZoW_MJnM4iQ97KWrqBT55Q,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 3,1,MAW,PT15M,1,2018-12-23 00:45:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-22 09:15:00+00:00,HIDdza4LVh69xqCYH7yRZg,15.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 1,1,MAW,PT15M,1,2018-12-22 08:30:00+00:00
+0,IE,Unplanned outage,A03,,2018-12-27 18:30:00+00:00,pnOju7mKF1eT8DqE-C9gHQ,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT15M,1,2018-12-27 17:00:00+00:00

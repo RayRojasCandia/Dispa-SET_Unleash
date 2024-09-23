@@ -1,0 +1,560 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,NO,Planned maintenance,A03,,2017-07-28 14:00:00+02:00,JbidO_dTCmGde_FoikXoRw,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-05-08 06:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-30 14:00:00+02:00,_RZLUHq-o2T2UbfK-KAumw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,2,2017-06-19 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-07 17:00:00+02:00,Xn4Lo7bt68M4_R-5gLyRyg,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,2,2017-04-24 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-02-24 15:00:00+01:00,sJ6Y4BrV-885KgZMUTx-wg,110.0,Hydro Water Reservoir,50WP00000000006N,Alta krv,Alta krv,Alta Krvg2 Hydro,1,MAW,PT1M,1,2017-02-13 08:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-23 14:00:00+02:00,XgPeXWzrmu-XWVshdbUUsQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,2,2017-06-12 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-27 15:00:00+02:00,zK-D1e1ZClt33eBsri5hOQ,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,2,2017-04-24 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-11 15:00:00+02:00,UfO8PVn3KtlJWh_1kGUgbw,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,2,2017-05-08 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-12 15:00:00+02:00,SkeG-kxuyBY3tqDszBje7A,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-05-08 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-01-20 15:00:00+01:00,1xZsMGY7vL0KduLO7tILlA,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,3,2017-01-16 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-05-18 12:00:00+02:00,R2t1WpsJB6APzigazSra6g,114.0,Hydro Water Reservoir,50WP00000000100V,Dale,Dale,Dale G1 Hydro,1,MAW,PT1M,1,2017-05-18 10:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-12 16:00:00+02:00,ryerf6WCRO_hfMjNEhhIjg,110.0,Hydro Water Reservoir,50WP00000000480W,Myster,Myster,Myster G1 Hydro,1,MAW,PT1M,1,2017-06-12 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-01-20 15:00:00+01:00,7qFB25pQQ9wPeK7rt_u-PA,115.0,Hydro Water Reservoir,50WP000000000827,Brokke,Brokke,Brokke G4 Hydro,1,MAW,PT1M,5,2017-01-15 19:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-06-09 15:00:00+02:00,Gid13dz0pV-jOvabb6G5FA,120.0,Hydro Water Reservoir,50WP000000002811,Holen,Holen,Holen G1 Hydro,1,MAW,PT1M,1,2017-05-29 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-09 15:00:00+02:00,9pGUsTnBA8_KLQzhI2V0FA,120.0,Hydro Water Reservoir,50WP000000002811,Holen,Holen,Holen G2 Hydro,1,MAW,PT1M,1,2017-06-01 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-01-05 15:00:00+01:00,SxUlhSY431FSbyKbD8AI-g,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,1,2017-01-05 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-03 15:00:00+01:00,BV1kjvTZfUTL3zhgRFe6fg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,4,2016-12-23 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-10 15:00:00+01:00,VhtsiiQcazEkteI_BWYlCg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-01-10 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-12 15:00:00+01:00,9fhf02wGwLFISCMormUkNQ,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-01-12 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-06 15:00:00+01:00,kATVCWGEZupsf1CW589rdA,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-01-06 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-01-12 15:00:00+01:00,mFT4T2oWfg_XFtdJT5m5WA,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-01-10 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-10 12:00:00+01:00,5NQapUXVMkd1hlJiSuUn-g,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-01-10 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-13 14:00:00+01:00,ajXkg5TRg7LQ_aBkgHQHaA,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-01-13 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-13 16:00:00+01:00,1h99i6q6_krNdH1kcwHxCw,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-01-13 14:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-01-10 15:00:00+01:00,yYMOTtcsGm9Gz0j3QuWHMw,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,1,2017-01-10 07:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-01-11 15:00:00+01:00,FDpVvBYxF03wBzYJd8xuEg,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-01-11 07:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-01-12 12:00:00+01:00,abmwXsZUu6jA-mEUqwFZdQ,112.0,Hydro Water Reservoir,50WP00000000488G,Naddvik,Naddvik,Naddvik G1 Hydro,1,MAW,PT1M,1,2017-01-12 09:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-12 08:00:00+02:00,x9XFNT87kAeaAqxmAlcScQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-05-19 14:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-12 08:00:00+02:00,tw2wlbVn33JioLIkKUzq6Q,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,2,2017-05-19 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-01-13 08:00:00+01:00,SkFW-33Llg05loGT2FVAsQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G4 Hydro,1,MAW,PT1M,1,2017-01-13 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-10 07:00:00+02:00,sihimNPG6fvDuqTu8iiyaw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-06-16 14:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-10 07:00:00+02:00,jqjVEl8KTDxlivXtqVeaoA,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,2,2017-06-16 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-02-28 16:00:00+01:00,Uapr_jlQk4B_nis2r_bN-Q,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-02-28 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-02 12:00:00+01:00,9ZKfHd5OTVHKFM5rAKmsaw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-03-02 08:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-01-13 12:00:00+01:00,7__qKaNJza3ll8xV1Y7Rlg,113.0,Hydro Water Reservoir,50WP00000000741U,Tjodan,Tjodan,Tjodan G1 Hydro,1,MAW,PT1M,3,2017-01-09 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-19 10:30:00+01:00,togrdShX9iL1yPllugx0Jw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-01-19 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-01-20 15:00:00+01:00,9R2A1pn2N7iO5zIJmuqN7w,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,1,2017-01-20 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-24 12:00:00+01:00,9jb9B-daTHefXEHC7KA9fQ,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G2 Hydro,1,MAW,PT1M,1,2017-01-24 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-01-25 15:00:00+01:00,y3uz8YAAJgHh2Vxxm8WVOQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,3,2017-01-23 07:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-01-24 09:00:00+01:00,UI2UdEdpXMT8LIu9ddyeGQ,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-01-24 06:11:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-03 14:00:00+01:00,s8IPg41sDnv2yivnls1xZA,108.0,Hydro Water Reservoir,50WP000000005039,Nedre Vinstra,Nedre Vinstra,Nedre_Vig5 Hydro,1,MAW,PT1M,2,2017-02-03 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-01 15:00:00+01:00,bSPohIzhHgb-Qv9wSMKP5Q,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,1,2017-02-01 11:30:00+01:00
+0,NO,Planned maintenance,A03,,2017-06-16 15:00:00+02:00,KkRZkPS9UEx0j9YpG79RNA,100.0,Hydro Water Reservoir,50WP00000000653R,Solhom,Solhom,Solhom G1 Hydro,1,MAW,PT1M,1,2017-06-06 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-02-02 11:00:00+01:00,OhbNNhgjmqVhFHUm_bBAsw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,1,2017-02-02 07:30:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-02 15:00:00+01:00,HdCi6-WzYxo7iWVWY3k3Tg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,1,2017-02-02 11:30:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-01 13:20:00+01:00,ZFSLMGkqHRKjJw8yC61-Kw,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,4,2017-01-30 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-02 15:00:00+01:00,31uuTupk_t_1NoRWOuOBmw,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-02-02 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-01 19:52:00+01:00,LRBc7z3aKB3p6BbMK6uQiQ,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,2,2017-02-01 18:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-01 23:59:00+01:00,8KJ1v4C3cFgycp7lbd0g5w,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,1,2017-02-01 21:50:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-02 14:11:00+01:00,Wzk0kBfGhPJFq_HSTjnIiQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-02-01 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-03 09:00:00+01:00,p8J1GDtBZGB3Q09kFWK_cg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,1,2017-02-02 21:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-03 15:00:00+01:00,MlOaliazaa55QGwZaEG36g,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G1 Hydro,1,MAW,PT1M,1,2017-02-02 22:42:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-03 08:30:00+01:00,X0NVoK2hi-J4YwWDS2rYZA,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G2 Hydro,1,MAW,PT1M,2,2017-02-02 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-07 08:20:00+01:00,EwLeh_yQN-9JtesbaDvO0w,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,2,2017-02-07 03:45:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-07 19:00:00+01:00,CoK57K57IyNbTXZ3Br6RCA,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G1 Hydro,1,MAW,PT1M,4,2017-02-04 09:45:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-07 22:00:00+01:00,4QUDrHBnltYNGccfg8IklQ,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,2,2017-02-07 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-15 13:00:00+01:00,tXa4ap6iXNtXM-8XXf6PvQ,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G3 Hydro,1,MAW,PT1M,1,2017-02-15 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-16 14:00:00+01:00,LFEHtlRM8lnyLGoyGnoiDw,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-02-16 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-20 15:00:00+01:00,ZkhpFqENP7A0-8-vgaSXPg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-02-20 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-21 18:00:00+01:00,qfstYmW35YNX1cEQcLrUSg,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G3 Hydro,1,MAW,PT1M,1,2017-02-21 06:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-22 18:00:00+01:00,A5HcF-5ORF2ua0Agc_a60A,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G2 Hydro,1,MAW,PT1M,1,2017-02-22 06:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-23 18:00:00+01:00,-9M6FlBkYSIFb-5A97gnVQ,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G1 Hydro,1,MAW,PT1M,1,2017-02-23 06:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-16 13:45:00+01:00,cBl_NnmQVHU5JLr6a7wSkA,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,3,2017-02-16 10:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-17 16:00:00+01:00,Q1rjEYndKbZOzvE3EX8EeA,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-02-17 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-20 14:00:00+01:00,zY9y4vx3792G_WkMUZElUQ,143.5,Hydro Water Reservoir,50WP000000002293,Grytten Kraftver,Grytten Kraftver,Gryttenkg1 Hydro,1,MAW,PT1M,1,2017-02-20 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-22 09:30:00+01:00,x1yjSvCWs4fY4ZBKF46kVA,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,1,2017-02-22 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-22 11:00:00+01:00,QXK5X8rN8uM709hhSems_Q,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,1,2017-02-22 09:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-13 08:35:00+01:00,jodzwKiAsS6ViRq9q0gnQg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-02-12 17:50:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-20 19:48:00+01:00,iHjFYMM8VtBL7wPjMfSJgw,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,4,2017-02-16 08:35:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-23 18:00:00+01:00,LdwEF7Hir1fOiRVayuabAw,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,1,2017-02-23 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-01 12:30:00+01:00,zvM0mX66dpO9qNyQEKpwOQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,1,2017-03-01 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-21 21:00:00+01:00,NtgEOv0H6u76kq5126aCBg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,1,2017-02-21 20:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-27 15:00:00+01:00,4ywFgB0d6AFLlDAYM6Osjg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-02-27 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-02-24 16:00:00+01:00,0r_Ih6xx4ar2sKW8XXuRmQ,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,2,2017-02-21 07:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-27 16:00:00+01:00,4JM38NHzRLPuhaZwETstFw,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,1,2017-02-27 10:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-02-27 09:12:00+01:00,2m8tmQCJzvW2DDv8VBoS4w,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,3,2017-02-26 01:50:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-01 15:00:00+01:00,NbfQS7FW5-obFwoArLL_gw,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-03-01 10:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-10 15:00:00+01:00,BugHXT0iCcJHtivHXJCdPQ,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,1,2017-02-27 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-05-12 15:00:00+02:00,vEc8MZ9hKHUb5lkYKGt83A,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G2 Hydro,1,MAW,PT1M,1,2017-03-13 08:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-03-23 15:00:00+01:00,Q-Ied1VB05NVLFnrRMc3zg,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,3,2017-03-22 15:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-02 12:00:00+01:00,hXbiv1diotTlO0Z9hGXOQQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,1,2017-03-02 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-02 09:00:00+01:00,DTXjS-ulKPAlDgJs63AF3g,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,1,2017-03-02 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-01 15:00:00+01:00,uEtqirH4EVO6Ytmmlxo_Fw,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,2,2017-02-24 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-07 11:00:00+01:00,zIt8MiT227_VlaQn1SZKzA,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,1,2017-03-07 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-07 14:00:00+01:00,dnYZAq2Jj0CBKgrFbdeKXQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G2 Hydro,1,MAW,PT1M,1,2017-03-07 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-07 16:00:00+01:00,aodD80XRql85Uk8Nmk9SgQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,1,2017-03-07 14:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-01 10:30:00+01:00,VYM-WdMnd88FLPbfivLF1w,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,4,2017-02-28 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-01 18:00:00+01:00,p8nqMCg1dat40V8MWw_6FQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,2,2017-03-01 13:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-04-07 17:00:00+02:00,Ulp9D-T4pLjNcOxaaGCQwg,150.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g2 Hydro,1,MAW,PT1M,2,2017-04-05 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-05 12:00:00+02:00,4pN1WEFu4rE5jIHmrmTC_w,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,1,2017-03-20 07:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-01 20:21:00+01:00,XAWtXkp9Ker4Z7btTAHPkg,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,2,2017-03-01 18:56:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-07 15:00:00+01:00,O42ed9mjE0FGvGQBh7aPTw,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,2,2017-03-07 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-02 15:30:00+01:00,DhuDq0C0-_bvvrq9Z-pEAA,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,5,2017-03-02 07:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-03 13:15:00+01:00,PqxGX89ofrL-4IrLSAXt-Q,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,1,2017-03-03 11:15:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-06 10:40:00+01:00,3JHKK46kBsK7fcAWO4QQWQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,2,2017-03-06 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-06 13:35:00+01:00,sotCeot6oQzzgBASeEWlWg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,4,2017-02-24 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-09 17:00:00+01:00,2z00AbG_PEYYESrzoF2oig,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,1,2017-03-09 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-09 16:00:00+01:00,x3W7l9AhnXoDRmTsFBuM6g,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,1,2017-03-09 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-22 18:00:00+01:00,jnyTSGvEprCv3VTX1EPErQ,113.0,Hydro Water Reservoir,50WP00000000741U,Tjodan,Tjodan,Tjodan G1 Hydro,1,MAW,PT1M,1,2017-03-22 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-07 17:00:00+01:00,4dxBdmg6JL3_ZlKt9MeaEg,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G4 Hydro,1,MAW,PT1M,2,2017-03-07 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-13 15:00:00+01:00,Ds7edvV1a2WiOjyqnIDLgQ,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,1,2017-03-13 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-09 23:00:00+01:00,xBQ1ImE_tv6ovUQtatI6Zg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,1,2017-03-09 20:10:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-14 15:00:00+01:00,gVpV79V6EEhf-IJPtBejjw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,1,2017-03-14 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-13 12:30:00+01:00,X7BM3l0eSWVg3c-Z5TMSzQ,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,4,2017-02-23 18:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-03-14 15:00:00+01:00,TXkPQpqwVBm_Rp0Olm3Okw,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-03-14 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-15 15:00:00+01:00,lfLcjFxCpWaN21pSgVblrw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,1,2017-03-15 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-04-05 15:00:00+02:00,xn7TmHghyiT5kJQHOrY_Bg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-04-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-03-15 13:30:00+01:00,K01oFAQKkWBkbA6Zm9ukdA,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G1 Hydro,1,MAW,PT1M,4,2017-03-13 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-03-29 15:00:00+02:00,xbNFrPjma-U3DwRILmx0wQ,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,2,2017-03-27 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-03-21 09:00:00+01:00,3XuyiIg4WSUgcjJPJPUbTQ,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,1,2017-03-21 05:10:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-21 12:15:00+01:00,LMRBPC12n9bFG4jc_oSW4Q,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-03-20 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-22 07:00:00+01:00,fWaopwGN_fwZlo35a-KCYQ,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G2 Hydro,1,MAW,PT1M,4,2017-03-16 15:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-05-04 15:00:00+02:00,SA-zgMEOmd3K4CW5ZFDYZQ,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-05-04 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-03-24 11:00:00+01:00,vQnGjzmc7UYdG4OCQGTP4Q,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-03-23 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-03-24 06:00:00+01:00,5YXIdsrZEXDBFDTDJ4R-pQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-03-23 18:15:00+01:00
+0,NO,Planned maintenance,A03,,2017-04-04 15:00:00+02:00,uhyVCoTlXacGbhB52x2ikg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-04-04 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-03-31 14:00:00+02:00,5p7Gxfjcou4dTRpbfDCt7g,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,1,2017-03-29 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-03-29 16:00:00+02:00,Gd6dniwUXKkGb349CI0xJA,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,1,2017-03-29 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-03-28 18:00:00+02:00,o1iWxPkJx1UOyZf9Bh56xQ,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-03-28 08:15:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-04-05 15:00:00+02:00,z1VLPw-_ehwfafCZSwFGeg,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-04-05 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-08 15:00:00+02:00,XKUfN2PpPNsP09CY_p8zEA,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G1 Hydro,1,MAW,PT1M,1,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-03-31 15:00:00+02:00,LM-Gu8Osd2f9m5ffmUT34A,100.0,Hydro Water Reservoir,50WP00000000653R,Solhom,Solhom,Solhom G2 Hydro,1,MAW,PT1M,1,2017-03-31 09:30:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-03 04:00:00+02:00,yd2U-bl7FVo4ME9BU4XZgA,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,1,2017-04-03 02:25:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-03 14:00:00+02:00,qTlHmLwrE6xPvU7thsA46Q,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,1,2017-04-03 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-05 15:00:00+02:00,vEqe_5xAYC9hyjEZPwLDZA,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G2 Hydro,1,MAW,PT1M,2,2017-04-05 09:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-06 15:00:00+02:00,PkShTcXGvDRIxp2JzBY7OA,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G1 Hydro,1,MAW,PT1M,1,2017-04-06 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-23 15:00:00+02:00,Kor5JAr_WiK-GZgmsAe1vg,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,2,2017-06-06 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-23 15:00:00+02:00,FnZslcqR3kG_YrFnX2W3mQ,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,2,2017-06-06 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-12 15:00:00+02:00,AKy3rbqvNK4w-562kA1rwQ,115.0,Hydro Water Reservoir,50WP00000000411E,Leirdola,Leirdola,Leirdolag1 Hydro,1,MAW,PT1M,3,2017-05-02 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-07 15:00:00+02:00,r18aIxDpM6m3E8neeplKBg,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,2,2017-04-06 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-06 10:40:00+02:00,CgPtUyXKdv6Y4ZjO5Xcb_w,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,4,2017-03-27 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-16 15:00:00+02:00,0kLDEBdTkerFsDwiZk9B-g,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G1 Hydro,1,MAW,PT1M,1,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-21 15:00:00+02:00,gz1Y5Qr_ZI3mZavtHfajKg,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,2,2017-04-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-05 15:00:00+02:00,vzHE-Hs9r2ZT9P3PbD1BwQ,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,2,2017-05-02 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-07 11:48:00+02:00,k15PvfKXr2oqiZp7ns9jPw,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,2,2017-04-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-07 13:10:00+02:00,7Y2SWre2P7TPL6b_JfhWBA,110.0,Hydro Water Reservoir,50WP00000000006N,Alta krv,Alta krv,Alta Krvg2 Hydro,1,MAW,PT1M,2,2017-03-08 10:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-04-07 14:30:00+02:00,BFkEQ7OsD3GZbrv25Iahyw,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-04-07 13:20:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-05 15:00:00+02:00,wOG6oa2vTq56D5UUIG94SQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G3 Hydro,1,MAW,PT1M,1,2017-05-02 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-08 08:41:00+02:00,OXuNgW0a1usiiL9miJTFZQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,2,2017-04-08 07:12:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-10 13:55:00+02:00,00dOJSss9VX-a2i5DFwLTg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,3,2017-04-10 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-13 11:00:00+02:00,QojT_BTX7nDQD57F3fUZjQ,110.0,Hydro Water Reservoir,50WP00000000006N,Alta krv,Alta krv,Alta Krvg2 Hydro,1,MAW,PT1M,1,2017-04-13 09:10:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-18 06:59:00+02:00,lF6keLiwD6503VbPtQRQvw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-04-13 07:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-13 18:00:00+02:00,05KiHK2wyLjOlF0G1io37w,110.0,Hydro Water Reservoir,50WP00000000006N,Alta krv,Alta krv,Alta Krvg2 Hydro,1,MAW,PT1M,2,2017-04-13 12:50:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-21 15:00:00+02:00,HpNRxPRX_meldZK0axH-yg,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,2,2017-04-21 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-21 14:00:00+02:00,IuX37JRb6706dLj3RKmeeQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G2 Hydro,1,MAW,PT1M,2,2017-04-21 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-18 18:12:00+02:00,k1yWqmQxoRLPfIlsCkNyVQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,3,2017-04-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-28 16:00:00+02:00,ozr3sQOiXEaBH6iSmRoSEA,114.0,Hydro Water Reservoir,50WP00000000100V,Dale,Dale,Dale G1 Hydro,1,MAW,PT1M,2,2017-04-24 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-19 11:00:00+02:00,8XstaZgnzTK_3v2gHc80oQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,5,2017-04-17 08:05:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-04-28 15:00:00+02:00,SChdXu3DEJt9mUEn0FjEtw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,2,2017-04-24 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-04-21 18:00:00+02:00,y60k32tzyR-4-1ssoPH_YQ,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G1 Hydro,1,MAW,PT1M,1,2017-04-21 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-10 15:00:00+02:00,H0VISOH29vKOSbtT1q-Pkg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-04-21 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-24 16:00:00+02:00,35JQ5sjRfSqoFR82kTZRRQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,1,2017-04-24 13:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-24 19:00:00+02:00,QixcIAk-RB1E4yEfqTMw-w,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,1,2017-04-24 16:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-24 16:00:00+02:00,6soH4nQd298zh14wf0i6hA,110.0,Hydro Water Reservoir,50WP00000000006N,Alta krv,Alta krv,Alta Krvg2 Hydro,1,MAW,PT1M,5,2017-04-21 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-26 11:00:00+02:00,RTnBdYpMvrkmDy4ZovZVtQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,3,2017-03-30 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-26 16:00:00+02:00,34imR6Vqd0bIXao4sD_uYQ,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,2,2017-04-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-04-27 13:28:00+02:00,M8nTyPERuvhd4RkGIMN7bg,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,2,2017-04-24 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-16 15:00:00+02:00,9UY_Uj6Eqfld6vOZi9JwMA,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,2,2017-06-12 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-30 15:00:00+02:00,epaEuCpLyXKl9EcnvLyMEQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G4 Hydro,1,MAW,PT1M,2,2017-06-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-08 15:00:00+02:00,5obqsVsPLw9OtO4BaGYBuA,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,2,2017-06-06 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-05 12:05:00+02:00,cMxVlpw9kkHQ_gBCndvPwQ,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,2,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-16 15:00:00+02:00,v5J1S80OyghHhpSn3j2Dng,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,2,2017-05-16 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-05-09 21:00:00+02:00,dwDB6l4i1MXtOfnN97wBbA,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G3 Hydro,1,MAW,PT1M,3,2017-05-09 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-09 15:00:00+02:00,o3FgKcslWz9yFlowalxBBQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,2,2017-06-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-09 15:00:00+02:00,-0JBZ_mSenLIyqHmsLqY1Q,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,2,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-05-10 11:00:00+02:00,hGioDBsR99rZ38BgZZ9a0w,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-05-10 09:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-05-10 11:00:00+02:00,Dtm_0szQu0mMkCBaryucOw,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G2 Hydro,1,MAW,PT1M,2,2017-05-10 09:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-07 11:00:00+02:00,q_zquKdzyWRyGF5aHoCwSw,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G3 Hydro,1,MAW,PT1M,1,2017-06-07 10:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-13 12:00:00+02:00,cwNWZOCKZ9DX5H-ZvJngVA,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,4,2017-05-04 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-13 12:00:00+02:00,88o4f3U20G2KbwJ2ljrVAA,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,4,2017-05-04 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-13 12:00:00+02:00,vfcsctOeI3wVl3_HWMcxHQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,3,2017-05-04 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-13 12:00:00+02:00,xLZdgP_MOh5zTcWx1Zb4uw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,4,2017-05-04 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-12 12:55:00+02:00,INE2X38lWLrSSe-Lbz4IvA,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G3 Hydro,1,MAW,PT1M,3,2017-05-08 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-15 15:30:00+02:00,DKOJY24gUMBEd-NzSG5Y8g,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,1,2017-05-02 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-05-19 15:00:00+02:00,ErpAflNWLBfreF3DwETyFw,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,2,2017-05-02 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-16 18:00:00+02:00,Tae3H9XB8r-xQV56Vr2xrQ,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,1,2017-05-15 20:30:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-16 12:30:00+02:00,hs5TVq2t_-LthQLgdoc7zQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,4,2017-05-16 06:25:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-16 16:15:00+02:00,oMUjK8VxM1fsSx2b2CX2Gw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,2,2017-05-16 14:22:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-24 15:00:00+02:00,CP6JxvfeXAkwgp5AwJMWLw,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,1,2017-05-22 10:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-17 01:40:00+02:00,mpQf3W1w7LB8ExlmBuVU1w,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-05-17 01:30:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-18 12:00:00+02:00,MxogXjs9saqyxFrJyc9Rzw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,1,2017-05-17 01:40:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-09 15:00:00+02:00,IvLEUv0WeCBlItMPt-kQwQ,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G2 Hydro,1,MAW,PT1M,2,2017-05-31 15:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-05-31 15:00:00+02:00,Pd4O72Ts43lx1z70MYVKNg,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-05-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-19 23:59:00+02:00,_J0tPzLcfpeKjWUW0vJBBQ,100.0,Hydro Water Reservoir,50WP00000000653R,Solhom,Solhom,Solhom G1 Hydro,1,MAW,PT1M,3,2017-05-18 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-18 12:35:00+02:00,8d2_UsbcmGViW_gKNBJeSQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,5,2017-05-18 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-18 12:53:00+02:00,hDogP7Lcqnv3CvNriAaTYg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,3,2017-05-17 05:13:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-19 15:00:00+02:00,PM6KUpRKoqNjonnoZD3M0w,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G1 Hydro,1,MAW,PT1M,2,2017-05-16 17:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-18 14:02:00+02:00,3mTywRilmYkArHxzUCoqQA,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,3,2017-05-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-05-23 15:00:00+02:00,gPJLhZOMhK9nLRujOVLjjg,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G2 Hydro,1,MAW,PT1M,2,2017-05-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-18 15:00:00+02:00,XfpOQYE2RawbpKKkrlCFjg,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,3,2017-05-17 05:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-22 18:00:00+02:00,jC4IkxO427ps23f7NQ0-sQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,1,2017-05-22 17:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-02 15:00:00+02:00,BnXnhAfPxczNxhu1IAn7MQ,175.0,Hydro Water Reservoir,50WP000000002811,Holen,Holen,Holen G3 Hydro,1,MAW,PT1M,3,2017-05-15 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-22 12:47:00+02:00,1mq2Xudpe53boLk-nq_ZXw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,3,2017-05-22 07:50:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-23 11:55:00+02:00,IRNG0it67UUXq9dXwrpsnw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,3,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-02 15:00:00+02:00,E2EKigkK5NEQpoblSCwDUw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT1M,1,2017-06-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-30 16:00:00+02:00,LK9t9FzLTBUoKBg0mhWtMg,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g3 Hydro,1,MAW,PT1M,2,2017-05-30 13:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-05-29 11:30:00+02:00,Yq0yJhNlpr1dueIGJ5P-kQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,1,2017-05-29 08:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-29 15:00:00+02:00,nbNveEtsm-5i2dyg4ojAiw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,2,2017-05-27 17:20:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-02 15:00:00+02:00,sLHh7CQbvuZiWzQYx_qcTg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,4,2017-05-29 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-05-30 12:00:00+02:00,qWI_t6WOCG5Xy7zVjj0hhw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,2,2017-05-30 00:30:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-06 08:00:00+02:00,3Pfkacb5Ba9Cgyhs6KHXjQ,100.0,Hydro Water Reservoir,50WP00000000653R,Solhom,Solhom,Solhom G1 Hydro,1,MAW,PT1M,1,2017-05-31 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-05 15:00:00+02:00,T0vXXnqxtEnLeUe64AUfZA,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,3,2017-06-12 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-07 11:00:00+02:00,qLhpKxlnWrNSeRVDxpkR5g,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-06-07 10:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-02 11:00:00+02:00,QTMKiN77bTQlX-a8Rq-lcQ,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G2 Hydro,1,MAW,PT1M,2,2017-06-02 09:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-02 23:59:00+02:00,J50OrcveKYoywFs1__sucw,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-05-30 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-19 16:00:00+02:00,LHv3lgVa-EX4q67Rfj6zSQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,1,2017-06-19 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-20 12:00:00+02:00,-bqWH_tXPuXDIWnDHNtpcw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G3 Hydro,1,MAW,PT1M,1,2017-06-20 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-07 11:00:00+02:00,t2t5qMenltPsLBWunodwJw,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-06-07 10:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-02 13:45:00+02:00,UmnaoUWxwj6gghJdeR_VhQ,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,2,2017-05-29 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-16 15:00:00+02:00,JskbOAPJX13kfzNqLS0Nzg,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,2,2017-05-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-14 12:00:00+02:00,gJsz7BMA9jGdP1NpDuu-yQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,1,2017-06-14 07:00:00+02:00
+150,NO,Unplanned outage,A03,,2017-06-19 07:00:00+02:00,u30o1U6h5Ol-zOo4IDhwtg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT1M,2,2017-05-19 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-08 13:57:00+02:00,ycA0vVuxXbHsjAWiqP7M_g,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,2,2017-06-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-08 17:00:00+02:00,EJg1QLVsY-ylkYnfQ0JCdg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-06-08 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-09 18:00:00+02:00,7U2Osi8ASsl8k75MMSbW5w,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,3,2017-06-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-12 11:00:00+02:00,NAQxY7C9Z8RzwHCmkh5INQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,3,2017-06-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-10 15:10:00+02:00,sBpCqfbZnsgnhnDzEkhzjw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,6,2017-05-22 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-06-11 13:20:00+02:00,emTrzRfPWst0yGZsdPwnpQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-06-11 03:05:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-13 14:00:00+02:00,_0iWUBkh5tfbrzDhL7ZHsg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,1,2017-06-13 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-13 13:20:00+02:00,6oepMdQJTPDABWq5CZU-Qg,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,3,2017-05-29 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-06-13 15:03:00+02:00,8p1lnE-XgNZn-ZAsLSTYuw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,4,2017-06-13 08:35:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-15 15:00:00+02:00,GOwsP4JQt6Ley92DL4qeRg,143.5,Hydro Water Reservoir,50WP000000002293,Grytten Kraftver,Grytten Kraftver,Gryttenkg1 Hydro,1,MAW,PT1M,4,2017-06-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-14 12:15:00+02:00,qeBlDnXIQBrZ5x_sGoG3QQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,3,2017-06-14 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-20 15:00:00+02:00,GGlyMfS94iBETe7NobJ_rw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,3,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-20 15:00:00+02:00,DEjMM8gsKKX4_flbSBQaWw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,4,2017-05-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-14 19:32:00+02:00,CZ0br3yskVLphAzt4YTkiQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,2,2017-06-14 07:30:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-15 19:29:00+02:00,ALskwMR8VkGxKVaFoRZjXQ,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,3,2017-06-12 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-06-16 09:00:00+02:00,dXRFj1eEOrp2FC2buJKEmA,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-06-16 00:59:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-19 09:00:00+02:00,1x0tZj2WapQs_aR4IDRC0w,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,5,2017-05-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-16 13:10:00+02:00,klOM47Lkc17TH0ge8NVYSw,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G4 Hydro,1,MAW,PT1M,3,2017-06-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-19 15:00:00+02:00,CQRpYWaEek-2-jUDAU2sXw,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,1,2017-06-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-18 18:10:00+02:00,Dzl79-uCydVI2ZnS9WqxDw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,6,2017-06-12 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-20 15:00:00+02:00,IIJYCHDcQZtz4aiXXFbRwQ,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-06-20 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-19 14:00:00+02:00,qBrH1h0thQokA63AV_Gqzg,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,2,2017-06-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-08 14:00:00+02:00,3vGg_DozPgoqtn3tuGfVsg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,3,2017-06-19 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-20 12:00:00+02:00,yuMR-BycFc-ZSkFO1jb9Qw,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,2,2017-06-20 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-20 13:55:00+02:00,g2eltJShwz-Y7w3EhKAg8w,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,2,2017-06-20 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-21 11:00:00+02:00,eKTu5lejN4z7xDLaY4x8DQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G2 Hydro,1,MAW,PT1M,1,2017-06-21 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-23 15:00:00+02:00,Rt-iPH4afeS8ckUiHs2cKw,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,1,2017-06-23 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-23 15:00:00+02:00,ouvSXsXOcZN4U3N62-j6Fw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,2,2017-06-20 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-22 13:10:00+02:00,inRTY-kGfA6dkqQKBH-aIA,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT1M,3,2017-06-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-22 15:55:00+02:00,oxPuu5cwXCv6yWYYPDTUtQ,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,3,2017-06-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-06-23 13:00:00+02:00,PJjD6LBHftIGLHecfomiuQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-06-23 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-23 13:15:00+02:00,Ce5NTy_CRXhvsTPd6_7BRw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,3,2017-06-16 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-23 13:30:00+02:00,XcaqXpKX5B8IKjZofQJ-gw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,2,2017-06-22 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-27 13:20:00+02:00,aboSGdZ1KyXDDazMNP0Ikw,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G2 Hydro,1,MAW,PT1M,2,2017-06-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-28 15:00:00+02:00,Y-EQAyG96UcSACmpZUq6mw,290.0,Hydro Water Reservoir,50WP000000003281,Jostedal,Jostedal,Jostedalg1 Hydro,1,MAW,PT1M,10,2017-05-29 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-13 18:00:00+02:00,_rLlIKIvR4_-Pp_OkyZ3cQ,108.0,Hydro Water Reservoir,50WP000000005039,Nedre Vinstra,Nedre Vinstra,Nedre_Vig5 Hydro,1,MAW,PT1M,1,2017-07-12 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-06-30 16:05:00+02:00,uEeyE10qO2i_YF4exJhAUQ,115.0,Hydro Water Reservoir,50WP000000000827,Brokke,Brokke,Brokke G4 Hydro,1,MAW,PT1M,2,2017-06-30 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-13 15:00:00+02:00,PeH_8hv1PX1mS5XL4Q9xqg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,3,2017-04-24 07:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-09 18:00:00+02:00,XIr5jvdkZFR8pdSS505fjA,102.0,Hydro Water Reservoir,50WP00000000807Q,Vemork,Vemork,Vemork G1 Hydro,1,MAW,PT1M,2,2017-07-09 16:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-10 08:20:00+02:00,EkW4WsrSJ2OQ8gozanFOTg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,2,2017-07-07 18:20:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-13 08:00:00+02:00,wO_qd_-eZsqHDATqlJJrRA,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,1,2017-07-13 00:45:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-13 09:00:00+02:00,nYUYvUvge79KOTePzakKKg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,1,2017-07-13 06:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-14 11:00:00+02:00,hXlb0684L5EOGO5VEJUxtg,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,1,2017-07-14 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-20 15:00:00+02:00,x9TJVuRWBR7pImgky91ayw,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,2,2017-07-17 10:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-19 16:00:00+02:00,-qhrR3GcjzAHpvHlseTgCA,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,1,2017-07-19 14:05:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-20 12:00:00+02:00,hwAvj6cxV-_W_pc1kRZc3w,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,1,2017-07-17 10:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-24 11:00:00+02:00,p193SOIOFaAg-0mt0cebsQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,4,2017-07-19 17:45:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-27 09:00:00+02:00,EnuljnL7OIbpNCNNlb_8ag,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-07-27 01:20:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-29 12:00:00+02:00,xsLrhYXnf0N3AvyIjkS1cA,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-07-29 00:30:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-31 09:42:00+02:00,abZE3euSr8DDFrQRfwzgyA,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,2,2017-07-31 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-03 21:10:00+02:00,m6jChp3Oec6Y-jwJqwf7xA,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,2,2017-08-03 20:20:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-04 10:18:00+02:00,0Q8QHmmQBZsO6s7GiZHXqw,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,3,2017-08-03 22:50:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-05 11:00:00+02:00,cfAKjr9ahv2uGshrKYmD2Q,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,1,2017-08-05 03:30:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-05 08:00:00+02:00,X6I8Ogb7bLwHbtq8v2m4xg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-08-05 02:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-08 15:00:00+02:00,x3pAwFK4WPueogxhwfsleQ,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,1,2017-08-08 09:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-09 09:55:00+02:00,zSJSw-T7EL56cceJxIgsEg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,3,2017-08-09 05:55:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-14 10:00:00+02:00,fZAMG8xMZovI_mI4sIRJoA,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,1,2017-08-14 06:10:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-14 13:50:00+02:00,u3xl4s0j4p_N9Q7XImUX1Q,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,3,2017-08-14 01:40:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-25 09:00:00+02:00,aXB_9vQIJySjSkr6A5dhSg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,3,2017-08-21 07:50:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-25 09:00:00+02:00,s_0PtsOdCLfAK6tBKwAQLA,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-08-22 14:50:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-29 07:00:00+02:00,e7YYEgveWeOVVJCBXs4zwA,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,1,2017-08-28 23:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-08-30 14:00:00+02:00,Pt6fcnxoyaQxDAjlW9D8mw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,3,2017-08-29 10:57:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-07 08:00:00+02:00,LdnE05yPJNPGEnXnvyYO3g,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,1,2017-09-07 06:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-08 20:00:00+02:00,TYaLfTq4S0UVcusf6SP86Q,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,2,2017-09-07 21:10:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-08 10:30:00+02:00,8IMfNUtEm_LiQzf3mI5T_g,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,1,2017-09-08 09:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-08 15:40:00+02:00,TwenllehktvtJ9WbpeF9tA,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,2,2017-09-08 10:45:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-13 07:15:00+02:00,sjyNyJXZpxnc5IOtvySFSQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,1,2017-09-13 01:41:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-21 13:00:00+02:00,Mqi6yVKjXMQ2EnMS-eEYyA,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-09-21 12:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-25 17:18:00+02:00,1994txtp3OWSDyuvtMeIiw,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G2 Hydro,1,MAW,PT1M,2,2017-09-25 16:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-05 11:00:00+02:00,asuYblfoJRMJokr2qwH8Dg,108.0,Hydro Water Reservoir,50WP000000005039,Nedre Vinstra,Nedre Vinstra,Nedre_Vig5 Hydro,1,MAW,PT1M,1,2017-10-05 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-29 15:00:00+02:00,zgf1k1Y5R7O3X0FoT-AT6g,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-09-29 12:45:00+02:00
+0,NO,Unplanned outage,A03,,2017-09-30 14:39:00+02:00,xUy8VDasFM31xpgpl0maRg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-09-30 11:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-04 09:00:00+02:00,MdfRnw7O7f3HlVkHoQOpNw,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-10-04 00:30:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-06 12:10:00+02:00,wSlWLTztpEhZ9yECSeKAeg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,2,2017-10-02 13:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-13 23:30:00+02:00,PRV6ZoFA-28Yszo1Dzso7w,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,2,2017-10-13 22:15:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-16 09:25:00+02:00,xgu62zTBZRNn1L1E6fWEIA,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,2,2017-10-15 19:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-22 01:00:00+02:00,Fyk74mzegY80WhtOpxstOA,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,1,2017-10-21 23:45:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-23 02:00:00+02:00,K0be_v1swCDpbUBzh8xr3A,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-10-23 00:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-24 08:00:00+02:00,L_RDCoYV0kAUSQwvjl0DBw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-10-23 22:35:00+02:00
+0,NO,Unplanned outage,A03,,2017-10-30 09:00:00+01:00,19TYKi-22orwUDYsmaEL9A,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,1,2017-10-27 13:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-11-01 19:30:00+01:00,bjF-PZdQ6km228DYA3yllQ,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,6,2017-09-23 08:05:00+02:00
+0,NO,Unplanned outage,A03,,2017-11-02 07:20:00+01:00,LESkbRKrpjKgvb_NUwufEQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,2,2017-11-02 05:50:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-02 09:50:00+01:00,n0Wc9DGUyswYP1MpJKUQYQ,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,2,2017-11-02 00:10:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-04 00:00:00+01:00,tKo65uvmO0aHjw32DEazMA,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G1 Hydro,1,MAW,PT1M,7,2017-04-18 08:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-11-06 02:00:00+01:00,qRHD1VQh30nURmYakgXCiw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-11-06 00:20:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-07 08:00:00+01:00,7nmeHy5UQvUbRW2msjmNMg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-11-07 04:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-08 10:45:00+01:00,u5DD7k5msYcnbiXmNTLdoA,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,3,2017-11-06 00:20:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-10 19:00:00+01:00,-dn0xJtupauIqhirUAbLpw,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-11-10 14:51:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-11 22:15:00+01:00,r6ECCpEFDw1svEo0jaZWBQ,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,3,2017-11-11 01:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-13 09:40:00+01:00,3e8QywrVxDSbXHAEipCHHg,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g3 Hydro,1,MAW,PT1M,2,2017-11-13 09:15:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-10 15:00:00+01:00,JMXoUSPijmc29eho78FCPw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,2,2017-11-10 13:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-14 11:48:00+01:00,xTleo7oscbkKUqFPszBg2Q,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,4,2017-11-10 17:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-24 08:00:00+01:00,1OgEe7-UGuY8B04QCOhzFA,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,1,2017-11-23 16:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-24 23:00:00+01:00,k8im7CovI2jXtaPbjVn2nw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-11-24 20:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-24 23:00:00+01:00,k9lq4CVvSmE-JkU4objofw,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-11-24 21:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-30 09:00:00+01:00,r2lT0s3O5IY0D1V548tCEA,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-11-30 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-30 09:00:00+01:00,JbUsLeA9PXU34bT4kObbvw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-11-30 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-11-30 10:00:00+01:00,yX8LyXcID-n1eBN5fw6HxA,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,4,2017-11-29 18:03:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-02 15:00:00+01:00,1FxvQxdogJM6UUG5BFUINw,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G1 Hydro,1,MAW,PT1M,1,2017-12-02 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-08 15:00:00+01:00,mHJ2h38ue9pzDF1HYRpvPA,150.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g2 Hydro,1,MAW,PT1M,5,2017-12-01 01:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-07 15:00:00+01:00,QLw8bL7ST0M8eRNse_Sadw,112.0,Hydro Water Reservoir,50WP00000000488G,Naddvik,Naddvik,Naddvik G1 Hydro,1,MAW,PT1M,2,2017-12-07 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-08 22:00:00+01:00,WETiuWMF_sj_FoV0qifRvw,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-12-08 19:55:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-09 06:00:00+01:00,tpUXJifVFDY47sbDlUql6w,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,1,2017-12-09 00:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-09 17:00:00+01:00,AedIKNqx2c-begI27VA1Ww,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,1,2017-12-09 15:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-11 12:00:00+01:00,T02ev1WHsmE_FQ0Ctena1A,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-12-10 09:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-11 08:10:00+01:00,7IW9QeOVXw8UNzrpLGUuaw,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,2,2017-12-08 19:20:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-13 09:00:00+01:00,plpbFcBTLe46ADzFx71eQw,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-12-13 05:45:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-13 09:20:00+01:00,n5VKTEm4Um7EA_Ld-rZQQA,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,4,2017-11-30 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-21 11:00:00+01:00,V-MH1bA5E0qgm-3viqZ85A,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G2 Hydro,1,MAW,PT60M,1,2017-12-21 08:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-22 10:00:00+01:00,-OCS_EaSYZZkeeoGUtC_nw,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G1 Hydro,1,MAW,PT60M,1,2017-12-22 07:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-25 14:00:00+01:00,gtf8vI8F30xtInVyKKoUcA,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT60M,1,2017-12-25 02:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-25 18:00:00+01:00,aNrrXw8nBgNly5h7zBuCEg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT60M,1,2017-12-25 02:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-25 13:00:00+01:00,FRAGgXSNDvc-OzJxeUDGMg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT60M,1,2017-12-25 02:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-25 13:45:00+01:00,FRAGgXSNDvc-OzJxeUDGMg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT15M,1,2017-12-25 13:30:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-25 13:30:00+01:00,FRAGgXSNDvc-OzJxeUDGMg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT30M,1,2017-12-25 13:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-28 02:00:00+01:00,wtHeFFr82Q5-2e7ULMQtAA,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-12-28 01:50:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-28 03:00:00+01:00,wtHeFFr82Q5-2e7ULMQtAA,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT60M,1,2017-12-28 02:00:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-28 22:00:00+01:00,bGPWBZDL4hifxpGAVjbP4g,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-12-28 21:50:00+01:00
+0,NO,Unplanned outage,A03,,2017-12-28 23:00:00+01:00,bGPWBZDL4hifxpGAVjbP4g,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT60M,1,2017-12-28 22:00:00+01:00
+0,NO,Unplanned outage,A03,,2018-02-02 01:00:00+01:00,ns5IJWcgmYEqh0FCWf7vow,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G3 Hydro,1,MAW,PT30M,8,2018-02-02 00:30:00+01:00
+0,NO,Unplanned outage,A03,,2018-02-02 00:30:00+01:00,ns5IJWcgmYEqh0FCWf7vow,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G3 Hydro,1,MAW,PT15M,8,2018-02-02 00:00:00+01:00
+0,NO,Unplanned outage,A03,,2018-02-02 00:00:00+01:00,ns5IJWcgmYEqh0FCWf7vow,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G3 Hydro,1,MAW,PT60M,8,2017-11-13 12:00:00+01:00
+0,NO,Unplanned outage,A03,,2018-02-14 16:00:00+01:00,ns5IJWcgmYEqh0FCWf7vow,110.0,Hydro Water Reservoir,50WP00000000144B,Evanger,Evanger,Evanger G3 Hydro,1,MAW,PT60M,8,2018-02-02 01:00:00+01:00
+0,NO,Unplanned outage,A03,,2018-06-14 12:00:00+02:00,L9i-iSXdWbNZNomp_UISuw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT60M,10,2017-07-06 11:00:00+02:00
+0,NO,Unplanned outage,A03,,2017-07-06 11:00:00+02:00,L9i-iSXdWbNZNomp_UISuw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,10,2017-07-06 10:50:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-14 14:00:00+02:00,jAwKFD06BF_uxHp75e9b1Q,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-07-03 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-07 14:00:00+02:00,o2SR0_PMOYkEwLSRTZjp5A,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,2,2017-06-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-18 14:00:00+02:00,MsG3PdGYKOMh2x7zmBGABg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,1,2017-07-10 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-18 14:00:00+02:00,ZjXrYmqjPfmb9YHeNt-8pA,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,1,2017-07-10 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-18 14:00:00+02:00,tUlI8xFX-65i7OD9Kg305w,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,1,2017-07-10 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-07 15:00:00+02:00,wgSEHIZsdYcF57Lg8U5Wtg,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G2 Hydro,1,MAW,PT1M,1,2017-07-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-30 15:00:00+02:00,ai9Y8COsS9iHQO_1-q9H_Q,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT1M,1,2017-06-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-28 15:00:00+02:00,WIXHFemGz7-f5ezJheg_wg,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,1,2017-09-27 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-18 15:00:00+02:00,l4T1saG_7o4gmNHvINs58w,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-10-02 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-11-01 15:00:00+01:00,AVfP71d9Gxf1wfcLINGN2g,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-10-16 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-25 15:00:00+02:00,oQCVOqU3VPHr3uKssWlqoQ,102.0,Hydro Water Reservoir,50WP00000000807Q,Vemork,Vemork,Vemork G2 Hydro,1,MAW,PT1M,1,2017-08-21 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-11 15:00:00+02:00,qApW8EiSr1zom-aHtGDZEw,102.0,Hydro Water Reservoir,50WP00000000807Q,Vemork,Vemork,Vemork G1 Hydro,1,MAW,PT1M,1,2017-08-07 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-09-26 15:00:00+02:00,AVcMUIzYnm7a0ZytWmv1lQ,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,2,2017-09-25 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-18 15:00:00+02:00,paqh8aCWoVy4G9WwbAq-9Q,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-08-14 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-12-03 19:00:00+01:00,GsryVHdmOIJkXt19xfSfLw,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,1,2017-12-03 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-10-02 12:00:00+02:00,6G0IGAQSuJ3riI8TTfKVWg,114.0,Hydro Water Reservoir,50WP00000000100V,Dale,Dale,Dale G1 Hydro,1,MAW,PT1M,1,2017-10-02 10:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-30 15:00:00+02:00,EdMJvt1jxcE4FvMm__exHw,115.0,Hydro Water Reservoir,50WP000000000827,Brokke,Brokke,Brokke G4 Hydro,1,MAW,PT1M,1,2017-06-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-11 15:00:00+02:00,Lis5W-S0iuL-PmtWJaReuw,102.0,Hydro Water Reservoir,50WP00000000807Q,Vemork,Vemork,Vemork G1 Hydro,1,MAW,PT1M,1,2017-08-07 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-25 15:00:00+02:00,ISuLeTDuQo0-K7yrb_UTwA,136.0,Hydro Water Reservoir,50WP00000000654P,Songa,Songa,Songa G1 Hydro,1,MAW,PT1M,2,2017-08-21 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-28 18:00:00+02:00,wYDQRnfqgJyFoAskrTq0mA,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,1,2017-06-28 07:30:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-25 17:00:00+02:00,EArRuDJmjhMglohdJL2itQ,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,1,2017-08-07 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 15:00:00+02:00,YT12s0GedjcCXq3DU4EZVQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,2,2017-10-16 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-18 15:00:00+02:00,o69iVX1AhbYvN1WYbSuDmQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-08-11 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-18 15:00:00+02:00,D-CmvWcqmLqC8frWse13Aw,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,2,2017-08-11 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-19 14:00:00+02:00,_Uedz7gtojHWMSou-mVKbg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,3,2017-07-31 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-28 14:00:00+02:00,WAoP7iRBNbRQgYP5seBJww,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,1,2017-06-28 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-29 07:55:00+02:00,cqHAfosBcM9ctaBX_MeZNQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-06-29 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-29 11:00:00+02:00,tECzePHSvO7dDEUn0XIuUg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,2,2017-06-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-14 15:00:00+02:00,36vcZ-OZTavhD6hfm28Czw,113.0,Hydro Water Reservoir,50WP00000000741U,Tjodan,Tjodan,Tjodan G1 Hydro,1,MAW,PT1M,1,2017-07-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-30 13:05:00+02:00,MwX3kHIBz3xs8NEv-yM_Rg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT1M,2,2017-06-27 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-06-30 13:05:00+02:00,JIhiW6B6WEHcoDLVswKLEg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-06-30 06:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-03 08:00:00+02:00,Fw5ipC0dCbvF4da9x6iE_A,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,1,2017-07-01 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-04 13:00:00+02:00,xNKn18m9GtV2qCQwVLYCIQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,3,2017-07-04 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-04 17:00:00+02:00,USNJ2KH85AilFp_9a0yBmg,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G3 Hydro,1,MAW,PT1M,2,2017-07-04 13:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-05 13:00:00+02:00,jmhaYMRUuapffJr1uwyNOA,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,2,2017-07-05 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-05 17:00:00+02:00,B3PjccgHp_2GFWXVZHXJwA,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,2,2017-07-05 13:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-04 15:00:00+02:00,NOjanGefU34LH90INnNt3A,240.0,Hydro Water Reservoir,50WP00000000063B,Blafal.V,Blafal.V,Blafallvg1 Hydro,1,MAW,PT1M,1,2017-07-04 10:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-04 15:00:00+02:00,ZVt74Qrmyf4cZEyhtqQCKg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,2,2017-07-04 11:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-05 11:00:00+02:00,Sce34KJapcbarHHl2F6kkA,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,3,2017-07-05 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-05 15:00:00+02:00,xYVEYaySP7K8J6WzDVexyA,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,2,2017-07-05 11:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-31 15:00:00+02:00,vB67IAgiy13geTwEPuZf4Q,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg1 Hydro,1,MAW,PT1M,5,2017-07-04 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-10 08:00:00+02:00,cdeLbkwsDuqrC1g_fsm21w,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,1,2017-07-07 08:30:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-18 15:00:00+02:00,3ptNMG0Qo-8HJtbvjwrE4A,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,2,2017-07-17 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-07-20 15:00:00+02:00,Jv8KVz4VnnuYya6E2TuPag,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,2,2017-07-19 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-07 11:30:00+02:00,cbe1dZisMxQbAdKE8iG_Nw,320.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg1 Hydro,1,MAW,PT1M,2,2017-07-03 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-07 12:30:00+02:00,jL2I4DsbboQshvIP18hxeA,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G2 Hydro,1,MAW,PT1M,1,2017-07-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-18 12:00:00+02:00,ZuzhockQl_k_9JFyLS_RMA,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-07-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-19 12:00:00+02:00,DwBSu9K8xmg0IjvE9PX7-g,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-07-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-11 13:15:00+02:00,6jMNwRMc9H1v7wnxaZSlpQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G4 Hydro,1,MAW,PT1M,2,2017-07-10 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-15 15:00:00+02:00,iMMKZ_hAeaQ0Q09l_cj22g,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,1,2017-08-25 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-14 15:00:00+02:00,XefF1ds8Il0mIl60eAyOeQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-07-14 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-14 11:55:00+02:00,-C9RkgyQJGXiMSL5gIGIWg,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G3 Hydro,1,MAW,PT1M,4,2017-07-11 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-14 15:15:00+02:00,7lypTzoFHdcDA0uQZ67EsQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT1M,2,2017-07-14 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-04 15:00:00+02:00,MdOFM6qA1g-caV8_ibfxfQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT1M,2,2017-07-31 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-06 19:00:00+02:00,OH3WzbCv74iLX1r8x92uuw,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,1,2017-06-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-07-31 11:57:00+02:00,eT4f8pZUpGLyUErXHW5c3w,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-07-31 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-03 15:00:00+02:00,qsFp2ZiOxxa_y2vYp7w50g,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-08-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-25 15:00:00+02:00,1vDE71HFQ4IzMgwl5cxQKg,102.0,Hydro Water Reservoir,50WP00000000807Q,Vemork,Vemork,Vemork G2 Hydro,1,MAW,PT1M,2,2017-08-21 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-09 12:00:00+02:00,iwKdaTQs5vMxA1P8gjzO-Q,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-08-09 11:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-08-24 15:00:00+02:00,OnZ4t1x3hMFk0V1xg7Qudw,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,2,2017-08-24 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-11 11:00:00+02:00,UA7gWgjnBgpXzviRj_GveQ,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,1,2017-08-11 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-10 12:00:00+02:00,tIGSkkFltpWq_hNiih2czA,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-08-10 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-11 15:00:00+02:00,qEP3IJacHOSlUGNbuScbCg,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-08-11 09:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-16 08:30:00+02:00,jsCpdqHjaA4PgIoSxowCmg,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,2,2017-08-15 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-18 15:00:00+02:00,nwqEtsUb_Q1SJKjHXi5_hg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-08-18 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-22 23:59:00+02:00,KIlBOaaH_wlhK0mnKQ1kFg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-08-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-22 15:00:00+02:00,1HgsdmNiukY9Wr9st2_QwA,112.0,Hydro Water Reservoir,50WP00000000488G,Naddvik,Naddvik,Naddvik G1 Hydro,1,MAW,PT1M,2,2017-08-22 08:30:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-24 11:00:00+02:00,nYyEfHGfQaEbunHAyBSdEA,100.0,Hydro Water Reservoir,50WP00000000653R,Solhom,Solhom,Solhom G1 Hydro,1,MAW,PT1M,1,2017-08-24 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-24 18:00:00+02:00,CrVHvCFtKyRVVcENKC0zng,100.0,Hydro Water Reservoir,50WP00000000653R,Solhom,Solhom,Solhom G2 Hydro,1,MAW,PT1M,1,2017-08-24 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-25 15:00:00+02:00,S1IXRZZ6iTxq1zWQ1sEqqg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-08-25 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-30 20:00:00+02:00,a2jgcDvrGPAlnwePtkxIow,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G1 Hydro,1,MAW,PT1M,1,2017-08-29 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-30 20:00:00+02:00,cUtNQZt_OZQHWY1pYQBMYw,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G2 Hydro,1,MAW,PT1M,1,2017-08-30 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-22 15:00:00+02:00,H0uXh9D5PzqbCwSIRKn22Q,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G2 Hydro,1,MAW,PT1M,1,2017-09-18 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-10 15:00:00+02:00,s4BgEGCQRJgFojUXRlx71A,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,1,2017-10-02 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-29 17:00:00+02:00,vB2o0_D2zYJkAVQX71Q_rw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,1,2017-08-29 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-30 15:00:00+02:00,CbhAGw5hjJruqDbhplRvMQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-08-30 14:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-31 12:00:00+02:00,-PKadyLolq7ztAPxtaqrjQ,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G2 Hydro,1,MAW,PT1M,1,2017-08-31 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-09-05 16:00:00+02:00,lqChXvkBoYENbuHwEbSYeQ,110.0,Hydro Water Reservoir,50WP00000000480W,Myster,Myster,Myster G1 Hydro,1,MAW,PT1M,3,2017-08-28 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-29 16:00:00+02:00,7tYX2MNBucMtqKpwwWXNlw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-08-29 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-31 13:30:00+02:00,xIJJ7_G61wRK6nqtLLnDmQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G3 Hydro,1,MAW,PT1M,3,2017-08-14 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-08-31 21:30:00+02:00,yChfhUNO0XCWC3VvZ0QtiA,220.0,Hydro Water Reservoir,50WP000000005330,Oksla,Oksla,Oksla G1 Hydro,1,MAW,PT1M,3,2017-08-28 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-22 17:00:00+02:00,3hXLJ9SIG3utMGWRuxZ-pA,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,2,2017-08-28 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-06 15:00:00+02:00,muUR_geOinKAFmfs_Y70jw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,1,2017-10-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-05 13:45:00+02:00,U0CCRuVrMZFLWK4PduZ6_g,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,2,2017-09-05 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-06 14:00:00+02:00,cC5d8uMbcpNSGpYKEjaNAg,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,2,2017-09-06 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-12 13:00:00+02:00,Eg22MtqZvXO1KNvFpbZM7Q,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-09-12 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-09-15 15:00:00+02:00,-ZwqUkoU3a7Qh80Hn28yMQ,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,3,2017-09-14 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-18 11:00:00+02:00,cgOkVmo_ZjFZ8A_Jcfrplg,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G4 Hydro,1,MAW,PT1M,1,2017-09-18 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-18 15:00:00+02:00,JeWsZ47F-Y4na2nYEeZ8xg,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,1,2017-09-18 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-13 18:00:00+02:00,5R3Llb2kjq3Rv93AJ-tJ7A,104.0,Hydro Water Reservoir,50WP00000000632Z,Skjerka,Skjerka,Skjerka G1 Hydro,1,MAW,PT1M,4,2017-07-31 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-13 18:00:00+02:00,vevn4VihdMuDsoViOcQGaQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-09-13 11:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-15 23:59:00+02:00,uOCHMiLixndmySYp5ralNg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-09-15 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-18 21:00:00+02:00,2QvoIiFaCgPsT4hhp4CWTw,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-09-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-09-20 15:00:00+02:00,457WCZdIq-1AzfAafmmoEg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,2,2017-09-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-29 15:00:00+02:00,hK7TwcmTkBtCGIJaTHu2VQ,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,2,2017-09-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-19 21:00:00+02:00,_C2o4FyZCSJwqY3qL31BRg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-09-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-20 21:00:00+02:00,tGAuP05rXcxrH8RBfrgLnQ,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-09-20 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-21 21:00:00+02:00,kfYYbZMPEK5JDEQrSXoZKg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-09-21 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-11-08 15:00:00+01:00,FCJ698Jgme-LYPvOT0W3DA,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,2,2017-11-06 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-12 15:00:00+02:00,2VIga9huHADBPPZa16iUUw,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,2,2017-10-12 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-21 15:00:00+02:00,RE4RRGdEjJ1Ru_V0tPdmMg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,2,2017-09-21 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-20 14:00:00+02:00,kKMtqegJzNvTzCUlcR3BgQ,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,2,2017-09-19 14:40:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-22 21:00:00+02:00,GD3aiQUix98Gq0Ab76Kk_g,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,1,2017-09-22 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-22 14:00:00+02:00,XydXfTnXMtqxQfAVsITutQ,108.0,Hydro Water Reservoir,50WP000000005039,Nedre Vinstra,Nedre Vinstra,Nedre_Vig5 Hydro,1,MAW,PT1M,1,2017-09-22 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-21 15:00:00+02:00,2fuaMrxLmtvD8YcGEfbnQw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,3,2017-09-20 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-25 20:00:00+02:00,bUBzmX1GMKYi__Umwozywg,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,3,2017-08-28 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-22 08:00:00+02:00,rVhoqLvKHTTHtb72lNoGJg,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,2,2017-09-18 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-26 21:00:00+02:00,U8XUNqYa9hjsE11vNg8gvg,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g3 Hydro,1,MAW,PT1M,1,2017-09-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-27 18:00:00+02:00,NrNzeHEXc1yyy1dBiBwPkA,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,1,2017-09-27 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-25 08:40:00+02:00,CJTqzTC7NXrSbN3T_UZT9Q,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-09-25 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-09-26 21:00:00+02:00,548HtxFuNTUxoPfZD6WZcg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-09-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-09-27 15:00:00+02:00,MRDCZRl-GS03rA8FMsfmHw,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-09-27 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-22 15:00:00+02:00,TUaIyuyzihVXkv5Md1f7-w,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G1 Hydro,1,MAW,PT1M,5,2017-09-27 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-26 15:00:00+02:00,WSJCpKFwYaimcXAJr6YvUg,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,2,2017-09-25 08:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-27 15:00:00+02:00,VEoDUC6Knyt8JbZt1-yCcA,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,4,2017-10-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-26 13:05:00+02:00,4zKx7QMBundM9-AiUojG6A,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,4,2017-09-25 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-27 13:40:00+02:00,J1TivWHoVldvzG1i9Bbzzw,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT1M,2,2017-09-26 09:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-27 13:40:00+02:00,N_8CaJI4VGMlMwUExI27TQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,2,2017-09-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-09-27 15:00:00+02:00,xvibbAKTjzUFyPRLmEp2rQ,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,7,2017-09-26 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-20 15:00:00+02:00,QF6PIJVL3hvZb2gUHH5kbA,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,2,2017-10-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-18 15:00:00+02:00,0cQ_YdqR6Mpe8cIZbSjD2Q,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg1 Hydro,1,MAW,PT1M,2,2017-10-17 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-06 14:00:00+02:00,ywplbmokXf_wdRhRnsF1cw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,6,2017-09-18 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-11-01 15:00:00+01:00,wrfQDt0wVhfMMoe7ksUpEA,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,4,2017-10-16 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-16 14:00:00+02:00,e0HDOb6uV_bydxhtLyedjg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-10-16 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-11 18:00:00+02:00,bMVMnArjcSxEJi2X1UlGbg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,1,2017-10-09 12:15:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-20 15:00:00+02:00,JOg9uTaXGiBx9qG7u72szA,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,3,2017-10-16 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-13 11:00:00+02:00,mNybQt_ZOrRx3EITGYR_cQ,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,1,2017-10-13 07:30:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 15:00:00+02:00,i_kcPqg7Na_k-L6G6ZU98A,130.0,Hydro Water Reservoir,50WP00000000755J,Trollheim,Trollheim,Trollheig1 Hydro,1,MAW,PT1M,4,2017-10-16 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-13 07:45:00+02:00,Fo2mSl57MbJ3iVL8KavOzA,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-10-13 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-20 15:00:00+02:00,bPwdejwIb_TVQE_R88ehuA,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-10-19 22:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-13 15:31:00+02:00,byNzwI-MbAy4brIav3yfNg,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,3,2017-10-11 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-14 22:20:00+02:00,OnUAVvixHOpgPMZufWTp3A,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,6,2017-10-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-20 15:00:00+02:00,Jq9iuu4PMKDzgZNl8C-OYg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,3,2017-10-16 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 15:00:00+02:00,GYWsPclVysPyWE6Xo7gd0Q,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,1,2017-10-16 09:25:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 10:00:00+02:00,bWqRpZRCPrHZyZ3O-mDqrw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,1,2017-10-20 09:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 11:00:00+02:00,o2IJmRa7Uqq13LzajlOjHQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT1M,1,2017-10-20 10:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 12:00:00+02:00,Z6FSfiDEA3oCA1H28W87Sg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT1M,1,2017-10-20 11:00:00+02:00
+75,NO,Planned maintenance,A03,,2017-10-17 14:30:00+02:00,jJzdn-zG-ZYAnWS6W2z04Q,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,3,2017-10-16 22:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-19 19:00:00+02:00,NxaZwG9isdfMQ1-aD3Q8ow,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,1,2017-10-19 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-19 19:00:00+02:00,NAFjlfTIaNB7-XSr8RcTcw,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G4 Hydro,1,MAW,PT1M,1,2017-10-19 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-19 19:00:00+02:00,TIyuAuNpnkIKx5Isy3d68Q,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-10-19 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-26 09:00:00+02:00,fGkJ-GQ0WmS5A4lJdNa1dw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,1,2017-10-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-19 22:00:00+02:00,89S42Tw-Kz3j1JUvRHI6yQ,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G2 Hydro,1,MAW,PT1M,3,2017-10-10 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 10:00:00+02:00,MX-bMVujmUuh3VUsuQoa8A,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,1,2017-10-20 09:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-23 16:00:00+02:00,hcR30WPek6gUeF84HvZ6Lw,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,1,2017-10-23 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-27 15:00:00+02:00,V0C63zJmoBXaV00-aNr_qw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,5,2017-10-06 15:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-19 10:45:00+02:00,9kc_TgNceGuSkLU0HzypIw,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G2 Hydro,1,MAW,PT1M,4,2017-10-02 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-25 19:00:00+02:00,3Ny4PLwT4fMFweIMhB5zuA,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G2 Hydro,1,MAW,PT1M,1,2017-10-25 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-20 13:00:00+02:00,zb6AEYxbQxN_0IDJXqQVwA,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT1M,2,2017-10-20 07:00:00+02:00
+0,NO,Planned maintenance,A03,Cancelled,2017-10-21 20:30:00+02:00,S4a-2n4ZPLAu5Bs7x_Erxg,114.0,Hydro Water Reservoir,50WP00000000565O,Rendal 2,Rendal 2,Rendal_2g1 Hydro,1,MAW,PT1M,6,2017-10-13 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-26 18:00:00+02:00,zJBT2ug-23XufH397SV7NQ,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,2,2017-10-26 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-11-02 15:00:00+01:00,r1pxoaNSXqniKusfbECizQ,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G2 Hydro,1,MAW,PT1M,1,2017-11-01 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-10-27 09:20:00+02:00,apSbbwOtMdNcLHIqdtX7Rw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,4,2017-10-23 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-27 13:00:00+02:00,AOG0iyj-fnoXFXgaeBzhfA,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,1,2017-10-27 12:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-10-30 02:00:00+01:00,-XgFu3Jau0vYVM3kfiXH8g,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-10-29 18:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-01 15:00:00+01:00,cbdSnEtq7pZ9Zlha6u2vlg,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-11-01 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-10-31 16:00:00+01:00,BlhQs3FfdUS3spHAJEjgcw,220.0,Hydro Water Reservoir,50WP000000005330,Oksla,Oksla,Oksla G1 Hydro,1,MAW,PT1M,4,2017-10-31 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-02 15:00:00+01:00,7zYPtaL_Ep07mprIRzP1OQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT1M,1,2017-11-02 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-02 14:00:00+01:00,EZjci3POqiX2jE-vC7dl2g,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,1,2017-11-02 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-02 14:00:00+01:00,nL1k_0ohrJWP9jk7gqaqEA,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,1,2017-11-02 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-03 15:00:00+01:00,solae1IpHNBA6VUKp8vY6g,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-11-03 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-10 15:00:00+01:00,_m5kWUUVZS1JIVXg27idsg,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-11-08 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-03 20:00:00+01:00,ngqijT1d-zJQYJFDTyaIHQ,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,5,2017-10-30 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-10 15:00:00+01:00,cpgBiJ9ljmsXngw9RRDuWA,160.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G3 Hydro,1,MAW,PT1M,2,2017-10-30 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-07 19:00:00+01:00,C6tPNZRpltdISMzLNOruDw,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,2,2017-11-06 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-17 21:00:00+01:00,psNFYWGnnPHMFexrhBA0IA,140.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g1 Hydro,1,MAW,PT1M,1,2017-11-13 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-07 14:00:00+01:00,o62JykX_hRfEB9uBolFP0w,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G2 Hydro,1,MAW,PT1M,3,2017-11-06 09:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-06 15:00:00+01:00,j3QkCP3IetIp9YyhbrUm6g,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G2 Hydro,1,MAW,PT1M,2,2017-12-04 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-08 15:00:00+01:00,-L4wiX6L6djeZ4wiFIZJTA,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT1M,3,2017-11-08 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-08 16:00:00+01:00,TVevyk3OqNtz7hYoW16jOQ,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G1 Hydro,1,MAW,PT1M,6,2017-11-07 14:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-13 15:00:00+01:00,ycY0q8jhc2CEW7WpWb6Tdg,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-11-13 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-13 19:00:00+01:00,7nMlWEUE7KQ-i9rGVhpnjQ,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,1,2017-11-13 15:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-22 16:00:00+01:00,Kjx7_FNVAA4S8K35zJIk5A,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-11-22 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-11 23:59:00+01:00,-uhYBRM5Eefw1nfi_e8uLg,100.0,Hydro Pumped Storage,50WP00000000119A,Duge,Duge,Duge G2 Hydro,1,MAW,PT1M,3,2017-11-06 10:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-10 14:30:00+01:00,IvqrjLiTC2z48zqYjgmHow,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,5,2017-10-30 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-14 15:00:00+01:00,7QGC4uWloHxnHJ8hhkp3Bg,400.0,Hydro Water Reservoir,50WP00000000695B,Svartisen,Svartisen,Svartiseg2 Hydro,1,MAW,PT1M,3,2017-11-05 10:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-14 23:59:00+01:00,hXqImV3CqztYqbWLLMGHrA,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,1,2017-11-13 10:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-16 09:00:00+01:00,KJmgQXTZNuNqWGZCVwRMfQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,3,2017-11-16 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-17 14:00:00+01:00,BJZoYLipazI7bEeDl0JV1w,106.0,Hydro Water Reservoir,50WP00000000718P,Sonna,Sonna,Sonna G1 Hydro,1,MAW,PT1M,1,2017-11-17 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-04 11:00:00+01:00,Fp12h7-zJtoQ0LsfTg3Ucg,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G1 Hydro,1,MAW,PT1M,1,2017-12-04 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-04 14:30:00+01:00,4ILjETsgefXZlWrSH_vWXw,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G2 Hydro,1,MAW,PT1M,1,2017-12-04 11:30:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-05 11:00:00+01:00,HemQMEAV-m9a6dei-VYEtQ,100.0,Hydro Water Reservoir,50WP00000000633X,Skjomen,Skjomen,Skjomen G3 Hydro,1,MAW,PT1M,1,2017-12-05 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-17 13:54:00+01:00,fULWiHmuKkr09L-Kal9C0w,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,2,2017-11-17 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-19 12:00:00+01:00,2O-YgqtYKFffFsVXcshWHg,150.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g2 Hydro,1,MAW,PT1M,3,2017-08-14 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-11-22 12:00:00+01:00,Yqr2wgKxBc5xirTEcYsf5g,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,2,2017-11-22 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-23 15:00:00+01:00,B6DaCiYUpwUoxvKT1lPgig,150.0,Hydro Pumped Storage,50WP00000000023N,Aurland3,Aurland3,Aurland3g2 Hydro,1,MAW,PT1M,1,2017-11-23 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-23 13:00:00+01:00,x7k7G9SgmzGYpMlZXCb4zQ,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g1 Hydro,1,MAW,PT1M,1,2017-11-23 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-24 15:00:00+01:00,CiUhZcDc2g5mLI0hcIkmmA,280.0,Hydro Water Reservoir,50WP00000000020T,Aurland1,Aurland1,Aurland1g2 Hydro,1,MAW,PT1M,1,2017-11-24 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-28 14:00:00+01:00,g7krH4HSedZyjkxt5z-fGw,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G1 Hydro,1,MAW,PT1M,1,2017-11-28 09:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-28 13:00:00+01:00,54xmgvTajSRghULrehIjSw,195.0,Hydro Water Reservoir,50WP00000000771L,Tyin,Tyin,Tyin G2 Hydro,1,MAW,PT1M,2,2017-11-28 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-11-25 10:00:00+01:00,z1HnVy41XhF3y6IbfwvrGw,320.0,Hydro Water Reservoir,50WP00000000747I,Tonstad,Tonstad,Tonstad G5 Hydro,1,MAW,PT1M,1,2017-11-25 06:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-05 18:00:00+01:00,H8un6GpZSMAAixoH8SMcNQ,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,2,2017-12-05 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-01 12:00:00+01:00,T-3IvBA9pNMjtzqDbvDlBw,225.0,Hydro Water Reservoir,50WP00000000498D,Nedre Rossaga,Nedre Rossaga,Nedrerosg1 Hydro,1,MAW,PT1M,3,2017-11-27 08:00:00+01:00
+310,NO,Planned maintenance,A03,Cancelled,2017-12-06 17:00:00+01:00,tBCz-ukB-DzU_vB7I8uvtQ,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,2,2017-12-05 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-04 20:00:00+01:00,iaSkk905gA8RM3uVgwCCXA,106.0,Hydro Water Reservoir,50WP000000000673,Borgund,Borgund,Borgund G1 Hydro,1,MAW,PT1M,2,2017-12-04 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-06 15:57:00+01:00,xC0PuRRglcxyMZew37Aixg,128.0,Hydro Water Reservoir,50WP000000004512,Mauranger,Mauranger,Maurangeg2 Hydro,1,MAW,PT1M,4,2017-12-05 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-08 18:00:00+01:00,Ow_bey5RlqOVQ9wp9K2kLA,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,4,2017-12-04 17:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-12 19:00:00+01:00,yXseHufhyKLCh78OJpsm_g,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT1M,10,2017-08-21 08:00:00+02:00
+0,NO,Planned maintenance,A03,,2018-01-19 15:00:00+01:00,1hQNkMUDkdxiNuP0TKRSVg,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G2 Hydro,1,MAW,PT60M,12,2017-10-03 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2018-01-19 15:00:00+01:00,qbN7w3_yUIp0zsq8BR5Qww,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G4 Hydro,1,MAW,PT60M,9,2017-08-07 07:00:00+02:00
+0,NO,Planned maintenance,A03,,2017-12-13 11:00:00+01:00,d5nOL_erqjTQMNGzQ5gzIw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G1 Hydro,1,MAW,PT1M,1,2017-12-13 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-13 15:00:00+01:00,KabM_GzRuVi8gt_KvCmqKw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G2 Hydro,1,MAW,PT1M,1,2017-12-13 11:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-13 15:00:00+01:00,Ga8yCJLIQzPb87uw0P7KnQ,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,2,2017-12-11 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-06 14:00:00+01:00,seavK3YG2VCx7A2qb5HAGw,110.0,Hydro Water Reservoir,50WP00000000775D,Tysso 2,Tysso 2,Tysso_2 G1 Hydro,1,MAW,PT1M,2,2017-12-06 10:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-05 14:50:00+01:00,CC-7j_put8hMosxDrPc9mQ,110.0,Hydro Water Reservoir,50WP00000000687A,Sundsbarm,Sundsbarm,Sundsbarg1 Hydro,1,MAW,PT1M,4,2017-12-05 08:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-08 14:00:00+01:00,hsSjq0J2O1NQyMeVotgYlw,143.5,Hydro Water Reservoir,50WP000000002293,Grytten Kraftver,Grytten Kraftver,Gryttenkg1 Hydro,1,MAW,PT1M,2,2017-12-08 08:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-08 15:00:00+01:00,kU-Dldr2isZInKdWS3f26w,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,4,2017-12-08 14:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-08 15:00:00+01:00,amChAIp3cjCw5cKPlOMBuQ,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,3,2017-12-08 14:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-14 11:00:00+01:00,vEOcqo8ib8RQ3a0PDINZzg,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,2,2017-12-14 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-14 15:00:00+01:00,Jq25ztBGsgtsYKSfkeSVhw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,2,2017-12-14 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-15 11:00:00+01:00,rp7F59BUbqFfkzC9-GMnlA,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G3 Hydro,1,MAW,PT1M,1,2017-12-15 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-15 15:00:00+01:00,_a5uxJjdtYLk6_dB-304yw,125.0,Hydro Water Reservoir,50WP00000000552X,Rana,Rana,Rana G4 Hydro,1,MAW,PT1M,1,2017-12-15 11:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-13 13:00:00+01:00,gH-GgjYevE7aviebMj9pDA,360.0,Hydro Water Reservoir,50WP000000008791,Sy-Sima,Sy-Sima,Sima G1 Hydro,1,MAW,PT1M,1,2017-12-13 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-13 13:00:00+01:00,nqKaDsMCF6Uqardn-8qcqw,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT1M,1,2017-12-13 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-15 15:00:00+01:00,oM49I3D3i__u6Tw5iF_gcA,150.0,Hydro Water Reservoir,50WP00000000366U,Kobbelv,Kobbelv,Kobbelv G1 Hydro,1,MAW,PT60M,1,2017-12-15 12:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-14 19:00:00+01:00,5FFZiS2g6jLjwPb9PpYqIA,103.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G1 Hydro,1,MAW,PT60M,1,2017-12-14 16:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-20 15:00:00+01:00,EmE15PJ6JKl5JhTHyzwwZA,290.0,Hydro Water Reservoir,50WP000000008783,Lang Sima,Lang Sima,Sima G3 Hydro,1,MAW,PT60M,1,2017-12-20 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-27 15:00:00+01:00,Snhdv2qnCusalmssmK3ggg,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg4 Hydro,1,MAW,PT60M,1,2017-12-27 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-29 15:00:00+01:00,bF-M3bKai5YqhQp9cKJRpw,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg2 Hydro,1,MAW,PT60M,1,2017-12-29 07:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-22 10:30:00+01:00,OBddwkwP3jn-bB-OjMereg,103.0,Hydro Water Reservoir,50WP00000000822U,Vinje,Vinje,Vinje G3 Hydro,1,MAW,PT30M,2,2017-12-22 10:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-22 10:30:00+01:00,6aHA6LVnLIzAiFduYyS7cw,110.0,Hydro Water Reservoir,50WP00000000745M,Tokke,Tokke,Tokke G3 Hydro,1,MAW,PT30M,1,2017-12-22 10:00:00+01:00
+0,NO,Planned maintenance,A03,Cancelled,2017-12-28 15:00:00+01:00,q4DnybdcArRSsLCKSle4AQ,310.0,Hydro Water Reservoir,50WP00000000389I,Kvilldal,Kvilldal,Kvilldalg3 Hydro,1,MAW,PT60M,2,2017-12-28 07:00:00+01:00
+0,NO,Planned maintenance,A03,,2017-12-29 13:00:00+01:00,56i4r4MO8NsOFS1Fvpl-Rg,160.0,Hydro Water Reservoir,50WP00000000607Y,Saurdal,Saurdal,Saurdal G1 Hydro,1,MAW,PT60M,1,2017-12-29 12:00:00+01:00
