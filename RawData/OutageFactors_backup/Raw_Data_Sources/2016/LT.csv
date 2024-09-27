@@ -1,0 +1,17 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,LT,Unplanned outage,A03,,2016-01-22 07:00:00+02:00,qs-Kwr8bvG39LDMtn6KS0Q,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2016-01-21 14:04:00+02:00
+0,LT,Planned maintenance,A03,,2016-02-26 21:00:00+02:00,Hk83rL_Ap81caWiZo_AdnQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT1M,1,2016-02-25 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2016-04-01 23:00:00+03:00,Bl1KSKGdRyAX1GqCKYClSw,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA2,1,MAW,PT1M,1,2016-03-14 00:00:00+02:00
+0,LT,Planned maintenance,A03,,2016-05-23 00:00:00+03:00,_bfDidXjag8DUq3NAz_3jg,300.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-7,1,MAW,PT1M,3,2015-10-19 01:00:00+03:00
+0,LT,Planned maintenance,A03,,2016-04-22 23:00:00+03:00,4-BA1AZD8mM0UmJL1SAImQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA1,1,MAW,PT1M,1,2016-04-04 00:00:00+03:00
+0,LT,Planned maintenance,A03,,2016-04-29 23:00:00+03:00,sRhLQYv_MFJwGZPMAo1HKw,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA1,1,MAW,PT1M,1,2016-04-22 23:00:00+03:00
+0,LT,Unplanned outage,A03,,2016-04-25 14:20:00+03:00,GJ8oX5cepZlAr6seCMaIzQ,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,4,2016-04-25 06:20:00+03:00
+0,LT,Planned maintenance,A03,Cancelled,2016-06-07 16:30:00+03:00,PMN9ggb4FoZyi7VtIwNmMw,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT1M,2,2016-06-07 07:00:00+03:00
+0,LT,Unplanned outage,A03,,2016-06-09 20:20:00+03:00,g2CsXRvazpIO9BuYD5vmng,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT1M,2,2016-06-09 03:40:00+03:00
+0,LT,Planned maintenance,A03,,2016-06-15 17:00:00+03:00,fk518u5pTsiJfZLMlVV-8g,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA4,1,MAW,PT1M,1,2016-06-15 07:00:00+03:00
+0,LT,Planned maintenance,A03,,2016-08-21 11:40:00+03:00,F9wFwJ3zv2PPHTciwUbhCw,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,7,2016-07-28 09:53:00+03:00
+0,LT,Unplanned outage,A03,,2016-09-01 01:10:00+03:00,KjNjlyNSf1cnVttLo4L8fQ,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,3,2016-08-31 17:20:00+03:00
+0,LT,Planned maintenance,A03,,2016-11-01 19:10:00+02:00,DYP_KNnImwz2bFfSG-a82w,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,4,2016-09-28 01:01:00+03:00
+0,LT,Unplanned outage,A03,,2016-11-02 21:38:00+02:00,N8Z3GUpcySqWB3VeVtdjEA,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,1,2016-11-02 19:38:00+02:00
+0,LT,Unplanned outage,A03,,2016-11-12 15:18:00+02:00,WdsVeSwTXJ-Dhy9isVazJg,445.0,Fossil Gas,41W1023600243EL3,Elektrenai,Lietuvos elektrine,LE TG-9,1,MAW,PT1M,2,2016-11-12 13:30:00+02:00
+0,LT,Planned maintenance,A03,,2016-12-30 13:50:00+02:00,DF-e95CsI_NXsrp9MrIYzQ,225.0,Hydro Pumped Storage,41W2128003453ELI,Kruonis,KruonioHAE,KHAE HA3,1,MAW,PT1M,2,2016-11-07 00:00:00+02:00

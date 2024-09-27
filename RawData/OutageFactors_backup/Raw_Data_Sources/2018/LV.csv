@@ -1,0 +1,10 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,LV,Planned maintenance,A03,,2018-01-19 18:00:00+02:00,3dDu3eyMcrccrLNNTmgy7w,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT60M,2,2018-01-15 09:00:00+02:00
+0,LV,Planned maintenance,A03,,2018-01-19 18:30:00+02:00,3dDu3eyMcrccrLNNTmgy7w,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT30M,2,2018-01-19 18:00:00+02:00
+0,LV,Planned maintenance,A03,,2018-01-19 18:40:00+02:00,3dDu3eyMcrccrLNNTmgy7w,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,2,2018-01-19 18:30:00+02:00
+0,LV,Unplanned outage,A03,,2018-02-24 07:15:00+02:00,zyzvqJX310vP1W183s7hfA,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT1M,5,2018-02-24 07:10:00+02:00
+0,LV,Unplanned outage,A03,,2018-02-24 07:30:00+02:00,zyzvqJX310vP1W183s7hfA,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT15M,5,2018-02-24 07:15:00+02:00
+0,LV,Unplanned outage,A03,,2018-02-24 08:00:00+02:00,zyzvqJX310vP1W183s7hfA,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT30M,5,2018-02-24 07:30:00+02:00
+0,LV,Unplanned outage,A03,,2018-02-24 15:00:00+02:00,zyzvqJX310vP1W183s7hfA,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT60M,5,2018-02-24 08:00:00+02:00
+0,LV,Unplanned outage,A03,,2018-02-24 15:15:00+02:00,zyzvqJX310vP1W183s7hfA,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT15M,5,2018-02-24 15:00:00+02:00
+0,LV,Unplanned outage,A03,,2018-02-24 15:24:00+02:00,zyzvqJX310vP1W183s7hfA,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT1M,5,2018-02-24 15:15:00+02:00
