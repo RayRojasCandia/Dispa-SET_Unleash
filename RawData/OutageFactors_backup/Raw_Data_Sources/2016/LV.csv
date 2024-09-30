@@ -1,7 +1,0 @@
-avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
-0,LV,Unplanned outage,A03,,2016-01-08 11:00:00+02:00,X_ZPePeMz61SJzW-YmxQDg,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT1M,3,2016-01-07 13:33:00+02:00
-0,LV,Unplanned outage,A03,,2016-02-08 12:00:00+02:00,2-ENC3cxjGPHn4utwsoLUg,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT1M,1,2016-02-08 06:42:00+02:00
-0,LV,Unplanned outage,A03,,2016-05-23 12:10:00+03:00,nEnJ0DJYYgJg3PJ2gNB6sA,150.0,Fossil Gas,43W-RTEC-2-1---C,Latvia,RTEC2-1,"Block-1, Steam Turbine, RTEC2",1,MAW,PT1M,2,2016-05-23 11:28:00+03:00
-0,LV,Planned maintenance,A03,,2016-07-22 23:00:00+03:00,d1U69NmyU1NFnW4vogBZZw,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,2,2016-07-11 01:00:00+03:00
-0,LV,Unplanned outage,A03,,2016-08-03 17:00:00+03:00,OzjwPusndVip_k5tRBiyKA,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,1,2016-08-02 16:40:00+03:00
-0,LV,Planned maintenance,A03,,2016-09-24 14:55:00+03:00,fhF57sZPBOaNhfx8YbNmhA,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,2,2016-09-24 08:00:00+03:00

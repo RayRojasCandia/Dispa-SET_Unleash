@@ -1,7 +1,0 @@
-avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
-0,LV,Planned maintenance,A03,,2017-02-04 01:00:00+02:00,kgagVxd8hHgkl7koov4ijg,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,1,2017-01-16 01:00:00+02:00
-0,LV,Planned maintenance,A03,,2017-02-03 23:00:00+02:00,95xJ_XmFLXc3LG4Mbs-Rzw,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,1,2017-01-16 05:00:00+02:00
-0,LV,Unplanned outage,A03,,2017-01-17 16:55:00+02:00,WtQ7AREMz9BZvTV-90FJAw,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,2,2017-01-17 15:05:00+02:00
-0,LV,Planned maintenance,A03,,2017-06-14 17:00:00+03:00,rmZnaItiH_Vq25_6NvVvKQ,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,1,2017-06-12 09:00:00+03:00
-0,LV,Planned maintenance,A03,,2017-07-28 23:00:00+03:00,gRmu5aKacAogSx3DriHLpQ,100.0,Hydro Run-of-river and poundage,43W-PLAV-HPP---J,Latvia,Plavinas HPP,"Generator Nr.4, Plavinas HPP",1,MAW,PT1M,2,2017-07-17 01:00:00+03:00
-0,LV,Unplanned outage,A03,,2017-12-04 17:00:00+02:00,laNmkI_S6m6TonEJ-PJ6fw,149.0,Fossil Gas,43W-RTEC-2-2---7,Latvia,RTEC2-2,"Block-2, Steam Turbine, RTEC2",1,MAW,PT1M,1,2017-12-04 13:05:00+02:00
