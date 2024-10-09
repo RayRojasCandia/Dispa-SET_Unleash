@@ -1,6 +1,6 @@
 Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
 ,Dispa-SET_Solar_LU,300,1.0,LU,,,PHOT,SUN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_WIN_LU,152,1.0,LU,,,WTOF,WIN,1.0,0.0,0.0,0.9333333333,0.9333333333,0.0,,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,Dispa-SET_WIN_LU,152,1.0,LU,,,WTON,WIN,1.0,0.0,0.0,0.9183673469,0.9183673469,0.0,,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_BIO_LU,47,1.0,LU,,,STUR,BIO,0.35,4.0,6.0,0.02,0.02,,,0.0,0.5,0.35,,0.0,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_GAS_LU,70,1.0,LU,,,COMC,GAS,0.525,5.0,1.0,0.108446602,0.108446602,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_WAT_LU,33,1.0,LU,,,HROR,WAT,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
