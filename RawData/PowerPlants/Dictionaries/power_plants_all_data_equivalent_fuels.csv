@@ -1,0 +1,20 @@
+Description,Dispaset_Fuel,Equivalent_Fuel_1,Equivalent_Fuel_2,Equivalent_Fuel_3,Equivalent_Fuel_4,Equivalent_Fuel_5,Equivalent_Fuel_6,Equivalent_Fuel_7,Equivalent_Fuel_8
+Air energy from the surrounding environment (used by heat pumps and other heat generation technologies),AIR,-,-,-,-,-,-,-,-
+Ammonia,AMO,-,-,-,-,-,-,-,-
+"Bagasse, Biodiesel, Gas From Biomass, Gasification, Biomass, Briquettes, Cattle Residues, Rice Hulls Or Padi Husk, Straw, Wood Gas (From Wood Gasification), Wood Waste Liquids Excl Blk Liq (Incl Red Liquor, Sludge, Wood,Spent Sulfite Liquor And Oth Liquids, Wood And Wood Waste",BIO,Biomass and biogas,Biomass,-,-,-,-,-,-
+"Blast Furnace Gas, Boiler Natural Gas, Butane, Coal Bed Methane, Coke Oven Gas, Flare Gas, Gas (Generic), Methane, Mine Gas, Natural Gas, Propane, Refinery Gas, Sour Gas, Synthetic Natural Gas, Top Gas, Voc Gas & Vapor, Waste Gas, Wellhead Gas",GAS,Natural gas,NG,Fossil Gas,-,-,-,-,-
+Geothermal steam,GEO,-,-,-,-,-,-,-,-
+"Anthracite, Other Anthracite, Bituminous Coal, Coker By-Product, Coal Gas (From Coal Gasification), Coke, Coal (Generic), Coal-Oil Mixture, Other Coal, Coal And Pet Coke Mi, Coal Tar Oil, Anthracite Coal Waste, Coal-Water Mixture, Gob, Hard Coal / Anthracite, Imported Coal, Other Solids, Soft Coal, Anthracite Silt, Steam Coal, Subbituminous, Pelletized Synthetic Fuel From Coal, Bituminous Coal Waste)",HRD,Hard coal,Fossil Coal-derived gas,Fossil Hard coal,-,-,-,-,-
+Hydrogen,HYD,-,-,-,-,-,-,-,-
+"Lignite black, Lignite brown, lignite",LIG,Lignite,-,-,-,-,-,-,-
+"U (Uranium), Pu (Plutonium)",NUC,Nuclear,-,-,-,-,-,-,-
+"Crude Oil, Distillate Oil, Diesel Fuel, No. 1 Fuel Oil, No. 2 Fuel Oil, No. 3 Fuel Oil, No. 4 Fuel Oil, No. 5 Fuel Oil, No. 6 Fuel Oil, Furnace Fuel, Gas Oil, Gasoline, Heavy Oil Mixture, Jet Fuel, Kerosene, Light Fuel Oil, Liquefied Propane Gas, Methanol, Naphtha, ,Gas From Fuel Oil Gasification, Fuel Oil, Other Liquid, Orimulsion, Petroleum Coke, Petroleum Coke Synthetic Gas, Black Liquor, Residual Oils, Re-Refined Motor Oil, Oil Shale, Tar, Topped Crude Oil, Waste Oil",OIL,Mixed fossil fuels,Other fossil fuels,Oil,Fossil Oil,Fossil Oil shale,-,-,-
+All other energy carriers,OTH,Other fuels,Other,-,-,-,-,-,-
+Peat Moss,PEA,Fossil Peat,-,-,-,-,-,-,-
+Solar energy,SUN,Solar,-,-,-,-,-,-,-
+Hydro energy,WAT,Hydro,-,-,-,-,-,-,-
+Wind energy,WIN,Wind,-,-,-,-,-,-,-
+"Digester Gas (Sewage Sludge Gas), Gas From Refuse Gasification, Hazardous Waste, Industrial Waste, Landfill Gas, Poultry Litter, Manure, Medical Waste, Refused Derived Fuel, Refuse, Waste Paper And Waste Plastic, Refinery Waste, Tires, Agricultural Waste, Waste Coal, Waste Water Sludge, Waste",WST,Waste,-,-,-,-,-,-,-
+"Waste heat, Excess heat",WHT,-,-,-,-,-,-,-,-
+"Crude Oil, Distillate Oil, Diesel Fuel, No. 1 Fuel Oil, No. 2 Fuel Oil, No. 3 Fuel Oil, No. 4 Fuel Oil, No. 5 Fuel Oil, No. 6 Fuel Oil, Furnace Fuel, Gas Oil, Gasoline, Heavy Oil Mixture, Jet Fuel, Kerosene, Light Fuel Oil, Liquefied Propane Gas, Methanol, Naphtha, ,Gas From Fuel Oil Gasification, Fuel Oil, Other Liquid, Orimulsion, Petroleum Coke, Petroleum Coke Synthetic Gas, Black Liquor, Residual Oils, Re-Refined Motor Oil, Oil Shale, Tar, Topped Crude Oil, Waste Oil",,,,,,,,,
+"Crude Oil, Distillate Oil, Diesel Fuel, No. 1 Fuel Oil, No. 2 Fuel Oil, No. 3 Fuel Oil, No. 4 Fuel Oil, No. 5 Fuel Oil, No. 6 Fuel Oil, Furnace Fuel, Gas Oil, Gasoline, Heavy Oil Mixture, Jet Fuel, Kerosene, Light Fuel Oil, Liquefied Propane Gas, Methanol, Naphtha, ,Gas From Fuel Oil Gasification, Fuel Oil, Other Liquid, Orimulsion, Petroleum Coke, Petroleum Coke Synthetic Gas, Black Liquor, Residual Oils, Re-Refined Motor Oil, Oil Shale, Tar, Topped Crude Oil, Waste Oil",,,,,,,,,
