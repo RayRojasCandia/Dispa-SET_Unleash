@@ -1,12 +1,11 @@
 Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
-,VEJO,433,1.0,LT,,,WTON,WIN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+,VEJO,1308,1.0,LT,,,WTON,WIN,1.0,0.0,0.0,0.1080864692,0.1080864692,0.0,,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Lietuvos elektrine,1045,1.0,LT,,,COMC,GAS,0.525,5.0,1.0,0.01117,0.01117,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,KruonioHAE,900,1.0,LT,,,HPHS,WAT,0.8,0.0,0.0,0.066666667,0.066666667,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,10800.0,0.0,900.0,0.8,,,,,,,,
 ,Mazeikiu elektrine,160,1.0,LT,,,COMC,GAS,0.525,5.0,1.0,0.0698125,0.0698125,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,KaunoTE,110,1.0,LT,,,COMC,GAS,0.525,5.0,1.0,0.1015454545,0.1015454545,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,KaunoHE,101,1.0,LT,,,HROR,WAT,1.0,0.0,0.0,2.1782178218,2.1782178218,0.0,,0.0,0.0,1.0,0.3,0.0,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_Solar_LT,82,1.0,LT,,,PHOT,SUN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_WIN_LT,92,1.0,LT,,,WTON,WIN,1.0,0.0,0.0,1.8,1.8,0.0,,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_BIO_LT,96,1.0,LT,,,STUR,BIO,0.36,4.0,4.0,0.014731183,0.005376344,4303.568141,,0.0,0.978494624,0.36,0.0,1.167,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_GAS_LT,395,1.0,LT,,,COMC,GAS,0.525,5.0,1.0,0.028278481,0.028278481,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_OTH_LT,140,1.0,LT,,,STUR,OTH,0.3,4.0,4.0,0.02,0.02,,0.0,0.0,0.5,0.3,0.0,0.0,,,,,,,,,,,,,,,,,,,,

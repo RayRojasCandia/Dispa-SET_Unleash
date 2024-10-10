@@ -1,7 +1,7 @@
 Dispaset_Headers,Equivalent_Headers_1,Equivalent_Headers_2,Equivalent_Headers_3,Equivalent_Headers_4,Equivalent_Headers_5,Equivalent_Headers_6,Equivalent_Headers_7,Equivalent_Headers_8
  ,-,-,-,-,-,-,-,-
 Unit,name_bnetza,Unit,name,Name,-,-,-,-
-PowerCapacity,capacity_net_bnetza,Pmax available,capacity,electrical_capacity,Intalled Capacity at the beginning of year [MW],-,-,-
+PowerCapacity,capacity_net_bnetza,Pmax available,capacity,electrical_capacity,Current Installed Capacity [MW],,-,-
 Nunits,-,-,-,-,-,-,-,-
 Zone,country,Country,-,-,-,-,-,-
 Zone_th,-,-,-,-,-,-,-,-
