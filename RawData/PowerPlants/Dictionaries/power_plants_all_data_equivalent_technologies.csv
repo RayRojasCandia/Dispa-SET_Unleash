@@ -11,7 +11,7 @@ Combined cycle,COMC,Combined cycle,CCGT,Comc,-,-,-,-,-
 Gas turbine,GTUR,Gas turbine,Fossil Gas,-,-,-,-,-,-
 Internal combustion engine,ICEN,Combustion Engine,Sewage and landfill gas,-,-,-,-,-,-
 Concentrated Solar Power,SCSP,-,-,-,-,-,-,-,-
-Steam turbine,STUR,Steam turbine,chp,Biomass and biogas,Geothermal,Fossil Hard coal,Stur,-,-
+Steam turbine,STUR,Steam turbine,chp,Biomass and biogas,Geothermal,Fossil Hard coal,Stur,Other,-
 Stationary batteries,BATS,-,-,-,-,-,-,-,-
 Battery-powered electric vehicles,BEVS,-,-,-,-,-,-,-,-
 Compressed air energy storage,CAES,-,-,-,-,-,-,-,-
