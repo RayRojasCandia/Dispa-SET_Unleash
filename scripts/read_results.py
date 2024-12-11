@@ -13,11 +13,11 @@ sys.path.append(os.path.abspath('..'))
 import dispaset as ds
 
 # Load the inputs and the results of the simulation
-inputs,results = ds.get_sim_results(path='/home/ray/BackUp/Important/Simulations/simulation_DE_Outages_Integer clustering_OFF_2023',cache=False)
+inputs,results = ds.get_sim_results(path='../Simulations/simulationBE_NoClustering',cache=False)
 
 # if needed, define the plotting range for the dispatch plot:
 import pandas as pd
-rng = pd.date_range(start='2023-01-01',end='2023-01-31',freq='h')
+rng = pd.date_range(start='2023-06-01',end='2023-06-10',freq='h')
 
 # Generate country-specific plots
 ds.plot_zone(inputs,results,rng=rng)

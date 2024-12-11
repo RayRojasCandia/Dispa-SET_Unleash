@@ -1,0 +1,2 @@
+Sector,STOCapacity,STOSelfDischarge,STOMinSOC,MaxFlexDemand,MaxFlexSupply,STOHours,Zone,UnitName
+S_1,7543,1245,3885,,,,BE,VPP_BE
