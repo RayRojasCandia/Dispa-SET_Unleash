@@ -1,23 +1,23 @@
-Production Type,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
-Production Type,[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW]
-Fossil Peat,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Nuclear,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Hard coal,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Wind Onshore,1613,1875,1875,2228,2355,3153,3755,4150,4547,5065
-Fossil Brown coal/Lignite,4459,3912,3912,3912,3912,3362,2561,2001,2650,2650
-Geothermal,46,0,0,0,0,0,0,0,0,0
-Hydro Run-of-river and poundage,,299,299,299,299,299,312,319,321,327
-Hydro Water Reservoir,2456,2403,2403,2403,2403,2403,2403,2403,2403,2403
-Wind Offshore,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Hydro Pumped Storage,693,699,699,699,699,699,699,699,699,699
-Other renewable,298,69,69,69,69,105,106,109,120,128
-Solar,2429,2441,2441,2441,2441,2606,3055,3820,5100,6700
-Fossil Oil shale,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Waste,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Gas,4913,5396,5245,5245,4902,4902,4902,5213,6030,6030
-Fossil Coal-derived gas,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Oil,718,0,0,0,0,0,0,0,0,0
-Marine,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Other,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Biomass,,51,51,51,51,86,95,106,127,120
-Total Grand capacity,17625,17145,16994,17347,17131,17615,17888,18820,21997,24122
+Production Type,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+Production Type,[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW],[MW]
+Hydro Water Reservoir,2456,2403,2403,2403,2403,2403,2403,2403,2403,2403,2403
+Other,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Other renewable,298,69,69,69,69,105,106,109,120,128,132
+Fossil Gas,4913,5396,5245,5245,4902,4902,4902,5213,6030,6030,6030
+Fossil Oil shale,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Nuclear,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Fossil Peat,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Fossil Coal-derived gas,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Solar,2429,2441,2441,2441,2441,2606,3055,3820,5100,6700,9000
+Hydro Pumped Storage,693,699,699,699,699,699,699,699,699,699,699
+Fossil Hard coal,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Fossil Oil,718,0,0,0,0,0,0,0,0,0,0
+Wind Onshore,1613,1875,1875,2228,2355,3153,3755,4150,4547,5065,5225
+Wind Offshore,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Marine,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Fossil Brown coal/Lignite,4459,3912,3912,3912,3912,3362,2561,2001,2650,2650,1800
+Waste,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
+Biomass,,51,51,51,51,86,95,106,127,120,146
+Geothermal,46,0,0,0,0,0,0,0,0,0,0
+Hydro Run-of-river and poundage,,299,299,299,299,299,312,319,321,327,305
+Total Grand capacity,17625,17145,16994,17347,17131,17615,17888,18820,21997,24122,25740

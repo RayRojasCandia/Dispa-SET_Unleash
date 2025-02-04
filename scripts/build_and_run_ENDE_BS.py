@@ -42,10 +42,10 @@ _ = ds.solve_GAMS(config['SimulationDirectory'], config['GAMS_folder'])
 # # #
 
 # Load the simulation results:
-inputs,results = ds.get_sim_results(path='../BE_BoudarySector_Test_NoMTS',cache=False)
+inputs,results = ds.get_sim_results(path='/home/ray/Dispa-SET_Unleash/Simulations/BE_BoudarySector_Test_NoMTS_3',cache=False)
 # inputs,results = ds.get_sim_results(path='../Simulations/BOLIVIA_POWERFLOWDC_TEST',cache=False, inputs_file='Inputs_MTS.p',results_file='Results_MTS.gdx')
 # inputs, results = ds.get_sim_results(config, cache=False)
-inputs_MTS, results_MTS = ds.get_sim_results(path='../BE_BoudarySector_Test_NoMTS', cache=False, inputs_file='Inputs_MTS.p',results_file='Results_MTS.gdx')
+inputs_MTS, results_MTS = ds.get_sim_results(path='/home/ray/Dispa-SET_Unleash/Simulations/BE_BoudarySector_Test_NoMTS_3', cache=False, inputs_file='Inputs_MTS.p',results_file='Results_MTS.gdx')
 
 import pandas as pd
 #

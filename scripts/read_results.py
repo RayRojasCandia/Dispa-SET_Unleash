@@ -13,7 +13,7 @@ sys.path.append(os.path.abspath('..'))
 import dispaset as ds
 
 # Load the inputs and the results of the simulation
-inputs,results = ds.get_sim_results(path='../Simulations/simulationBE_NoClustering',cache=False)
+inputs,results = ds.get_sim_results(path='../Simulations/BE_BoudarySector_Test_No_MTS',cache=False)
 
 # if needed, define the plotting range for the dispatch plot:
 import pandas as pd
@@ -35,7 +35,7 @@ r = ds.get_result_analysis(inputs,results)
 #ds.storage_levels(inputs,results)
 #ds.plot_storage_levels(inputs,results,'NO')
 
-ds.plot_power_flow_tracing_matrix(inputs, results)
+#ds.plot_power_flow_tracing_matrix(inputs, results)
 
-ds.plot_net_flows_map(inputs,results)
-ds.plot_line_congestion_map(inputs,results)
+#ds.plot_net_flows_map(inputs,results)
+#ds.plot_line_congestion_map(inputs,results)
