@@ -1,0 +1,55 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,SK,Unplanned outage,A03,,2024-01-26 12:15:00+01:00,lirNL9FkwylfHZ9f_KjY1Q,235.5,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG32,1,MAW,PT60M,1,2024-01-26 04:15:00+01:00
+0,SK,Planned maintenance,A03,,2024-09-26 00:00:00+02:00,ZlHxKK3-ymgxNV-JlN_gtQ,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG21,1,MAW,PT60M,116,2024-09-07 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-09-26 00:00:00+02:00,9SXooZ1qBm-hjUREiCHQAA,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG22,1,MAW,PT60M,116,2024-09-07 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-10-09 00:00:00+02:00,aBYEx847BjpyWg2cQ7oqVA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT60M,116,2024-09-04 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-10-09 00:00:00+02:00,d6FaVkCxqCU-98QBxfPYag,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT60M,116,2024-09-04 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-07-30 00:00:00+02:00,KN0nHPsTs0a-gWfB0SwIcg,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG31,1,MAW,PT60M,116,2024-06-16 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-07-30 00:00:00+02:00,Ox_xROAG1LiMTmYeuORcSQ,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG32,1,MAW,PT60M,116,2024-06-16 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-05-20 00:00:00+02:00,-0sidjPEGMiTq3h5pyjRWw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT60M,116,2024-05-13 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-05-20 00:00:00+02:00,g8jXm0JgRpxJKWfUdnELPA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT60M,116,2024-05-11 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-15 00:00:00+02:00,d9GPEHRShAE4AeLrHYjsqQ,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT60M,116,2024-05-04 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-11 00:00:00+02:00,1Pa4BU9-q3PDtUR7EzB4eg,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG42,1,MAW,PT60M,116,2024-04-28 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-24 03:00:00+02:00,zFElMyCRVyIhpSeG00q42g,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG11,1,MAW,PT60M,116,2024-04-06 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-11 00:00:00+02:00,MzSWOaUmRpt36uWnue3Ecw,250.0,Nuclear,24WV--EBO------8,Jaslovské Bohunice,Bohunice,Bohunice TG41,1,MAW,PT60M,116,2024-04-28 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-05-20 00:00:00+02:00,bn8h5J6c68Unl1xic93w8Q,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT60M,116,2024-05-13 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-24 00:00:00+02:00,MCFs7i2BznrREipcyBsbEg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT60M,116,2024-06-17 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-24 03:00:00+02:00,4wYYlxzBQcGcR-0lLSMplg,235.0,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG12,1,MAW,PT60M,116,2024-04-06 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-05 00:00:00+02:00,2ofl3L92K_29hGxS1JjZcw,235.5,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG32,1,MAW,PT60M,116,2024-04-05 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-05-20 00:00:00+02:00,33_8R0tIhApH0lyYUSwnCA,419.6,Fossil Gas,24WV--EOK------Y,Malženice,Malženice,Malženice TG1,1,MAW,PT60M,116,2024-05-04 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-24 00:00:00+02:00,7-RSBnjeutAee3LvYe0z1A,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,116,2024-06-17 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-06-05 00:00:00+02:00,PzE_L-fkPm1YVG60KBo7sg,235.5,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG31,1,MAW,PT60M,116,2024-04-05 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-02-11 00:00:00+01:00,pfdoxQvzYj6-h9VivtgG5g,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT60M,74,2024-02-09 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-02-22 10:00:00+01:00,4z-AMFMEJQ9CuhfjaYPrww,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT60M,59,2024-02-22 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-02-22 10:00:00+01:00,-ekDoZpikkqOWW7xeImUjg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT60M,59,2024-02-22 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-02-22 11:00:00+01:00,mGEGpGKRja7rfBG_zHdl4w,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT60M,59,2024-02-22 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-02-22 11:00:00+01:00,RBdEwlXzLe3Qm-ZwcreD_A,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT60M,59,2024-02-22 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-23 09:00:00+01:00,H_OWktjZny-qdkdNEtDRBg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT60M,96,2024-01-18 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-02-22 12:00:00+01:00,qAKUEtfED4w5Q6L9uasNtw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT60M,59,2024-02-22 11:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-18 14:00:00+01:00,x-nz839g1808dThhe1pycw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG3,1,MAW,PT60M,98,2024-01-18 10:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-23 16:00:00+01:00,JX0LbpeXLWSHXlWZHAzSSQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,92,2024-01-23 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-24 16:00:00+01:00,HH81RpdktWTpjmAMRrTcIQ,235.5,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG32,1,MAW,PT60M,92,2024-01-23 08:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-02-22 12:00:00+01:00,tD4u9ov-VKxI6_bJpjSGIA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,59,2024-02-22 11:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-09-13 00:00:00+02:00,j9u29TWVsKTJd70PXsb5pQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT60M,116,2024-09-11 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-03-26 19:00:00+01:00,9e24hfyhIsYTeVQy_uUWOw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,25,2024-03-26 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-03-01 14:00:00+01:00,BDK5TeB0huK5wqRBfVOZmA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT60M,55,2024-02-27 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-09-13 00:00:00+02:00,R5bLFEyFlxDIUsq8ta_Naw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT60M,116,2024-09-11 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-20 00:00:00+02:00,xBw2U43MNo4VP9u_qe2UEw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT60M,22,2024-03-29 12:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-04-15 15:00:00+02:00,iYMbYTIMCMkKo4AYgghNgw,235.5,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG31,1,MAW,PT60M,4,2024-04-15 06:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-15 15:00:00+02:00,AG5KKz7eO4OA7cgKYYUlWQ,235.5,Nuclear,24WV--EMO------K,Mochovce,Mochovce,Mochovce TG32,1,MAW,PT60M,4,2024-04-15 06:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-03 13:00:00+02:00,i7MAe780Z2T_iRd8O6xdSg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT60M,16,2024-04-03 09:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-17 18:00:00+02:00,T2JvQ622jx20sCn0vNN6gw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT60M,1,2024-04-17 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-09-13 00:00:00+02:00,MKoBToOPobEuKFDEAxmRhA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,116,2024-09-11 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-02-27 18:00:00+01:00,rNQMxwwnNeKhaBMu3CDdSw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT60M,55,2024-02-27 07:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-13 10:00:00+01:00,ItsdbsnJVYHQZj6_BNrOwg,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT60M,115,2024-01-01 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-09-13 00:00:00+02:00,ViP1OzfEISWWJh11mLg4Dg,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG2,1,MAW,PT60M,116,2024-09-11 00:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-04-17 18:00:00+02:00,vy0SmS1RTae40C3hhQIjwA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG1,1,MAW,PT60M,1,2024-04-17 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-03-01 00:00:00+01:00,3fV_K31GjSivR1R8c-qCaw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT60M,90,2024-02-01 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-10 13:00:00+01:00,DehLNFH2WX14QlMii9wBAQ,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT60M,106,2024-01-10 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-02 11:00:00+01:00,QyoA2xV7TmMSGI7dwlamtA,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG5,1,MAW,PT60M,115,2024-01-01 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-04-11 18:00:00+02:00,itEvVgyqIwlH-Ocxpfzk1g,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,7,2024-04-11 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-01-18 18:00:00+01:00,W6SeJA0xQR0ypGAd5Mv6JA,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG4,1,MAW,PT60M,98,2024-01-18 14:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-01-10 13:00:00+01:00,mnDtc5N3gS_KNzxixIZQ1w,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG6,1,MAW,PT60M,106,2024-01-10 09:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-04-11 18:00:00+02:00,Yx9sJEuI2nm7BHsm7jTxXw,122.4,Hydro Pumped Storage,24WV--HCV------O,Čierny Váh,Čierny Váh,Čierny Váh TG5,1,MAW,PT60M,7,2024-04-11 07:00:00+02:00
+0,SK,Planned maintenance,A03,,2024-01-15 10:00:00+01:00,7-Kdj1avZjLz22lglFN29g,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT60M,102,2024-01-14 00:00:00+01:00
+0,SK,Planned maintenance,A03,,2024-04-20 00:00:00+02:00,I3DbYLJxgO4mQgT3btf7jw,110.0,Fossil Hard coal,24WV--EVO------D,Vojany,Vojany,Vojany TG6,1,MAW,PT60M,22,2024-03-28 16:00:00+01:00

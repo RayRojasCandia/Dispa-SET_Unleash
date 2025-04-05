@@ -1,0 +1,60 @@
+avail_qty,biddingzone_domain,businesstype,curvetype,docstatus,end,mrid,nominal_power,plant_type,production_resource_id,production_resource_location,production_resource_name,production_resource_psr_name,pstn,qty_uom,resolution,revision,start
+0,IE,Planned maintenance,A03,Cancelled,2024-01-01 00:00:00+00:00,YkR62xOlpzd5qi7DsIw_OA,91.0,Fossil Peat,47W000000000232S,Offaly,Lanesboro Production,Lanesboro,1,MAW,PT15M,2,2022-01-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,Cancelled,2024-01-01 00:00:00+00:00,K0G6DoKjJwW-rozVq6F60A,135.0,Fossil Peat,47W000000000170O,Offaly,West Offaly Production,West Offaly,1,MAW,PT15M,2,2022-01-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-09-06 18:00:00+01:00,4okY62clkpNuxckqlsP8aA,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 1,1,MAW,PT15M,1,2024-09-06 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-09-06 18:00:00+01:00,GkDvTWT-lX7MHO7novH_JQ,56.0,Fossil Gas,47W000000000239E,Offaly,Cushaling Production,Cushaling Unit 2,1,MAW,PT15M,1,2024-09-06 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-05-01 00:00:00+01:00,bChWKuWExgG9viTishdbZg,15.0,Waste,47W000000000240T,Dublin (Poolbeg),Indaver Production,Indaver,1,MAW,PT15M,1,2024-04-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-10-06 00:00:00+01:00,mu4iALeMjSo2E3cj_cbGOQ,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2024-08-11 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-02-28 18:00:00+00:00,r2snHav9len7seAX4vrNHg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2024-02-26 06:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-05-16 18:00:00+01:00,iyL0WM8MKX8ieLwu9z9GdQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2024-05-13 18:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-07-04 18:00:00+01:00,a4DNvqoCir35pNV5TZtr5g,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2024-07-01 06:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-11-06 18:00:00+00:00,LSB_l2yr7KGHo1iFJJbDKA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2024-11-04 06:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-05-16 12:00:00+01:00,lfJbAiWLbo0P1dlfz5FWKg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2024-05-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-03-13 00:30:00+00:00,i2Gszl8-BJs-K8qEDa9GFQ,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2024-03-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-08-21 00:00:00+01:00,tz5GkJTM3FjjXXc3teOOMQ,400.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 2,1,MAW,PT15M,1,2024-07-25 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-07-07 00:00:00+01:00,tYKO-g-VP5nf3JtWVkv-QA,342.0,Fossil Gas,47W000000000173I,Dublin,Huntstown Production,Huntstown CCGT Unit 1,1,MAW,PT15M,1,2024-06-17 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-11-06 00:30:00+00:00,lxjYJ9ZjoPBraHYM2YgVEw,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2024-11-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-03-01 00:30:00+00:00,59oqbVm0bPU_vYCSnIIUtw,431.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada Unit 2,1,MAW,PT15M,1,2024-02-23 00:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-04-08 00:30:00+01:00,YhfqXiuJWtHnsV2nvFE17g,470.0,Fossil Gas,47W000000000160R,Wexford,Great Island Prod,Great Island Unit 4,1,MAW,PT15M,1,2024-03-18 00:00:00+00:00
+0,IE,Planned maintenance,A03,Cancelled,2024-05-15 22:00:00+01:00,b5S323zzsSAiWzDfgyUHrw,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 1,1,MAW,PT15M,2,2024-05-03 22:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-09-13 21:00:00+01:00,d4Mrre6SskDDLABA1KPQYA,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,2,2024-09-06 21:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-01-10 18:00:00+00:00,LB2O8b4Pei1zhReACsLdvg,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,2,2024-01-08 06:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-04-25 18:00:00+01:00,nhKLVbzPkTzKyHB9F3nSUA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2024-04-22 06:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-09-04 18:00:00+01:00,RPC-ZT2qGxGHLqq3vRKmig,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2024-09-02 06:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-08-26 21:00:00+01:00,fPm--drKwxeiQJkm2siqPQ,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2024-08-16 21:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-03-10 00:30:00+00:00,9mxMMLkO1E8wINVVLx8ggg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 1,1,MAW,PT15M,2,2024-03-01 00:00:00+00:00
+0,IE,Planned maintenance,A03,Cancelled,2024-03-10 00:30:00+00:00,lU0OfHs3dfi5YB7aaqv_rQ,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,2,2024-03-01 00:00:00+00:00
+26,IE,Planned maintenance,A03,,2024-10-11 00:00:00+01:00,4ZmIiM-Dzlx5pCWhRfMa_g,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,1,2024-10-07 00:00:00+01:00
+26,IE,Planned maintenance,A03,,2024-10-18 00:00:00+01:00,5Q25pv3PBijNURZfEGeKVQ,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,1,2024-10-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-04-12 20:00:00+01:00,KbDqt1JvPqoWHN_NvI5AmA,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 1,1,MAW,PT15M,1,2024-04-08 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-04-19 20:00:00+01:00,EO1ghYk_S5yeO4ugovFjGQ,8.0,Hydro Run-of-river and poundage,47W000000000234O,Cork,LEE Production,LEE UNIT 3,1,MAW,PT15M,1,2024-04-08 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-03-24 18:00:00+00:00,AElMkWpuPScBLzcQzKGD4g,405.0,Fossil Gas,47W000000000171M,Dublin,Dublin Bay Prod,Dublin Bay Gen,1,MAW,PT15M,1,2024-03-01 12:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-03-15 18:00:00+00:00,Xof2O2kHKm-vPwXF1AfRyg,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2024-03-03 06:00:00+00:00
+84,IE,Planned maintenance,A03,,2024-05-18 20:00:00+01:00,kLJr5DnjepdtWI5kJiqtOQ,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2024-05-05 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-06-28 20:00:00+01:00,0WOzRZJT7LJ_A6SwF4Gdkw,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 4,1,MAW,PT15M,1,2024-06-06 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-06-28 20:00:00+01:00,irrj-2l-CujLoNxqA9u0uw,15.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 1,1,MAW,PT15M,1,2024-05-07 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-07-13 20:00:00+01:00,GJ3atrF3xA5jm3HsRdxfyg,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 5,1,MAW,PT15M,1,2024-07-08 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-06-02 22:00:00+01:00,XKTsL5Wk0KOHRGG75ko-Fg,285.0,Fossil Hard coal,47W000000000166F,Clare,Moneypoint Production,Moneypoint Unit 2,1,MAW,PT15M,1,2024-05-17 22:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-05-18 20:00:00+01:00,N2HEN2xiK0VSqOzZMq_atQ,463.0,Fossil Gas,47W000000000168B,Dublin,Poolbeg Production,Poolbeg CCGT Unit,1,MAW,PT15M,1,2024-05-05 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-09-13 20:00:00+01:00,UAymPQOwDhjerRg4tlc-VA,22.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 4,1,MAW,PT15M,1,2024-09-09 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-09-20 21:00:00+01:00,3GcqhGYgXeE-2n6yIGnzhg,435.0,Fossil Gas,47W000000000158E,Cork,Whitegate Prod,Whitegate Unit 1,1,MAW,PT15M,1,2024-09-06 21:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-05-17 20:00:00+01:00,CJpAtHKSun3oEKPzj_TAsQ,10.0,Hydro Run-of-river and poundage,47W000000000231U,Donegal,ERNE Production,ERNE UNIT 2,1,MAW,PT15M,2,2024-05-13 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-06-14 18:00:00+01:00,LUkEraVjJg4OmhCmO5PX6Q,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 3,1,MAW,PT15M,1,2024-06-10 06:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-04-19 18:00:00+01:00,Fihz5P6hPvJPk-9XN5hfDA,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2024-04-15 06:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-09-30 18:00:00+01:00,U0vfw7uP4CP5gJJxD1RSHQ,85.0,Fossil Gas,47W000000000157G,Limerick,Aughinish Alumnia(Sealrock),Sealrock 4,1,MAW,PT15M,1,2024-07-01 06:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-04-30 00:00:00+01:00,Ni5vx4czf9lLGoCYZRNaOQ,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT1,1,MAW,PT15M,2,2024-04-01 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-07-05 17:00:00+01:00,1eq5KymCVRdtgmyEfRcxnA,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 1,1,MAW,PT15M,1,2024-06-29 09:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-07-12 17:00:00+01:00,fnjWURPniME93B_oNkmIrg,52.0,Fossil Oil,47W000000000163L,Mayo,Tawnaghmore Production,Tawnaghmore Unit 3,1,MAW,PT15M,1,2024-07-06 09:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-04-30 00:00:00+01:00,uFoS1zgaLqmmbAOQxjMutw,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT2,1,MAW,PT15M,2,2024-04-15 00:00:00+01:00
+0,IE,Planned maintenance,A03,Cancelled,2024-05-10 00:00:00+01:00,dim_ZQdu_wAP9kwozh1hMA,90.0,Fossil Gas,47W000000000164J,Cork,Aghada Prod,Aghada CT4,1,MAW,PT15M,2,2024-04-26 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2025-01-01 07:30:00+00:00,IS1ew0ql_CvT5YsVX8HGxg,118.0,Fossil Peat,47W000000000159C,Offaly,Edenderry Prod,Edenderry Unit 1,1,MAW,PT15M,1,2024-12-26 12:00:00+00:00
+26,IE,Planned maintenance,A03,Cancelled,2024-04-07 00:00:00+01:00,ia-PU-jjK_7hyCjkjhsx-g,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,2,2024-04-01 00:00:00+01:00
+26,IE,Planned maintenance,A03,Cancelled,2024-04-22 00:00:00+01:00,ezn8ind-wLtJHU7eBFLATw,62.0,Waste,47W0000000003853,Dublin,Dublin Waste to Energy,Dublin Waste to Energy,1,MAW,PT15M,2,2024-04-16 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-04-25 23:00:00+01:00,MvsbmoonTvXgTr_9NYELAQ,15.0,Waste,47W000000000240T,Dublin (Poolbeg),Indaver Production,Indaver,1,MAW,PT15M,1,2024-04-14 00:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-06-19 20:00:00+01:00,-eIwE1zuPfTzHdS7acxr8g,22.0,Hydro Run-of-river and poundage,47W000000000230W,Clare,Ardnacrucha Production Unit,Ardnacrusha Unit 2,1,MAW,PT15M,1,2024-06-10 08:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-01-19 15:00:00+00:00,GDJ2ZRtiwvlzOtPOUsXmKg,4.0,Hydro Run-of-river and poundage,47W000000000233Q,Liffey,Liffey Production,Liffey Unit 4,1,MAW,PT15M,1,2024-01-19 10:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-07-06 23:00:00+01:00,EuX2sle8Ugj57e52VkE44w,404.0,Fossil Gas,47W000000000172K,Galway,Tynagh Production,Tynagh Generator Unit,1,MAW,PT15M,1,2024-06-21 23:00:00+01:00
+0,IE,Planned maintenance,A03,,2024-03-03 14:00:00+00:00,GMrtWKy6pikhBKnzGv9JYw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2024-03-03 10:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-03-08 17:00:00+00:00,plP3d55FtCBSWfbY58_0BA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 4,1,MAW,PT15M,1,2024-03-03 10:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-03-15 17:00:00+00:00,4JDyfx3in_IGffgvl_HALA,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 2,1,MAW,PT15M,1,2024-03-10 10:00:00+00:00
+0,IE,Planned maintenance,A03,,2024-03-07 17:00:00+00:00,nZnH9CEZJDBIy1kaheUMrw,73.0,Hydro Pumped Storage,47W0000000001699,Wicklow,Turlough Hill,Turlough Hill Unit 3,1,MAW,PT15M,1,2024-03-03 10:00:00+00:00

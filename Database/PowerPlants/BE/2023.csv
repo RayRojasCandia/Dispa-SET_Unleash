@@ -1,4 +1,4 @@
-Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Status,Source,Company,Lat,Lon,Lat/Lon
+Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Sector1,EfficiencySector1,ChargingEfficiencySector1,Sector2,EfficiencySector2,ChargingEfficiencySector2
 ,DOEL 4,1039,1,BE,,,STUR,NUC,0.405,24,24,0.0033044316,0.0033044316,200000,,0,0.9,0.405,0,0,,,,,,,,,,,,,,,,,,,,
 ,TIHANGE 3,1038,1,BE,,,STUR,NUC,0.405,24,24,0.0033044316,0.0033044316,200000,,0,0.9,0.405,0,0,,,,,,,,,,,,,,,,,,,,
 ,COO II T,690,1,BE,,,HPHS,WAT,0.86,0,0,0.4347826087,0.4347826087,0,,0,0,0.86,0,0,,,,,,,,,2963.9175257732,0,690,0.86,,,,,,,,
@@ -42,4 +42,4 @@ Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Effici
 ,Dispa-SET_WST_STUR_BE,384,1,BE,,,STUR,WST,0.465,7.335,7.335,1.8134831461,1.8134831461,0,,0,0.3,0.465,0,0,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_WIN_WTON_BE,3053,1,BE,,,WTON,WIN,1,0,0,0.0443786982,0.0443786982,0,,0,0,1,0,0,,,,,,,,,,,,,,,,,,,,
 ,Dispa-SET_SUN_PHOT_BE,6376,1,BE,,,PHOT,SUN,1,0,0,0.02,0.02,,0,0,0,1,0,0,,,,,,,,,,,,,,,,,,,,
-,VPP_BE,0,1,BE,,,THMS,,,,,1,1,0,0,0,,,,,,,,,,,,,7543,,1245,,,,,,,,,
+,VPP_BE,0,1,BE,,,THMS,,,,,1,1,0,0,0,,,,,,,,,,,,,7543,,1245,,,,S_1,1,0,,,
