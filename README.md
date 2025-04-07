@@ -42,8 +42,56 @@ python read_results_Boundary_Sector_UNLEASH.py
 ```
 
 ### Configuration  
-The simulation is pre-configured with the **(2)_BE-NUC** scenario (Isolated Belgian System with nuclear units at 2023) in the file:  
+The simulation is pre-configured with the **(2)_BE-NUC** scenario (Isolated Belgian System with nuclear units at 2023) in the Configuration file:  
 ```bash
 ConfigFiles/Config_BE_Boundary_Sector.xlsx
 ```
 To run additional scenarios, configure the settings in the ConfigFile according to the [Dispa-SET documentation](https://www.dispaset.eu/en/latest/implementation.html). This will ensure the model is set up for your specific use case.
+
+### Key Results  
+- **Curtailment Reduction**: VPP decreases renewable curtailment by 6.7–79.4% depending on VRES penetration.  
+- **Congestion Management**: Reduces fully loaded hours on critical interconnections (BE-FR, BE-DE) by 5–8%.  
+- **Load Shifting**: Achieves 1.75 TWh/year of flexible demand, lowering shifted load by 2–5% across scenarios.  
+
+### Citation  
+If using this repository, please cite the accompanying paper:
+
+##### APA (7th Edition)  
+```plaintext
+Rojas, R., Tareen, U., Rojas, D., Navia, M., Pascual, J., & Quoilin, S. (2025). 
+Enhancing grid flexibility with virtual power plants: A study on the integration 
+of residential water heaters and heat pumps in the Belgian power system. 
+In Proceedings of the 38th International Conference on Efficiency, Cost, 
+Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2025). 
+Paris, France. UNLEASH Project.
+```
+
+##### BibTeX (For LaTeX Users)  
+```bibtex
+@inproceedings{RojasEtAl2025,
+  title     = {Enhancing Grid Flexibility with Virtual Power Plants: 
+               A Study on the Integration of Residential Water Heaters 
+               and Heat Pumps in the Belgian Power System},
+  author    = {Rojas, Ray and Tareen, Umair and Rojas, David and 
+               Navia, Marco and Pascual, Julio and Quoilin, Sylvain},
+  booktitle = {Proceedings of the 38th International Conference on 
+               Efficiency, Cost, Optimization, Simulation and 
+               Environmental Impact of Energy Systems (ECOS 2025)},
+  year      = {2025},
+  address   = {Paris, France},
+  note      = {UNLEASH Project (Unlocking Residential Demand Flexibility)}
+}
+```  
+
+### Contributing  
+Contributions are welcome! submit a Pull Request for:  
+- Additional data sources (e.g., newer ENTSO-E datasets).  .  
+- Scenario extensions (other European regions, hybrid storage).  
+
+### License  
+Dispa-SET is a free software licensed under the “European Union Public Licence" EUPL v1.2. It can be redistributed and/or modified under the terms of this license.  
+
+### Contact
+for Dispa-SET integration support
+- [rarcandia@uliege.be](mailto:rarcandia@uliege.be).
+- [squoilin@uliege.be](mailto:squoilin@uliege.be) 
