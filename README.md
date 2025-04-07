@@ -39,3 +39,11 @@ git clone https://github.com/RayRojasCandia/Dispa-SET_UNLEASH.git
 cd Dispa-SET_Unleash/scripts
 python build_and_run_Boundary_Sector_UNLEASH.py
 python read_results_Boundary_Sector_UNLEASH.py
+```
+
+### Configuration  
+The simulation is pre-configured with the **(2)_BE-NUC** scenario (Isolated Belgian System with nuclear units at 2023) in the file:  
+```bash
+ConfigFiles/Config_BE_Boundary_Sector.xlsx
+```
+To run additional scenarios, configure the settings in the ConfigFile according to the [Dispa-SET documentation](https://www.dispaset.eu/en/latest/implementation.html). This will ensure the model is set up for your specific use case.
