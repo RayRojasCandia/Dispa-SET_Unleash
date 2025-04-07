@@ -32,3 +32,5 @@ This repository accompanies the UNLEASH project deliverables (D5.1 and D5.2), pr
 ### Getting Started
 1. **Install Dispa-SET-Masters** (base framework) following the **Quick start** section steps from:<br>
 https://github.com/energy-modelling-toolkit/Dispa-SET/tree/master
+2. **Clone UNLEASH repository**
+```bash
