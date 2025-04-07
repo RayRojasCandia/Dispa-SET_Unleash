@@ -8,3 +8,7 @@
   Data Framework and VPP Integration for Belgian Flexibility Assessment
 </h1>
 
+Ray Rojas<sup>1,2</sup>, David Rojas<sup>1</sup>, Marco Navia<sup>1</sup>, Julio Pascual<sup>2</sup>, Sylvain Quoilin<sup>1</sup>.
+
+
+This repository accompanies the UNLEASH project deliverables (D5.1 and D5.2), providing:
