@@ -1,3 +1,6 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/7e6106c2-eeef-4ce7-a9ff-707f6499c704" width="200" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/a8d1c34a-f5c1-4ab9-99c3-0d965ab5a676" width="350" height="140">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7e6106c2-eeef-4ce7-a9ff-707f6499c704" width="200" height="150">
+  <img src="https://github.com/user-attachments/assets/a8d1c34a-f5c1-4ab9-99c3-0d965ab5a676" width="350" height="140">
+</div>
 # Dispa - SET UNLEASH : Data Framework and VPP Integration for Belgian Flexibility Assessment
 
