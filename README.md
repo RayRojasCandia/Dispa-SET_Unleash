@@ -4,7 +4,7 @@
 </div>
 
 <h1>
-<p style="font-size: 24px; margin: 0;">Dispa - SET UNLEASH</p>
-<p style="font-size: 10px; margin: 0;">Data Framework and VPP Integration for Belgian Flexibility Assessment</p>
+  Dispa - SET UNLEASH<br>
+  Data Framework and VPP Integration for Belgian Flexibility Assessment
 </h1>
 
