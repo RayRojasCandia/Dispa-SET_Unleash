@@ -13,7 +13,7 @@ sys.path.append(os.path.abspath('..'))
 import dispaset as ds
 
 # Load the inputs and the results of the simulation
-inputs,results = ds.get_sim_results(path='../Simulations/simulation_(2)_BE-BNG',cache=False)
+inputs,results = ds.get_sim_results(path='../Simulations/simulation_(2)_BE',cache=False)
 
 # if needed, define the plotting range for the dispatch plot:
 import pandas as pd
