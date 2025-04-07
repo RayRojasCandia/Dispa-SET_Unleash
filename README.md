@@ -4,7 +4,8 @@
 </div>
 
 <h1>
-  Dispa - SET UNLEASH<br>
+  Dispa - SET UNLEASH
+  <br>
   Data Framework and EWH/HPWH-based VPP Integration for Belgian Flexibility Assessment
 </h1>
 
@@ -14,18 +15,18 @@ Ray Rojas<sup>1,2</sup>, David Rojas<sup>1</sup>, Marco Navia<sup>1</sup>, Julio
 > <br>
 > <sup>2</sup>Public University of Navarre, Department of Electrical, Electronic and Communication Engineering, Pamplona, Spain
 
-## Overview 
+### Overview 
 
 This repository accompanies the UNLEASH project deliverables (D5.1 and D5.2), providing:
 - Automated data pipelines for the Dispa-SET Unit Commitment and Economic Dispatch (UCED) model, covering 30 European countries (2016–2023) at hourly/30-min/15-min resolution.
 - Virtual Power Plant (VPP) modeling of 500,000 residential water heaters (1245 MW capacity, 7543 MWh storage) as a Boundary Sector in Dispa-SET.
 
-## Key Features  
-- **Open-Source Data Framework**:  
+### Key Features  
+- **Open-Source Data Framework**  
   - Standardized data processing for Dispa-SET via Python/API automation (ENTSO-E, web scraping).  
   - Covers techno-economic (e.g., plant efficiencies, costs) and dynamic (e.g., hourly demand, VRES generation) inputs.  
-- **VPP as Boundary Sector**:  
+- **VPP as Boundary Sector**  
   - Models aggregated water heaters as a P2X technology with thermal storage constraints.  
   - Includes SOC dynamics and demand profiles.
-
-
+ 
+### Getting Started
