@@ -5,7 +5,7 @@
 
 <h1>
   Dispa - SET UNLEASH<br>
-  Data Framework and VPP Integration for Belgian Flexibility Assessment
+  Data Framework and EWH/HPWH-based VPP Integration for Belgian Flexibility Assessment
 </h1>
 
 Ray Rojas<sup>1,2</sup>, David Rojas<sup>1</sup>, Marco Navia<sup>1</sup>, Julio Pascual<sup>2</sup>, Sylvain Quoilin<sup>1</sup>
