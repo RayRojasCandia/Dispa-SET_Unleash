@@ -37,3 +37,5 @@ https://github.com/energy-modelling-toolkit/Dispa-SET/tree/master
 ```bash
 git clone https://github.com/RayRojasCandia/Dispa-SET_UNLEASH.git
 cd Dispa-SET_Unleash/scripts
+python build_and_run_Boundary_Sector_UNLEASH.py
+python read_results_Boundary_Sector_UNLEASH.py
