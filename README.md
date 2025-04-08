@@ -33,7 +33,12 @@ This repository accompanies the UNLEASH project deliverables (D5.1 and D5.2), pr
 1. Install **Dispa-SET-Masters** (base framework) following the **Quick start** section steps from:<br>
 https://github.com/energy-modelling-toolkit/Dispa-SET/tree/master
 
-2. Clone **UNLEASH** repository
+2. Required branch **Dispa-SET-Boundary_Sector**:<br>
+```bash
+git checkout test_merge_to_master
+
+```
+3. Clone **UNLEASH** repository
 ```bash
 git clone https://github.com/RayRojasCandia/Dispa-SET_UNLEASH.git
 cd Dispa-SET_Unleash/scripts
