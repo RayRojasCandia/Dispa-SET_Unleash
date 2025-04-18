@@ -1,0 +1,2159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dispa-SET Configuration Editor</title>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --primary-hover: #2980b9;
+            --text-color: #333333;
+            --bg-color: #f5f5f5;
+            --card-bg: #ffffff;
+            --border-color: #dddddd;
+            --success-color: #2ecc71;
+            --danger-color: #e74c3c;
+            --muted-text: #777777;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: var(--card-bg);
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        h1, h2, h3 {
+            color: var(--text-color);
+            margin-top: 0;
+        }
+
+        h1 {
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+            position: relative; /* Needed for tooltip */
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 600;
+            cursor: help; /* Indicate hover */
+        }
+
+        input[type="text"],
+        input[type="number"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 14px;
+            box-sizing: border-box;
+        }
+
+        input[type="text"]:focus,
+        input[type="number"]:focus,
+        select:focus,
+        textarea:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+        }
+
+        .default-value {
+            font-size: 12px;
+            color: var(--muted-text);
+            margin-top: 4px;
+            display: flex;
+            align-items: center;
+        }
+
+        .default-value span {
+            margin-right: 5px;
+        }
+
+        .default-value-input {
+            width: 70px;
+            padding: 2px 4px;
+            font-size: 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 3px;
+            height: 20px;
+            margin-left: auto; /* Push to the right */
+        }
+
+        .btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.2s;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-hover);
+        }
+
+        .btn-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-group .btn {
+            margin-right: 10px;
+        }
+
+        /* Tooltip */
+        label .tooltiptext {
+            visibility: hidden;
+            width: 300px;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 10px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%; /* Position above the label */
+            left: 50%;
+            margin-left: -150px; /* Center the tooltip */
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 12px;
+            font-weight: normal;
+        }
+
+        label:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Status message */
+        #statusMessage {
+            display: none;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 4px;
+        }
+
+        .success {
+            display: block !important;
+            background-color: rgba(46, 204, 113, 0.2);
+            border: 1px solid var(--success-color);
+            color: var(--success-color);
+        }
+
+        .error {
+            display: block !important;
+            background-color: rgba(231, 76, 60, 0.2);
+            border: 1px solid var(--danger-color);
+            color: var(--danger-color);
+        }
+
+        /* Grid system */
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            margin-right: -10px;
+            margin-left: -10px;
+        }
+
+        .col {
+            flex: 1;
+            padding: 0 10px;
+            min-width: 0; /* Prevent flex items from overflowing */
+        }
+
+        .col-2 {
+            flex: 2;
+            padding: 0 10px;
+        }
+
+        /* Country selection */
+        .country-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .country-item {
+            display: flex;
+            align-items: center;
+        }
+
+        .country-item input[type="checkbox"] {
+            margin-right: 8px;
+        }
+
+        .country-item input[type="text"] {
+            width: 100px;
+            margin-left: 5px;
+        }
+
+        /* Zone configuration */
+        .zone-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .zone-entry {
+            display: flex;
+            align-items: center;
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+        }
+
+        .zone-entry input[type="text"] {
+            width: 80px;
+            margin-right: 15px;
+        }
+
+        .radio-group {
+            display: flex;
+            align-items: center;
+            margin-right: 25px;
+        }
+
+        .radio-group label {
+            margin-bottom: 0;
+            margin-right: 10px;
+            font-weight: 400;
+            cursor: default; /* Override help cursor */
+        }
+        .radio-group label .tooltiptext { display: none; } /* Hide tooltip for radio group labels */
+
+        .zone-actions {
+            margin-left: auto;
+            display: flex;
+            gap: 10px;
+        }
+
+        .zone-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: var(--muted-text);
+            font-size: 16px;
+            padding: 2px 8px;
+            border-radius: 3px;
+        }
+
+        .zone-btn:hover {
+            background-color: rgba(0, 0, 0, 0.05);
+        }
+
+        .zone-btn.remove-btn:hover {
+            color: var(--danger-color);
+        }
+
+        .btn-sm {
+            padding: 5px 10px;
+            font-size: 12px;
+        }
+
+        /* Tab system */
+        .tabs {
+            display: flex;
+            flex-wrap: wrap; /* Allow tabs to wrap on smaller screens */
+            margin-bottom: 0;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .tab {
+            padding: 10px 15px;
+            cursor: pointer;
+            margin-right: 5px;
+            margin-bottom: -1px; /* Overlap border */
+            border: 1px solid var(--border-color);
+            border-bottom: none;
+            border-radius: 4px 4px 0 0;
+            background-color: #f9f9f9;
+            white-space: nowrap; /* Prevent wrapping within a tab */
+        }
+
+        .tab.active {
+            background-color: var(--card-bg);
+            border-bottom: 1px solid var(--card-bg);
+            font-weight: 600;
+        }
+
+        .tab-content {
+            display: none;
+            border: 1px solid var(--border-color);
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Radio and checkbox styling */
+        .radio-group,
+        .checkbox-group {
+            margin-bottom: 10px;
+        }
+
+        .checkbox-group label {
+            font-weight: 400; /* Normal weight for checkbox labels */
+            cursor: default; /* Override help cursor */
+        }
+        .checkbox-group label .tooltiptext { display: none; } /* Hide tooltip */
+
+        .radio-item,
+        .checkbox-item {
+            display: inline-flex;
+            align-items: center;
+            margin-right: 15px;
+            margin-bottom: 5px; /* Space out items if they wrap */
+        }
+
+        .radio-item input,
+        .checkbox-item input {
+            margin-right: 5px;
+        }
+
+        /* Section headers */
+        h3 {
+            margin-top: 20px;
+            margin-bottom: 15px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 1.1em;
+        }
+        h3:first-child {
+            margin-top: 0;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1000; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        }
+
+        .modal-content {
+            background-color: var(--card-bg);
+            margin: 15% auto; /* 15% from the top and centered */
+            padding: 20px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            width: 80%; /* Could be more or less, depending on screen size */
+            max-width: 500px; /* Maximum width */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .modal-header {
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-header h2 {
+            margin: 0;
+            font-size: 1.2em;
+        }
+
+        .close-btn {
+            color: var(--muted-text);
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            background: none;
+            border: none;
+        }
+
+        .close-btn:hover,
+        .close-btn:focus {
+            color: var(--danger-color);
+            text-decoration: none;
+        }
+
+        #yamlFileList {
+            list-style: none;
+            padding: 0;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        #yamlFileList li {
+            padding: 8px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            margin-bottom: 5px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        #yamlFileList li:hover {
+            background-color: var(--bg-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Dispa-SET Configuration Editor</h1>
+            <div class="btn-group">
+                <!-- Removed file input -->
+                <!-- <input type="file" id="yamlFile" accept=".yaml,.yml" style="display: none;"> -->
+                <!-- Changed onclick -->
+                <button class="btn" id="loadYamlBtn">Load YAML</button>
+                <button class="btn" id="saveYaml">Save YAML</button>
+                <span id="fileNameLabel" style="margin-left: 15px; color: var(--muted-text);"></span>
+            </div>
+            <div id="statusMessage"></div>
+        </header>
+
+        <div class="tabs">
+            <div class="tab active" data-tab="general">General</div>
+            <div class="tab" data-tab="zones">Zones</div>
+            <div class="tab" data-tab="main-inputs">Main inputs</div>
+            <div class="tab" data-tab="costs-prices">Costs & Prices</div>
+            <div class="tab" data-tab="reserves">Reserves</div>
+            <div class="tab" data-tab="sector-coupling">Sector Coupling</div>
+            <div class="tab" data-tab="advanced">Advanced</div>
+        </div>
+
+        <form id="configForm">
+            <!-- General Settings Tab -->
+            <div id="general" data-tab="general" class="tab-content card active">
+                <h3>Simulation Setup</h3>
+                <div class="form-group">
+                    <label for="description">Description<span class="tooltiptext">A brief description of the simulation case.</span></label>
+                    <textarea id="description" rows="3"></textarea>
+                </div>
+
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="simulationType">Simulation Type<span class="tooltiptext">Formulation of the optimization problem (Mixed Integer Linear Program, Linear Program, variations with clustering).</span></label>
+                            <select id="simulationType">
+                                <option value="LP">LP</option>
+                                <option value="LP clustered">LP clustered</option>
+                                <option value="Integer clustering">Integer clustering</option>
+                                <option value="Standard">Standard</option>
+                                <option value="No clustering">No clustering</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="simulationDirectory">Simulation Directory<span class="tooltiptext">Folder where the temporary simulation data and model files are copied before solving. Path relative to project root or absolute.</span></label>
+                            <input type="text" id="simulationDirectory">
+                        </div>
+                    </div>
+                </div>
+
+                <h3>Time Settings</h3>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="startDate">Start Date<span class="tooltiptext">Starting date and time of the simulation period (YYYY-MM-DD-HH-MM-SS). Must match the start of the input time series data.</span></label>
+                            <input type="text" id="startDate" placeholder="YYYY-MM-DD-HH-MM-SS">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="stopDate">Stop Date<span class="tooltiptext">Stopping date and time of the simulation period (YYYY-MM-DD-HH-MM-SS). Must match the end of the input time series data.</span></label>
+                            <input type="text" id="stopDate" placeholder="YYYY-MM-DD-HH-MM-SS">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="dataTimeStep">Data Time Step (h)<span class="tooltiptext">Time step resolution of the input time series data, in hours (e.g., 1.0, 0.5).</span></label>
+                            <input type="number" id="dataTimeStep" min="0.1" step="0.1" value="1.0">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="simulationTimeStep">Simulation Time Step (h)<span class="tooltiptext">Time step resolution of the optimization model, in hours (e.g., 1.0). Should be >= DataTimeStep.</span></label>
+                            <input type="number" id="simulationTimeStep" min="0.1" step="0.1" value="1.0">
+                        </div>
+                    </div>
+                </div>
+
+                <h3>Horizon Settings</h3>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="horizonLength">Horizon Length (days)<span class="tooltiptext">Length of the optimization horizon for each rolling window, in days.</span></label>
+                            <input type="number" id="horizonLength" min="1" step="1" value="3">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="lookAhead">Look Ahead (days)<span class="tooltiptext">Length of the perfect foresight period within the rolling horizon, in days (must be <= HorizonLength).</span></label>
+                            <input type="number" id="lookAhead" min="0" step="1" value="1">
+                        </div>
+                    </div>
+                </div>
+
+                <h3>Other General Settings</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="allowCurtailment">Allow Curtailment<span class="tooltiptext">Authorize renewable technologies to operate below their Availability Factor (AF).</span></label>
+                             <select id="allowCurtailment">
+                                <option value="1">Yes (1)</option>
+                                <option value="0">No (0)</option>
+                            </select>
+                        </div>
+                    </div>
+                 </div>
+                 <div class="form-group">
+                    <label for="gams_folder">GAMS Folder<span class="tooltiptext">Path to the GAMS installation folder, if not set in the system's GAMSPATH environment variable.</span></label>
+                    <input type="text" id="gams_folder">
+                </div>
+
+            </div>
+
+            <!-- Zones Configuration Tab -->
+            <div id="zones" data-tab="zones" class="tab-content card">
+                <h3>Configure Zones/Countries</h3>
+                <p>Define the geographical zones or countries included in the simulation and specify if they participate in mid-term scheduling (MTS). The list of all defined zones will be saved under `all_zones`.</p>
+                <ul>
+                    <li>Enter a unique code for each zone/country (e.g., BE, FR, DE)</li>
+                    <li>Set each zone as Active (included in simulation under `zones`) or Inactive</li>
+                    <li>For active zones only, set MTS status (included in `mts_zones`)</li>
+                    <li>Use the + button to add more zones, or the trash icon to remove a zone</li>
+                </ul>
+
+                <div class="zone-container" id="zonesContainer">
+                    <!-- Zone entries will be added here dynamically -->
+                </div>
+
+                <button type="button" class="btn btn-sm" id="addZoneBtn">
+                    <i class="fas fa-plus"></i> Add Zone
+                </button>
+            </div>
+
+            <!-- Main Inputs Tab -->
+            <div id="main-inputs" data-tab="main-inputs" class="tab-content card">
+                 <!-- Content from Data Inputs -->
+                 <h3>Time Series Data Paths</h3>
+                 <p>Define paths to input data files. Use '##' as a placeholder for zone/unit names where applicable (e.g., Demand/##/2015.csv). Paths are typically relative to the Dispa-SET Database directory or can be absolute.</p>
+                <div class="form-group">
+                    <label for="demand">Demand<span class="tooltiptext">Demand data file with each zone as column headers. Path relative to Database directory or absolute. Use '##' for zone placeholder.</span></label>
+                    <input type="text" id="demand" placeholder="e.g., Demand/##/2015.csv">
+                </div>
+                 <div class="form-group">
+                    <label for="renewablesAF">Renewables Availability Factors<span class="tooltiptext">Table with the availability factors (AF) of all renewable units (value between 0 and 1). Path relative to Database directory or absolute. Use '##' for zone/unit placeholder.</span></label>
+                    <input type="text" id="renewablesAF" placeholder="e.g., AvailabilityFactors/##/2015.csv">
+                </div>
+                 <div class="form-group">
+                    <label for="outages">Outages<span class="tooltiptext">Table with the outage time series for each unit (0=available, 1=full outage, 0.5=half outage). Path relative to Database directory or absolute. Use '##' for unit name placeholder.</span></label>
+                    <input type="text" id="outages" placeholder="e.g., Outages.csv">
+                </div>
+                 <h3>Demand Flexibility</h3>
+                 <div class="row">
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="shareOfFlexibleDemand">Share Of Flexible Demand<span class="tooltiptext">Fraction of the demand that can be time-shifted (used with DemandFlexibility). Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="shareOfFlexibleDemand" placeholder="e.g., ShareFlex.csv or 0.03">
+                            <div class="default-value" data-default="0.03">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="0.03" data-param="ShareOfFlexibleDemand">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="demandFlexibility">Demand Flexibility (h)<span class="tooltiptext">Number of hours of equivalent demand shifting storage capacity (used with ShareOfFlexibleDemand).</span></label>
+                            <input type="number" id="demandFlexibility" min="0" step="any">
+                            <div class="default-value" data-default="4.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="4.0" data-param="DemandFlexibility">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 <h3>Load Shedding</h3>
+                <div class="form-group">
+                    <label for="loadShedding">Load Shedding<span class="tooltiptext">Maximum allowed load shedding as a fraction of demand per zone. Can be a file path (time series) or a single value if default is used.</span></label>
+                    <input type="text" id="loadShedding" placeholder="e.g., LoadShedding.csv or 0.05">
+                    <div class="default-value" data-default="0.05">
+                        <span>Default:</span>
+                        <input type="text" class="default-value-input" value="0.05" data-param="LoadShedding">
+                    </div>
+                </div>
+
+                 <!-- Content from Unit Data -->
+                 <h3>Unit Definitions</h3>
+                 <div class="form-group">
+                    <label for="powerPlantData">Power Plant Data<span class="tooltiptext">Main table defining power plant units and their technical/economic parameters. Path relative to Database directory or absolute.</span></label>
+                    <input type="text" id="powerPlantData" placeholder="e.g., Units_master.csv">
+                </div>
+
+                <!-- Content from Spatial Data -->
+                <h3>Interconnections & Grid</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="ntc">NTC (Net Transfer Capacities)<span class="tooltiptext">Table with the Net Transfer Capacities (NTCs) between simulated zones (e.g., 'Z1 -> Z2'). Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="ntc" placeholder="e.g., NTCs.csv">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                             <label for="interconnections">Interconnections (Historical Flows)<span class="tooltiptext">Table with the historical physical flows between zones (positive flow from first zone to second). Used for flows to/from non-simulated zones (Rest of World). Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="interconnections" placeholder="e.g., CrossBorderFlows.csv">
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="transmissionGridType">Transmission Grid Type<span class="tooltiptext">Method for modeling the transmission grid constraints (Net Transfer Capacity or DC Power Flow approximation using PTDF matrix).</span></label>
+                             <select id="transmissionGridType">
+                                <option value="NTC">NTC</option>
+                                <option value="DC-Power Flow">DC-Power Flow</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="gridData">Grid Data (PTDF)<span class="tooltiptext">Path the csv table containing the Power Transfer Distribution Factor (PTDF) matrix for DC-Power Flow simulations.</span></label>
+                            <input type="text" id="gridData" placeholder="e.g., PTDF_matrix.csv">
+                        </div>
+                    </div>
+                 </div>
+                <h3>Geographical Data</h3>
+                <div class="form-group">
+                    <label for="geoData">Geographical Data<span class="tooltiptext">Geographical coordinates or data for zones/units (e.g., for plotting). Path relative to Database directory or absolute.</span></label>
+                    <input type="text" id="geoData" placeholder="e.g., Geo_Coordinates.csv">
+                </div>
+
+                 <!-- Content from Hydro -->
+                 <h3>Hydro Scheduling</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="hydroScheduling">Hydro Scheduling Method<span class="tooltiptext">Type of mid-term hydro scheduling optimization (Off=none, Zonal=per zone, Regional=per defined region, International/Global=wider scope).</span></label>
+                            <select id="hydroScheduling">
+                                <option value="Off">Off</option>
+                                <option value="Zonal">Zonal</option>
+                                <option value="Regional">Regional</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="hydroSchedulingHorizon">Hydro Scheduling Horizon<span class="tooltiptext">Optimization horizon for the mid-term hydro scheduling (determines target reservoir levels).</span></label>
+                            <select id="hydroSchedulingHorizon">
+                                <option value="Annual">Annual</option>
+                                <option value="Stop-date driven">Stop-date driven</option>
+                            </select>
+                        </div>
+                    </div>
+                 </div>
+                 <h3>Reservoir Levels & Inflows</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="initialFinalReservoirLevel">Enforce Initial/Final Reservoir Level<span class="tooltiptext">If 1 (True), enforces initial and final reservoir levels based on ReservoirLevelInitial/Final defaults or historical ReservoirLevels file. If 0 (False), these constraints are relaxed.</span></label>
+                             <select id="initialFinalReservoirLevel">
+                                <option value="1">Yes (1)</option>
+                                <option value="0">No (0)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="reservoirLevels">Target Reservoir Levels File<span class="tooltiptext">Time series of target reservoir levels (fraction of capacity). Used as minimum target at the end of each rolling horizon optimization if InitialFinalReservoirLevel=1. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="reservoirLevels" placeholder="e.g., ReservoirLevels.csv">
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="reservoirLevelInitial">Default Initial Reservoir Level<span class="tooltiptext">Target initial reservoir level as a fraction of capacity (0 to 1). Used if InitialFinalReservoirLevel=1 and ReservoirLevels file is not provided.</span></label>
+                            <input type="number" id="reservoirLevelInitial" min="0" max="1" step="any">
+                             <div class="default-value" data-default="0.5">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="0.5" data-param="ReservoirLevelInitial">
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="reservoirLevelFinal">Default Final Reservoir Level<span class="tooltiptext">Target final reservoir level as a fraction of capacity (0 to 1). Used if InitialFinalReservoirLevel=1 and ReservoirLevels file is not provided.</span></label>
+                            <input type="number" id="reservoirLevelFinal" min="0" max="1" step="any">
+                             <div class="default-value" data-default="0.5">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="0.5" data-param="ReservoirLevelFinal">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                <div class="form-group">
+                    <label for="reservoirScaledInflows">Scaled Inflows File<span class="tooltiptext">Natural inflows to hydro reservoirs, scaled by turbine capacity (MWh of inflow per hour / MW of turbine capacity). Path relative to Database directory or absolute. Use '##' for unit placeholder.</span></label>
+                    <input type="text" id="reservoirScaledInflows" placeholder="e.g., ScaledInflows.csv">
+                </div>
+                 <h3>Operational Levels</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="storageAlertLevels">Storage Alert Levels File<span class="tooltiptext">Time series with the alert levels (e.g., minimum operational level as fraction of capacity) for each storage unit. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="storageAlertLevels" placeholder="e.g., StorageAlertLevels.csv">
+                        </div>
+                    </div>
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="storageFloodControl">Storage Flood Control File<span class="tooltiptext">Time series with the flood control levels (e.g., maximum operational level as fraction of capacity) for each storage unit. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="storageFloodControl" placeholder="e.g., StorageFloodControl.csv">
+                        </div>
+                    </div>
+                 </div>
+                 <div class="form-group">
+                    <label for="waterValue">Water Value (EUR/MWh)<span class="tooltiptext">Shadow price or value of water stored in reservoirs (EUR/MWh), used in hydro scheduling or as an opportunity cost.</span></label>
+                    <input type="number" id="waterValue" min="0" step="any">
+                    <div class="default-value" data-default="400.0">
+                        <span>Default:</span>
+                        <input type="text" class="default-value-input" value="400.0" data-param="WaterValue">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Costs & Prices Tab -->
+            <div id="costs-prices" data-tab="costs-prices" class="tab-content card">
+                <h3>Cost Parameters</h3>
+                 <p>Costs can be specified as a single numerical value (using the default below) or as a path to a time series file (leave the main input field blank to use the default value). Units: EUR/MWh unless otherwise stated.</p>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="costLoadShedding">Cost of Load Shedding<span class="tooltiptext">Cost of Load shedding in EUR/MWh. Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="costLoadShedding" placeholder="e.g., CostLoadShedding.csv">
+                            <div class="default-value" data-default="1500.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="1500.0" data-param="CostLoadShedding">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="costCurtailment">Cost of Curtailment<span class="tooltiptext">Cost of curtailment in EUR/MWh. Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="costCurtailment" placeholder="e.g., CostCurtailment.csv">
+                            <div class="default-value" data-default="20.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="20.0" data-param="CostCurtailment">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="costOfSpillage">Cost Of Spillage<span class="tooltiptext">Cost of spillage in Eur/MWh (e.g., for hydro). Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="costOfSpillage" placeholder="e.g., CostSpillage.csv">
+                            <div class="default-value" data-default="401.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="401.0" data-param="CostOfSpillage">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="costNotServed">Cost Not Served<span class="tooltiptext">Cost of not served energy (specific use case, often left empty). Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="costNotServed" placeholder="e.g., CostNotServed.csv">
+                            <div class="default-value" data-default="">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="" data-param="CostNotServed">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="costXNotServed">Boundary Sector Cost Not Served<span class="tooltiptext">Cost of Unserved Energy in each boundary Sector. Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="costXNotServed" placeholder="e.g., BSCostNotServed.csv">
+                            <div class="default-value" data-default="0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="0" data-param="CostXNotServed">
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col">
+                         <div class="form-group">
+                            <label for="valueOfLostLoad">Value Of Lost Load (VOLL)<span class="tooltiptext">Value of Lost Load (VOLL) in EUR/MWh, used for economic calculations or potentially as an alternative to CostLoadShedding.</span></label>
+                            <input type="number" id="valueOfLostLoad" min="0" step="any">
+                             <div class="default-value" data-default="100000.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="100000.0" data-param="ValueOfLostLoad">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="priceTransmission">Price Transmission<span class="tooltiptext">Cost associated with power transmission (e.g., losses, fees). Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="priceTransmission" placeholder="e.g., PriceTransmission.csv">
+                             <div class="default-value" data-default="0.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="0.0" data-param="PriceTransmission">
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col"></div>
+                 </div>
+
+                <h3>Fuel Price Parameters</h3>
+                 <p>Fuel prices can be specified as a single numerical value (using the default below) or as a path to a time series file per zone (leave the main input field blank to use the default value). Units: EUR/MWh or EUR/ton for CO2.</p>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfGas">Price of Gas<span class="tooltiptext">Price of Natural Gas fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfGas" placeholder="e.g., FuelPrices/Gas/2015.csv">
+                            <div class="default-value" data-default="44.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="44.0" data-param="PriceOfGas">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfBlackCoal">Price of Black Coal<span class="tooltiptext">Price of Black Coal fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfBlackCoal" placeholder="e.g., FuelPrices/Coal/2015.csv">
+                            <div class="default-value" data-default="18.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="18.0" data-param="PriceOfBlackCoal">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfLignite">Price of Lignite<span class="tooltiptext">Price of Lignite fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfLignite" placeholder="e.g., FuelPrices/Lignite/2015.csv">
+                            <div class="default-value" data-default="15.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="15.0" data-param="PriceOfLignite">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfCO2">Price of CO2 (EUR/ton)<span class="tooltiptext">Price of CO2 emissions in EUR/ton. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfCO2" placeholder="e.g., FuelPrices/CO2/2015.csv">
+                            <div class="default-value" data-default="90.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="90.0" data-param="PriceOfCO2">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfBiomass">Price of Biomass<span class="tooltiptext">Price of Biomass fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfBiomass" placeholder="e.g., FuelPrices/Biomass/2015.csv">
+                            <div class="default-value" data-default="33.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="33.0" data-param="PriceOfBiomass">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfFuelOil">Price of Fuel Oil<span class="tooltiptext">Price of Fuel Oil in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfFuelOil" placeholder="e.g., FuelPrices/Oil/2015.csv">
+                            <div class="default-value" data-default="60.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="60.0" data-param="PriceOfFuelOil">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfNuclear">Price of Nuclear<span class="tooltiptext">Price of Nuclear fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfNuclear" placeholder="e.g., FuelPrices/Nuclear/2015.csv">
+                            <div class="default-value" data-default="4.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="4.0" data-param="PriceOfNuclear">
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfPeat">Price of Peat<span class="tooltiptext">Price of Peat fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfPeat" placeholder="e.g., FuelPrices/Peat/2015.csv">
+                            <div class="default-value" data-default="33.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="33.0" data-param="PriceOfPeat">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="priceOfAmmonia">Price of Ammonia<span class="tooltiptext">Price of Ammonia fuel in EUR/MWh. Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="priceOfAmmonia" placeholder="e.g., FuelPrices/Ammonia/2015.csv">
+                            <div class="default-value" data-default="76.0">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="76.0" data-param="PriceOfAmmonia">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col"></div>
+                 </div>
+            </div>
+
+            <!-- Reserves Tab -->
+            <div id="reserves" data-tab="reserves" class="tab-content card">
+                <h3>Reserve Requirements & Calculation</h3>
+                 <div class="row">
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="reserveCalculation">Reserve Calculation Method<span class="tooltiptext">Method for calculating secondary reserve requirements. 'Detailed' might involve more complex rules.</span></label>
+                            <select id="reserveCalculation">
+                                <option value="Generic">Generic</option>
+                                <option value="Percentage">Percentage</option>
+                                <option value="Probabilistic">Probabilistic</option>
+                                <option value="Exogenous">Exogenous</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="shareOfQuickStartUnits">Share Of Quick Start Units<span class="tooltiptext">Share of units considered \"quick start\" for reserve calculations or other rules.</span></label>
+                            <input type="number" id="shareOfQuickStartUnits" min="0" max="1" step="any">
+                            <div class="default-value" data-default="0.5">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="0.5" data-param="ShareOfQuickStartUnits">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="reserve2U">Upwards Secondary Reserve (aFRR Up)<span class="tooltiptext">Table with the upwards secondary reserve requirements (e.g., aFRR up) for each zone. Used if ReserveCalculation=Exogenous. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="reserve2U" placeholder="e.g., ReserveUp.csv">
+                        </div>
+                    </div>
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="reserve2D">Downwards Secondary Reserve (aFRR Down)<span class="tooltiptext">Table with the downwards secondary reserve requirements (e.g., aFRR down) for each zone. Used if ReserveCalculation=Exogenous. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="reserve2D" placeholder="e.g., ReserveDown.csv">
+                        </div>
+                    </div>
+                 </div>
+                <div class="row">
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="primaryReserveLimit">Primary Reserve (FCR)<span class="tooltiptext">Primary reserve requirement (e.g., FCR). Can be a file path (time series per zone) or a single value if default is used.</span></label>
+                            <input type="text" id="primaryReserveLimit" placeholder="e.g., FCR_req.csv">
+                            <div class="default-value" data-default="">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="" data-param="PrimaryReserveLimit">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="inertiaLimit">Inertia Limit<span class="tooltiptext">Minimum system inertia requirement. Can be a file path (time series) or a single value if default is used.</span></label>
+                            <input type="text" id="inertiaLimit" placeholder="e.g., Inertia_req.csv">
+                            <div class="default-value" data-default="">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="" data-param="InertiaLimit">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                <h3>Fast Frequency Response (FFR)</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="ffrLimit">FFR Limit<span class="tooltiptext">Limit for Fast Frequency Response (aFFR). Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="ffrLimit" placeholder="e.g., FFR_limit.csv">
+                             <div class="default-value" data-default="">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="" data-param="FFRLimit">
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="ffrGainLimit">FFR Gain Limit<span class="tooltiptext">Maximum gain for Fast Frequency Response (aFFR). Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="ffrGainLimit" placeholder="e.g., FFR_gain.csv">
+                             <div class="default-value" data-default="">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="" data-param="FFRGainLimit">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 <h3>System Stability</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="frequencyStability">Frequency Stability<span class="tooltiptext">Method or parameters for frequency stability constraints (currently placeholder).</span></label>
+                            <input type="text" id="frequencyStability">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="systemGainLimit">System Gain Limit<span class="tooltiptext">Limit on system gain (related to frequency control/reserves). Can be a file path or a single value if default is used.</span></label>
+                            <input type="text" id="systemGainLimit">
+                            <div class="default-value" data-default="">
+                                <span>Default:</span>
+                                <input type="text" class="default-value-input" value="" data-param="SystemGainLimit">
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                <h3>Reserve Participation</h3>
+                 <div class="row">
+                     <div class="col">
+                        <div class="form-group">
+                            <label>Conventional/Storage Unit Participation<span class="tooltiptext">List of conventional/storage unit technologies participating in secondary reserves.</span></label>
+                            <div id="reserveParticipation" class="checkbox-group">
+                                <!-- Reserve participation options will be added here -->
+                            </div>
+                        </div>
+                    </div>
+                     <div class="col">
+                         <div class="form-group">
+                            <label>CHP Unit Participation<span class="tooltiptext">List of CHP unit technologies participating in secondary reserves.</span></label>
+                            <div id="reserveParticipation_CHP" class="checkbox-group">
+                                <!-- CHP Reserve participation options will be added here -->
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+
+            <!-- Sector Coupling Tab -->
+            <div id="sector-coupling" data-tab="sector-coupling" class="tab-content card">
+                 <h3>Boundary Sector Definitions</h3>
+                 <p>Define paths for data related to boundary sectors interacting with the power system.</p>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="boundarySectorData">Boundary Sector Data<span class="tooltiptext">Table with the list of boundary sectors and their data.</span></label>
+                            <input type="text" id="boundarySectorData" placeholder="e.g., BS_Inputs.csv">
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="boundarySectorNTC">Boundary Sector NTCs<span class="tooltiptext">Table with the interconnection capacities between boundary sectors.</span></label>
+                            <input type="text" id="boundarySectorNTC" placeholder="e.g., BS_NTCs.csv">
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                             <label for="boundarySectorInterconnections">Boundary Sector Interconnections<span class="tooltiptext">Historical flows between the boundary sectors.</span></label>
+                            <input type="text" id="boundarySectorInterconnections" placeholder="e.g., BS_Flows.csv">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="sectorXDemand">Boundary Sector Demand<span class="tooltiptext">Demand time series for each boundary sector. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="sectorXDemand" placeholder="e.g., BS_Demand.csv">
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="sectorXFlexibleDemand">Boundary Sector Flexible Demand<span class="tooltiptext">Flexible demand time series for each boundary sector. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="sectorXFlexibleDemand" placeholder="e.g., BS_FlexibleDemand.csv">
+                        </div>
+                    </div>
+                    <div class="col">
+                         <div class="form-group">
+                            <label for="sectorXFlexibleSupply">Boundary Sector Flexible Supply<span class="tooltiptext">Flexible (or volume-based) supply to a boundary sector. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="sectorXFlexibleSupply" placeholder="e.g., BS_FlexibleSupply.csv">
+                        </div>
+                    </div>
+                 </div>
+                <h3>Boundary Sector Storage & Spillage</h3>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="sectorXReservoirLevels">Boundary Sector Reservoir Levels<span class="tooltiptext">Time series with the state of charge of the storage for each boundary sector. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="sectorXReservoirLevels" placeholder="e.g., BS_ReservoirLevels.csv">
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="sectorXFloodControl">Boundary Sector Flood Control<span class="tooltiptext">Level of the storage in the boundary sector before flood control is activated. Path relative to Database directory or absolute.</span></label>
+                            <input type="text" id="sectorXFloodControl" placeholder="e.g., BS_Flood_control.csv">
+                        </div>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="boundarySectorMaxSpillage">Boundary Sector Max Spillage<span class="tooltiptext">Maximum spillage in a boundary sector (in the units of the boundary sector).</span></label>
+                            <input type="text" id="boundarySectorMaxSpillage" placeholder="e.g., BS_Spillage_Capacity.csv">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <!-- Placeholder for potential future cost parameters specific to sector coupling -->
+                    </div>
+                 </div>
+                 <!-- CostXNotServed and CostOfSpillage are currently in Costs&Prices, could be moved here if needed -->
+            </div>
+
+            <!-- Advanced Settings Tab -->
+            <div id="advanced" data-tab="advanced" class="tab-content card">
+                <h3>Data Adjustment Modifiers</h3>
+                <p>Apply multiplicative factors to specific input data series globally.</p>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="modifiers.Demand">Demand Modifier<span class="tooltiptext">Multiplier applied to the demand time series (e.g., 1.1 for +10%).</span></label>
+                            <input type="number" id="modifiers.Demand" min="0" step="any" placeholder="1.0">
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="modifiers.Solar">Solar Modifier<span class="tooltiptext">Multiplier applied to the solar availability factors.</span></label>
+                            <input type="number" id="modifiers.Solar" min="0" step="any" placeholder="1.0">
+                        </div>
+                    </div>
+                </div>
+                 <div class="row">
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="modifiers.Wind">Wind Modifier<span class="tooltiptext">Multiplier applied to the wind availability factors.</span></label>
+                            <input type="number" id="modifiers.Wind" min="0" step="any" placeholder="1.0">
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="form-group">
+                            <label for="modifiers.Storage">Storage Modifier<span class="tooltiptext">Multiplier applied to storage capacities.</span></label>
+                            <input type="number" id="modifiers.Storage" min="0" step="any" placeholder="1.0">
+                        </div>
+                    </div>
+                </div>
+                <!-- Original Solver Settings from old Advanced Tab (Example) -->
+                <h3>Solver Settings</h3>
+                 <div class="form-group">
+                    <label for="optimalityGap">Optimality gap<span class="tooltiptext">Relative optimality gap for the MILP solver (e.g., 0.0006 for 0.06%).</span></label>
+                    <input type="number" id="optimalityGap" min="0" step="any" value="0.0006">
+                </div>
+                <!-- Removing duplicate GAMS folder field -->
+            </div>
+        </form>
+    </div>
+
+    <!-- Modal Structure -->
+    <div id="loadYamlModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Select Configuration File</h2>
+                <button type="button" class="close-btn" id="closeModalBtn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Select a YAML file from the configuration directory:</p>
+                <ul id="yamlFileList">
+                    <!-- File list will be populated here -->
+                </ul>
+                 <p id="modalStatus" style="color: var(--danger-color); font-size: 0.9em; margin-top: 10px;"></p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Function to safely parse YAML with Python constructs
+        function parseYaml(text) {
+            try {
+                // Preprocess YAML to handle Python-specific tags
+                // First, replace !!python/tuple with nothing to treat arrays as normal arrays
+                const processedText = text.replace(/!!python\/tuple/g, '');
+                const yamlData = jsyaml.load(processedText);
+                
+                return yamlData;
+            } catch (error) {
+                console.error("Error parsing YAML:", error);
+                throw error;
+            }
+        }
+
+        // Function to safely dump YAML 
+        function dumpYaml(data) {
+            try {
+                // Just use standard dump without any custom schema
+                return jsyaml.dump(data);
+            } catch (error) {
+                console.error("Error dumping YAML:", error);
+                throw error;
+            }
+        }
+
+        // Special capitalization mapping for acronyms and special terms
+        const specialCapitalization = {
+            // Basic acronyms
+            'ntc': 'NTC',
+            'ptdf': 'PTDF',
+            'gams_folder': 'GAMS_folder',
+            'cplex_path': 'cplex_path',
+            'cplexsetting': 'CplexSetting',
+            'chp': 'CHP',
+            'mts': 'MTS',
+            // Parameters with CO2
+            'priceofco2': 'PriceOfCO2',
+            // FFR related
+            'ffrlimit': 'FFRLimit',
+            'ffrgainlimit': 'FFRGainLimit',
+            // Reserve parameters
+            'reserve2u': 'Reserve2U',  // aFRR Up
+            'reserve2d': 'Reserve2D',  // aFRR Down
+            'primaryreservelimit': 'PrimaryReserveLimit',  // FCR
+            // Boundary Sector
+            'costxnotserved': 'CostXNotServed',
+            'boundarysectordata': 'BoundarySectorData',
+            'boundarysectorntc': 'BoundarySectorNTC',
+            'boundarysectorinterconnections': 'BoundarySectorInterconnections',
+            'boundarysectormaxspillage': 'BoundarySectorMaxSpillage',
+            'sectorxdemand': 'SectorXDemand',
+            'sectorxflexibledemand': 'SectorXFlexibleDemand',
+            'sectorxflexiblesupply': 'SectorXFlexibleSupply',
+            'sectorxreservoirlevels': 'SectorXReservoirLevels',
+            'sectorxfloodcontrol': 'SectorXFloodControl',
+            // Value of Lost Load
+            'valueoflostload': 'ValueOfLostLoad',
+            // Grid related
+            'griddata': 'GridData',
+            'transmissiongridtype': 'TransmissionGridType',
+            // Hydro related
+            'reservoirscaledinflows': 'ReservoirScaledInflows',
+            'hydroscheduling': 'HydroScheduling',
+            'hydroschedulinghorizon': 'HydroSchedulingHorizon',
+            // Technology types
+            'renewablesaf': 'RenewablesAF',
+            // Power plants
+            'powerplantdata': 'PowerPlantData',
+            // Geographical data
+            'geodata': 'GeoData',
+            // Other acronyms in IDs
+            'systemgainlimit': 'SystemGainLimit',
+            'inertialimit': 'InertiaLimit',
+            'frequencystability': 'FrequencyStability',
+            'initialfinalreservoirlevel': 'InitialFinalReservoirLevel',
+            'shareofquickstartunits': 'ShareOfQuickStartUnits',
+            'shareofflexibledemand': 'ShareOfFlexibleDemand',
+            // Simulation settings
+            'optimalitygap': 'OptimalityGap',
+            'simulationtype': 'SimulationType',
+            'simulationdirectory': 'SimulationDirectory',
+            'simulationtimestep': 'SimulationTimeStep',
+            'datatimestep': 'DataTimeStep',
+            'allowcurtailment': 'AllowCurtailment',
+            // Storage parameters
+            'storagealertlevels': 'StorageAlertLevels', 
+            'storagefloodcontrol': 'StorageFloodControl',
+            // Cost parameters 
+            'costloadshedding': 'CostLoadShedding',
+            'costcurtailment': 'CostCurtailment',
+            'costofspillage': 'CostOfSpillage',
+            'costnotserved': 'CostNotServed',
+            'pricetransmission': 'PriceTransmission',
+            // Fuel prices
+            'priceofgas': 'PriceOfGas',
+            'priceofblackcoal': 'PriceOfBlackCoal',
+            'priceoflignite': 'PriceOfLignite',
+            'priceofbiomass': 'PriceOfBiomass',
+            'priceoffueloil': 'PriceOfFuelOil',
+            'priceofnuclear': 'PriceOfNuclear',
+            'priceofpeat': 'PriceOfPeat',
+            'priceofammonia': 'PriceOfAmmonia',
+            // Reservoir parameters
+            'watervalue': 'WaterValue',
+            'reservoirlevels': 'ReservoirLevels',
+            'reservoirlevelinitial': 'ReservoirLevelInitial', 
+            'reservoirlevelfinal': 'ReservoirLevelFinal',
+            // Demand related
+            'demandflexibility': 'DemandFlexibility',
+            'loadshedding': 'LoadShedding'
+        };
+
+        // Reserve participation options
+        const reserveOptions = [
+            'COMC', 'GTUR', 'HDAM', 'HPHS', 'ICEN', 'CAES', 'BATS', 'BEVS', 
+            'P2HT', 'ABHP', 'ASHP', 'GSHP', 'HYHP', 'WSHP', 'REHE', 'STUR'
+        ];
+        const reserveOptionsCHP = [
+            'COMC', 'GTUR', 'ICEN', 'STUR'
+        ];
+
+        let currentFilename = "ConfigTest.yml";
+        const API_URL = "http://localhost:8084";
+        const tabContentMap = new Map();
+
+        // Initialize tab functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            // Pre-map tab content panes
+            const tabContents = document.querySelectorAll('.tab-content');
+            console.log(`Found ${tabContents.length} tab content elements.`);
+            tabContents.forEach(content => {
+                const key = content.dataset.tab || content.id;
+                if (key) {
+                    console.log(`Mapping key '${key}' to element:`, content);
+                    tabContentMap.set(key, content);
+                } else {
+                    console.warn('Found tab content element with no id or data-tab:', content);
+                }
+            });
+
+            setupTabs();
+            initializeReserveOptions('reserveParticipation', reserveOptions);
+            initializeReserveOptions('reserveParticipation_CHP', reserveOptionsCHP);
+            initializeZones(); // Initialize with defaults before loading
+
+            // Event Listeners
+            document.getElementById('loadYamlBtn').addEventListener('click', openLoadModal); // Changed target button
+            document.getElementById('saveYaml').addEventListener('click', saveYamlFile);
+            document.getElementById('addZoneBtn').addEventListener('click', addZone);
+            document.getElementById('closeModalBtn').addEventListener('click', closeLoadModal);
+
+            // Close modal if clicked outside content
+            window.onclick = function(event) {
+                const modal = document.getElementById('loadYamlModal');
+                if (event.target == modal) {
+                    closeLoadModal();
+                }
+            }
+
+            // Default value input listeners
+            document.querySelectorAll('.default-value-input').forEach(input => {
+                input.addEventListener('input', handleDefaultValueInput);
+            });
+
+            loadDefaultYaml(); // Load ConfigTest.yml by default
+        });
+        
+        // Default country codes to start with
+        const defaultZones = ['BE', 'DE', 'FR', 'NL'];
+        
+        // Initialize zones interface
+        function initializeZones() {
+            const container = document.getElementById('zonesContainer');
+            container.innerHTML = ''; // Clear container
+            
+            // Add default zones
+            defaultZones.forEach(zone => {
+                addZoneEntry(container, zone, true, false);
+            });
+        }
+        
+        // Add a new zone entry
+        function addZone() {
+            const container = document.getElementById('zonesContainer');
+            addZoneEntry(container, '', true, false);
+        }
+        
+        // Create a zone entry element
+        function addZoneEntry(container, zoneCode, isActive, isMTS) {
+            const zoneId = 'zone_' + Date.now() + Math.floor(Math.random() * 1000);
+            
+            const entry = document.createElement('div');
+            entry.className = 'zone-entry';
+            entry.dataset.id = zoneId;
+            
+            // Zone code input
+            const codeInput = document.createElement('input');
+            codeInput.type = 'text';
+            codeInput.className = 'zone-code';
+            codeInput.value = zoneCode;
+            codeInput.placeholder = 'Code';
+            
+            // Active status radio group
+            const activeGroup = document.createElement('div');
+            activeGroup.className = 'radio-group';
+            
+            const activeLabel = document.createElement('label');
+            activeLabel.textContent = 'Status:';
+            
+            const activeRadio = document.createElement('div');
+            activeRadio.className = 'radio-item';
+            const activeInput = document.createElement('input');
+            activeInput.type = 'radio';
+            activeInput.name = `active_${zoneId}`;
+            activeInput.id = `active_${zoneId}`;
+            activeInput.className = 'zone-active';
+            activeInput.checked = isActive;
+            activeInput.addEventListener('change', updateMTSStatus);
+            
+            const activeText = document.createElement('label');
+            activeText.htmlFor = `active_${zoneId}`;
+            activeText.textContent = 'Active';
+            
+            activeRadio.appendChild(activeInput);
+            activeRadio.appendChild(activeText);
+            
+            const inactiveRadio = document.createElement('div');
+            inactiveRadio.className = 'radio-item';
+            const inactiveInput = document.createElement('input');
+            inactiveInput.type = 'radio';
+            inactiveInput.name = `active_${zoneId}`;
+            inactiveInput.id = `inactive_${zoneId}`;
+            inactiveInput.className = 'zone-inactive';
+            inactiveInput.checked = !isActive;
+            inactiveInput.addEventListener('change', updateMTSStatus);
+            
+            const inactiveText = document.createElement('label');
+            inactiveText.htmlFor = `inactive_${zoneId}`;
+            inactiveText.textContent = 'Inactive';
+            
+            inactiveRadio.appendChild(inactiveInput);
+            inactiveRadio.appendChild(inactiveText);
+            
+            activeGroup.appendChild(activeLabel);
+            activeGroup.appendChild(activeRadio);
+            activeGroup.appendChild(inactiveRadio);
+            
+            // MTS status radio group
+            const mtsGroup = document.createElement('div');
+            mtsGroup.className = 'radio-group';
+            
+            const mtsLabel = document.createElement('label');
+            mtsLabel.textContent = 'MTS:';
+            
+            const mtsRadio = document.createElement('div');
+            mtsRadio.className = 'radio-item';
+            const mtsInput = document.createElement('input');
+            mtsInput.type = 'radio';
+            mtsInput.name = `mts_${zoneId}`;
+            mtsInput.id = `mts_${zoneId}`;
+            mtsInput.className = 'zone-mts';
+            mtsInput.checked = isMTS;
+            mtsInput.disabled = !isActive;
+            
+            const mtsText = document.createElement('label');
+            mtsText.htmlFor = `mts_${zoneId}`;
+            mtsText.textContent = 'Yes';
+            
+            mtsRadio.appendChild(mtsInput);
+            mtsRadio.appendChild(mtsText);
+            
+            const noMtsRadio = document.createElement('div');
+            noMtsRadio.className = 'radio-item';
+            const noMtsInput = document.createElement('input');
+            noMtsInput.type = 'radio';
+            noMtsInput.name = `mts_${zoneId}`;
+            noMtsInput.id = `nomts_${zoneId}`;
+            noMtsInput.className = 'zone-nomts';
+            noMtsInput.checked = !isMTS;
+            noMtsInput.disabled = !isActive;
+            
+            const noMtsText = document.createElement('label');
+            noMtsText.htmlFor = `nomts_${zoneId}`;
+            noMtsText.textContent = 'No';
+            
+            noMtsRadio.appendChild(noMtsInput);
+            noMtsRadio.appendChild(noMtsText);
+            
+            mtsGroup.appendChild(mtsLabel);
+            mtsGroup.appendChild(mtsRadio);
+            mtsGroup.appendChild(noMtsRadio);
+            
+            // Actions
+            const actions = document.createElement('div');
+            actions.className = 'zone-actions';
+            
+            const removeBtn = document.createElement('button');
+            removeBtn.type = 'button';
+            removeBtn.className = 'zone-btn remove-btn';
+            removeBtn.innerHTML = '<i class="fas fa-trash"></i>';
+            removeBtn.addEventListener('click', () => removeZone(entry));
+            
+            actions.appendChild(removeBtn);
+            
+            // Add all elements to entry
+            entry.appendChild(codeInput);
+            entry.appendChild(activeGroup);
+            entry.appendChild(mtsGroup);
+            entry.appendChild(actions);
+            
+            container.appendChild(entry);
+        }
+        
+        // Remove a zone entry
+        function removeZone(entry) {
+            entry.remove();
+        }
+        
+        // Update MTS radio status based on active/inactive selection
+        function updateMTSStatus(event) {
+            const zoneEntry = event.target.closest('.zone-entry');
+            const isActive = zoneEntry.querySelector('.zone-active').checked;
+            const mtsInputs = zoneEntry.querySelectorAll('.zone-mts, .zone-nomts');
+            
+            mtsInputs.forEach(input => {
+                input.disabled = !isActive;
+            });
+            
+            // If inactive, uncheck MTS
+            if (!isActive) {
+                zoneEntry.querySelector('.zone-nomts').checked = true;
+            }
+        }
+        
+        // Initialize reserve participation options
+        function initializeReserveOptions(containerId, options) {
+            const container = document.getElementById(containerId);
+            
+            options.forEach(option => {
+                const checkboxItem = document.createElement('div');
+                checkboxItem.className = 'checkbox-item';
+                
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.id = 'reserve_' + option;
+                checkbox.value = option;
+                
+                const label = document.createElement('label');
+                label.htmlFor = 'reserve_' + option;
+                label.textContent = option;
+                
+                checkboxItem.appendChild(checkbox);
+                checkboxItem.appendChild(label);
+                
+                container.appendChild(checkboxItem);
+            });
+        }
+        
+        // Load the default YAML file (ConfigTest.yml)
+        function loadDefaultYaml() {
+            // Use the API to fetch the file
+            fetch(`${API_URL}/read-file?filename=../ConfigTest.yml`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load file: ${response.status} ${response.statusText}`);
+                    }
+                    return response.text();
+                })
+                .then(yamlText => {
+                    // Use our helper function to parse YAML with Python tags
+                    const yamlData = parseYaml(yamlText);
+                    populateForm(yamlData);
+                    updateFileNameLabel('ConfigTest.yml');
+                    showStatusMessage('Default configuration loaded successfully.', 'success');
+                })
+                .catch(error => {
+                    console.error('Error loading default YAML:', error);
+                    showStatusMessage('Error loading default configuration. Please check the console for details.', 'error');
+                    
+                    // Fallback to direct fetch if API fails
+                    fetch('../ConfigTest.yml')
+                        .then(response => response.text())
+                        .then(yamlText => {
+                            // Use our helper function here too
+                            const yamlData = parseYaml(yamlText);
+                            populateForm(yamlData);
+                            updateFileNameLabel('ConfigTest.yml');
+                            showStatusMessage('Default configuration loaded successfully using direct method.', 'success');
+                        })
+                        .catch(error => {
+                            console.error('Fallback loading also failed:', error);
+                            showStatusMessage('All attempts to load configuration failed.', 'error');
+                        });
+                });
+        }
+        
+        // Handle file selection (REMOVED - Handled by loadSelectedYaml)
+        /*
+        function handleFileSelect(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    // Use our helper function here too
+                    const yamlData = parseYaml(e.target.result);
+                    populateForm(yamlData);
+                    currentFilename = file.name;
+                    updateFileNameLabel(file.name);
+                    showStatusMessage(`File '${file.name}' loaded successfully.`, 'success');
+                } catch (error) {
+                    console.error('Error parsing YAML:', error);
+                    showStatusMessage('Error parsing YAML file. Please check the console for details.', 'error');
+                }
+            };
+            
+            reader.readAsText(file);
+        }
+        */
+        
+        // Populate form with YAML data
+        function populateForm(yamlData) {
+            // Clear form first
+            document.getElementById('configForm').reset();
+            
+            // Populate text fields, numbers, and selects for simple values
+            for (const [key, value] of Object.entries(yamlData)) {
+                const element = document.getElementById(key.charAt(0).toLowerCase() + key.slice(1));
+                if (element && typeof value !== 'object') {
+                    if (element.type === 'checkbox') {
+                        element.checked = Boolean(value);
+                    } else {
+                        element.value = value;
+                    }
+                }
+            }
+            
+            // Handle description
+            if (yamlData.Description) {
+                document.getElementById('description').value = yamlData.Description;
+            }
+            
+            // Handle simulation type
+            if (yamlData.SimulationType) {
+                document.getElementById('simulationType').value = yamlData.SimulationType;
+            }
+
+            // *** ADDED: Explicit handling for Hydro selects ***
+            if (yamlData.HydroScheduling) {
+                const hydroSchedSelect = document.getElementById('hydroScheduling');
+                if (hydroSchedSelect) {
+                    hydroSchedSelect.value = yamlData.HydroScheduling;
+                    console.log(`Populated hydroScheduling with: ${yamlData.HydroScheduling}`); // Debug log
+                } else {
+                    console.error('Element with ID hydroScheduling not found');
+                }
+            }
+            if (yamlData.HydroSchedulingHorizon) {
+                const hydroHorizonSelect = document.getElementById('hydroSchedulingHorizon');
+                if (hydroHorizonSelect) {
+                    hydroHorizonSelect.value = yamlData.HydroSchedulingHorizon;
+                     console.log(`Populated hydroSchedulingHorizon with: ${yamlData.HydroSchedulingHorizon}`); // Debug log
+                 } else {
+                    console.error('Element with ID hydroSchedulingHorizon not found');
+                }
+            }
+            
+            // Handle dates (start and stop)
+            if (yamlData.StartDate && Array.isArray(yamlData.StartDate)) {
+                const date = yamlData.StartDate;
+                document.getElementById('startDate').value = `${date[0]}-${date[1]}-${date[2]}-${date[3]}-${date[4]}-${date[5]}`;
+            }
+            
+            if (yamlData.StopDate && Array.isArray(yamlData.StopDate)) {
+                const date = yamlData.StopDate;
+                document.getElementById('stopDate').value = `${date[0]}-${date[1]}-${date[2]}-${date[3]}-${date[4]}-${date[5]}`;
+            }
+            
+            // Handle zones
+            const zonesContainer = document.getElementById('zonesContainer');
+            zonesContainer.innerHTML = ''; // Clear the container
+            
+            // Use all_zones as the source of zones to display if it exists
+            let allZones = [];
+            if (yamlData.all_zones && Array.isArray(yamlData.all_zones)) {
+                allZones = yamlData.all_zones;
+            } else if (yamlData.zones && Array.isArray(yamlData.zones)) {
+                // Fallback to zones list if all_zones doesn't exist
+                allZones = [...yamlData.zones];
+            } else {
+                // Use default zones if nothing is provided
+                allZones = [...defaultZones];
+            }
+            
+            // Create zone entries
+            allZones.forEach(zone => {
+                const isActive = yamlData.zones && Array.isArray(yamlData.zones) && yamlData.zones.includes(zone);
+                const isMTS = yamlData.mts_zones && Array.isArray(yamlData.mts_zones) && yamlData.mts_zones.includes(zone);
+                addZoneEntry(zonesContainer, zone, isActive, isMTS);
+            });
+            
+            // Handle reserve participation
+            if (yamlData.ReserveParticipation && Array.isArray(yamlData.ReserveParticipation)) {
+                yamlData.ReserveParticipation.forEach(item => {
+                    const checkbox = document.getElementById(`reserve_${item}`);
+                    if (checkbox) {
+                        checkbox.checked = true;
+                    }
+                });
+            }
+            
+            // Handle default values
+            if (yamlData.default && typeof yamlData.default === 'object') {
+                for (const [key, value] of Object.entries(yamlData.default)) {
+                    const defaultInput = document.querySelector(`.default-value-input[data-param="${key}"]`);
+                    if (defaultInput) {
+                        defaultInput.value = value;
+                    }
+                }
+            }
+
+            // *** CORRECTED: Handle nested modifiers with backticks ***
+            if (yamlData.modifiers && typeof yamlData.modifiers === 'object') {
+                console.log('Processing modifiers:', yamlData.modifiers); // Debug log
+                for (const modifierKey in yamlData.modifiers) {
+                    // Use backticks ` ` for template literal
+                    const modifierInput = document.getElementById(`modifiers.${modifierKey}`);
+                    if (modifierInput) {
+                        modifierInput.value = yamlData.modifiers[modifierKey];
+                        // Use backticks ` ` for template literal
+                        console.log(`Set ${modifierInput.id} to ${modifierInput.value}`); // Debug log
+                    } else {
+                        // Use backticks ` ` for template literal
+                        console.log(`Modifier input not found for: modifiers.${modifierKey}`); // Debug log
+                    }
+                }
+            }
+        }
+        
+        // Collect form data into YAML
+        function collectFormData() {
+            // Start with existing data when available to preserve fields not in the form
+            let formData = {};
+
+            // First, load the current file to get all existing fields
+            try {
+                // Try to read the current YAML structure to preserve fields that aren't in the form
+                fetch(`${API_URL}/read-file?filename=../` + currentFilename)
+                    .then(response => response.text())
+                    .catch(() => ''); // Silently handle failures - we'll create a new structure if needed
+            } catch (e) {
+                // Silently ignore any errors
+                console.log('Could not load existing file, creating new structure');
+            }
+            
+            // Collect all form fields, including empty ones
+            const allInputs = document.querySelectorAll('input[type="text"]:not(.default-value-input):not(.zone-code), input[type="number"], select, textarea');
+            allInputs.forEach(input => {
+                if (input.id) {
+                    // Special handling for modifiers - skip here as we'll handle them separately
+                    if (input.id.startsWith('modifiers.')) {
+                        return;
+                    }
+                    
+                    // Get the key with proper capitalization
+                    let key;
+                    // Case-insensitive lookup in the specialCapitalization mapping
+                    const lowercaseId = input.id.toLowerCase();
+                    if (specialCapitalization[lowercaseId] || specialCapitalization[input.id]) {
+                        // Use special capitalization for acronyms and specific terms
+                        key = specialCapitalization[lowercaseId] || specialCapitalization[input.id];
+                    } else {
+                        // Default: Convert first letter to uppercase for consistency
+                        key = input.id.charAt(0).toUpperCase() + input.id.slice(1);
+                    }
+                    
+                    // Convert numerical values to actual numbers
+                    if (input.type === 'number' || 
+                        ['dataTimeStep', 'simulationTimeStep', 'horizonLength', 'lookAhead', 
+                         'initialFinalReservoirLevel', 'allowCurtailment', 'optimalityGap'].includes(input.id)) {
+                        // Only convert non-empty values to numbers
+                        if (input.value !== '') {
+                            const numValue = parseFloat(input.value);
+                            formData[key] = isNaN(numValue) ? input.value : numValue;
+                        } else {
+                            // Preserve empty string values
+                            formData[key] = '';
+                        }
+                    } else {
+                        // For text and select fields, preserve the value even if empty
+                        formData[key] = input.value;
+                    }
+                }
+            });
+            
+            // Handle modifiers as nested object
+            const modifiersValues = {};
+            document.querySelectorAll('input[id^="modifiers."]').forEach(input => {
+                // Extract the key part after "modifiers."
+                const paramName = input.id.split('.')[1];
+                // Include all modifier values, even empty ones
+                if (input.value !== '') {
+                    // Try to convert numeric values
+                    const numValue = parseFloat(input.value);
+                    modifiersValues[paramName] = isNaN(numValue) ? input.value : numValue;
+                } else {
+                    modifiersValues[paramName] = '';
+                }
+            });
+            
+            // Add modifiers to form data
+            if (Object.keys(modifiersValues).length > 0) {
+                formData.modifiers = modifiersValues;
+            }
+            
+            // Handle description
+            formData.Description = document.getElementById('description').value || '';
+            
+            // Handle checkboxes
+            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            checkboxes.forEach(checkbox => {
+                if (checkbox.id && !checkbox.id.startsWith('reserve_')) {
+                    // Get the key with proper capitalization
+                    let key;
+                    // Case-insensitive lookup in the specialCapitalization mapping
+                    const lowercaseId = checkbox.id.toLowerCase();
+                    if (specialCapitalization[lowercaseId] || specialCapitalization[checkbox.id]) {
+                        // Use special capitalization for acronyms and specific terms
+                        key = specialCapitalization[lowercaseId] || specialCapitalization[checkbox.id];
+                    } else {
+                        // Default: Convert first letter to uppercase for consistency
+                        key = checkbox.id.charAt(0).toUpperCase() + checkbox.id.slice(1);
+                    }
+                    formData[key] = checkbox.checked ? 1 : 0;
+                }
+            });
+            
+            // Handle dates (convert from string to array)
+            const startDateStr = document.getElementById('startDate').value;
+            if (startDateStr) {
+                const parts = startDateStr.split('-').map(part => parseInt(part, 10));
+                // Store as regular array instead of trying to use Python tuple tag
+                formData.StartDate = parts;
+            }
+            
+            const stopDateStr = document.getElementById('stopDate').value;
+            if (stopDateStr) {
+                const parts = stopDateStr.split('-').map(part => parseInt(part, 10));
+                // Store as regular array instead of trying to use Python tuple tag
+                formData.StopDate = parts;
+            }
+            
+            // Collect zones information
+            const zones = [];
+            const mtsZones = [];
+            const allZones = [];
+            
+            document.querySelectorAll('.zone-entry').forEach(entry => {
+                const codeInput = entry.querySelector('.zone-code');
+                const isActive = entry.querySelector('.zone-active').checked;
+                const isMTS = entry.querySelector('.zone-mts').checked;
+                
+                if (codeInput.value.trim()) {
+                    const zoneCode = codeInput.value.trim();
+                    allZones.push(zoneCode);
+                    
+                    if (isActive) {
+                        zones.push(zoneCode);
+                        if (isMTS) {
+                            mtsZones.push(zoneCode);
+                        }
+                    }
+                }
+            });
+            
+            if (zones.length > 0) {
+                formData.zones = zones;
+            }
+            
+            if (mtsZones.length > 0) {
+                formData.mts_zones = mtsZones;
+            }
+            
+            if (allZones.length > 0) {
+                formData.all_zones = allZones;
+            }
+            
+            // Collect reserve participation
+            const selectedReserves = [];
+            document.querySelectorAll('input[id^="reserve_"]:checked').forEach(checkbox => {
+                selectedReserves.push(checkbox.value);
+            });
+            if (selectedReserves.length > 0) {
+                formData.ReserveParticipation = selectedReserves;
+            } else {
+                // Keep an empty array even if no reserves are selected
+                formData.ReserveParticipation = [];
+            }
+            
+            // Collect CHP reserve participation
+            const selectedCHPReserves = [];
+            document.querySelectorAll('#reserveParticipation_CHP input[type="checkbox"]:checked').forEach(checkbox => {
+                selectedCHPReserves.push(checkbox.value);
+            });
+            if (selectedCHPReserves.length > 0) {
+                formData.ReserveParticipation_CHP = selectedCHPReserves;
+            } else {
+                // Keep an empty array even if no CHP reserves are selected
+                formData.ReserveParticipation_CHP = [];
+            }
+            
+            // Collect default values
+            const defaultValues = {};
+            document.querySelectorAll('.default-value-input').forEach(input => {
+                // Include all default values, even empty ones
+                const paramName = input.dataset.param;
+                if (input.value !== '') {
+                    // Try to convert numeric values
+                    const numValue = parseFloat(input.value);
+                    defaultValues[paramName] = isNaN(numValue) ? input.value : numValue;
+                } else {
+                    defaultValues[paramName] = '';
+                }
+            });
+            
+            // Add default values to the form data
+            if (Object.keys(defaultValues).length > 0) {
+                formData.default = defaultValues;
+            }
+            
+            // Ensure required fields have at least empty values
+            const requiredFields = [
+                'GAMS_folder', 'FFRGainLimit', 'FFRLimit', 
+                'FrequencyStability', 'GridData', 'InertiaLimit', 'LoadShedding', 'PriceOfAmmonia',
+                'PriceOfCO2', 'PriceOfLignite', 'PriceOfNuclear', 'PriceTransmission', 
+                'PrimaryReserveLimit', 'Reserve2D', 'Reserve2U', 'StorageAlertLevels', 
+                'StorageFloodControl', 'SystemGainLimit', 'TransmissionGridType'
+            ];
+            
+            requiredFields.forEach(field => {
+                if (!(field in formData)) {
+                    formData[field] = '';
+                }
+            });
+            
+            return formData;
+        }
+        
+        // Save YAML file
+        function saveYamlFile() {
+            const formData = collectFormData();
+            // Use our helper function for dumping
+            const yamlText = dumpYaml(formData);
+            
+            // Save via API
+            fetch(`${API_URL}/save-file`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    filename: '../' + currentFilename,
+                    content: yamlText
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Create a formatted date and time string
+                    const now = new Date();
+                    const dateTime = now.toLocaleDateString() + ' ' + now.toLocaleTimeString();
+                    showStatusMessage(`Saved ${currentFilename} on ${dateTime}`, 'success');
+                } else {
+                    throw new Error(data.error || 'Unknown error occurred');
+                }
+            })
+            .catch(error => {
+                console.error('Error saving file:', error);
+                showStatusMessage(`Error saving file: ${error.message}`, 'error');
+                
+                // Fallback: Create a download if API fails
+                const blob = new Blob([yamlText], { type: 'text/yaml' });
+                const a = document.createElement('a');
+                a.href = URL.createObjectURL(blob);
+                a.download = currentFilename;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                
+                // Create a formatted date and time string for fallback message
+                const now = new Date();
+                const dateTime = now.toLocaleDateString() + ' ' + now.toLocaleTimeString();
+                showStatusMessage(`API save failed. File downloaded to your browser's download folder on ${dateTime}.`, 'error');
+            });
+        }
+        
+        // Update the file name label
+        function updateFileNameLabel(filename) {
+            document.getElementById('fileNameLabel').textContent = filename;
+        }
+        
+        // Show status message
+        function showStatusMessage(message, type) {
+            const statusElement = document.getElementById('statusMessage');
+            statusElement.textContent = message;
+            statusElement.className = type;
+            statusElement.style.display = 'block';
+            
+            // Hide the message after 5 seconds
+            setTimeout(() => {
+                statusElement.style.display = 'none';
+            }, 5000);
+        }
+
+        function setupTabs() {
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    // Deactivate other tabs and content panes
+                    tabs.forEach(t => t.classList.remove('active'));
+                    tabContentMap.forEach(content => content.classList.remove('active'));
+
+                    // Activate clicked tab
+                    tab.classList.add('active');
+
+                    // Find and activate corresponding content pane using the pre-built map
+                    const tabData = tab.dataset.tab;
+                    const targetContent = tabContentMap.get(tabData);
+
+                    if (targetContent) {
+                        targetContent.classList.add('active');
+                    } else {
+                        // Log error if content pane not found in the map
+                        console.error(`Tab content for key '${tabData}' not found in map.`);
+                    }
+                });
+            });
+            // Note: Initial active state is handled by HTML classes, map should find it
+        }
+
+        // --- Default Value Handling ---
+        function handleDefaultValueInput(event) {
+            const defaultInput = event.target;
+            const paramName = defaultInput.dataset.param;
+            const mainInputId = paramName.charAt(0).toLowerCase() + paramName.slice(1);
+            const mainInput = document.getElementById(mainInputId);
+
+            if (mainInput) {
+                // If default value is being set (input is not empty), clear the main input
+                // to indicate that the default will be used.
+                // If default value is cleared, maybe restore placeholder? (Could be complex)
+                if (defaultInput.value.trim() !== '') {
+                    // Optionally clear the main input field - might be confusing for users
+                    // mainInput.value = '';
+                    // mainInput.placeholder = `Using default: ${defaultInput.value}`;
+                } else {
+                    // Default value cleared, remove placeholder indication if it was set
+                    // mainInput.placeholder = ''; // Reset placeholder
+                }
+            }
+        }
+
+        // --- Utility Functions ---
+        function openLoadModal() {
+            const modal = document.getElementById('loadYamlModal');
+            const fileList = document.getElementById('yamlFileList');
+            const modalStatus = document.getElementById('modalStatus');
+            fileList.innerHTML = '<li>Loading...</li>'; // Show loading indicator
+            modalStatus.textContent = ''; // Clear previous errors
+            modal.style.display = 'block';
+
+            // Fetch the list of YAML files from the API
+            fetch(`${API_URL}/list-yaml-files`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    fileList.innerHTML = ''; // Clear loading/previous list
+                    if (data.files && data.files.length > 0) {
+                        data.files.forEach(filename => {
+                            const li = document.createElement('li');
+                            li.textContent = filename;
+                            li.onclick = () => loadSelectedYaml(filename);
+                            fileList.appendChild(li);
+                        });
+                    } else {
+                        fileList.innerHTML = '<li>No YAML files found in the configuration directory.</li>';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching YAML file list:', error);
+                    fileList.innerHTML = ''; // Clear loading message
+                    modalStatus.textContent = 'Error fetching file list. Is the API server running?';
+                });
+        }
+
+        function closeLoadModal() {
+            const modal = document.getElementById('loadYamlModal');
+            modal.style.display = 'none';
+        }
+
+        function loadSelectedYaml(filename) {
+            console.log(`Attempting to load: ${filename}`);
+            // Use API to fetch the selected file's content (path relative to ConfigEditor)
+            fetch(`${API_URL}/read-file?filename=../${filename}`) // Assuming API handles ../
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to load file '${filename}': ${response.status} ${response.statusText}`);
+                    }
+                    return response.text();
+                })
+                .then(yamlText => {
+                    try {
+                        const yamlData = parseYaml(yamlText); // Use existing parser
+                        populateForm(yamlData);
+                        currentFilename = filename; // Update the current filename
+                        updateFileNameLabel(filename);
+                        closeLoadModal();
+                        showStatusMessage(`File '${filename}' loaded successfully.`, 'success');
+                    } catch (parseError) {
+                        console.error('Error parsing YAML:', parseError);
+                        showStatusMessage(`Error parsing YAML file '${filename}'. Check console.`, 'error');
+                        closeLoadModal(); // Close modal even on error
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading selected YAML:', error);
+                    showStatusMessage(`Error loading file '${filename}': ${error.message}`, 'error');
+                    closeLoadModal(); // Close modal even on error
+                });
+        }
+    </script>
+</body>
+</html> 

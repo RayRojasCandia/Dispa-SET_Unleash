@@ -7,3 +7,7 @@ tests/
 .vscode/
 tests/
 *.log
+
+__pycache__/
+*.py[cod]
+*$py.class
