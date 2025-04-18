@@ -1,0 +1,136 @@
+Description: Main configuration file of the Unleash model for Belgium
+SimulationType: Standard
+SimulationDirectory: Simulations/simulation_(2)_BE-NUC
+StartDate: !!python/tuple
+- 2023
+- 1
+- 1
+- 0
+- 0
+- 0
+StopDate: !!python/tuple
+- 2023
+- 1
+- 15
+- 0
+- 0
+- 0
+DataTimeStep: 1
+SimulationTimeStep: 1
+HorizonLength: 3
+LookAhead: 1
+AllowCurtailment: 1
+GAMS_folder: ''
+Demand: Database/Load_RealTime/##/1h/2023.csv
+RenewablesAF: Database/AvailabilityFactors/##/1h/2023.csv
+Outages: Database/OutagesFactors/##/1h/2023.csv
+ShareOfFlexibleDemand: ''
+DemandFlexibility: ''
+LoadShedding: ''
+PowerPlantData: Database/PowerPlants/##/2023.csv
+NTC: ''
+Interconnections: Database/CrossBorderFlows/1h/2023.csv
+TransmissionGridType: NTC
+GridData: ''
+GeoData: ''
+HydroScheduling: 'Off'
+HydroSchedulingHorizon: Annual
+InitialFinalReservoirLevel: 1
+ReservoirLevels: ''
+ReservoirLevelInitial: ''
+ReservoirLevelFinal: ''
+ReservoirScaledInflows: Database/HydroData/ScaledInflows/##/1h/2023.csv
+StorageAlertLevels: ''
+StorageFloodControl: ''
+WaterValue: ''
+CostLoadShedding: ''
+CostCurtailment: ''
+CostOfSpillage: ''
+CostNotServed: ''
+CostXNotServed: ''
+ValueOfLostLoad: ''
+PriceTransmission: ''
+PriceOfGas: ''
+PriceOfBlackCoal: ''
+PriceOfLignite: ''
+PriceOfCO2: ''
+PriceOfBiomass: ''
+PriceOfFuelOil: ''
+PriceOfNuclear: ''
+PriceOfPeat: ''
+PriceOfAmmonia: ''
+ReserveCalculation: Generic
+ShareOfQuickStartUnits: ''
+Reserve2U: ''
+Reserve2D: ''
+PrimaryReserveLimit: ''
+InertiaLimit: ''
+FFRLimit: ''
+FFRGainLimit: ''
+FrequencyStability: 'Off'
+SystemGainLimit: ''
+BoundarySectorData: Database/Boundary_Sector/BoundarySectorData/BE/2023.csv
+BoundarySectorNTC: ''
+BoundarySectorInterconnections: ''
+SectorXDemand: Database/Boundary_Sector/BoundarySectorDemand/BE/2023.csv
+SectorXFlexibleDemand: ''
+SectorXFlexibleSupply: ''
+SectorXReservoirLevels: ''
+SectorXFloodControl: ''
+BoundarySectorMaxSpillage: ''
+OptimalityGap: 0.0015
+modifiers:
+  Demand: 1
+  Solar: 1
+  Wind: 1
+  Storage: 1
+zones:
+- BE
+all_zones:
+- BE
+ReserveParticipation:
+- COMC
+- GTUR
+- HDAM
+- HPHS
+- ICEN
+- CAES
+- BATS
+- BEVS
+- P2HT
+- ABHP
+- ASHP
+- GSHP
+- HYHP
+- WSHP
+- REHE
+ReserveParticipation_CHP: []
+default:
+  ShareOfFlexibleDemand: 0
+  DemandFlexibility: 4
+  LoadShedding: 0.05
+  ReservoirLevelInitial: 0.5
+  ReservoirLevelFinal: 0.5
+  WaterValue: 400
+  CostLoadShedding: 1500
+  CostCurtailment: 20
+  CostOfSpillage: 4
+  CostNotServed: ''
+  CostXNotServed: ''
+  ValueOfLostLoad: 100000
+  PriceTransmission: 0
+  PriceOfGas: 44
+  PriceOfBlackCoal: 18
+  PriceOfLignite: 15
+  PriceOfCO2: 88.55
+  PriceOfBiomass: 33
+  PriceOfFuelOil: 61
+  PriceOfNuclear: 4
+  PriceOfPeat: 33
+  PriceOfAmmonia: 76
+  ShareOfQuickStartUnits: 0.5
+  PrimaryReserveLimit: 0
+  InertiaLimit: 0
+  FFRLimit: ''
+  FFRGainLimit: ''
+  SystemGainLimit: 0

@@ -14,7 +14,7 @@ sys.path.append(os.path.abspath('..'))
 import dispaset as ds
 
 # Load the configuration file
-config = ds.load_config('../ConfigFiles/Config_BE_Boundary_Sector.xlsx')
+config = ds.load_config('../ConfigFiles/Config_BE_Boundary_Sector.yml')
 
 # Build the simulation environment:
 SimData = ds.build_simulation(config)

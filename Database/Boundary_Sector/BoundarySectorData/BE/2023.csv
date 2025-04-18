@@ -1,2 +1,2 @@
-Sector,STOCapacity,STOSelfDischarge,STOMinSOC,MaxFlexDemand,MaxFlexSupply,STOHours,Zone,UnitName
-S_1,7543,1245,3885,"definir, David","Definir, David",,BE,VPP_BE
+,Sector,STOCapacity,STOSelfDischarge,STOMinSOC,MaxFlexDemand,MaxFlexSupply,CostXNotServed,STOMaxPower
+1,S_1,7543,0.02,0.1,,,70,5000
