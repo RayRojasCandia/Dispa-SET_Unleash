@@ -1,2 +1,3 @@
-Unnamed: 0,Sector,STOCapacity,STOSelfDischarge,STOMinSOC,MaxFlexDemand,MaxFlexSupply,CostXNotServed,STOMaxPower
-,DHW_VPP,37147.646171142704,0.012785762394290249,0.2,,,10000,47119.63740273974
+version https://git-lfs.github.com/spec/v1
+oid sha256:139f1bae8596fd008a115ecbc67340be6d4c22b3af7a8fdbee97636ddd8ee5bf
+size 191

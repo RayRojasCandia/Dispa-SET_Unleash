@@ -1,8 +1,3 @@
-Unnamed: 0,Unit,PowerCapacity,Nunits,Zone,Zone_th,Zone_h2,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,CHPPowerLossFactor,CHPMaxHeat,COP,Tnominal,coef_COP_a,coef_COP_b,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,WaterWithdrawal,WaterConsumption,Sector1,EfficiencySector1,ChargingEfficiencySector1,Sector2,EfficiencySector2,ChargingEfficiencySector2
-,Dispa-SET_BIO_STUR_LU,47,1.0,LU,,,STUR,BIO,0.35,4.0,6.0,0.02,0.02,,,0.0,0.5,0.35,,0.0,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_GAS_COMC_LU,81,1.0,LU,,,COMC,GAS,0.525,5.0,1.0,0.108446602,0.108446602,112542.12,,0.0,0.4,0.525,1.0,0.45,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_WAT_HDAM_LU,11,1.0,LU,,,HDAM,WAT,0.8,0.0,0.0,0.0666666666666667,0.0666666666666667,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,0.0,0.0,0.0,0.0,,,,,,,,
-,Dispa-SET_WAT_HROR_LU,25,1.0,LU,,,HROR,WAT,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_WST_STUR_LU,21,1.0,LU,,,STUR,WST,0.2,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,0.2,0.0,0.0,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_WIN_WTON_LU,154,1.0,LU,,,WTON,WIN,1.0,0.0,0.0,0.9183673469,0.9183673469,0.0,,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
-,Dispa-SET_SUN_PHOT_LU,170,1.0,LU,,,PHOT,SUN,1.0,0.0,0.0,0.02,0.02,,0.0,0.0,0.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:2015138a0ef074138f65b731ee32234c88083be9b59818a0c809ba690fff5722
+size 1372

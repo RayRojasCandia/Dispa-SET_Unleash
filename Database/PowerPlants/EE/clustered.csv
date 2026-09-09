@@ -1,6 +1,3 @@
-Unnamed: 0,PowerCapacity,Unit,Zone,Technology,Fuel,Efficiency,MinUpTime,MinDownTime,RampUpRate,RampDownRate,StartUpCost_pu,NoLoadCost_pu,RampingCost,PartLoadMin,MinEfficiency,StartUpTime,CO2Intensity,CHPType,CHPPowerToHeat,STOCapacity,STOSelfDischarge,STOMaxChargingPower,STOChargingEfficiency,Nunits,Sector1,EfficiencySector1,ChargingEfficiencySector1,Sector2,EfficiencySector2,ChargingEfficiencySector2
-EE_STUR_BIO,77.0,EE_STUR_BIO,EE,STUR,BIO,0.46,4,6,0.02,0.02,120,12.5,1.3,0.35,0.35,1,0.0,,,,,,,1,,,,,,
-EE_ICEN_GAS,10.0,EE_ICEN_GAS,EE,ICEN,GAS,0.49,0,0,1.0,1.0,0,0.0,0.0,0.3,0.49,0,0.489795918,,,,,,,25,,,,,,
-EE_WTON_WIN,375.0,EE_WTON_WIN,EE,WTON,WIN,1.0,0,0,0.02,0.02,0,0.0,0.0,0.0,1.0,0,0.0,,,,,,,1,,,,,,
-EE_STUR_WST,20.0,EE_STUR_WST,EE,STUR,WST,0.2,0,0,0.02,0.02,0,0.0,0.0,0.0,0.2,0,0.0,,,,,,,1,,,,,,
-EE_STUR_OTH,141.0714286,EE_STUR_OTH,EE,STUR,OTH,0.3,4,4,0.02,0.02,65,0.0,0.0,0.5,0.3,0,0.0,,,,,,,14,,,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b46e7bc864e2b0140e41bc29ae25c2b4e4b536e498b2b3f3a4f0688db01cbc3
+size 915

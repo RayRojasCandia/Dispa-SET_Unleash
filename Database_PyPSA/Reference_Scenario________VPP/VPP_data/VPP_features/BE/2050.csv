@@ -1,2 +1,3 @@
-Unnamed: 0,Sector,STOCapacity,STOSelfDischarge,STOMinSOC,MaxFlexDemand,MaxFlexSupply,CostXNotServed,STOMaxPower
-0,S_1,1339879.38284202,0.0434581349014519,0.48,,,1000,35892.6927526532
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e5e61b89cae56eb3c97e556f0ef7f93861dad0eb27051c68493f190ee263cf
+size 193

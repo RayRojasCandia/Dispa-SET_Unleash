@@ -1,21 +1,3 @@
-Hydro Water Reservoir,4792,4802,4898,5405,5419,5415,5588,5588,5588,5772,5777
-Other,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Other renewable,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Gas,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Oil shale,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Nuclear,3375,3375,3373,3373,3373,2970,2970,2970,2970,2970,2983
-Fossil Peat,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Coal-derived gas,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Solar,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Hydro Pumped Storage,3940,4178,6228,6594,6641,6672,6681,6681,6697,6697,6697
-Fossil Hard coal,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Oil,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Wind Onshore,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Wind Offshore,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Marine,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Fossil Brown coal/Lignite,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Waste,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Biomass,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Geothermal,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e,n/e
-Hydro Run-of-river and poundage,190,190,190,529,635,635,605,605,605,635,635
-Total Grand capacity,12297,12545,14689,15901,16068,15692,15844,15844,15860,16074,16092
+version https://git-lfs.github.com/spec/v1
+oid sha256:7448b40446a3b35a1c67725b0b463786236d08e28b0f4ef861e4648059b5d4be
+size 1288
