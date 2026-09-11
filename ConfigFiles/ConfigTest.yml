@@ -1,5 +1,5 @@
 Description: PyPSA - DispaSET Unleash Sector Power
-SimulationType: No clustering
+SimulationType: Integer clustering
 SimulationDirectory: Simulations/PyPSA_ DispaSET_Unleash/Reff/SectPower_2030
 StartDate: !!python/tuple
 - 2030
@@ -88,13 +88,11 @@ zones:
 - DE
 - FR
 - NL
-- UK
 all_zones:
 - BE
 - DE
 - FR
 - NL
-- UK
 ReserveParticipation:
 - COMC
 - GTUR
